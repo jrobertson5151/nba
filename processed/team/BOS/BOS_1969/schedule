@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Oct 17, 1969||Cincinnati Royals|108|110|0|1|L 1|False|True|0|196910170BOS
+2|2|Sat, Oct 18, 1969||Baltimore Bullets|117|124|0|2|L 2|False|False|0|196910180BAL
+3|3|Tue, Oct 21, 1969||Detroit Pistons|97|98|0|3|L 3|False|False|0|196910210DET
+4|4|Fri, Oct 24, 1969||Atlanta Hawks|110|122|0|4|L 4|False|True|0|196910240BOS
+5|5|Tue, Oct 28, 1969||Milwaukee Bucks|120|107|1|4|W 1|True|False|0|196910280MIL
+6|6|Fri, Oct 31, 1969||San Diego Rockets|118|113|2|4|W 2|True|True|0|196910310BOS
+7|7|Sat, Nov 1, 1969||Philadelphia 76ers|131|123|3|4|W 3|True|False|0|196911010PHI
+8|8|Wed, Nov 5, 1969||Atlanta Hawks|121|128|3|5|L 1|False|False|0|196911050ATL
+9|9|Fri, Nov 7, 1969||San Francisco Warriors|110|111|3|6|L 2|False|True|0|196911070BOS
+10|10|Sat, Nov 8, 1969||Chicago Bulls|87|103|3|7|L 3|False|False|0|196911080CHI
+11|11|Tue, Nov 11, 1969||Milwaukee Bucks|118|129|3|8|L 4|False|True|0|196911110BOS
+12|12|Wed, Nov 12, 1969||Cincinnati Royals|107|116|3|9|L 5|False|False|0|196911120CIN
+13|13|Fri, Nov 14, 1969||Baltimore Bullets|108|109|3|10|L 6|False|True|0|196911140BOS
+14|14|Sat, Nov 15, 1969||New York Knicks|98|113|3|11|L 7|False|False|0|196911150NYK
+15|15|Tue, Nov 18, 1969||Phoenix Suns|120|119|4|11|W 1|True|True|1|196911180BOS
+16|16|Wed, Nov 19, 1969||Chicago Bulls|122|106|5|11|W 2|True|True|0|196911190BOS
+17|17|Fri, Nov 21, 1969||San Francisco Warriors|115|118|5|12|L 1|False|False|0|196911210SFW
+18|18|Sat, Nov 22, 1969||San Diego Rockets|116|125|5|13|L 2|False|False|0|196911220SDR
+19|19|Sun, Nov 23, 1969||Seattle SuperSonics|125|116|6|13|W 1|True|False|0|196911230SEA
+20|20|Wed, Nov 26, 1969||Philadelphia 76ers|114|135|6|14|L 1|False|True|0|196911260BOS
+21|21|Fri, Nov 28, 1969||Atlanta Hawks|105|130|6|15|L 2|False|True|0|196911280BOS
+22|22|Sat, Nov 29, 1969||Baltimore Bullets|121|106|7|15|W 1|True|False|0|196911290BAL
+23|23|Wed, Dec 3, 1969||Baltimore Bullets|113|105|8|15|W 2|True|True|0|196912030BOS
+24|24|Fri, Dec 5, 1969||Philadelphia 76ers|104|105|8|16|L 1|False|True|0|196912050BOS
+25|25|Sat, Dec 6, 1969||Chicago Bulls|114|116|8|17|L 2|False|False|1|196912060CHI
+26|26|Wed, Dec 10, 1969||Los Angeles Lakers|111|99|9|17|W 1|True|True|0|196912100BOS
+27|27|Fri, Dec 12, 1969||San Diego Rockets|107|104|10|17|W 2|True|True|0|196912120BOS
+28|28|Tue, Dec 16, 1969||Detroit Pistons|117|98|11|17|W 3|True|True|0|196912160BOS
+29|29|Wed, Dec 17, 1969||Milwaukee Bucks|106|124|11|18|L 1|False|True|0|196912170BOS
+30|30|Fri, Dec 19, 1969||Milwaukee Bucks|111|115|11|19|L 2|False|False|0|196912190MIL
+31|31|Sat, Dec 20, 1969||Atlanta Hawks|106|122|11|20|L 3|False|False|0|196912200ATL
+32|32|Tue, Dec 23, 1969||Chicago Bulls|117|112|12|20|W 1|True|True|0|196912230BOS
+33|33|Thu, Dec 25, 1969||Phoenix Suns|116|127|12|21|L 1|False|False|0|196912250PHO
+34|34|Fri, Dec 26, 1969||Seattle SuperSonics|122|112|13|21|W 1|True|False|0|196912260SEA
+35|35|Sat, Dec 27, 1969||San Diego Rockets|111|110|14|21|W 2|True|False|0|196912270SDR
+36|36|Sun, Dec 28, 1969||Los Angeles Lakers|99|109|14|22|L 1|False|False|0|196912280LAL
+37|37|Wed, Dec 31, 1969||Detroit Pistons|124|121|15|22|W 1|True|True|0|196912310BOS
+38|38|Fri, Jan 2, 1970||Detroit Pistons|110|92|16|22|W 2|True|False|0|197001020DET
+39|39|Sat, Jan 3, 1970||New York Knicks|111|104|17|22|W 3|True|False|0|197001030NYK
+40|40|Sun, Jan 4, 1970||Philadelphia 76ers|120|130|17|23|L 1|False|False|0|197001040PHI
+41|41|Wed, Jan 7, 1970||Atlanta Hawks|106|112|17|24|L 2|False|True|0|197001070BOS
+42|42|Fri, Jan 9, 1970||Baltimore Bullets|130|142|17|25|L 3|False|True|0|197001090BOS
+43|43|Sat, Jan 10, 1970||Milwaukee Bucks|109|124|17|26|L 4|False|False|0|197001100MIL
+44|44|Tue, Jan 13, 1970||Seattle SuperSonics|111|102|18|26|W 1|True|True|0|197001130BOS
+45|45|Wed, Jan 14, 1970||Detroit Pistons|123|118|19|26|W 2|True|True|0|197001140BOS
+46|46|Fri, Jan 16, 1970||Los Angeles Lakers|103|108|19|27|L 1|False|True|0|197001160BOS
+47|47|Sun, Jan 18, 1970||New York Knicks|109|102|20|27|W 1|True|True|0|197001180BOS
+48|48|Thu, Jan 22, 1970||Cincinnati Royals|104|111|20|28|L 1|False|False|0|197001220CIN
+49|49|Fri, Jan 23, 1970||Detroit Pistons|105|109|20|29|L 2|False|True|1|197001230BOS
+50|50|Sun, Jan 25, 1970||New York Knicks|96|102|20|30|L 3|False|True|0|197001250BOS
+51|51|Tue, Jan 27, 1970||New York Knicks|100|133|20|31|L 4|False|False|0|197001270NYK
+52|52|Wed, Jan 28, 1970||Philadelphia 76ers|112|100|21|31|W 1|True|True|0|197001280BOS
+53|53|Fri, Jan 30, 1970||Cincinnati Royals|108|103|22|31|W 2|True|True|0|197001300BOS
+54|54|Sat, Jan 31, 1970||Baltimore Bullets|117|120|22|32|L 1|False|False|0|197001310BAL
+55|55|Sun, Feb 1, 1970||San Francisco Warriors|105|123|22|33|L 2|False|True|0|197002010BOS
+56|56|Tue, Feb 3, 1970||Chicago Bulls|93|85|23|33|W 1|True|True|0|197002030BOS
+57|57|Fri, Feb 6, 1970||Seattle SuperSonics|127|117|24|33|W 2|True|True|0|197002060BOS
+58|58|Sun, Feb 8, 1970||Cincinnati Royals|130|117|25|33|W 3|True|True|0|197002080BOS
+59|59|Tue, Feb 10, 1970||Phoenix Suns|117|122|25|34|L 1|False|True|0|197002100BOS
+60|60|Wed, Feb 11, 1970||New York Knicks|125|118|26|34|W 1|True|False|1|197002110NYK
+61|61|Sat, Feb 14, 1970||Milwaukee Bucks|117|127|26|35|L 1|False|False|0|197002140MIL
+62|62|Sun, Feb 15, 1970||Atlanta Hawks|125|146|26|36|L 2|False|False|0|197002150ATL
+63|63|Mon, Feb 16, 1970||San Francisco Warriors|117|114|27|36|W 1|True|True|0|197002160BOS
+64|64|Wed, Feb 18, 1970||Phoenix Suns|116|113|28|36|W 2|True|False|0|197002180PHO
+65|65|Fri, Feb 20, 1970||Seattle SuperSonics|127|125|29|36|W 3|True|False|0|197002200SEA
+66|66|Sat, Feb 21, 1970||San Francisco Warriors|111|116|29|37|L 1|False|False|0|197002210SFW
+67|67|Sun, Feb 22, 1970||Los Angeles Lakers|96|108|29|38|L 2|False|False|0|197002220LAL
+68|68|Wed, Feb 25, 1970||San Diego Rockets|147|124|30|38|W 1|True|True|0|197002250BOS
+69|69|Fri, Feb 27, 1970||Phoenix Suns|125|134|30|39|L 1|False|True|0|197002270BOS
+70|70|Sun, Mar 1, 1970||Los Angeles Lakers|114|120|30|40|L 2|False|True|0|197003010BOS
+71|71|Wed, Mar 4, 1970||San Francisco Warriors|115|110|31|40|W 1|True|True|0|197003040BOS
+72|72|Fri, Mar 6, 1970||Philadelphia 76ers|134|150|31|41|L 1|False|False|0|197003060PHI
+73|73|Sun, Mar 8, 1970||Milwaukee Bucks|134|138|31|42|L 2|False|True|0|197003080BOS
+74|74|Tue, Mar 10, 1970||Detroit Pistons|112|115|31|43|L 3|False|False|0|197003100DET
+75|75|Wed, Mar 11, 1970||Cincinnati Royals|144|127|32|43|W 1|True|False|0|197003110CIN
+76|76|Fri, Mar 13, 1970||Chicago Bulls|113|134|32|44|L 1|False|False|0|197003130CHI
+77|77|Sun, Mar 15, 1970||Baltimore Bullets|127|130|32|45|L 2|False|True|0|197003150BOS
+78|78|Tue, Mar 17, 1970||San Diego Rockets|117|125|32|46|L 3|False|False|0|197003170SDR
+79|79|Wed, Mar 18, 1970||Los Angeles Lakers|137|122|33|46|W 1|True|False|0|197003180LAL
+80|80|Thu, Mar 19, 1970||Phoenix Suns|123|127|33|47|L 1|False|False|0|197003190PHO
+81|81|Fri, Mar 20, 1970||Seattle SuperSonics|119|123|33|48|L 2|False|True|0|197003200BOS
+82|82|Sun, Mar 22, 1970||New York Knicks|115|112|34|48|W 1|True|True|0|197003220BOS

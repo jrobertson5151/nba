@@ -1,0 +1,76 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Sat, Oct 24, 1959||New York Knicks|118|109|1|0|W 1|True|False|0|195910240NYK
+2|2|Sat, Oct 31, 1959||Detroit Pistons|120|112|2|0|W 2|True|True|0|195910310PHW
+3|3|Wed, Nov 4, 1959||Syracuse Nationals|124|113|3|0|W 3|True|True|0|195911040PHW
+4|4|Sat, Nov 7, 1959||Boston Celtics|106|115|3|1|L 1|False|False|0|195911070BOS
+5|5|Sun, Nov 8, 1959||Cincinnati Royals|134|106|4|1|W 1|True|True|0|195911080PHW
+6|6|Tue, Nov 10, 1959||New York Knicks|126|125|5|1|W 2|True|True|0|195911100PHW
+7|7|Wed, Nov 11, 1959||Detroit Pistons|119|105|6|1|W 3|True|False|0|195911110DET
+8|8|Thu, Nov 12, 1959||Cincinnati Royals|124|116|7|1|W 4|True|False|0|195911120CIN
+9|9|Sat, Nov 14, 1959||Minneapolis Lakers|104|98|8|1|W 5|True|True|0|195911140PHW
+10|10|Sun, Nov 15, 1959||Minneapolis Lakers|100|106|8|2|L 1|False|True|0|195911150MNL
+11|11|Fri, Nov 20, 1959||St. Louis Hawks|117|118|8|3|L 2|False|True|0|195911200PHW
+12|12|Sat, Nov 21, 1959||Syracuse Nationals|107|116|8|4|L 3|False|False|0|195911210SYR
+13|13|Sun, Nov 22, 1959||Syracuse Nationals|114|103|9|4|W 1|True|True|0|195911220PHW
+14|14|Wed, Nov 25, 1959||Boston Celtics|123|113|10|4|W 2|True|False|0|195911250BOS
+15|15|Thu, Nov 26, 1959||Boston Celtics|143|130|11|4|W 3|True|True|0|195911260PHW
+16|16|Sat, Nov 28, 1959||New York Knicks|109|108|12|4|W 4|True|False|0|195911280NYK
+17|17|Sun, Nov 29, 1959||New York Knicks|126|127|12|5|L 1|False|True|0|195911290PHW
+18|18|Thu, Dec 3, 1959||Minneapolis Lakers|123|109|13|5|W 1|True|True|0|195912030PHW
+19|19|Fri, Dec 4, 1959||St. Louis Hawks|124|112|14|5|W 2|True|True|0|195912040PHW
+20|20|Sat, Dec 5, 1959||St. Louis Hawks|112|113|14|6|L 1|False|False|0|195912050STL
+21|21|Sun, Dec 6, 1959||Detroit Pistons|118|116|15|6|W 1|True|True|0|195912060PHW
+22|22|Wed, Dec 9, 1959||Boston Celtics|116|137|15|7|L 1|False|False|0|195912090BOS
+23|23|Thu, Dec 10, 1959||Cincinnati Royals|131|112|16|7|W 1|True|True|0|195912100PHW
+24|24|Sat, Dec 12, 1959||Boston Celtics|117|126|16|8|L 1|False|True|0|195912120PHW
+25|25|Sun, Dec 13, 1959||Syracuse Nationals|121|150|16|9|L 2|False|False|0|195912130SYR
+26|26|Tue, Dec 15, 1959||Cincinnati Royals|131|107|17|9|W 1|True|True|0|195912150CIN
+27|27|Wed, Dec 16, 1959||Cincinnati Royals|114|105|18|9|W 2|True|False|0|195912160CIN
+28|28|Sat, Dec 19, 1959||St. Louis Hawks|89|102|18|10|L 1|False|False|0|195912190STL
+29|29|Fri, Dec 25, 1959||Syracuse Nationals|129|121|19|10|W 1|True|True|0|195912250PHW
+30|30|Sat, Dec 26, 1959||New York Knicks|116|122|19|11|L 1|False|True|0|195912260PHW
+31|31|Mon, Dec 28, 1959||Cincinnati Royals|109|104|20|11|W 1|True|True|0|195912280CIN
+32|32|Wed, Dec 30, 1959||Minneapolis Lakers|122|107|21|11|W 2|True|True|0|195912300PHW
+33|33|Sat, Jan 2, 1960||Boston Celtics|118|117|22|11|W 3|True|True|0|196001020PHW
+34|34|Tue, Jan 5, 1960||Minneapolis Lakers|126|111|23|11|W 4|True|True|0|196001050MNL
+35|35|Wed, Jan 6, 1960||St. Louis Hawks|121|101|24|11|W 5|True|True|0|196001060PHW
+36|36|Thu, Jan 7, 1960||Detroit Pistons|120|105|25|11|W 6|True|True|0|196001070DET
+37|37|Sat, Jan 9, 1960||Syracuse Nationals|119|112|26|11|W 7|True|True|0|196001090PHW
+38|38|Sun, Jan 10, 1960||New York Knicks|116|103|27|11|W 8|True|False|0|196001100NYK
+39|39|Tue, Jan 12, 1960||St. Louis Hawks|126|108|28|11|W 9|True|True|0|196001120PHW
+40|40|Wed, Jan 13, 1960||Syracuse Nationals|132|131|29|11|W 10|True|True|1|196001130PHW
+41|41|Fri, Jan 15, 1960||Boston Celtics|112|124|29|12|L 1|False|True|0|196001150PHW
+42|42|Sun, Jan 17, 1960||Boston Celtics|123|129|29|13|L 2|False|False|0|196001170BOS
+43|43|Tue, Jan 19, 1960||New York Knicks|114|93|30|13|W 1|True|True|0|196001190NYK
+44|44|Wed, Jan 20, 1960||Syracuse Nationals|129|123|31|13|W 2|True|False|0|196001200SYR
+45|45|Sat, Jan 23, 1960||Detroit Pistons|110|130|31|14|L 1|False|False|0|196001230DET
+46|46|Sun, Jan 24, 1960||Cincinnati Royals|104|95|32|14|W 1|True|False|0|196001240CIN
+47|47|Mon, Jan 25, 1960||Detroit Pistons|127|117|33|14|W 2|True|True|0|196001250DET
+48|48|Wed, Jan 27, 1960||New York Knicks|129|117|34|14|W 3|True|True|0|196001270NYK
+49|49|Fri, Jan 29, 1960||Boston Celtics|124|116|35|14|W 4|True|True|0|196001290PHW
+50|50|Sat, Jan 30, 1960||New York Knicks|108|115|35|15|L 1|False|False|0|196001300NYK
+51|51|Sun, Jan 31, 1960||Minneapolis Lakers|114|104|36|15|W 1|True|True|0|196001310MNL
+52|52|Mon, Feb 1, 1960||Minneapolis Lakers|103|96|37|15|W 2|True|True|0|196002010MNL
+53|53|Tue, Feb 2, 1960||Cincinnati Royals|109|107|38|15|W 3|True|True|0|196002020PHW
+54|54|Thu, Feb 4, 1960||Syracuse Nationals|110|137|38|16|L 1|False|False|0|196002040SYR
+55|55|Sat, Feb 6, 1960||Syracuse Nationals|129|126|39|16|W 1|True|True|0|196002060PHW
+56|56|Sun, Feb 7, 1960||St. Louis Hawks|108|130|39|17|L 1|False|False|0|196002070STL
+57|57|Tue, Feb 9, 1960||Detroit Pistons|113|122|39|18|L 2|False|False|0|196002090DET
+58|58|Wed, Feb 10, 1960||New York Knicks|117|125|39|19|L 3|False|False|0|196002100NYK
+59|59|Thu, Feb 11, 1960||St. Louis Hawks|139|120|40|19|W 1|True|True|0|196002110PHW
+60|60|Sat, Feb 13, 1960||Boston Celtics|120|122|40|20|L 1|False|False|0|196002130BOS
+61|61|Sun, Feb 14, 1960||Boston Celtics|115|125|40|21|L 2|False|True|0|196002140PHW
+62|62|Tue, Feb 16, 1960||Cincinnati Royals|117|112|41|21|W 1|True|False|0|196002160CIN
+63|63|Wed, Feb 17, 1960||Syracuse Nationals|123|116|42|21|W 2|True|True|0|196002170PHW
+64|64|Thu, Feb 18, 1960||Syracuse Nationals|122|136|42|22|L 1|False|False|0|196002180SYR
+65|65|Sat, Feb 20, 1960||Minneapolis Lakers|122|106|43|22|W 1|True|True|0|196002200PHW
+66|66|Sun, Feb 21, 1960||New York Knicks|129|122|44|22|W 2|True|False|0|196002210NYK
+67|67|Tue, Feb 23, 1960||Boston Celtics|126|108|45|22|W 3|True|True|0|196002230BOS
+68|68|Thu, Feb 25, 1960||New York Knicks|131|121|46|22|W 4|True|True|0|196002250PHW
+69|69|Sat, Feb 27, 1960||Minneapolis Lakers|91|109|46|23|L 1|False|False|0|196002270MNL
+70|70|Sun, Feb 28, 1960||Detroit Pistons|113|111|47|23|W 1|True|False|0|196002280DET
+71|71|Wed, Mar 2, 1960||Boston Celtics|119|133|47|24|L 1|False|False|0|196003020BOS
+72|72|Thu, Mar 3, 1960||Detroit Pistons|110|101|48|24|W 1|True|True|0|196003030PHW
+73|73|Fri, Mar 4, 1960||New York Knicks|136|134|49|24|W 2|True|True|1|196003040NYK
+74|74|Sun, Mar 6, 1960||St. Louis Hawks|109|128|49|25|L 1|False|False|0|196003060STL
+75|75|Wed, Mar 9, 1960||Syracuse Nationals|126|137|49|26|L 2|False|False|0|196003090SYR

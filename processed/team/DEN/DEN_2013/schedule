@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Wed, Oct 30, 2013|10:00p|Sacramento Kings|88|90|0|1|L 1|False|False|0|201310300SAC
+2|2|Fri, Nov 1, 2013|9:00p|Portland Trail Blazers|98|113|0|2|L 2|False|True|0|201311010DEN
+3|3|Tue, Nov 5, 2013|9:00p|San Antonio Spurs|94|102|0|3|L 3|False|True|0|201311050DEN
+4|4|Thu, Nov 7, 2013|9:00p|Atlanta Hawks|109|107|1|3|W 1|True|True|0|201311070DEN
+5|5|Fri, Nov 8, 2013|9:00p|Phoenix Suns|103|114|1|4|L 1|False|False|0|201311080PHO
+6|6|Mon, Nov 11, 2013|9:00p|Utah Jazz|100|81|2|4|W 1|True|False|0|201311110UTA
+7|7|Wed, Nov 13, 2013|9:00p|Los Angeles Lakers|111|99|3|4|W 2|True|True|0|201311130DEN
+8|8|Fri, Nov 15, 2013|8:00p|Minnesota Timberwolves|117|113|4|4|W 3|True|True|0|201311150DEN
+9|9|Sat, Nov 16, 2013|8:00p|Houston Rockets|111|122|4|5|L 1|False|False|0|201311160HOU
+10|10|Mon, Nov 18, 2013|8:00p|Oklahoma City Thunder|113|115|4|6|L 2|False|False|0|201311180OKC
+11|11|Thu, Nov 21, 2013|10:30p|Chicago Bulls|97|87|5|6|W 1|True|True|0|201311210DEN
+12|12|Sat, Nov 23, 2013|9:00p|Dallas Mavericks|102|100|6|6|W 2|True|True|0|201311230DEN
+13|13|Mon, Nov 25, 2013|8:30p|Dallas Mavericks|110|96|7|6|W 3|True|False|0|201311250DAL
+14|14|Wed, Nov 27, 2013|8:00p|Minnesota Timberwolves|117|110|8|6|W 4|True|False|0|201311270MIN
+15|15|Fri, Nov 29, 2013|9:00p|New York Knicks|97|95|9|6|W 5|True|True|0|201311290DEN
+16|16|Sun, Dec 1, 2013|1:00p|Toronto Raptors|112|98|10|6|W 6|True|False|0|201312010TOR
+17|17|Tue, Dec 3, 2013|7:30p|Brooklyn Nets|111|87|11|6|W 7|True|False|0|201312030BRK
+18|18|Wed, Dec 4, 2013|7:00p|Cleveland Cavaliers|88|98|11|7|L 1|False|False|0|201312040CLE
+19|19|Fri, Dec 6, 2013|7:30p|Boston Celtics|98|106|11|8|L 2|False|False|0|201312060BOS
+20|20|Sat, Dec 7, 2013|7:00p|Philadelphia 76ers|103|92|12|8|W 1|True|False|0|201312070PHI
+21|21|Mon, Dec 9, 2013|7:00p|Washington Wizards|75|74|13|8|W 2|True|False|0|201312090WAS
+22|22|Fri, Dec 13, 2013|9:00p|Utah Jazz|93|103|13|9|L 1|False|True|0|201312130DEN
+23|23|Sun, Dec 15, 2013|8:00p|New Orleans Pelicans|102|93|14|9|W 1|True|True|0|201312150DEN
+24|24|Tue, Dec 17, 2013|9:00p|Oklahoma City Thunder|93|105|14|10|L 1|False|True|0|201312170DEN
+25|25|Fri, Dec 20, 2013|9:00p|Phoenix Suns|99|103|14|11|L 2|False|True|0|201312200DEN
+26|26|Sat, Dec 21, 2013|10:30p|Los Angeles Clippers|91|112|14|12|L 3|False|False|0|201312210LAC
+27|27|Mon, Dec 23, 2013|9:00p|Golden State Warriors|81|89|14|13|L 4|False|True|0|201312230DEN
+28|28|Fri, Dec 27, 2013|8:00p|New Orleans Pelicans|89|105|14|14|L 5|False|False|0|201312270NOP
+29|29|Sat, Dec 28, 2013|8:00p|Memphis Grizzlies|99|120|14|15|L 6|False|False|0|201312280MEM
+30|30|Mon, Dec 30, 2013|9:00p|Miami Heat|94|97|14|16|L 7|False|True|0|201312300DEN
+31|31|Wed, Jan 1, 2014|9:00p|Philadelphia 76ers|102|114|14|17|L 8|False|True|0|201401010DEN
+32|32|Fri, Jan 3, 2014|9:00p|Memphis Grizzlies|111|108|15|17|W 1|True|True|0|201401030DEN
+33|33|Sun, Jan 5, 2014|9:30p|Los Angeles Lakers|137|115|16|17|W 2|True|False|0|201401050LAL
+34|34|Tue, Jan 7, 2014|9:00p|Boston Celtics|129|98|17|17|W 3|True|True|0|201401070DEN
+35|35|Thu, Jan 9, 2014|10:30p|Oklahoma City Thunder|101|88|18|17|W 4|True|True|0|201401090DEN
+36|36|Sat, Jan 11, 2014|9:00p|Orlando Magic|120|94|19|17|W 5|True|True|0|201401110DEN
+37|37|Mon, Jan 13, 2014|9:00p|Utah Jazz|103|118|19|18|L 1|False|False|0|201401130UTA
+38|38|Wed, Jan 15, 2014|10:30p|Golden State Warriors|123|116|20|18|W 1|True|False|0|201401150GSW
+39|39|Fri, Jan 17, 2014|9:00p|Cleveland Cavaliers|109|117|20|19|L 1|False|True|0|201401170DEN
+40|40|Sun, Jan 19, 2014|8:00p|Phoenix Suns|103|117|20|20|L 2|False|False|0|201401190PHO
+41|41|Thu, Jan 23, 2014|10:30p|Portland Trail Blazers|105|110|20|21|L 3|False|False|0|201401230POR
+42|42|Sat, Jan 25, 2014|9:00p|Indiana Pacers|109|96|21|21|W 1|True|True|0|201401250DEN
+43|43|Sun, Jan 26, 2014|9:00p|Sacramento Kings|125|117|22|21|W 2|True|False|0|201401260SAC
+44|44|Wed, Jan 29, 2014|9:00p|Charlotte Bobcats|98|101|22|22|L 1|False|True|0|201401290DEN
+45|45|Fri, Jan 31, 2014|9:00p|Toronto Raptors|90|100|22|23|L 2|False|True|0|201401310DEN
+46|46|Mon, Feb 3, 2014|9:00p|Los Angeles Clippers|116|115|23|23|W 1|True|True|0|201402030DEN
+47|47|Wed, Feb 5, 2014|9:00p|Milwaukee Bucks|110|100|24|23|W 2|True|True|0|201402050DEN
+48|48|Fri, Feb 7, 2014|7:30p|New York Knicks|90|117|24|24|L 1|False|False|0|201402070NYK
+49|49|Sat, Feb 8, 2014|7:30p|Detroit Pistons|109|126|24|25|L 2|False|False|0|201402080DET
+50|50|Mon, Feb 10, 2014|7:00p|Indiana Pacers|80|119|24|26|L 3|False|False|0|201402100IND
+51|51|Wed, Feb 12, 2014|8:00p|Minnesota Timberwolves|90|117|24|27|L 4|False|False|0|201402120MIN
+52|52|Tue, Feb 18, 2014|9:00p|Phoenix Suns|107|112|24|28|L 5|False|True|1|201402180DEN
+53|53|Thu, Feb 20, 2014|8:00p|Milwaukee Bucks|101|90|25|28|W 1|True|False|0|201402200MIL
+54|54|Fri, Feb 21, 2014|8:00p|Chicago Bulls|89|117|25|29|L 1|False|False|0|201402210CHI
+55|55|Sun, Feb 23, 2014|8:00p|Sacramento Kings|95|109|25|30|L 2|False|True|0|201402230DEN
+56|56|Tue, Feb 25, 2014|9:00p|Portland Trail Blazers|95|100|25|31|L 3|False|True|0|201402250DEN
+57|57|Thu, Feb 27, 2014|10:30p|Brooklyn Nets|89|112|25|32|L 4|False|True|0|201402270DEN
+58|58|Sat, Mar 1, 2014|10:00p|Portland Trail Blazers|96|102|25|33|L 5|False|False|0|201403010POR
+59|59|Mon, Mar 3, 2014|9:00p|Minnesota Timberwolves|128|132|25|34|L 6|False|True|0|201403030DEN
+60|60|Wed, Mar 5, 2014|8:00p|Dallas Mavericks|115|110|26|34|W 1|True|True|0|201403050DEN
+61|61|Fri, Mar 7, 2014|9:00p|Los Angeles Lakers|134|126|27|34|W 2|True|True|0|201403070DEN
+62|62|Sun, Mar 9, 2014|6:00p|New Orleans Pelicans|107|111|27|35|L 1|False|False|1|201403090NOP
+63|63|Mon, Mar 10, 2014|7:00p|Charlotte Bobcats|98|105|27|36|L 2|False|False|0|201403100CHA
+64|64|Wed, Mar 12, 2014|7:00p|Orlando Magic|120|112|28|36|W 1|True|False|0|201403120ORL
+65|65|Fri, Mar 14, 2014|7:30p|Miami Heat|111|107|29|36|W 2|True|False|0|201403140MIA
+66|66|Sat, Mar 15, 2014|7:30p|Atlanta Hawks|92|97|29|37|L 1|False|False|0|201403150ATL
+67|67|Mon, Mar 17, 2014|10:30p|Los Angeles Clippers|110|100|30|37|W 1|True|True|0|201403170DEN
+68|68|Wed, Mar 19, 2014|9:00p|Detroit Pistons|118|109|31|37|W 2|True|True|0|201403190DEN
+69|69|Fri, Mar 21, 2014|8:30p|Dallas Mavericks|106|122|31|38|L 1|False|False|0|201403210DAL
+70|70|Sun, Mar 23, 2014|5:00p|Washington Wizards|105|102|32|38|W 1|True|True|0|201403230DEN
+71|71|Mon, Mar 24, 2014|8:00p|Oklahoma City Thunder|96|117|32|39|L 1|False|False|0|201403240OKC
+72|72|Wed, Mar 26, 2014|8:30p|San Antonio Spurs|103|108|32|40|L 2|False|False|0|201403260SAS
+73|73|Fri, Mar 28, 2014|9:00p|San Antonio Spurs|102|133|32|41|L 3|False|True|0|201403280DEN
+74|74|Mon, Mar 31, 2014|9:00p|Memphis Grizzlies|92|94|32|42|L 4|False|True|0|201403310DEN
+75|75|Wed, Apr 2, 2014|9:00p|New Orleans Pelicans|137|107|33|42|W 1|True|True|0|201404020DEN
+76|76|Fri, Apr 4, 2014|7:00p|Memphis Grizzlies|92|100|33|43|L 1|False|False|0|201404040MEM
+77|77|Sun, Apr 6, 2014|7:00p|Houston Rockets|125|130|33|44|L 2|False|False|1|201404060HOU
+78|78|Wed, Apr 9, 2014|9:00p|Houston Rockets|123|116|34|44|W 1|True|True|0|201404090DEN
+79|79|Thu, Apr 10, 2014|10:30p|Golden State Warriors|100|99|35|44|W 2|True|False|0|201404100GSW
+80|80|Sat, Apr 12, 2014|9:00p|Utah Jazz|101|94|36|44|W 3|True|True|0|201404120DEN
+81|81|Tue, Apr 15, 2014|10:30p|Los Angeles Clippers|105|117|36|45|L 1|False|False|0|201404150LAC
+82|82|Wed, Apr 16, 2014|10:30p|Golden State Warriors|112|116|36|46|L 2|False|True|0|201404160DEN

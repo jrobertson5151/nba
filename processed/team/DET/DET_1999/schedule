@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Tue, Nov 2, 1999||Miami Heat|122|128|0|1|L 1|False|False|2|199911020MIA
+2|2|Wed, Nov 3, 1999||Orlando Magic|94|103|0|2|L 2|False|False|0|199911030ORL
+3|3|Fri, Nov 5, 1999||New York Knicks|91|103|0|3|L 3|False|True|0|199911050DET
+4|4|Sat, Nov 6, 1999||Milwaukee Bucks|111|121|0|4|L 4|False|False|0|199911060MIL
+5|5|Wed, Nov 10, 1999||Boston Celtics|110|92|1|4|W 1|True|False|0|199911100BOS
+6|6|Thu, Nov 11, 1999||Toronto Raptors|106|123|1|5|L 1|False|True|0|199911110DET
+7|7|Sat, Nov 13, 1999||Seattle SuperSonics|107|99|2|5|W 1|True|True|0|199911130DET
+8|8|Tue, Nov 16, 1999||Toronto Raptors|85|89|2|6|L 1|False|False|0|199911160TOR
+9|9|Wed, Nov 17, 1999||New Jersey Nets|109|107|3|6|W 1|True|True|0|199911170DET
+10|10|Fri, Nov 19, 1999||Cleveland Cavaliers|101|90|4|6|W 2|True|True|0|199911190DET
+11|11|Sun, Nov 21, 1999||Milwaukee Bucks|113|94|5|6|W 3|True|True|0|199911210DET
+12|12|Thu, Nov 25, 1999||Indiana Pacers|107|99|6|6|W 4|True|False|0|199911250IND
+13|13|Fri, Nov 26, 1999||Atlanta Hawks|93|91|7|6|W 5|True|True|0|199911260DET
+14|14|Sun, Nov 28, 1999||Orlando Magic|99|108|7|7|L 1|False|True|0|199911280DET
+15|15|Tue, Nov 30, 1999||San Antonio Spurs|87|106|7|8|L 2|False|False|0|199911300SAS
+16|16|Wed, Dec 1, 1999||Denver Nuggets|96|100|7|9|L 3|False|False|0|199912010DEN
+17|17|Fri, Dec 3, 1999||San Antonio Spurs|102|80|8|9|W 1|True|True|0|199912030DET
+18|18|Sat, Dec 4, 1999||Atlanta Hawks|110|112|8|10|L 1|False|False|0|199912040ATL
+19|19|Tue, Dec 7, 1999||Milwaukee Bucks|116|112|9|10|W 1|True|False|0|199912070MIL
+20|20|Fri, Dec 10, 1999||Los Angeles Clippers|107|83|10|10|W 2|True|True|0|199912100DET
+21|21|Sun, Dec 12, 1999||Los Angeles Lakers|93|101|10|11|L 1|False|False|0|199912120LAL
+22|22|Tue, Dec 14, 1999||Phoenix Suns|104|114|10|12|L 2|False|False|0|199912140PHO
+23|23|Thu, Dec 16, 1999||Golden State Warriors|116|108|11|12|W 1|True|False|0|199912160GSW
+24|24|Sat, Dec 18, 1999||Philadelphia 76ers|104|91|12|12|W 2|True|True|0|199912180DET
+25|25|Mon, Dec 20, 1999||Philadelphia 76ers|121|122|12|13|L 1|False|False|1|199912200PHI
+26|26|Tue, Dec 21, 1999||Washington Wizards|83|97|12|14|L 2|False|True|0|199912210DET
+27|27|Sun, Dec 26, 1999||Charlotte Hornets|114|96|13|14|W 1|True|True|0|199912260DET
+28|28|Wed, Dec 29, 1999||Chicago Bulls|91|77|14|14|W 2|True|False|0|199912290CHI
+29|29|Thu, Dec 30, 1999||Atlanta Hawks|106|105|15|14|W 3|True|True|1|199912300DET
+30|30|Mon, Jan 3, 2000||Orlando Magic|118|106|16|14|W 4|True|False|0|200001030ORL
+31|31|Wed, Jan 5, 2000||Atlanta Hawks|120|108|17|14|W 5|True|False|0|200001050ATL
+32|32|Thu, Jan 6, 2000||Milwaukee Bucks|101|95|18|14|W 6|True|True|0|200001060DET
+33|33|Sat, Jan 8, 2000||Minnesota Timberwolves|105|110|18|15|L 1|False|True|0|200001080DET
+34|34|Wed, Jan 12, 2000||New York Knicks|114|108|19|15|W 1|True|True|0|200001120DET
+35|35|Fri, Jan 14, 2000||Washington Wizards|105|98|20|15|W 2|True|True|0|200001140DET
+36|36|Sat, Jan 15, 2000||Washington Wizards|112|107|21|15|W 3|True|False|0|200001150WAS
+37|37|Mon, Jan 17, 2000||New York Knicks|94|105|21|16|L 1|False|False|0|200001170NYK
+38|38|Thu, Jan 20, 2000||New Jersey Nets|120|122|21|17|L 2|False|False|0|200001200NJN
+39|39|Sat, Jan 22, 2000||Chicago Bulls|92|98|21|18|L 3|False|False|0|200001220CHI
+40|40|Sun, Jan 23, 2000||Dallas Mavericks|91|99|21|19|L 4|False|True|0|200001230DET
+41|41|Tue, Jan 25, 2000||Cleveland Cavaliers|107|116|21|20|L 5|False|False|1|200001250CLE
+42|42|Thu, Jan 27, 2000||Charlotte Hornets|102|117|21|21|L 6|False|False|0|200001270CHH
+43|43|Sat, Jan 29, 2000||Philadelphia 76ers|90|88|22|21|W 1|True|True|0|200001290DET
+44|44|Mon, Jan 31, 2000||Miami Heat|82|104|22|22|L 1|False|False|0|200001310MIA
+45|45|Wed, Feb 2, 2000||Sacramento Kings|110|113|22|23|L 2|False|True|0|200002020DET
+46|46|Fri, Feb 4, 2000||Cleveland Cavaliers|105|96|23|23|W 1|True|True|0|200002040DET
+47|47|Sun, Feb 6, 2000||Houston Rockets|109|105|24|23|W 2|True|True|0|200002060DET
+48|48|Wed, Feb 9, 2000||Toronto Raptors|115|108|25|23|W 3|True|True|1|200002090DET
+49|49|Tue, Feb 15, 2000||Houston Rockets|102|107|25|24|L 1|False|False|0|200002150HOU
+50|50|Thu, Feb 17, 2000||Dallas Mavericks|97|106|25|25|L 2|False|False|0|200002170DAL
+51|51|Sat, Feb 19, 2000||Utah Jazz|87|91|25|26|L 3|False|False|0|200002190UTA
+52|52|Mon, Feb 21, 2000||Miami Heat|95|87|26|26|W 1|True|True|0|200002210DET
+53|53|Wed, Feb 23, 2000||Indiana Pacers|111|118|26|27|L 1|False|True|0|200002230DET
+54|54|Fri, Feb 25, 2000||Golden State Warriors|131|99|27|27|W 1|True|True|0|200002250DET
+55|55|Sun, Feb 27, 2000||Chicago Bulls|93|90|28|27|W 2|True|True|0|200002270DET
+56|56|Tue, Feb 29, 2000||Indiana Pacers|105|115|28|28|L 1|False|False|0|200002290IND
+57|57|Wed, Mar 1, 2000||Utah Jazz|94|107|28|29|L 2|False|True|0|200003010DET
+58|58|Sat, Mar 4, 2000||Washington Wizards|94|100|28|30|L 3|False|False|0|200003040WAS
+59|59|Wed, Mar 8, 2000||Denver Nuggets|130|116|29|30|W 1|True|True|0|200003080DET
+60|60|Fri, Mar 10, 2000||Vancouver Grizzlies|111|97|30|30|W 2|True|True|0|200003100DET
+61|61|Sat, Mar 11, 2000||Portland Trail Blazers|94|99|30|31|L 1|False|True|0|200003110DET
+62|62|Mon, Mar 13, 2000||Boston Celtics|124|115|31|31|W 1|True|True|0|200003130DET
+63|63|Wed, Mar 15, 2000||Orlando Magic|113|91|32|31|W 2|True|True|0|200003150DET
+64|64|Fri, Mar 17, 2000||Los Angeles Lakers|82|110|32|32|L 1|False|True|0|200003170DET
+65|65|Sun, Mar 19, 2000||Vancouver Grizzlies|101|99|33|32|W 1|True|False|0|200003190VAN
+66|66|Tue, Mar 21, 2000||Seattle SuperSonics|100|90|34|32|W 2|True|False|0|200003210SEA
+67|67|Wed, Mar 22, 2000||Portland Trail Blazers|104|95|35|32|W 3|True|False|0|200003220POR
+68|68|Fri, Mar 24, 2000||Sacramento Kings|103|113|35|33|L 1|False|False|0|200003240SAC
+69|69|Sat, Mar 25, 2000||Los Angeles Clippers|126|107|36|33|W 1|True|False|0|200003250LAC
+70|70|Wed, Mar 29, 2000||Charlotte Hornets|91|98|36|34|L 1|False|True|0|200003290DET
+71|71|Fri, Mar 31, 2000||Phoenix Suns|97|98|36|35|L 2|False|True|0|200003310DET
+72|72|Sun, Apr 2, 2000||New Jersey Nets|113|92|37|35|W 1|True|False|0|200004020NJN
+73|73|Tue, Apr 4, 2000||Toronto Raptors|104|88|38|35|W 2|True|False|0|200004040TOR
+74|74|Wed, Apr 5, 2000||Boston Celtics|111|106|39|35|W 3|True|True|0|200004050DET
+75|75|Fri, Apr 7, 2000||Charlotte Hornets|97|82|40|35|W 4|True|False|0|200004070CHH
+76|76|Sat, Apr 8, 2000||Cleveland Cavaliers|98|117|40|36|L 1|False|False|0|200004080CLE
+77|77|Mon, Apr 10, 2000||Minnesota Timberwolves|100|102|40|37|L 2|False|False|0|200004100MIN
+78|78|Wed, Apr 12, 2000||Miami Heat|90|73|41|37|W 1|True|True|0|200004120DET
+79|79|Sat, Apr 15, 2000||Philadelphia 76ers|94|100|41|38|L 1|False|False|0|200004150PHI
+80|80|Sun, Apr 16, 2000||Indiana Pacers|101|112|41|39|L 2|False|True|0|200004160DET
+81|81|Tue, Apr 18, 2000||New York Knicks|88|100|41|40|L 3|False|False|0|200004180NYK
+82|82|Wed, Apr 19, 2000||Chicago Bulls|112|91|42|40|W 1|True|True|0|200004190DET

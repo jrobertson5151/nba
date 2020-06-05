@@ -1,0 +1,73 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Oct 30, 1953||Minneapolis Lakers|69|59|1|0|W 1|True|True|0|195310300MLH
+2|2|Sun, Nov 1, 1953||Fort Wayne Pistons|67|77|1|1|L 1|False|False|0|195311010FTW
+3|3|Wed, Nov 4, 1953||New York Knicks|67|73|1|2|L 2|False|True|0|195311040MLH
+4|4|Fri, Nov 6, 1953||New York Knicks|68|80|1|3|L 3|False|True|0|195311060MLH
+5|5|Tue, Nov 10, 1953||Syracuse Nationals|59|74|1|4|L 4|False|True|0|195311100MLH
+6|6|Fri, Nov 13, 1953||Minneapolis Lakers|84|92|1|5|L 5|False|True|0|195311130MLH
+7|7|Sun, Nov 15, 1953||Syracuse Nationals|61|69|1|6|L 6|False|False|0|195311150SYR
+8|8|Wed, Nov 18, 1953||Baltimore Bullets|74|104|1|7|L 7|False|False|0|195311180BLB
+9|9|Thu, Nov 19, 1953||Rochester Royals|69|79|1|8|L 8|False|True|0|195311190MLH
+10|10|Fri, Nov 20, 1953||Rochester Royals|63|81|1|9|L 9|False|True|0|195311200MLH
+11|11|Sun, Nov 22, 1953||Minneapolis Lakers|55|57|1|10|L 10|False|True|0|195311220MLH
+12|12|Wed, Nov 25, 1953||Fort Wayne Pistons|64|58|2|10|W 1|True|True|0|195311250MLH
+13|13|Thu, Nov 26, 1953||Fort Wayne Pistons|64|78|2|11|L 1|False|False|0|195311260FTW
+14|14|Fri, Nov 27, 1953||Philadelphia Warriors|55|51|3|11|W 1|True|True|0|195311270MLH
+15|15|Sat, Nov 28, 1953||Philadelphia Warriors|71|68|4|11|W 2|True|True|0|195311280MLH
+16|16|Tue, Dec 1, 1953||Syracuse Nationals|69|76|4|12|L 1|False|True|1|195312010MLH
+17|17|Sat, Dec 5, 1953||Boston Celtics|79|97|4|13|L 2|False|False|0|195312050BOS
+18|18|Wed, Dec 9, 1953||Fort Wayne Pistons|59|83|4|14|L 3|False|True|0|195312090FTW
+19|19|Thu, Dec 10, 1953||Syracuse Nationals|76|96|4|15|L 4|False|False|0|195312100SYR
+20|20|Fri, Dec 11, 1953||New York Knicks|82|70|5|15|W 1|True|True|0|195312110MLH
+21|21|Sun, Dec 13, 1953||Baltimore Bullets|73|70|6|15|W 2|True|False|0|195312130BLB
+22|22|Tue, Dec 15, 1953||Rochester Royals|64|76|6|16|L 1|False|False|0|195312150ROC
+23|23|Wed, Dec 16, 1953||Minneapolis Lakers|63|69|6|17|L 2|False|True|1|195312160MLH
+24|24|Sat, Dec 19, 1953||Fort Wayne Pistons|63|69|6|18|L 3|False|True|0|195312190MLH
+25|25|Mon, Dec 21, 1953||Boston Celtics|74|90|6|19|L 4|False|True|0|195312210BOS
+26|26|Wed, Dec 23, 1953||Boston Celtics|74|80|6|20|L 5|False|True|0|195312230BOS
+27|27|Sat, Dec 26, 1953||Boston Celtics|74|67|7|20|W 1|True|True|0|195312260MLH
+28|28|Sun, Dec 27, 1953||Syracuse Nationals|75|96|7|21|L 1|False|False|0|195312270SYR
+29|29|Mon, Dec 28, 1953||Philadelphia Warriors|63|69|7|22|L 2|False|True|0|195312280MLH
+30|30|Fri, Jan 1, 1954||Baltimore Bullets|62|52|8|22|W 1|True|True|0|195401010MLH
+31|31|Tue, Jan 5, 1954||Philadelphia Warriors|88|99|8|23|L 1|False|False|0|195401050PHW
+32|32|Wed, Jan 6, 1954||Philadelphia Warriors|72|77|8|24|L 2|False|True|0|195401060MLH
+33|33|Thu, Jan 7, 1954||Philadelphia Warriors|73|88|8|25|L 3|False|True|0|195401070MLH
+34|34|Sat, Jan 9, 1954||Minneapolis Lakers|67|78|8|26|L 4|False|True|0|195401090MLH
+35|35|Sun, Jan 10, 1954||Fort Wayne Pistons|73|81|8|27|L 5|False|False|0|195401100FTW
+36|36|Tue, Jan 12, 1954||Rochester Royals|73|78|8|28|L 6|False|False|0|195401120ROC
+37|37|Thu, Jan 14, 1954||Boston Celtics|74|86|8|29|L 7|False|True|0|195401140BOS
+38|38|Sat, Jan 16, 1954||Minneapolis Lakers|64|58|9|29|W 1|True|False|0|195401160MNL
+39|39|Mon, Jan 18, 1954||Minneapolis Lakers|72|91|9|30|L 1|False|True|0|195401180MLH
+40|40|Tue, Jan 19, 1954||New York Knicks|75|78|9|31|L 2|False|True|0|195401190MLH
+41|41|Sat, Jan 23, 1954||New York Knicks|63|75|9|32|L 3|False|False|0|195401230NYK
+42|42|Sun, Jan 24, 1954||New York Knicks|68|66|10|32|W 1|True|True|0|195401240MLH
+43|43|Tue, Jan 26, 1954||Minneapolis Lakers|69|84|10|33|L 1|False|True|0|195401260MLH
+44|44|Wed, Jan 27, 1954||Fort Wayne Pistons|68|77|10|34|L 2|False|True|0|195401270FTW
+45|45|Fri, Jan 29, 1954||Boston Celtics|82|70|11|34|W 1|True|True|0|195401290MLH
+46|46|Sat, Jan 30, 1954||Minneapolis Lakers|64|80|11|35|L 1|False|False|0|195401300MNL
+47|47|Mon, Feb 1, 1954||Fort Wayne Pistons|71|72|11|36|L 2|False|True|0|195402010MLH
+48|48|Wed, Feb 3, 1954||Baltimore Bullets|78|72|12|36|W 1|True|False|0|195402030BLB
+49|49|Fri, Feb 5, 1954||Philadelphia Warriors|69|66|13|36|W 2|True|True|0|195402050MLH
+50|50|Sun, Feb 7, 1954||Syracuse Nationals|73|88|13|37|L 1|False|False|0|195402070SYR
+51|51|Tue, Feb 9, 1954||Rochester Royals|70|81|13|38|L 2|False|False|0|195402090ROC
+52|52|Wed, Feb 10, 1954||Rochester Royals|61|62|13|39|L 3|False|True|0|195402100MLH
+53|53|Thu, Feb 11, 1954||Rochester Royals|68|79|13|40|L 4|False|True|0|195402110MLH
+54|54|Fri, Feb 12, 1954||Minneapolis Lakers|71|62|14|40|W 1|True|True|0|195402120MLH
+55|55|Tue, Feb 16, 1954||Fort Wayne Pistons|65|69|14|41|L 1|False|True|0|195402160MLH
+56|56|Fri, Feb 19, 1954||Boston Celtics|73|78|14|42|L 2|False|True|0|195402190MLH
+57|57|Sat, Feb 20, 1954||Rochester Royals|64|66|14|43|L 3|False|False|0|195402200ROC
+58|58|Sun, Feb 21, 1954||Fort Wayne Pistons|64|62|15|43|W 1|True|False|0|195402210FTW
+59|59|Mon, Feb 22, 1954||Fort Wayne Pistons|82|95|15|44|L 1|False|True|0|195402220FTW
+60|60|Tue, Feb 23, 1954||Syracuse Nationals|70|68|16|44|W 1|True|True|0|195402230MLH
+61|61|Fri, Feb 26, 1954||Syracuse Nationals|62|68|16|45|L 1|False|True|0|195402260MLH
+62|62|Sat, Feb 27, 1954||New York Knicks|58|57|17|45|W 1|True|False|0|195402270NYK
+63|63|Sun, Feb 28, 1954||Boston Celtics|74|93|17|46|L 1|False|True|0|195402280BOS
+64|64|Mon, Mar 1, 1954||Philadelphia Warriors|73|78|17|47|L 2|False|True|0|195403010MLH
+65|65|Wed, Mar 3, 1954||Baltimore Bullets|103|100|18|47|W 1|True|False|0|195403030BLB
+66|66|Thu, Mar 4, 1954||Baltimore Bullets|87|95|18|48|L 1|False|True|0|195403040BLB
+67|67|Sun, Mar 7, 1954||Minneapolis Lakers|63|65|18|49|L 2|False|False|0|195403070MNL
+68|68|Mon, Mar 8, 1954||Baltimore Bullets|64|54|19|49|W 1|True|True|0|195403081MLH
+69|69|Mon, Mar 8, 1954||Baltimore Bullets|65|54|20|49|W 2|True|True|0|195403082MLH
+70|70|Tue, Mar 9, 1954||New York Knicks|65|72|20|50|L 1|False|True|0|195403090MLH
+71|71|Wed, Mar 10, 1954||Rochester Royals|69|84|20|51|L 2|False|True|0|195403100MLH
+72|72|Sun, Mar 14, 1954||Rochester Royals|91|53|21|51|W 1|True|True|0|195403140MLH

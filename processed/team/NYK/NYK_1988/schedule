@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Nov 4, 1988||Boston Celtics|115|122|0|1|L 1|False|False|1|198811040BOS
+2|2|Sat, Nov 5, 1988||New Jersey Nets|102|112|0|2|L 2|False|False|0|198811050NJN
+3|3|Tue, Nov 8, 1988||Chicago Bulls|126|117|1|2|W 1|True|True|0|198811080NYK
+4|4|Wed, Nov 9, 1988||Washington Bullets|117|110|2|2|W 2|True|False|0|198811090WSB
+5|5|Fri, Nov 11, 1988||Indiana Pacers|121|120|3|2|W 3|True|False|1|198811110IND
+6|6|Sat, Nov 12, 1988||Washington Bullets|111|101|4|2|W 4|True|True|0|198811120NYK
+7|7|Tue, Nov 15, 1988||Houston Rockets|126|121|5|2|W 5|True|False|0|198811150HOU
+8|8|Fri, Nov 18, 1988||Philadelphia 76ers|135|137|5|3|L 1|False|False|0|198811180PHI
+9|9|Sat, Nov 19, 1988||Philadelphia 76ers|141|122|6|3|W 1|True|True|0|198811190NYK
+10|10|Tue, Nov 22, 1988||Los Angeles Lakers|98|110|6|4|L 1|False|True|0|198811220NYK
+11|11|Wed, Nov 23, 1988||Detroit Pistons|133|111|7|4|W 1|True|False|0|198811230DET
+12|12|Sat, Nov 26, 1988||Cleveland Cavaliers|127|112|8|4|W 2|True|True|0|198811260NYK
+13|13|Tue, Nov 29, 1988||Denver Nuggets|119|139|8|5|L 1|False|False|0|198811290DEN
+14|14|Wed, Nov 30, 1988||Los Angeles Clippers|135|128|9|5|W 1|True|False|1|198811300LAC
+15|15|Fri, Dec 2, 1988||Dallas Mavericks|104|101|10|5|W 2|True|False|0|198812020DAL
+16|16|Sat, Dec 3, 1988||San Antonio Spurs|109|122|10|6|L 1|False|False|0|198812030SAS
+17|17|Tue, Dec 6, 1988||Denver Nuggets|124|123|11|6|W 1|True|True|1|198812060NYK
+18|18|Thu, Dec 8, 1988||Milwaukee Bucks|113|109|12|6|W 2|True|True|0|198812080NYK
+19|19|Sat, Dec 10, 1988||Sacramento Kings|124|111|13|6|W 3|True|True|0|198812100NYK
+20|20|Tue, Dec 13, 1988||New Jersey Nets|121|100|14|6|W 4|True|True|0|198812130NYK
+21|21|Thu, Dec 15, 1988||Utah Jazz|117|116|15|6|W 5|True|True|0|198812150NYK
+22|22|Sat, Dec 17, 1988||Washington Bullets|117|102|16|6|W 6|True|True|0|198812170NYK
+23|23|Sun, Dec 18, 1988||Boston Celtics|104|117|16|7|L 1|False|False|0|198812180BOS
+24|24|Tue, Dec 20, 1988||Indiana Pacers|141|113|17|7|W 1|True|True|0|198812200NYK
+25|25|Thu, Dec 22, 1988||Detroit Pistons|88|85|18|7|W 2|True|True|0|198812220NYK
+26|26|Tue, Dec 27, 1988||Atlanta Hawks|126|128|18|8|L 1|False|False|0|198812270ATL
+27|27|Thu, Dec 29, 1988||Chicago Bulls|106|108|18|9|L 2|False|False|0|198812290CHI
+28|28|Fri, Dec 30, 1988||Charlotte Hornets|111|122|18|10|L 3|False|False|0|198812300CHH
+29|29|Tue, Jan 3, 1989||Boston Celtics|109|107|19|10|W 1|True|True|1|198901030NYK
+30|30|Wed, Jan 4, 1989||New Jersey Nets|105|96|20|10|W 2|True|False|0|198901040NJN
+31|31|Sat, Jan 7, 1989||Cleveland Cavaliers|96|104|20|11|L 1|False|False|0|198901070CLE
+32|32|Sun, Jan 8, 1989||Los Angeles Clippers|134|100|21|11|W 1|True|True|0|198901080NYK
+33|33|Wed, Jan 11, 1989||Detroit Pistons|100|93|22|11|W 2|True|False|0|198901110DET
+34|34|Thu, Jan 12, 1989||Charlotte Hornets|106|89|23|11|W 3|True|True|0|198901120NYK
+35|35|Sat, Jan 14, 1989||Atlanta Hawks|132|122|24|11|W 4|True|True|0|198901140NYK
+36|36|Mon, Jan 16, 1989||San Antonio Spurs|116|106|25|11|W 5|True|True|0|198901160NYK
+37|37|Wed, Jan 18, 1989||Golden State Warriors|119|133|25|12|L 1|False|False|0|198901180GSW
+38|38|Thu, Jan 19, 1989||Sacramento Kings|106|112|25|13|L 2|False|False|0|198901190SAC
+39|39|Sat, Jan 21, 1989||Seattle SuperSonics|119|121|25|14|L 3|False|False|0|198901210SEA
+40|40|Sun, Jan 22, 1989||Portland Trail Blazers|120|116|26|14|W 1|True|False|0|198901220POR
+41|41|Tue, Jan 24, 1989||Los Angeles Lakers|122|117|27|14|W 2|True|False|0|198901240LAL
+42|42|Fri, Jan 27, 1989||Phoenix Suns|130|132|27|15|L 1|False|False|0|198901270PHO
+43|43|Sat, Jan 28, 1989||Utah Jazz|104|127|27|16|L 2|False|False|0|198901280UTA
+44|44|Tue, Jan 31, 1989||Indiana Pacers|120|111|28|16|W 1|True|True|0|198901310NYK
+45|45|Thu, Feb 2, 1989||Cleveland Cavaliers|125|109|29|16|W 2|True|True|0|198902020NYK
+46|46|Sat, Feb 4, 1989||Indiana Pacers|113|106|30|16|W 3|True|False|0|198902040IND
+47|47|Tue, Feb 7, 1989||Washington Bullets|117|105|31|16|W 4|True|True|0|198902070NYK
+48|48|Wed, Feb 8, 1989||Atlanta Hawks|113|101|32|16|W 5|True|False|0|198902080ATL
+49|49|Tue, Feb 14, 1989||Charlotte Hornets|129|117|33|16|W 6|True|False|0|198902140CHH
+50|50|Wed, Feb 15, 1989||Cleveland Cavaliers|107|129|33|17|L 1|False|False|0|198902150CLE
+51|51|Sat, Feb 18, 1989||New Jersey Nets|125|115|34|17|W 1|True|True|0|198902180NYK
+52|52|Tue, Feb 21, 1989||Houston Rockets|120|115|35|17|W 2|True|True|0|198902210NYK
+53|53|Thu, Feb 23, 1989||Charlotte Hornets|139|114|36|17|W 3|True|True|0|198902230NYK
+54|54|Fri, Feb 24, 1989||Washington Bullets|127|130|36|18|L 1|False|False|0|198902240WSB
+55|55|Sun, Feb 26, 1989||Boston Celtics|122|110|37|18|W 1|True|True|0|198902260NYK
+56|56|Wed, Mar 1, 1989||Milwaukee Bucks|111|121|37|19|L 1|False|False|0|198903010MIL
+57|57|Thu, Mar 2, 1989||Miami Heat|132|123|38|19|W 1|True|True|0|198903020NYK
+58|58|Sat, Mar 4, 1989||Chicago Bulls|122|104|39|19|W 2|True|True|0|198903040NYK
+59|59|Tue, Mar 7, 1989||Phoenix Suns|124|119|40|19|W 3|True|True|0|198903070NYK
+60|60|Sat, Mar 11, 1989||Indiana Pacers|114|95|41|19|W 4|True|True|0|198903110NYK
+61|61|Tue, Mar 14, 1989||Seattle SuperSonics|116|110|42|19|W 5|True|True|0|198903140NYK
+62|62|Thu, Mar 16, 1989||Philadelphia 76ers|112|121|42|20|L 1|False|True|0|198903160NYK
+63|63|Fri, Mar 17, 1989||Chicago Bulls|124|129|42|21|L 2|False|False|0|198903170CHI
+64|64|Sun, Mar 19, 1989||Milwaukee Bucks|128|104|43|21|W 1|True|True|0|198903190NYK
+65|65|Mon, Mar 20, 1989||Philadelphia 76ers|129|109|44|21|W 2|True|False|0|198903200PHI
+66|66|Wed, Mar 22, 1989||Miami Heat|103|107|44|22|L 1|False|False|0|198903220MIA
+67|67|Fri, Mar 24, 1989||Boston Celtics|111|115|44|23|L 2|False|False|0|198903240BOS
+68|68|Sat, Mar 25, 1989||Atlanta Hawks|108|115|44|24|L 3|False|True|0|198903250NYK
+69|69|Mon, Mar 27, 1989||Charlotte Hornets|121|105|45|24|W 1|True|False|0|198903270CHH
+70|70|Tue, Mar 28, 1989||Portland Trail Blazers|128|124|46|24|W 2|True|True|0|198903280NYK
+71|71|Thu, Mar 30, 1989||Dallas Mavericks|99|98|47|24|W 3|True|True|0|198903300NYK
+72|72|Fri, Mar 31, 1989||Golden State Warriors|114|134|47|25|L 1|False|True|0|198903310NYK
+73|73|Tue, Apr 4, 1989||Philadelphia 76ers|113|124|47|26|L 2|False|True|0|198904040NYK
+74|74|Thu, Apr 6, 1989||Milwaukee Bucks|112|99|48|26|W 1|True|False|0|198904060MIL
+75|75|Fri, Apr 7, 1989||New Jersey Nets|105|115|48|27|L 1|False|False|0|198904070NJN
+76|76|Sun, Apr 9, 1989||Washington Bullets|94|92|49|27|W 1|True|False|0|198904090WSB
+77|77|Wed, Apr 12, 1989||Charlotte Hornets|99|104|49|28|L 1|False|True|0|198904120NYK
+78|78|Fri, Apr 14, 1989||Detroit Pistons|104|100|50|28|W 1|True|True|0|198904140NYK
+79|79|Sun, Apr 16, 1989||Philadelphia 76ers|112|115|50|29|L 1|False|False|0|198904160PHI
+80|80|Mon, Apr 17, 1989||Chicago Bulls|100|104|50|30|L 2|False|False|0|198904170CHI
+81|81|Thu, Apr 20, 1989||Boston Celtics|137|117|51|30|W 1|True|True|0|198904200NYK
+82|82|Sat, Apr 22, 1989||New Jersey Nets|109|99|52|30|W 2|True|True|0|198904220NYK

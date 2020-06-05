@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Sun, Oct 14, 1979||San Diego Clippers|93|98|0|1|L 1|False|False|0|197910140SDC
+2|2|Tue, Oct 16, 1979||Phoenix Suns|86|102|0|2|L 2|False|False|0|197910160PHO
+3|3|Wed, Oct 17, 1979||Los Angeles Lakers|112|110|1|2|W 1|True|True|0|197910170SEA
+4|4|Fri, Oct 19, 1979||San Diego Clippers|106|98|2|2|W 2|True|True|0|197910190SEA
+5|5|Sun, Oct 21, 1979||Los Angeles Lakers|97|106|2|3|L 1|False|False|0|197910210LAL
+6|6|Wed, Oct 24, 1979||Kansas City Kings|105|92|3|3|W 1|True|True|0|197910240SEA
+7|7|Fri, Oct 26, 1979||Phoenix Suns|86|92|3|4|L 1|False|True|0|197910260SEA
+8|8|Sat, Oct 27, 1979||San Diego Clippers|105|110|3|5|L 2|False|False|0|197910270SDC
+9|9|Sun, Oct 28, 1979||Chicago Bulls|108|97|4|5|W 1|True|True|0|197910280SEA
+10|10|Wed, Oct 31, 1979||Denver Nuggets|97|89|5|5|W 2|True|True|0|197910310SEA
+11|11|Fri, Nov 2, 1979||San Antonio Spurs|117|107|6|5|W 3|True|True|0|197911020SEA
+12|12|Sun, Nov 4, 1979||Milwaukee Bucks|114|101|7|5|W 4|True|False|0|197911040MIL
+13|13|Tue, Nov 6, 1979||Chicago Bulls|114|97|8|5|W 5|True|False|0|197911060CHI
+14|14|Wed, Nov 7, 1979||Denver Nuggets|92|113|8|6|L 1|False|False|0|197911070DEN
+15|15|Sat, Nov 10, 1979||Utah Jazz|88|87|9|6|W 1|True|False|0|197911100UTA
+16|16|Wed, Nov 14, 1979||Milwaukee Bucks|136|117|10|6|W 2|True|True|0|197911140SEA
+17|17|Fri, Nov 16, 1979||Cleveland Cavaliers|108|100|11|6|W 3|True|True|0|197911160SEA
+18|18|Sat, Nov 17, 1979||Golden State Warriors|108|103|12|6|W 4|True|False|0|197911170GSW
+19|19|Sun, Nov 18, 1979||Portland Trail Blazers|95|100|12|7|L 1|False|False|0|197911180POR
+20|20|Wed, Nov 21, 1979||Los Angeles Lakers|119|110|13|7|W 1|True|True|0|197911210SEA
+21|21|Fri, Nov 23, 1979||Portland Trail Blazers|94|90|14|7|W 2|True|True|0|197911230SEA
+22|22|Wed, Nov 28, 1979||Phoenix Suns|127|116|15|7|W 3|True|True|0|197911280SEA
+23|23|Fri, Nov 30, 1979||Kansas City Kings|107|102|16|7|W 4|True|False|1|197911300KCK
+24|24|Sat, Dec 1, 1979||Utah Jazz|95|97|16|8|L 1|False|False|0|197912010UTA
+25|25|Sun, Dec 2, 1979||Golden State Warriors|111|98|17|8|W 1|True|True|0|197912020SEA
+26|26|Wed, Dec 5, 1979||Utah Jazz|115|96|18|8|W 2|True|True|0|197912050SEA
+27|27|Sat, Dec 8, 1979||Golden State Warriors|125|100|19|8|W 3|True|False|0|197912080GSW
+28|28|Sun, Dec 9, 1979||Chicago Bulls|112|121|19|9|L 1|False|True|0|197912090SEA
+29|29|Tue, Dec 11, 1979||Milwaukee Bucks|103|99|20|9|W 1|True|False|0|197912110MIL
+30|30|Wed, Dec 12, 1979||Indiana Pacers|112|107|21|9|W 2|True|False|0|197912120IND
+31|31|Fri, Dec 14, 1979||Houston Rockets|109|101|22|9|W 3|True|True|0|197912140SEA
+32|32|Sun, Dec 16, 1979||Denver Nuggets|123|121|23|9|W 4|True|True|0|197912160SEA
+33|33|Wed, Dec 19, 1979||New Jersey Nets|114|122|23|10|L 1|False|True|0|197912190SEA
+34|34|Fri, Dec 21, 1979||New York Knicks|121|102|24|10|W 1|True|True|0|197912210SEA
+35|35|Sun, Dec 23, 1979||Los Angeles Lakers|97|102|24|11|L 1|False|False|0|197912230LAL
+36|36|Wed, Dec 26, 1979||San Diego Clippers|124|104|25|11|W 1|True|True|0|197912260SEA
+37|37|Fri, Dec 28, 1979||Portland Trail Blazers|126|97|26|11|W 2|True|True|0|197912280SEA
+38|38|Sun, Dec 30, 1979||Portland Trail Blazers|107|100|27|11|W 3|True|False|0|197912300POR
+39|39|Wed, Jan 2, 1980||Washington Bullets|134|139|27|12|L 1|False|True|2|198001020SEA
+40|40|Fri, Jan 4, 1980||Detroit Pistons|123|105|28|12|W 1|True|True|0|198001040SEA
+41|41|Sat, Jan 5, 1980||Golden State Warriors|121|112|29|12|W 2|True|False|0|198001050GSW
+42|42|Sun, Jan 6, 1980||San Diego Clippers|103|105|29|13|L 1|False|False|0|198001060SDC
+43|43|Wed, Jan 9, 1980||Indiana Pacers|120|111|30|13|W 1|True|True|0|198001090SEA
+44|44|Fri, Jan 11, 1980||Utah Jazz|100|90|31|13|W 2|True|True|0|198001110SEA
+45|45|Sat, Jan 12, 1980||Denver Nuggets|105|102|32|13|W 3|True|False|0|198001120DEN
+46|46|Sun, Jan 13, 1980||Golden State Warriors|109|101|33|13|W 4|True|True|0|198001130SEA
+47|47|Tue, Jan 15, 1980||Washington Bullets|120|100|34|13|W 5|True|False|0|198001150WSB
+48|48|Fri, Jan 18, 1980||New York Knicks|124|117|35|13|W 6|True|False|0|198001180NYK
+49|49|Sun, Jan 20, 1980||Boston Celtics|108|106|36|13|W 7|True|False|2|198001200BOS
+50|50|Wed, Jan 23, 1980||Atlanta Hawks|98|96|37|13|W 8|True|False|0|198001230ATL
+51|51|Fri, Jan 25, 1980||San Antonio Spurs|116|125|37|14|L 1|False|False|0|198001250SAS
+52|52|Sat, Jan 26, 1980||Houston Rockets|111|123|37|15|L 2|False|False|0|198001260HOU
+53|53|Wed, Jan 30, 1980||Kansas City Kings|97|99|37|16|L 3|False|True|0|198001300SEA
+54|54|Thu, Jan 31, 1980||Milwaukee Bucks|105|101|38|16|W 1|True|True|0|198001310SEA
+55|55|Tue, Feb 5, 1980||Cleveland Cavaliers|123|121|39|16|W 2|True|False|0|198002050CLE
+56|56|Thu, Feb 7, 1980||Detroit Pistons|119|102|40|16|W 3|True|False|0|198002070DET
+57|57|Fri, Feb 8, 1980||Philadelphia 76ers|109|94|41|16|W 4|True|False|0|198002080PHI
+58|58|Sun, Feb 10, 1980||New Jersey Nets|122|107|42|16|W 5|True|False|0|198002100NJN
+59|59|Wed, Feb 13, 1980||Atlanta Hawks|93|86|43|16|W 6|True|True|0|198002130SEA
+60|60|Thu, Feb 14, 1980||Denver Nuggets|93|84|44|16|W 7|True|True|0|198002140SEA
+61|61|Sun, Feb 17, 1980||Boston Celtics|109|108|45|16|W 8|True|True|0|198002170SEA
+62|62|Tue, Feb 19, 1980||Chicago Bulls|106|115|45|17|L 1|False|False|0|198002190CHI
+63|63|Wed, Feb 20, 1980||Kansas City Kings|105|107|45|18|L 2|False|False|0|198002200KCK
+64|64|Sat, Feb 23, 1980||Utah Jazz|105|95|46|18|W 1|True|False|0|198002230UTA
+65|65|Tue, Feb 26, 1980||Los Angeles Lakers|108|131|46|19|L 1|False|False|0|198002260LAL
+66|66|Wed, Feb 27, 1980||Philadelphia 76ers|98|101|46|20|L 2|False|True|1|198002270SEA
+67|67|Fri, Feb 29, 1980||Chicago Bulls|108|101|47|20|W 1|True|True|0|198002290SEA
+68|68|Sun, Mar 2, 1980||Utah Jazz|103|91|48|20|W 2|True|True|0|198003020SEA
+69|69|Tue, Mar 4, 1980||Portland Trail Blazers|98|97|49|20|W 3|True|False|0|198003040POR
+70|70|Wed, Mar 5, 1980||Phoenix Suns|111|127|49|21|L 1|False|False|0|198003050PHO
+71|71|Sat, Mar 8, 1980||Denver Nuggets|104|97|50|21|W 1|True|False|0|198003080DEN
+72|72|Sun, Mar 9, 1980||Kansas City Kings|93|113|50|22|L 1|False|False|0|198003090KCK
+73|73|Wed, Mar 12, 1980||Milwaukee Bucks|103|112|50|23|L 2|False|False|0|198003120MIL
+74|74|Fri, Mar 14, 1980||Chicago Bulls|122|101|51|23|W 1|True|False|0|198003140CHI
+75|75|Wed, Mar 19, 1980||Milwaukee Bucks|106|108|51|24|L 1|False|True|0|198003190SEA
+76|76|Fri, Mar 21, 1980||San Diego Clippers|107|104|52|24|W 1|True|True|0|198003210SEA
+77|77|Sat, Mar 22, 1980||Los Angeles Lakers|92|97|52|25|L 1|False|True|0|198003220SEA
+78|78|Sun, Mar 23, 1980||Kansas City Kings|112|90|53|25|W 1|True|True|0|198003230SEA
+79|79|Tue, Mar 25, 1980||Phoenix Suns|104|95|54|25|W 2|True|True|0|198003250SEA
+80|80|Wed, Mar 26, 1980||Phoenix Suns|99|109|54|26|L 1|False|False|0|198003260PHO
+81|81|Fri, Mar 28, 1980||Golden State Warriors|108|82|55|26|W 1|True|True|0|198003280SEA
+82|82|Sun, Mar 30, 1980||Portland Trail Blazers|135|104|56|26|W 2|True|True|0|198003300SEA

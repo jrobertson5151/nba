@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Tue, Oct 25, 2016|10:30p|San Antonio Spurs|100|129|0|1|L 1|False|True|0|201610250GSW
+2|2|Fri, Oct 28, 2016|9:30p|New Orleans Pelicans|122|114|1|1|W 1|True|False|0|201610280NOP
+3|3|Sun, Oct 30, 2016|6:00p|Phoenix Suns|106|100|2|1|W 2|True|False|0|201610300PHO
+4|4|Tue, Nov 1, 2016|10:00p|Portland Trail Blazers|127|104|3|1|W 3|True|False|0|201611010POR
+5|5|Thu, Nov 3, 2016|10:30p|Oklahoma City Thunder|122|96|4|1|W 4|True|True|0|201611030GSW
+6|6|Fri, Nov 4, 2016|10:30p|Los Angeles Lakers|97|117|4|2|L 1|False|False|0|201611040LAL
+7|7|Mon, Nov 7, 2016|10:30p|New Orleans Pelicans|116|106|5|2|W 1|True|True|0|201611070GSW
+8|8|Wed, Nov 9, 2016|10:30p|Dallas Mavericks|116|95|6|2|W 2|True|True|0|201611090GSW
+9|9|Thu, Nov 10, 2016|9:00p|Denver Nuggets|125|101|7|2|W 3|True|False|0|201611100DEN
+10|10|Sun, Nov 13, 2016|8:00p|Phoenix Suns|133|120|8|2|W 4|True|True|0|201611130GSW
+11|11|Wed, Nov 16, 2016|8:00p|Toronto Raptors|127|121|9|2|W 5|True|False|0|201611160TOR
+12|12|Fri, Nov 18, 2016|8:00p|Boston Celtics|104|88|10|2|W 6|True|False|0|201611180BOS
+13|13|Sat, Nov 19, 2016|8:30p|Milwaukee Bucks|124|121|11|2|W 7|True|False|0|201611190MIL
+14|14|Mon, Nov 21, 2016|7:00p|Indiana Pacers|120|83|12|2|W 8|True|False|0|201611210IND
+15|15|Wed, Nov 23, 2016|10:30p|Los Angeles Lakers|149|106|13|2|W 9|True|True|0|201611230GSW
+16|16|Fri, Nov 25, 2016|10:30p|Los Angeles Lakers|109|85|14|2|W 10|True|False|0|201611250LAL
+17|17|Sat, Nov 26, 2016|10:30p|Minnesota Timberwolves|115|102|15|2|W 11|True|True|0|201611260GSW
+18|18|Mon, Nov 28, 2016|10:30p|Atlanta Hawks|105|100|16|2|W 12|True|True|0|201611280GSW
+19|19|Thu, Dec 1, 2016|10:30p|Houston Rockets|127|132|16|3|L 1|False|True|2|201612010GSW
+20|20|Sat, Dec 3, 2016|10:30p|Phoenix Suns|138|109|17|3|W 1|True|True|0|201612030GSW
+21|21|Mon, Dec 5, 2016|10:30p|Indiana Pacers|142|106|18|3|W 2|True|True|0|201612050GSW
+22|22|Wed, Dec 7, 2016|10:30p|Los Angeles Clippers|115|98|19|3|W 3|True|False|0|201612070LAC
+23|23|Thu, Dec 8, 2016|9:00p|Utah Jazz|106|99|20|3|W 4|True|False|0|201612080UTA
+24|24|Sat, Dec 10, 2016|8:00p|Memphis Grizzlies|89|110|20|4|L 1|False|False|0|201612100MEM
+25|25|Sun, Dec 11, 2016|7:00p|Minnesota Timberwolves|116|108|21|4|W 1|True|False|0|201612110MIN
+26|26|Tue, Dec 13, 2016|8:00p|New Orleans Pelicans|113|109|22|4|W 2|True|False|0|201612130NOP
+27|27|Thu, Dec 15, 2016|10:30p|New York Knicks|103|90|23|4|W 3|True|True|0|201612150GSW
+28|28|Sat, Dec 17, 2016|10:30p|Portland Trail Blazers|135|90|24|4|W 4|True|True|0|201612170GSW
+29|29|Tue, Dec 20, 2016|10:30p|Utah Jazz|104|74|25|4|W 5|True|True|0|201612200GSW
+30|30|Thu, Dec 22, 2016|7:30p|Brooklyn Nets|117|101|26|4|W 6|True|False|0|201612220BRK
+31|31|Fri, Dec 23, 2016|7:30p|Detroit Pistons|119|113|27|4|W 7|True|False|0|201612230DET
+32|32|Sun, Dec 25, 2016|2:30p|Cleveland Cavaliers|108|109|27|5|L 1|False|False|0|201612250CLE
+33|33|Wed, Dec 28, 2016|10:30p|Toronto Raptors|121|111|28|5|W 1|True|True|0|201612280GSW
+34|34|Fri, Dec 30, 2016|10:30p|Dallas Mavericks|108|99|29|5|W 2|True|True|0|201612300GSW
+35|35|Mon, Jan 2, 2017|10:30p|Denver Nuggets|127|119|30|5|W 3|True|True|0|201701020GSW
+36|36|Wed, Jan 4, 2017|10:30p|Portland Trail Blazers|125|117|31|5|W 4|True|True|0|201701040GSW
+37|37|Fri, Jan 6, 2017|10:30p|Memphis Grizzlies|119|128|31|6|L 1|False|True|1|201701060GSW
+38|38|Sun, Jan 8, 2017|9:00p|Sacramento Kings|117|106|32|6|W 1|True|False|0|201701080SAC
+39|39|Tue, Jan 10, 2017|10:30p|Miami Heat|107|95|33|6|W 2|True|True|0|201701100GSW
+40|40|Thu, Jan 12, 2017|10:30p|Detroit Pistons|127|107|34|6|W 3|True|True|0|201701120GSW
+41|41|Mon, Jan 16, 2017|8:00p|Cleveland Cavaliers|126|91|35|6|W 4|True|True|0|201701160GSW
+42|42|Wed, Jan 18, 2017|10:30p|Oklahoma City Thunder|121|100|36|6|W 5|True|True|0|201701180GSW
+43|43|Fri, Jan 20, 2017|8:00p|Houston Rockets|125|108|37|6|W 6|True|False|0|201701200HOU
+44|44|Sun, Jan 22, 2017|12:00p|Orlando Magic|118|98|38|6|W 7|True|False|0|201701220ORL
+45|45|Mon, Jan 23, 2017|7:30p|Miami Heat|102|105|38|7|L 1|False|False|0|201701230MIA
+46|46|Wed, Jan 25, 2017|8:00p|Charlotte Hornets|113|103|39|7|W 1|True|False|0|201701250CHO
+47|47|Sat, Jan 28, 2017|8:30p|Los Angeles Clippers|144|98|40|7|W 2|True|True|0|201701280GSW
+48|48|Sun, Jan 29, 2017|9:00p|Portland Trail Blazers|113|111|41|7|W 3|True|False|0|201701290POR
+49|49|Wed, Feb 1, 2017|10:30p|Charlotte Hornets|126|111|42|7|W 4|True|True|0|201702010GSW
+50|50|Thu, Feb 2, 2017|10:30p|Los Angeles Clippers|133|120|43|7|W 5|True|False|0|201702020LAC
+51|51|Sat, Feb 4, 2017|10:30p|Sacramento Kings|106|109|43|8|L 1|False|False|1|201702040SAC
+52|52|Wed, Feb 8, 2017|10:30p|Chicago Bulls|123|92|44|8|W 1|True|True|0|201702080GSW
+53|53|Fri, Feb 10, 2017|8:00p|Memphis Grizzlies|122|107|45|8|W 2|True|False|0|201702100MEM
+54|54|Sat, Feb 11, 2017|8:30p|Oklahoma City Thunder|130|114|46|8|W 3|True|False|0|201702110OKC
+55|55|Mon, Feb 13, 2017|9:00p|Denver Nuggets|110|132|46|9|L 1|False|False|0|201702130DEN
+56|56|Wed, Feb 15, 2017|10:30p|Sacramento Kings|109|86|47|9|W 1|True|True|0|201702150GSW
+57|57|Thu, Feb 23, 2017|10:30p|Los Angeles Clippers|123|113|48|9|W 2|True|True|0|201702230GSW
+58|58|Sat, Feb 25, 2017|10:30p|Brooklyn Nets|112|95|49|9|W 3|True|True|0|201702250GSW
+59|59|Mon, Feb 27, 2017|7:00p|Philadelphia 76ers|119|108|50|9|W 4|True|False|0|201702270PHI
+60|60|Tue, Feb 28, 2017|7:00p|Washington Wizards|108|112|50|10|L 1|False|False|0|201702280WAS
+61|61|Thu, Mar 2, 2017|8:00p|Chicago Bulls|87|94|50|11|L 2|False|False|0|201703020CHI
+62|62|Sun, Mar 5, 2017|3:30p|New York Knicks|112|105|51|11|W 1|True|False|0|201703050NYK
+63|63|Mon, Mar 6, 2017|7:30p|Atlanta Hawks|119|111|52|11|W 2|True|False|0|201703060ATL
+64|64|Wed, Mar 8, 2017|10:30p|Boston Celtics|86|99|52|12|L 1|False|True|0|201703080GSW
+65|65|Fri, Mar 10, 2017|8:00p|Minnesota Timberwolves|102|103|52|13|L 2|False|False|0|201703100MIN
+66|66|Sat, Mar 11, 2017|8:30p|San Antonio Spurs|85|107|52|14|L 3|False|False|0|201703110SAS
+67|67|Tue, Mar 14, 2017|10:30p|Philadelphia 76ers|106|104|53|14|W 1|True|True|0|201703140GSW
+68|68|Thu, Mar 16, 2017|10:30p|Orlando Magic|122|92|54|14|W 2|True|True|0|201703160GSW
+69|69|Sat, Mar 18, 2017|10:30p|Milwaukee Bucks|117|92|55|14|W 3|True|True|0|201703180GSW
+70|70|Mon, Mar 20, 2017|8:00p|Oklahoma City Thunder|111|95|56|14|W 4|True|False|0|201703200OKC
+71|71|Tue, Mar 21, 2017|8:30p|Dallas Mavericks|112|87|57|14|W 5|True|False|0|201703210DAL
+72|72|Fri, Mar 24, 2017|10:30p|Sacramento Kings|114|100|58|14|W 6|True|True|0|201703240GSW
+73|73|Sun, Mar 26, 2017|8:00p|Memphis Grizzlies|106|94|59|14|W 7|True|True|0|201703260GSW
+74|74|Tue, Mar 28, 2017|8:00p|Houston Rockets|113|106|60|14|W 8|True|False|0|201703280HOU
+75|75|Wed, Mar 29, 2017|9:30p|San Antonio Spurs|110|98|61|14|W 9|True|False|0|201703290SAS
+76|76|Fri, Mar 31, 2017|10:30p|Houston Rockets|107|98|62|14|W 10|True|True|0|201703310GSW
+77|77|Sun, Apr 2, 2017|8:00p|Washington Wizards|139|115|63|14|W 11|True|True|0|201704020GSW
+78|78|Tue, Apr 4, 2017|10:30p|Minnesota Timberwolves|121|107|64|14|W 12|True|True|0|201704040GSW
+79|79|Wed, Apr 5, 2017|10:00p|Phoenix Suns|120|111|65|14|W 13|True|False|0|201704050PHO
+80|80|Sat, Apr 8, 2017|10:30p|New Orleans Pelicans|123|101|66|14|W 14|True|True|0|201704080GSW
+81|81|Mon, Apr 10, 2017|10:30p|Utah Jazz|99|105|66|15|L 1|False|True|0|201704100GSW
+82|82|Wed, Apr 12, 2017|10:30p|Los Angeles Lakers|109|94|67|15|W 1|True|True|0|201704120GSW

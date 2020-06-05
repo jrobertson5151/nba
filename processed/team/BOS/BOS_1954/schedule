@@ -1,0 +1,73 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Sat, Oct 30, 1954||Rochester Royals|95|98|0|1|L 1|False|False|0|195410300ROC
+2|2|Sun, Oct 31, 1954||Fort Wayne Pistons|86|90|0|2|L 2|False|False|0|195410310FTW
+3|3|Sat, Nov 6, 1954||Syracuse Nationals|107|84|1|2|W 1|True|True|0|195411060BOS
+4|4|Thu, Nov 11, 1954||Milwaukee Hawks|85|95|1|3|L 1|False|True|0|195411110BOS
+5|5|Tue, Nov 16, 1954||Rochester Royals|99|98|2|3|W 1|True|True|0|195411160BOS
+6|6|Sat, Nov 20, 1954||New York Knicks|117|98|3|3|W 2|True|False|0|195411200NYK
+7|7|Sun, Nov 21, 1954||Syracuse Nationals|104|110|3|4|L 1|False|False|0|195411210SYR
+8|8|Wed, Nov 24, 1954||New York Knicks|108|103|4|4|W 1|True|True|0|195411240BOS
+9|9|Thu, Nov 25, 1954||Philadelphia Warriors|98|103|4|5|L 1|False|False|0|195411250PHW
+10|10|Sat, Nov 27, 1954||Rochester Royals|101|107|4|6|L 2|False|False|0|195411270ROC
+11|11|Sun, Nov 28, 1954||Minneapolis Lakers|108|115|4|7|L 3|False|False|0|195411280MNL
+12|12|Tue, Nov 30, 1954||Milwaukee Hawks|118|99|5|7|W 1|True|False|0|195411300MLH
+13|13|Wed, Dec 1, 1954||Milwaukee Hawks|101|90|6|7|W 2|True|True|0|195412010BOS
+14|14|Thu, Dec 2, 1954||Fort Wayne Pistons|98|116|6|8|L 1|False|False|0|195412020FTW
+15|15|Sat, Dec 4, 1954||Rochester Royals|110|102|7|8|W 1|True|True|0|195412040BOS
+16|16|Tue, Dec 7, 1954||Rochester Royals|95|93|8|8|W 2|True|True|0|195412070BOS
+17|17|Wed, Dec 8, 1954||Minneapolis Lakers|99|101|8|9|L 1|False|True|0|195412080BOS
+18|18|Thu, Dec 9, 1954||Syracuse Nationals|107|120|8|10|L 2|False|False|0|195412090SYR
+19|19|Sat, Dec 11, 1954||Syracuse Nationals|94|90|9|10|W 1|True|True|0|195412110BOS
+20|20|Sun, Dec 12, 1954||Fort Wayne Pistons|99|100|9|11|L 1|False|False|0|195412120FTW
+21|21|Tue, Dec 14, 1954||Minneapolis Lakers|115|108|10|11|W 1|True|True|0|195412140BOS
+22|22|Wed, Dec 15, 1954||Milwaukee Hawks|117|106|11|11|W 2|True|True|0|195412150BOS
+23|23|Sat, Dec 18, 1954||Philadelphia Warriors|107|103|12|11|W 3|True|True|0|195412180BOS
+24|24|Sun, Dec 19, 1954||New York Knicks|81|93|12|12|L 1|False|False|0|195412190NYK
+25|25|Sat, Dec 25, 1954||Milwaukee Hawks|108|99|13|12|W 1|True|False|0|195412250MLH
+26|26|Sun, Dec 26, 1954||Minneapolis Lakers|82|87|13|13|L 1|False|False|0|195412260MNL
+27|27|Wed, Dec 29, 1954||Minneapolis Lakers|118|129|13|14|L 2|False|True|1|195412290BOS
+28|28|Fri, Dec 31, 1954||Philadelphia Warriors|119|113|14|14|W 1|True|True|0|195412310BOS
+29|29|Sat, Jan 1, 1955||Syracuse Nationals|102|108|14|15|L 1|False|False|0|195501010SYR
+30|30|Sun, Jan 2, 1955||New York Knicks|113|96|15|15|W 1|True|True|0|195501020BOS
+31|31|Thu, Jan 6, 1955||New York Knicks|83|88|15|16|L 1|False|False|0|195501060NYK
+32|32|Sat, Jan 8, 1955||Philadelphia Warriors|117|105|16|16|W 1|True|True|0|195501080BOS
+33|33|Sun, Jan 9, 1955||Rochester Royals|98|92|17|16|W 2|True|True|0|195501090BOS
+34|34|Tue, Jan 11, 1955||Fort Wayne Pistons|119|110|18|16|W 3|True|False|0|195501110FTW
+35|35|Thu, Jan 13, 1955||New York Knicks|116|100|19|16|W 4|True|True|0|195501130BOS
+36|36|Fri, Jan 14, 1955||Minneapolis Lakers|100|95|20|16|W 5|True|True|0|195501140BOS
+37|37|Sun, Jan 16, 1955||New York Knicks|102|98|21|16|W 6|True|True|0|195501160BOS
+38|38|Wed, Jan 19, 1955||Fort Wayne Pistons|84|105|21|17|L 1|False|True|0|195501190BOS
+39|39|Thu, Jan 20, 1955||Syracuse Nationals|87|92|21|18|L 2|False|False|0|195501200SYR
+40|40|Fri, Jan 21, 1955||Philadelphia Warriors|90|89|22|18|W 1|True|True|0|195501210BOS
+41|41|Sat, Jan 22, 1955||Rochester Royals|110|121|22|19|L 1|False|False|0|195501220ROC
+42|42|Sun, Jan 23, 1955||Philadelphia Warriors|94|91|23|19|W 1|True|True|1|195501230BOS
+43|43|Wed, Jan 26, 1955||Fort Wayne Pistons|99|90|24|19|W 2|True|True|0|195501260BOS
+44|44|Thu, Jan 27, 1955||Rochester Royals|92|98|24|20|L 1|False|True|0|195501270BOS
+45|45|Fri, Jan 28, 1955||Syracuse Nationals|101|90|25|20|W 1|True|True|0|195501280BOS
+46|46|Sun, Jan 30, 1955||Milwaukee Hawks|79|88|25|21|L 1|False|True|0|195501300BOS
+47|47|Wed, Feb 2, 1955||Philadelphia Warriors|107|122|25|22|L 2|False|True|0|195502020BOS
+48|48|Fri, Feb 4, 1955||Syracuse Nationals|114|88|26|22|W 1|True|True|0|195502040BOS
+49|49|Sat, Feb 5, 1955||New York Knicks|107|115|26|23|L 1|False|False|0|195502050NYK
+50|50|Sun, Feb 6, 1955||Philadelphia Warriors|109|113|26|24|L 2|False|True|0|195502060BOS
+51|51|Tue, Feb 8, 1955||Syracuse Nationals|88|115|26|25|L 3|False|True|0|195502080BOS
+52|52|Wed, Feb 9, 1955||Syracuse Nationals|104|94|27|25|W 1|True|True|0|195502090BOS
+53|53|Fri, Feb 11, 1955||Philadelphia Warriors|101|105|27|26|L 1|False|False|0|195502110PHW
+54|54|Sun, Feb 13, 1955||New York Knicks|103|105|27|27|L 2|False|True|0|195502130BOS
+55|55|Tue, Feb 15, 1955||Milwaukee Hawks|106|103|28|27|W 1|True|True|1|195502150BOS
+56|56|Thu, Feb 17, 1955||Syracuse Nationals|93|107|28|28|L 1|False|False|0|195502170SYR
+57|57|Sun, Feb 20, 1955||Philadelphia Warriors|114|99|29|28|W 1|True|True|0|195502200BOS
+58|58|Tue, Feb 22, 1955||Syracuse Nationals|97|95|30|28|W 2|True|True|0|195502220BOS
+59|59|Wed, Feb 23, 1955||Milwaukee Hawks|103|120|30|29|L 1|False|True|0|195502230BOS
+60|60|Thu, Feb 24, 1955||Minneapolis Lakers|98|112|30|30|L 2|False|False|0|195502240MNL
+61|61|Fri, Feb 25, 1955||Minneapolis Lakers|107|104|31|30|W 1|True|True|0|195502250BOS
+62|62|Sun, Feb 27, 1955||Milwaukee Hawks|62|57|32|30|W 2|True|True|0|195502270BOS
+63|63|Tue, Mar 1, 1955||Fort Wayne Pistons|98|118|32|31|L 1|False|True|0|195503010BOS
+64|64|Fri, Mar 4, 1955||Minneapolis Lakers|106|121|32|32|L 2|False|True|0|195503040BOS
+65|65|Sat, Mar 5, 1955||Philadelphia Warriors|89|95|32|33|L 3|False|False|0|195503050PHW
+66|66|Sun, Mar 6, 1955||Fort Wayne Pistons|108|104|33|33|W 1|True|True|0|195503060BOS
+67|67|Mon, Mar 7, 1955||Fort Wayne Pistons|110|91|34|33|W 2|True|True|0|195503070BOS
+68|68|Tue, Mar 8, 1955||Philadelphia Warriors|112|103|35|33|W 3|True|True|0|195503080BOS
+69|69|Thu, Mar 10, 1955||New York Knicks|95|114|35|34|L 1|False|False|0|195503100NYK
+70|70|Fri, Mar 11, 1955||New York Knicks|95|97|35|35|L 2|False|True|0|195503110BOS
+71|71|Sat, Mar 12, 1955||Rochester Royals|103|105|35|36|L 3|False|False|0|195503120ROC
+72|72|Sun, Mar 13, 1955||New York Knicks|112|101|36|36|W 1|True|True|0|195503130BOS

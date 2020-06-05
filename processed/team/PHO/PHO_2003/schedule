@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Tue, Oct 28, 2003|8:00p|San Antonio Spurs|82|83|0|1|L 1|False|False|0|200310280SAS
+2|2|Thu, Oct 30, 2003|10:30p|Cleveland Cavaliers|95|86|1|1|W 1|True|True|0|200310300PHO
+3|3|Sat, Nov 1, 2003|9:00p|Los Angeles Lakers|99|103|1|2|L 1|False|True|0|200311010PHO
+4|4|Wed, Nov 5, 2003|9:00p|Utah Jazz|80|91|1|3|L 2|False|False|0|200311050UTA
+5|5|Fri, Nov 7, 2003|9:00p|Memphis Grizzlies|96|88|2|3|W 1|True|True|0|200311070PHO
+6|6|Mon, Nov 10, 2003|10:30p|Golden State Warriors|99|96|3|3|W 2|True|False|0|200311100GSW
+7|7|Wed, Nov 12, 2003|9:00p|Atlanta Hawks|94|99|3|4|L 1|False|True|0|200311120PHO
+8|8|Fri, Nov 14, 2003|8:30p|Houston Rockets|85|90|3|5|L 2|False|False|0|200311140HOU
+9|9|Sat, Nov 15, 2003|9:00p|Detroit Pistons|91|100|3|6|L 3|False|True|0|200311150PHO
+10|10|Tue, Nov 18, 2003|9:00p|Chicago Bulls|95|82|4|6|W 1|True|True|0|200311180PHO
+11|11|Thu, Nov 20, 2003|10:00p|Orlando Magic|96|89|5|6|W 2|True|True|0|200311200PHO
+12|12|Sat, Nov 22, 2003|9:00p|Miami Heat|100|98|6|6|W 3|True|True|0|200311220PHO
+13|13|Tue, Nov 25, 2003|9:00p|Denver Nuggets|80|110|6|7|L 1|False|False|0|200311250DEN
+14|14|Wed, Nov 26, 2003|9:00p|Dallas Mavericks|121|90|7|7|W 1|True|True|0|200311260PHO
+15|15|Fri, Nov 28, 2003|9:00p|Golden State Warriors|83|92|7|8|L 1|False|True|0|200311280PHO
+16|16|Mon, Dec 1, 2003|9:00p|Indiana Pacers|82|89|7|9|L 2|False|True|0|200312010PHO
+17|17|Wed, Dec 3, 2003|9:00p|Minnesota Timberwolves|79|92|7|10|L 3|False|True|0|200312030PHO
+18|18|Fri, Dec 5, 2003|7:30p|Boston Celtics|110|106|8|10|W 1|True|False|0|200312050BOS
+19|19|Sat, Dec 6, 2003|7:30p|New Jersey Nets|88|99|8|11|L 1|False|False|0|200312060NJN
+20|20|Mon, Dec 8, 2003|7:00p|Orlando Magic|98|105|8|12|L 2|False|False|0|200312080ORL
+21|21|Tue, Dec 9, 2003|7:30p|Miami Heat|72|92|8|13|L 3|False|False|0|200312090MIA
+22|22|Thu, Dec 11, 2003|10:00p|New Orleans Hornets|101|111|8|14|L 4|False|True|0|200312110PHO
+23|23|Sat, Dec 13, 2003|10:30p|Los Angeles Clippers|91|106|8|15|L 5|False|False|0|200312130LAC
+24|24|Sun, Dec 14, 2003|9:00p|Sacramento Kings|102|107|8|16|L 6|False|False|0|200312140SAC
+25|25|Tue, Dec 16, 2003|9:00p|Seattle SuperSonics|92|91|9|16|W 1|True|True|1|200312160PHO
+26|26|Thu, Dec 18, 2003|10:00p|Portland Trail Blazers|94|101|9|17|L 1|False|False|0|200312180POR
+27|27|Sat, Dec 20, 2003|9:00p|Houston Rockets|102|87|10|17|W 1|True|True|0|200312200PHO
+28|28|Sun, Dec 21, 2003|9:30p|Los Angeles Lakers|101|107|10|18|L 1|False|False|0|200312210LAL
+29|29|Tue, Dec 23, 2003|10:00p|Seattle SuperSonics|90|116|10|19|L 2|False|False|0|200312230SEA
+30|30|Fri, Dec 26, 2003|9:00p|Boston Celtics|102|104|10|20|L 3|False|True|0|200312260PHO
+31|31|Sun, Dec 28, 2003|8:00p|Philadelphia 76ers|100|92|11|20|W 1|True|True|0|200312280PHO
+32|32|Mon, Dec 29, 2003|10:30p|Los Angeles Clippers|113|105|12|20|W 2|True|False|0|200312290LAC
+33|33|Fri, Jan 2, 2004|8:00p|Detroit Pistons|81|93|12|21|L 1|False|False|0|200401020DET
+34|34|Sun, Jan 4, 2004|1:00p|Toronto Raptors|73|83|12|22|L 2|False|False|0|200401040TOR
+35|35|Mon, Jan 5, 2004|8:30p|Chicago Bulls|82|87|12|23|L 3|False|False|0|200401050CHI
+36|36|Wed, Jan 7, 2004|8:00p|Milwaukee Bucks|87|95|12|24|L 4|False|False|0|200401070MIL
+37|37|Fri, Jan 9, 2004|10:30p|Sacramento Kings|93|113|12|25|L 5|False|True|0|200401090PHO
+38|38|Tue, Jan 13, 2004|9:00p|Denver Nuggets|92|105|12|26|L 6|False|True|0|200401130PHO
+39|39|Thu, Jan 15, 2004|10:00p|Portland Trail Blazers|105|96|13|26|W 1|True|False|0|200401150POR
+40|40|Fri, Jan 16, 2004|9:00p|Golden State Warriors|104|93|14|26|W 2|True|True|0|200401160PHO
+41|41|Sun, Jan 18, 2004|8:00p|Portland Trail Blazers|96|92|15|26|W 3|True|True|0|200401180PHO
+42|42|Mon, Jan 19, 2004|10:30p|Los Angeles Lakers|88|85|16|26|W 4|True|False|0|200401190LAL
+43|43|Wed, Jan 21, 2004|9:00p|Denver Nuggets|92|97|16|27|L 1|False|False|0|200401210DEN
+44|44|Fri, Jan 23, 2004|10:30p|San Antonio Spurs|84|86|16|28|L 2|False|True|0|200401230PHO
+45|45|Sun, Jan 25, 2004|3:30p|Minnesota Timberwolves|95|99|16|29|L 3|False|False|0|200401250MIN
+46|46|Tue, Jan 27, 2004|7:30p|Atlanta Hawks|89|85|17|29|W 1|True|False|0|200401270ATL
+47|47|Wed, Jan 28, 2004|7:00p|Indiana Pacers|79|101|17|30|L 1|False|False|0|200401280IND
+48|48|Fri, Jan 30, 2004|7:00p|Washington Wizards|100|105|17|31|L 2|False|False|0|200401300WAS
+49|49|Sat, Jan 31, 2004|7:30p|New York Knicks|105|110|17|32|L 3|False|False|0|200401310NYK
+50|50|Mon, Feb 2, 2004|9:00p|Houston Rockets|99|79|18|32|W 1|True|True|0|200402020PHO
+51|51|Wed, Feb 4, 2004|9:00p|Portland Trail Blazers|97|101|18|33|L 1|False|True|0|200402040PHO
+52|52|Fri, Feb 6, 2004|9:00p|Seattle SuperSonics|105|107|18|34|L 2|False|True|0|200402060PHO
+53|53|Sat, Feb 7, 2004|9:00p|Utah Jazz|92|96|18|35|L 3|False|True|0|200402070PHO
+54|54|Tue, Feb 10, 2004|10:00p|Toronto Raptors|94|101|18|36|L 4|False|True|0|200402100PHO
+55|55|Wed, Feb 11, 2004|10:30p|Golden State Warriors|99|110|18|37|L 5|False|False|0|200402110GSW
+56|56|Tue, Feb 17, 2004|8:00p|Minnesota Timberwolves|95|110|18|38|L 6|False|False|0|200402170MIN
+57|57|Fri, Feb 20, 2004|8:00p|Memphis Grizzlies|92|97|18|39|L 7|False|False|0|200402200MEM
+58|58|Sun, Feb 22, 2004|7:00p|Los Angeles Lakers|92|104|18|40|L 8|False|True|0|200402220PHO
+59|59|Wed, Feb 25, 2004|9:00p|New York Knicks|113|95|19|40|W 1|True|True|0|200402250PHO
+60|60|Fri, Feb 27, 2004|9:30p|Seattle SuperSonics|104|99|20|40|W 2|True|False|0|200402270SEA
+61|61|Sun, Feb 29, 2004|9:00p|Sacramento Kings|94|108|20|41|L 1|False|False|0|200402290SAC
+62|62|Wed, Mar 3, 2004|9:00p|New Jersey Nets|87|74|21|41|W 1|True|True|0|200403030PHO
+63|63|Sat, Mar 6, 2004|9:00p|San Antonio Spurs|86|107|21|42|L 1|False|True|0|200403060PHO
+64|64|Mon, Mar 8, 2004|8:30p|Dallas Mavericks|90|103|21|43|L 2|False|False|0|200403080DAL
+65|65|Fri, Mar 12, 2004|9:00p|Utah Jazz|90|99|21|44|L 3|False|True|0|200403120PHO
+66|66|Sat, Mar 13, 2004|9:00p|Dallas Mavericks|90|113|21|45|L 4|False|True|0|200403130PHO
+67|67|Mon, Mar 15, 2004|7:30p|Houston Rockets|99|97|22|45|W 1|True|False|1|200403150HOU
+68|68|Tue, Mar 16, 2004|9:00p|Los Angeles Clippers|98|110|22|46|L 1|False|True|0|200403160PHO
+69|69|Fri, Mar 19, 2004|9:00p|Minnesota Timberwolves|80|93|22|47|L 2|False|True|0|200403190PHO
+70|70|Sat, Mar 20, 2004|9:00p|Milwaukee Bucks|123|111|23|47|W 1|True|True|0|200403200PHO
+71|71|Tue, Mar 23, 2004|7:00p|Cleveland Cavaliers|103|86|24|47|W 2|True|False|0|200403230CLE
+72|72|Wed, Mar 24, 2004|7:00p|Philadelphia 76ers|94|99|24|48|L 1|False|False|0|200403240PHI
+73|73|Fri, Mar 26, 2004|8:00p|New Orleans Hornets|99|94|25|48|W 1|True|False|0|200403260NOH
+74|74|Sat, Mar 27, 2004|8:30p|San Antonio Spurs|76|105|25|49|L 1|False|False|0|200403270SAS
+75|75|Mon, Mar 29, 2004|9:00p|Washington Wizards|101|95|26|49|W 1|True|True|0|200403290PHO
+76|76|Fri, Apr 2, 2004|8:00p|Memphis Grizzlies|99|109|26|50|L 1|False|False|0|200404020MEM
+77|77|Sat, Apr 3, 2004|8:30p|Dallas Mavericks|103|124|26|51|L 2|False|False|0|200404030DAL
+78|78|Wed, Apr 7, 2004|10:00p|Denver Nuggets|96|111|26|52|L 3|False|True|0|200404070PHO
+79|79|Fri, Apr 9, 2004|10:30p|Sacramento Kings|101|96|27|52|W 1|True|True|0|200404090PHO
+80|80|Sun, Apr 11, 2004|9:00p|Memphis Grizzlies|89|83|28|52|W 2|True|True|0|200404110PHO
+81|81|Tue, Apr 13, 2004|10:00p|Los Angeles Clippers|96|98|28|53|L 1|False|True|0|200404130PHO
+82|82|Wed, Apr 14, 2004|9:00p|Utah Jazz|89|84|29|53|W 1|True|False|0|200404140UTA

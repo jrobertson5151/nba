@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Oct 24, 1975||Chicago Bulls|110|103|1|0|W 1|True|False|0|197510240CHI
+2|2|Mon, Oct 27, 1975||Los Angeles Lakers|117|104|2|0|W 2|True|True|0|197510270PHI
+3|3|Fri, Oct 31, 1975||Buffalo Braves|87|92|2|1|L 1|False|True|0|197510310PHI
+4|4|Sat, Nov 1, 1975||New York Knicks|98|110|2|2|L 2|False|False|0|197511010NYK
+5|5|Tue, Nov 4, 1975||Buffalo Braves|121|114|3|2|W 1|True|False|0|197511040BUF
+6|6|Wed, Nov 5, 1975||Chicago Bulls|115|82|4|2|W 2|True|True|0|197511050PHI
+7|7|Fri, Nov 7, 1975||Phoenix Suns|103|99|5|2|W 3|True|True|0|197511070PHI
+8|8|Tue, Nov 11, 1975||Milwaukee Bucks|81|108|5|3|L 1|False|False|0|197511110MIL
+9|9|Wed, Nov 12, 1975||Milwaukee Bucks|84|107|5|4|L 2|False|True|0|197511120PHI
+10|10|Fri, Nov 14, 1975||Boston Celtics|119|109|6|4|W 1|True|False|0|197511140BOS
+11|11|Sat, Nov 15, 1975||Washington Bullets|110|109|7|4|W 2|True|True|3|197511150PHI
+12|12|Wed, Nov 19, 1975||Kansas City Kings|113|103|8|4|W 3|True|True|0|197511190PHI
+13|13|Fri, Nov 21, 1975||Portland Trail Blazers|131|111|9|4|W 4|True|True|0|197511210PHI
+14|14|Sun, Nov 23, 1975||Atlanta Hawks|111|115|9|5|L 1|False|False|0|197511230ATL
+15|15|Tue, Nov 25, 1975||Golden State Warriors|109|108|10|5|W 1|True|True|0|197511250PHI
+16|16|Fri, Nov 28, 1975||Seattle SuperSonics|113|94|11|5|W 2|True|True|0|197511280PHI
+17|17|Sat, Nov 29, 1975||Houston Rockets|98|99|11|6|L 1|False|False|0|197511290HOU
+18|18|Sun, Nov 30, 1975||New Orleans Jazz|113|96|12|6|W 1|True|False|0|197511300NOJ
+19|19|Wed, Dec 3, 1975||New Orleans Jazz|102|94|13|6|W 2|True|True|0|197512030PHI
+20|20|Fri, Dec 5, 1975||New York Knicks|99|97|14|6|W 3|True|True|0|197512050PHI
+21|21|Sat, Dec 6, 1975||Kansas City Kings|98|84|15|6|W 4|True|False|0|197512060KCK
+22|22|Tue, Dec 9, 1975||Cleveland Cavaliers|100|85|16|6|W 5|True|True|0|197512090PHI
+23|23|Thu, Dec 11, 1975||Phoenix Suns|110|106|17|6|W 6|True|False|0|197512110PHO
+24|24|Fri, Dec 12, 1975||Los Angeles Lakers|102|114|17|7|L 1|False|False|0|197512120LAL
+25|25|Sun, Dec 14, 1975||Seattle SuperSonics|105|114|17|8|L 2|False|False|0|197512140SEA
+26|26|Tue, Dec 16, 1975||Portland Trail Blazers|105|98|18|8|W 1|True|False|0|197512160POR
+27|27|Fri, Dec 19, 1975||Detroit Pistons|115|114|19|8|W 2|True|False|1|197512190DET
+28|28|Sat, Dec 20, 1975||Boston Celtics|97|111|19|9|L 1|False|True|0|197512200PHI
+29|29|Thu, Dec 25, 1975||New York Knicks|103|111|19|10|L 2|False|False|0|197512250NYK
+30|30|Fri, Dec 26, 1975||Buffalo Braves|96|95|20|10|W 1|True|True|0|197512260PHI
+31|31|Sat, Dec 27, 1975||Buffalo Braves|105|130|20|11|L 1|False|False|0|197512270BUF
+32|32|Tue, Dec 30, 1975||Detroit Pistons|114|108|21|11|W 1|True|True|0|197512300PHI
+33|33|Fri, Jan 2, 1976||Cleveland Cavaliers|112|101|22|11|W 2|True|True|0|197601020PHI
+34|34|Sat, Jan 3, 1976||Washington Bullets|104|119|22|12|L 1|False|False|0|197601030WSB
+35|35|Wed, Jan 7, 1976||Milwaukee Bucks|112|102|23|12|W 1|True|True|0|197601070PHI
+36|36|Thu, Jan 8, 1976||Cleveland Cavaliers|105|115|23|13|L 1|False|False|0|197601080CLE
+37|37|Fri, Jan 9, 1976||Los Angeles Lakers|109|106|24|13|W 1|True|True|0|197601090PHI
+38|38|Sun, Jan 11, 1976||Boston Celtics|118|107|25|13|W 2|True|True|0|197601110PHI
+39|39|Wed, Jan 14, 1976||New Orleans Jazz|100|95|26|13|W 3|True|True|0|197601140PHI
+40|40|Fri, Jan 16, 1976||Boston Celtics|110|118|26|14|L 1|False|False|0|197601160BOS
+41|41|Sat, Jan 17, 1976||Washington Bullets|103|105|26|15|L 2|False|False|0|197601170WSB
+42|42|Tue, Jan 20, 1976||Milwaukee Bucks|111|108|27|15|W 1|True|False|0|197601200MIL
+43|43|Fri, Jan 23, 1976||New York Knicks|92|104|27|16|L 1|False|False|0|197601230NYK
+44|44|Sat, Jan 24, 1976||Atlanta Hawks|130|116|28|16|W 1|True|True|0|197601240PHI
+45|45|Sun, Jan 25, 1976||Atlanta Hawks|112|109|29|16|W 2|True|False|0|197601250ATL
+46|46|Tue, Jan 27, 1976||Houston Rockets|116|127|29|17|L 1|False|False|0|197601270HOU
+47|47|Thu, Jan 29, 1976||Golden State Warriors|114|123|29|18|L 2|False|False|0|197601290GSW
+48|48|Sat, Jan 31, 1976||Phoenix Suns|105|119|29|19|L 3|False|False|0|197601310PHO
+49|49|Sun, Feb 1, 1976||Los Angeles Lakers|82|103|29|20|L 4|False|False|0|197602010LAL
+50|50|Fri, Feb 6, 1976||Cleveland Cavaliers|87|92|29|21|L 5|False|True|0|197602060PHI
+51|51|Sun, Feb 8, 1976||Buffalo Braves|100|97|30|21|W 1|True|True|0|197602080PHI
+52|52|Tue, Feb 10, 1976||Chicago Bulls|85|84|31|21|W 2|True|False|0|197602100CHI
+53|53|Wed, Feb 11, 1976||Portland Trail Blazers|118|106|32|21|W 3|True|True|0|197602110PHI
+54|54|Fri, Feb 13, 1976||Houston Rockets|134|109|33|21|W 4|True|True|0|197602130PHI
+55|55|Sat, Feb 14, 1976||New York Knicks|97|101|33|22|L 1|False|False|1|197602140NYK
+56|56|Sun, Feb 15, 1976||New York Knicks|82|88|33|23|L 2|False|True|0|197602150PHI
+57|57|Tue, Feb 17, 1976||Kansas City Kings|107|125|33|24|L 3|False|False|0|197602170KCK
+58|58|Fri, Feb 20, 1976||Seattle SuperSonics|92|111|33|25|L 4|False|False|0|197602200SEA
+59|59|Sun, Feb 22, 1976||Golden State Warriors|93|94|33|26|L 5|False|False|0|197602220GSW
+60|60|Tue, Feb 24, 1976||Portland Trail Blazers|106|102|34|26|W 1|True|False|0|197602240POR
+61|61|Fri, Feb 27, 1976||Golden State Warriors|114|121|34|27|L 1|False|True|0|197602270PHI
+62|62|Sun, Feb 29, 1976||Seattle SuperSonics|130|115|35|27|W 1|True|True|0|197602290PHI
+63|63|Tue, Mar 2, 1976||Washington Bullets|111|128|35|28|L 1|False|False|0|197603020WSB
+64|64|Wed, Mar 3, 1976||Boston Celtics|123|110|36|28|W 1|True|True|0|197603030PHI
+65|65|Fri, Mar 5, 1976||Detroit Pistons|123|112|37|28|W 2|True|True|0|197603050PHI
+66|66|Sat, Mar 6, 1976||Buffalo Braves|99|105|37|29|L 1|False|False|0|197603060BUF
+67|67|Wed, Mar 10, 1976||Phoenix Suns|125|108|38|29|W 1|True|True|0|197603100PHI
+68|68|Fri, Mar 12, 1976||Atlanta Hawks|109|107|39|29|W 2|True|True|0|197603120PHI
+69|69|Wed, Mar 17, 1976||Chicago Bulls|108|101|40|29|W 3|True|True|0|197603170PHI
+70|70|Thu, Mar 18, 1976||Cleveland Cavaliers|104|110|40|30|L 1|False|False|0|197603180CLE
+71|71|Sat, Mar 20, 1976||Boston Celtics|96|103|40|31|L 2|False|True|1|197603200PHI
+72|72|Sun, Mar 21, 1976||Boston Celtics|100|108|40|32|L 3|False|False|0|197603210BOS
+73|73|Wed, Mar 24, 1976||New York Knicks|118|100|41|32|W 1|True|True|0|197603240PHI
+74|74|Sat, Mar 27, 1976||Houston Rockets|95|109|41|33|L 1|False|False|0|197603270HOU
+75|75|Sun, Mar 28, 1976||New Orleans Jazz|107|110|41|34|L 2|False|False|0|197603280NOJ
+76|76|Wed, Mar 31, 1976||Buffalo Braves|107|103|42|34|W 1|True|True|0|197603310PHI
+77|77|Fri, Apr 2, 1976||Washington Bullets|96|94|43|34|W 2|True|True|0|197604020PHI
+78|78|Sun, Apr 4, 1976||Detroit Pistons|97|101|43|35|L 1|False|False|0|197604040DET
+79|79|Mon, Apr 5, 1976||Houston Rockets|130|129|44|35|W 1|True|True|1|197604050PHI
+80|80|Wed, Apr 7, 1976||New Orleans Jazz|102|99|45|35|W 2|True|True|0|197604070PHI
+81|81|Fri, Apr 9, 1976||Kansas City Kings|112|108|46|35|W 3|True|True|0|197604090PHI
+82|82|Sat, Apr 10, 1976||Atlanta Hawks|109|123|46|36|L 1|False|False|0|197604100ATL

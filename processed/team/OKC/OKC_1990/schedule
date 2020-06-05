@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Sat, Nov 3, 1990||Houston Rockets|118|106|1|0|W 1|True|True|0|199011030SEA
+2|2|Tue, Nov 6, 1990||Detroit Pistons|100|92|2|0|W 2|True|True|0|199011060SEA
+3|3|Fri, Nov 9, 1990||Denver Nuggets|135|129|3|0|W 3|True|False|0|199011090DEN
+4|4|Sat, Nov 10, 1990||Golden State Warriors|100|117|3|1|L 1|False|True|0|199011100SEA
+5|5|Tue, Nov 13, 1990||New York Knicks|110|116|3|2|L 2|False|True|1|199011130SEA
+6|6|Sat, Nov 17, 1990||Chicago Bulls|95|116|3|3|L 3|False|True|0|199011170SEA
+7|7|Sun, Nov 18, 1990||Los Angeles Clippers|65|78|3|4|L 4|False|False|0|199011180LAC
+8|8|Tue, Nov 20, 1990||New Jersey Nets|105|88|4|4|W 1|True|True|0|199011200SEA
+9|9|Fri, Nov 23, 1990||Utah Jazz|96|97|4|5|L 1|False|False|0|199011230UTA
+10|10|Tue, Nov 27, 1990||San Antonio Spurs|111|124|4|6|L 2|False|True|0|199011270SEA
+11|11|Thu, Nov 29, 1990||Phoenix Suns|110|128|4|7|L 3|False|False|0|199011290PHO
+12|12|Sat, Dec 1, 1990||Portland Trail Blazers|124|130|4|8|L 4|False|True|3|199012010SEA
+13|13|Mon, Dec 3, 1990||Boston Celtics|102|135|4|9|L 5|False|False|0|199012030BOS
+14|14|Tue, Dec 4, 1990||New Jersey Nets|102|106|4|10|L 6|False|False|0|199012040NJN
+15|15|Thu, Dec 6, 1990||Miami Heat|105|103|5|10|W 1|True|False|0|199012060MIA
+16|16|Fri, Dec 7, 1990||Orlando Magic|100|106|5|11|L 1|False|False|0|199012070ORL
+17|17|Sun, Dec 9, 1990||Milwaukee Bucks|99|105|5|12|L 2|False|False|0|199012090MIL
+18|18|Wed, Dec 12, 1990||Indiana Pacers|99|90|6|12|W 1|True|True|0|199012120SEA
+19|19|Thu, Dec 13, 1990||Golden State Warriors|106|129|6|13|L 1|False|False|0|199012130GSW
+20|20|Sat, Dec 15, 1990||Dallas Mavericks|106|105|7|13|W 1|True|True|0|199012150SEA
+21|21|Tue, Dec 18, 1990||Orlando Magic|122|105|8|13|W 2|True|True|0|199012180SEA
+22|22|Thu, Dec 20, 1990||Sacramento Kings|110|75|9|13|W 3|True|False|0|199012200SAC
+23|23|Sat, Dec 22, 1990||Sacramento Kings|121|93|10|13|W 4|True|True|0|199012220SEA
+24|24|Wed, Dec 26, 1990||Cleveland Cavaliers|99|97|11|13|W 5|True|False|0|199012260CLE
+25|25|Thu, Dec 27, 1990||Washington Bullets|125|120|12|13|W 6|True|False|0|199012270WSB
+26|26|Sat, Dec 29, 1990||Chicago Bulls|91|116|12|14|L 1|False|False|0|199012290CHI
+27|27|Sun, Dec 30, 1990||Minnesota Timberwolves|106|126|12|15|L 2|False|False|0|199012300MIN
+28|28|Wed, Jan 2, 1991||Philadelphia 76ers|127|99|13|15|W 1|True|True|0|199101020SEA
+29|29|Fri, Jan 4, 1991||Miami Heat|112|86|14|15|W 2|True|True|0|199101040SEA
+30|30|Sun, Jan 6, 1991||Portland Trail Blazers|111|114|14|16|L 1|False|False|0|199101060POR
+31|31|Tue, Jan 8, 1991||Los Angeles Lakers|96|88|15|16|W 1|True|True|0|199101080SEA
+32|32|Thu, Jan 10, 1991||Golden State Warriors|103|113|15|17|L 1|False|True|0|199101100SEA
+33|33|Sat, Jan 12, 1991||Sacramento Kings|85|101|15|18|L 2|False|False|0|199101120SAC
+34|34|Tue, Jan 15, 1991||Denver Nuggets|146|99|16|18|W 1|True|True|0|199101150SEA
+35|35|Fri, Jan 18, 1991||Los Angeles Lakers|96|105|16|19|L 1|False|False|0|199101180LAL
+36|36|Sat, Jan 19, 1991||Washington Bullets|111|89|17|19|W 1|True|True|0|199101190SEA
+37|37|Tue, Jan 22, 1991||Milwaukee Bucks|132|101|18|19|W 2|True|True|0|199101220SEA
+38|38|Fri, Jan 25, 1991||Phoenix Suns|113|128|18|20|L 1|False|False|0|199101250PHO
+39|39|Sat, Jan 26, 1991||Atlanta Hawks|103|102|19|20|W 1|True|True|0|199101260SEA
+40|40|Mon, Jan 28, 1991||San Antonio Spurs|107|119|19|21|L 1|False|False|0|199101280SAS
+41|41|Tue, Jan 29, 1991||Dallas Mavericks|112|117|19|22|L 2|False|False|0|199101290DAL
+42|42|Thu, Jan 31, 1991||Houston Rockets|97|94|20|22|W 1|True|False|0|199101310HOU
+43|43|Sat, Feb 2, 1991||Indiana Pacers|100|106|20|23|L 1|False|False|0|199102020IND
+44|44|Mon, Feb 4, 1991||Charlotte Hornets|100|93|21|23|W 1|True|False|0|199102040CHH
+45|45|Wed, Feb 6, 1991||Los Angeles Clippers|107|104|22|23|W 2|True|True|0|199102060SEA
+46|46|Tue, Feb 12, 1991||Boston Celtics|111|114|22|24|L 1|False|True|0|199102120SEA
+47|47|Thu, Feb 14, 1991||Orlando Magic|102|90|23|24|W 1|True|False|0|199102140ORL
+48|48|Sat, Feb 16, 1991||Atlanta Hawks|113|122|23|25|L 1|False|False|0|199102160ATL
+49|49|Mon, Feb 18, 1991||Detroit Pistons|83|85|23|26|L 2|False|False|0|199102180DET
+50|50|Tue, Feb 19, 1991||Philadelphia 76ers|104|107|23|27|L 3|False|False|1|199102190PHI
+51|51|Thu, Feb 21, 1991||New York Knicks|120|101|24|27|W 1|True|False|0|199102210NYK
+52|52|Sat, Feb 23, 1991||Phoenix Suns|110|120|24|28|L 1|False|True|0|199102230SEA
+53|53|Sun, Feb 24, 1991||Utah Jazz|103|91|25|28|W 1|True|True|0|199102240SEA
+54|54|Tue, Feb 26, 1991||Los Angeles Clippers|93|81|26|28|W 2|True|True|0|199102260SEA
+55|55|Fri, Mar 1, 1991||Charlotte Hornets|122|105|27|28|W 3|True|True|0|199103010SEA
+56|56|Sat, Mar 2, 1991||Sacramento Kings|120|106|28|28|W 4|True|True|0|199103020SEA
+57|57|Mon, Mar 4, 1991||Golden State Warriors|105|99|29|28|W 5|True|False|0|199103040GSW
+58|58|Tue, Mar 5, 1991||Cleveland Cavaliers|111|113|29|29|L 1|False|True|1|199103050SEA
+59|59|Thu, Mar 7, 1991||Minnesota Timberwolves|91|86|30|29|W 1|True|False|0|199103070MIN
+60|60|Sat, Mar 9, 1991||San Antonio Spurs|99|112|30|30|L 1|False|False|0|199103090SAS
+61|61|Tue, Mar 12, 1991||Houston Rockets|91|93|30|31|L 2|False|False|0|199103120HOU
+62|62|Wed, Mar 13, 1991||Dallas Mavericks|96|98|30|32|L 3|False|False|0|199103130DAL
+63|63|Fri, Mar 15, 1991||Minnesota Timberwolves|96|100|30|33|L 4|False|True|1|199103150SEA
+64|64|Sat, Mar 16, 1991||Utah Jazz|98|104|30|34|L 5|False|True|1|199103160SEA
+65|65|Wed, Mar 20, 1991||Los Angeles Lakers|114|106|31|34|W 1|True|True|0|199103200SEA
+66|66|Fri, Mar 22, 1991||Phoenix Suns|111|105|32|34|W 2|True|False|0|199103220PHO
+67|67|Sun, Mar 24, 1991||Los Angeles Lakers|96|113|32|35|L 1|False|False|0|199103240LAL
+68|68|Tue, Mar 26, 1991||Portland Trail Blazers|113|126|32|36|L 2|False|False|0|199103260POR
+69|69|Wed, Mar 27, 1991||Portland Trail Blazers|107|112|32|37|L 3|False|True|0|199103270SEA
+70|70|Fri, Mar 29, 1991||Minnesota Timberwolves|117|107|33|37|W 1|True|True|0|199103290SEA
+71|71|Sat, Mar 30, 1991||Dallas Mavericks|115|102|34|37|W 2|True|True|0|199103300SEA
+72|72|Wed, Apr 3, 1991||Sacramento Kings|106|91|35|37|W 3|True|True|0|199104030SEA
+73|73|Fri, Apr 5, 1991||Los Angeles Clippers|90|109|35|38|L 1|False|False|0|199104050LAC
+74|74|Sun, Apr 7, 1991||Denver Nuggets|124|117|36|38|W 1|True|False|0|199104070DEN
+75|75|Mon, Apr 8, 1991||Denver Nuggets|118|112|37|38|W 2|True|True|0|199104080SEA
+76|76|Wed, Apr 10, 1991||Los Angeles Clippers|140|108|38|38|W 3|True|True|0|199104100SEA
+77|77|Fri, Apr 12, 1991||San Antonio Spurs|100|99|39|38|W 4|True|True|0|199104120SEA
+78|78|Sat, Apr 13, 1991||Orlando Magic|105|96|40|38|W 5|True|True|0|199104130SEA
+79|79|Mon, Apr 15, 1991||Houston Rockets|93|97|40|39|L 1|False|True|0|199104150SEA
+80|80|Thu, Apr 18, 1991||Utah Jazz|103|130|40|40|L 2|False|False|0|199104180UTA
+81|81|Fri, Apr 19, 1991||Phoenix Suns|104|93|41|40|W 1|True|True|0|199104190SEA
+82|82|Sun, Apr 21, 1991||Los Angeles Lakers|100|103|41|41|L 1|False|False|0|199104210LAL

@@ -1,0 +1,51 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Feb 5, 1999||Orlando Magic|85|93|0|1|L 1|False|False|0|199902050ORL
+2|2|Sun, Feb 7, 1999||Miami Heat|79|83|0|2|L 2|False|True|0|199902070NYK
+3|3|Wed, Feb 10, 1999||Washington Wizards|101|88|1|2|W 1|True|True|0|199902100NYK
+4|4|Thu, Feb 11, 1999||Chicago Bulls|73|68|2|2|W 2|True|False|0|199902110CHI
+5|5|Mon, Feb 15, 1999||Detroit Pistons|78|69|3|2|W 3|True|True|0|199902150NYK
+6|6|Tue, Feb 16, 1999||Toronto Raptors|95|85|4|2|W 4|True|True|0|199902160NYK
+7|7|Thu, Feb 18, 1999||Cleveland Cavaliers|74|98|4|3|L 1|False|False|0|199902180CLE
+8|8|Fri, Feb 19, 1999||Philadelphia 76ers|78|67|5|3|W 1|True|False|0|199902190PHI
+9|9|Sun, Feb 21, 1999||Chicago Bulls|79|63|6|3|W 2|True|True|0|199902210NYK
+10|10|Tue, Feb 23, 1999||New Jersey Nets|82|74|7|3|W 3|True|True|0|199902230NYK
+11|11|Thu, Feb 25, 1999||Minnesota Timberwolves|115|113|8|3|W 4|True|True|1|199902250NYK
+12|12|Fri, Feb 26, 1999||Boston Celtics|80|94|8|4|L 1|False|False|0|199902260BOS
+13|13|Sun, Feb 28, 1999||Detroit Pistons|68|89|8|5|L 2|False|False|0|199902280DET
+14|14|Mon, Mar 1, 1999||Cleveland Cavaliers|85|78|9|5|W 1|True|True|0|199903010NYK
+15|15|Tue, Mar 2, 1999||Miami Heat|84|85|9|6|L 1|False|False|1|199903020MIA
+16|16|Fri, Mar 5, 1999||Milwaukee Bucks|87|88|9|7|L 2|False|False|0|199903050MIL
+17|17|Sun, Mar 7, 1999||New Jersey Nets|97|86|10|7|W 1|True|True|0|199903070NYK
+18|18|Tue, Mar 9, 1999||Milwaukee Bucks|86|87|10|8|L 1|False|True|0|199903090NYK
+19|19|Thu, Mar 11, 1999||Washington Wizards|98|86|11|8|W 1|True|True|0|199903110NYK
+20|20|Fri, Mar 12, 1999||Chicago Bulls|63|76|11|9|L 1|False|False|0|199903120CHI
+21|21|Sun, Mar 14, 1999||Charlotte Hornets|94|86|12|9|W 1|True|True|0|199903140NYK
+22|22|Mon, Mar 15, 1999||Milwaukee Bucks|108|102|13|9|W 2|True|False|0|199903150MIL
+23|23|Tue, Mar 16, 1999||Los Angeles Clippers|113|89|14|9|W 3|True|True|0|199903160NYK
+24|24|Thu, Mar 18, 1999||Orlando Magic|78|86|14|10|L 1|False|True|0|199903180NYK
+25|25|Sat, Mar 20, 1999||Boston Celtics|96|78|15|10|W 1|True|True|0|199903200NYK
+26|26|Sun, Mar 21, 1999||Toronto Raptors|81|85|15|11|L 1|False|False|1|199903210TOR
+27|27|Mon, Mar 22, 1999||Atlanta Hawks|71|80|15|12|L 2|False|True|0|199903220NYK
+28|28|Wed, Mar 24, 1999||Sacramento Kings|91|92|15|13|L 3|False|False|0|199903240SAC
+29|29|Fri, Mar 26, 1999||Phoenix Suns|94|87|16|13|W 1|True|False|0|199903260PHO
+30|30|Sun, Mar 28, 1999||Los Angeles Lakers|91|99|16|14|L 1|False|False|0|199903280LAL
+31|31|Tue, Mar 30, 1999||Indiana Pacers|94|93|17|14|W 1|True|True|0|199903300NYK
+32|32|Thu, Apr 1, 1999||Cleveland Cavaliers|78|74|18|14|W 2|True|True|0|199904010NYK
+33|33|Sun, Apr 4, 1999||Indiana Pacers|95|108|18|15|L 1|False|False|0|199904040IND
+34|34|Tue, Apr 6, 1999||Orlando Magic|72|81|18|16|L 2|False|True|0|199904060NYK
+35|35|Wed, Apr 7, 1999||Charlotte Hornets|82|106|18|17|L 3|False|False|0|199904070CHH
+36|36|Fri, Apr 9, 1999||Atlanta Hawks|86|78|19|17|W 1|True|False|0|199904090ATL
+37|37|Sun, Apr 11, 1999||New Jersey Nets|93|78|20|17|W 2|True|False|0|199904110NJN
+38|38|Tue, Apr 13, 1999||Philadelphia 76ers|91|72|21|17|W 3|True|True|0|199904130NYK
+39|39|Wed, Apr 14, 1999||Washington Wizards|89|95|21|18|L 1|False|False|1|199904140WAS
+40|40|Fri, Apr 16, 1999||Detroit Pistons|71|80|21|19|L 2|False|False|0|199904160DET
+41|41|Sat, Apr 17, 1999||Toronto Raptors|90|93|21|20|L 3|False|True|0|199904170NYK
+42|42|Mon, Apr 19, 1999||Philadelphia 76ers|67|72|21|21|L 4|False|False|0|199904190PHI
+43|43|Fri, Apr 23, 1999||Charlotte Hornets|110|105|22|21|W 1|True|True|0|199904230NYK
+44|44|Sun, Apr 25, 1999||Miami Heat|82|80|23|21|W 2|True|False|0|199904250MIA
+45|45|Mon, Apr 26, 1999||Charlotte Hornets|91|84|24|21|W 3|True|False|0|199904260CHH
+46|46|Wed, Apr 28, 1999||Atlanta Hawks|73|76|24|22|L 1|False|False|0|199904280ATL
+47|47|Thu, Apr 29, 1999||Philadelphia 76ers|85|70|25|22|W 1|True|True|0|199904290NYK
+48|48|Sun, May 2, 1999||Indiana Pacers|71|94|25|23|L 1|False|False|0|199905020IND
+49|49|Mon, May 3, 1999||Boston Celtics|95|88|26|23|W 1|True|True|0|199905030NYK
+50|50|Wed, May 5, 1999||Miami Heat|101|88|27|23|W 2|True|True|0|199905050NYK

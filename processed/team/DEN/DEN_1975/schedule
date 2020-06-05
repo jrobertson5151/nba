@@ -1,0 +1,85 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Oct 24, 1975||San Diego Sails|120|108|1|0|W 1|True|False|0|197510240SDS
+2|2|Sat, Oct 25, 1975||Spirits of St. Louis|118|101|2|0|W 2|True|True|0|197510250DNA
+3|3|Wed, Oct 29, 1975||Utah Stars|122|117|3|0|W 3|True|True|0|197510290DNA
+4|4|Fri, Oct 31, 1975||Indiana Pacers|99|111|3|1|L 1|False|False|0|197510310INA
+5|5|Sun, Nov 2, 1975||Kentucky Colonels|103|106|3|2|L 2|False|False|0|197511020KEN
+6|6|Wed, Nov 5, 1975||Spirits of St. Louis|111|98|4|2|W 1|True|True|0|197511050DNA
+7|7|Thu, Nov 6, 1975||Utah Stars|111|105|5|2|W 2|True|False|0|197511060UTS
+8|8|Sat, Nov 8, 1975||New York Nets|128|121|6|2|W 3|True|True|0|197511080DNA
+9|9|Tue, Nov 11, 1975||Indiana Pacers|126|117|7|2|W 4|True|True|0|197511110DNA
+10|10|Fri, Nov 14, 1975||Kentucky Colonels|117|111|8|2|W 5|True|True|0|197511140DNA
+11|11|Wed, Nov 19, 1975||Spirits of St. Louis|119|106|9|2|W 6|True|False|0|197511190SSL
+12|12|Thu, Nov 20, 1975||Indiana Pacers|112|117|9|3|L 1|False|False|0|197511200INA
+13|13|Fri, Nov 21, 1975||New York Nets|116|128|9|4|L 2|False|False|0|197511210NYA
+14|14|Sat, Nov 22, 1975||Virginia Squires|144|119|10|4|W 1|True|True|0|197511220DNA
+15|15|Wed, Nov 26, 1975||Kentucky Colonels|107|115|10|5|L 1|False|True|0|197511260DNA
+16|16|Fri, Nov 28, 1975||San Antonio Spurs|140|136|11|5|W 1|True|False|1|197511280SAA
+17|17|Sat, Nov 29, 1975||San Antonio Spurs|123|112|12|5|W 2|True|True|0|197511290DNA
+18|18|Sat, Dec 6, 1975||Indiana Pacers|126|118|13|5|W 3|True|True|0|197512060DNA
+19|19|Sun, Dec 7, 1975||New York Nets|123|119|14|5|W 4|True|False|0|197512070NYA
+20|20|Wed, Dec 10, 1975||Spirits of St. Louis|146|137|15|5|W 5|True|False|0|197512100SSL
+21|21|Thu, Dec 11, 1975||Virginia Squires|111|100|16|5|W 6|True|False|0|197512110VIR
+22|22|Fri, Dec 12, 1975||Virginia Squires|110|107|17|5|W 7|True|False|0|197512120VIR
+23|23|Mon, Dec 15, 1975||Virginia Squires|131|110|18|5|W 8|True|False|0|197512150VIR
+24|24|Wed, Dec 17, 1975||New York Nets|106|103|19|5|W 9|True|True|0|197512170DNA
+25|25|Sat, Dec 20, 1975||San Antonio Spurs|121|132|19|6|L 1|False|False|0|197512200SAA
+26|26|Sun, Dec 21, 1975||Indiana Pacers|122|117|20|6|W 1|True|True|0|197512210DNA
+27|27|Fri, Dec 26, 1975||San Antonio Spurs|106|117|20|7|L 1|False|True|0|197512260DNA
+28|28|Sat, Dec 27, 1975||New York Nets|130|113|21|7|W 1|True|True|0|197512270DNA
+29|29|Sun, Dec 28, 1975||Indiana Pacers|110|105|22|7|W 2|True|False|0|197512280INA
+30|30|Tue, Dec 30, 1975||Spirits of St. Louis|104|106|22|8|L 1|False|False|0|197512300SSL
+31|31|Wed, Dec 31, 1975||Kentucky Colonels|141|137|23|8|W 1|True|True|0|197512310DNA
+32|32|Fri, Jan 2, 1976||Indiana Pacers|137|125|24|8|W 2|True|True|0|197601020DNA
+33|33|Sat, Jan 3, 1976||Spirits of St. Louis|126|115|25|8|W 3|True|True|0|197601030DNA
+34|34|Mon, Jan 5, 1976||Kentucky Colonels|127|120|26|8|W 4|True|True|0|197601050DNA
+35|35|Wed, Jan 7, 1976||San Antonio Spurs|118|121|26|9|L 1|False|False|0|197601070SAA
+36|36|Fri, Jan 9, 1976||Virginia Squires|155|128|27|9|W 1|True|True|0|197601090DNA
+37|37|Mon, Jan 12, 1976||San Antonio Spurs|139|122|28|9|W 2|True|True|0|197601120DNA
+38|38|Tue, Jan 13, 1976||New York Nets|137|113|29|9|W 3|True|True|0|197601130DNA
+39|39|Fri, Jan 16, 1976||Indiana Pacers|124|118|30|9|W 4|True|False|0|197601160INA
+40|40|Sat, Jan 17, 1976||Kentucky Colonels|137|113|31|9|W 5|True|True|0|197601170DNA
+41|41|Sun, Jan 18, 1976||Kentucky Colonels|117|119|31|10|L 1|False|False|0|197601180KEN
+42|42|Tue, Jan 20, 1976||New York Nets|123|134|31|11|L 2|False|False|0|197601200NYA
+43|43|Fri, Jan 23, 1976||San Antonio Spurs|131|123|32|11|W 1|True|True|0|197601230DNA
+44|44|Fri, Jan 30, 1976||Virginia Squires|126|117|33|11|W 2|True|True|0|197601300DNA
+45|45|Sat, Jan 31, 1976||Virginia Squires|129|117|34|11|W 3|True|True|0|197601310DNA
+46|46|Sun, Feb 1, 1976||Kentucky Colonels|94|98|34|12|L 1|False|False|0|197602010KEN
+47|47|Wed, Feb 4, 1976||Virginia Squires|135|131|35|12|W 1|True|True|1|197602040DNA
+48|48|Fri, Feb 6, 1976||Spirits of St. Louis|123|109|36|12|W 2|True|True|0|197602060DNA
+49|49|Sun, Feb 8, 1976||Kentucky Colonels|116|114|37|12|W 3|True|True|0|197602080DNA
+50|50|Mon, Feb 9, 1976||New York Nets|138|119|38|12|W 4|True|False|0|197602090NYA
+51|51|Wed, Feb 11, 1976||San Antonio Spurs|137|133|39|12|W 5|True|False|0|197602110SAA
+52|52|Sat, Feb 14, 1976||New York Nets|108|103|40|12|W 6|True|True|1|197602140DNA
+53|53|Sun, Feb 15, 1976||San Antonio Spurs|118|125|40|13|L 1|False|False|0|197602150SAA
+54|54|Wed, Feb 18, 1976||San Antonio Spurs|142|111|41|13|W 1|True|True|0|197602180DNA
+55|55|Thu, Feb 19, 1976||Indiana Pacers|128|123|42|13|W 2|True|True|0|197602190DNA
+56|56|Fri, Feb 20, 1976||Indiana Pacers|101|106|42|14|L 1|False|False|0|197602200INA
+57|57|Sun, Feb 22, 1976||New York Nets|95|115|42|15|L 2|False|False|0|197602220NYA
+58|58|Wed, Feb 25, 1976||Indiana Pacers|122|110|43|15|W 1|True|True|0|197602250DNA
+59|59|Fri, Feb 27, 1976||San Antonio Spurs|140|116|44|15|W 2|True|True|0|197602270DNA
+60|60|Sat, Feb 28, 1976||San Antonio Spurs|122|134|44|16|L 1|False|False|0|197602280SAA
+61|61|Sun, Feb 29, 1976||Kentucky Colonels|112|111|45|16|W 1|True|False|0|197602290KEN
+62|62|Mon, Mar 1, 1976||Virginia Squires|115|109|46|16|W 2|True|False|0|197603010VIR
+63|63|Wed, Mar 3, 1976||New York Nets|121|100|47|16|W 3|True|True|0|197603030DNA
+64|64|Fri, Mar 5, 1976||Spirits of St. Louis|137|125|48|16|W 4|True|True|0|197603050DNA
+65|65|Sun, Mar 7, 1976||Virginia Squires|116|101|49|16|W 5|True|True|0|197603070DNA
+66|66|Tue, Mar 9, 1976||New York Nets|128|112|50|16|W 6|True|True|0|197603090DNA
+67|67|Wed, Mar 10, 1976||Indiana Pacers|119|129|50|17|L 1|False|False|0|197603100INA
+68|68|Thu, Mar 11, 1976||New York Nets|136|141|50|18|L 2|False|False|1|197603110NYA
+69|69|Fri, Mar 12, 1976||Spirits of St. Louis|97|101|50|19|L 3|False|False|0|197603120SSL
+70|70|Tue, Mar 16, 1976||Spirits of St. Louis|111|94|51|19|W 1|True|True|0|197603160DNA
+71|71|Wed, Mar 17, 1976||Indiana Pacers|111|108|52|19|W 2|True|False|0|197603170INA
+72|72|Thu, Mar 18, 1976||New York Nets|98|110|52|20|L 1|False|False|0|197603180NYA
+73|73|Fri, Mar 19, 1976||Virginia Squires|113|108|53|20|W 1|True|False|0|197603190VIR
+74|74|Sun, Mar 21, 1976||Spirits of St. Louis|131|115|54|20|W 2|True|True|0|197603210DNA
+75|75|Tue, Mar 23, 1976||Kentucky Colonels|117|118|54|21|L 1|False|False|1|197603230KEN
+76|76|Wed, Mar 24, 1976||San Antonio Spurs|122|135|54|22|L 2|False|True|0|197603240DNA
+77|77|Fri, Mar 26, 1976||Indiana Pacers|138|120|55|22|W 1|True|True|0|197603260DNA
+78|78|Sat, Mar 27, 1976||Virginia Squires|124|123|56|22|W 2|True|False|1|197603270VIR
+79|79|Sun, Mar 28, 1976||Indiana Pacers|110|98|57|22|W 3|True|False|0|197603280INA
+80|80|Tue, Mar 30, 1976||Spirits of St. Louis|133|112|58|22|W 4|True|False|0|197603300SSL
+81|81|Wed, Mar 31, 1976||San Antonio Spurs|110|117|58|23|L 1|False|False|0|197603310SAA
+82|82|Sat, Apr 3, 1976||San Antonio Spurs|121|129|58|24|L 2|False|False|0|197604030SAA
+83|83|Sun, Apr 4, 1976||Indiana Pacers|140|134|59|24|W 1|True|True|0|197604040DNA
+84|84|Wed, Apr 7, 1976||Kentucky Colonels|130|103|60|24|W 2|True|False|0|197604070KEN

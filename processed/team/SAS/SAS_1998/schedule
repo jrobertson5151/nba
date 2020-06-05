@@ -1,0 +1,51 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Feb 5, 1999||Sacramento Kings|101|83|1|0|W 1|True|True|0|199902050SAS
+2|2|Sat, Feb 6, 1999||Minnesota Timberwolves|96|82|2|0|W 2|True|True|0|199902060SAS
+3|3|Mon, Feb 8, 1999||Los Angeles Lakers|75|80|2|1|L 1|False|True|0|199902080SAS
+4|4|Tue, Feb 9, 1999||Minnesota Timberwolves|70|74|2|2|L 2|False|False|0|199902090MIN
+5|5|Thu, Feb 11, 1999||Cleveland Cavaliers|89|99|2|3|L 3|False|False|0|199902110CLE
+6|6|Fri, Feb 12, 1999||Philadelphia 76ers|98|94|3|3|W 1|True|False|0|199902120PHI
+7|7|Sun, Feb 14, 1999||Chicago Bulls|89|76|4|3|W 2|True|False|0|199902140CHI
+8|8|Wed, Feb 17, 1999||Phoenix Suns|76|79|4|4|L 1|False|True|0|199902170SAS
+9|9|Fri, Feb 19, 1999||Los Angeles Lakers|94|106|4|5|L 2|False|False|0|199902190LAL
+10|10|Sun, Feb 21, 1999||Detroit Pistons|85|64|5|5|W 1|True|True|0|199902210SAS
+11|11|Mon, Feb 22, 1999||Minnesota Timberwolves|89|95|5|6|L 1|False|False|0|199902220MIN
+12|12|Wed, Feb 24, 1999||Seattle SuperSonics|99|81|6|6|W 1|True|True|0|199902240SAS
+13|13|Fri, Feb 26, 1999||Seattle SuperSonics|82|92|6|7|L 1|False|False|0|199902260SEA
+14|14|Sun, Feb 28, 1999||Utah Jazz|87|101|6|8|L 2|False|True|0|199902280SAS
+15|15|Tue, Mar 2, 1999||Houston Rockets|99|82|7|8|W 1|True|False|0|199903020HOU
+16|16|Thu, Mar 4, 1999||Dallas Mavericks|95|79|8|8|W 2|True|False|0|199903040DAL
+17|17|Sat, Mar 6, 1999||Los Angeles Clippers|114|85|9|8|W 3|True|True|0|199903060SAS
+18|18|Sun, Mar 7, 1999||Denver Nuggets|106|96|10|8|W 4|True|False|0|199903070DEN
+19|19|Wed, Mar 10, 1999||Orlando Magic|81|79|11|8|W 5|True|True|0|199903100SAS
+20|20|Fri, Mar 12, 1999||Phoenix Suns|99|97|12|8|W 6|True|False|0|199903120PHO
+21|21|Sat, Mar 13, 1999||Denver Nuggets|92|61|13|8|W 7|True|True|0|199903130SAS
+22|22|Tue, Mar 16, 1999||Sacramento Kings|121|109|14|8|W 8|True|False|0|199903160SAC
+23|23|Wed, Mar 17, 1999||Golden State Warriors|82|78|15|8|W 9|True|False|0|199903170GSW
+24|24|Fri, Mar 19, 1999||Portland Trail Blazers|85|90|15|9|L 1|False|False|0|199903190POR
+25|25|Sat, Mar 20, 1999||Vancouver Grizzlies|92|88|16|9|W 1|True|False|1|199903200VAN
+26|26|Tue, Mar 23, 1999||Denver Nuggets|112|82|17|9|W 2|True|True|0|199903230SAS
+27|27|Thu, Mar 25, 1999||Denver Nuggets|86|65|18|9|W 3|True|False|0|199903250DEN
+28|28|Fri, Mar 26, 1999||Toronto Raptors|91|93|18|10|L 1|False|True|0|199903260SAS
+29|29|Sat, Mar 27, 1999||Dallas Mavericks|99|77|19|10|W 1|True|True|0|199903270SAS
+30|30|Tue, Mar 30, 1999||Seattle SuperSonics|95|87|20|10|W 2|True|True|0|199903300SAS
+31|31|Thu, Apr 1, 1999||Vancouver Grizzlies|103|91|21|10|W 3|True|True|0|199904010SAS
+32|32|Sat, Apr 3, 1999||Los Angeles Clippers|103|82|22|10|W 4|True|True|0|199904030SAS
+33|33|Mon, Apr 5, 1999||Golden State Warriors|93|86|23|10|W 5|True|True|0|199904050SAS
+34|34|Thu, Apr 8, 1999||Houston Rockets|92|83|24|10|W 6|True|False|0|199904080HOU
+35|35|Sat, Apr 10, 1999||Phoenix Suns|84|110|24|11|L 1|False|False|0|199904100PHO
+36|36|Mon, Apr 12, 1999||Phoenix Suns|94|77|25|11|W 1|True|True|0|199904120SAS
+37|37|Tue, Apr 13, 1999||Dallas Mavericks|86|92|25|12|L 1|False|False|0|199904130DAL
+38|38|Wed, Apr 14, 1999||Minnesota Timberwolves|95|79|26|12|W 1|True|True|0|199904140SAS
+39|39|Fri, Apr 16, 1999||Portland Trail Blazers|81|80|27|12|W 2|True|True|0|199904160SAS
+40|40|Sun, Apr 18, 1999||Houston Rockets|86|83|28|12|W 3|True|True|0|199904180SAS
+41|41|Tue, Apr 20, 1999||Utah Jazz|83|69|29|12|W 4|True|False|0|199904200UTA
+42|42|Thu, Apr 22, 1999||Dallas Mavericks|103|76|30|12|W 5|True|True|0|199904220SAS
+43|43|Sat, Apr 24, 1999||Los Angeles Lakers|108|81|31|12|W 6|True|True|0|199904240SAS
+44|44|Mon, Apr 26, 1999||Los Angeles Clippers|94|88|32|12|W 7|True|False|0|199904260LAC
+45|45|Tue, Apr 27, 1999||Sacramento Kings|100|104|32|13|L 1|False|False|1|199904270SAC
+46|46|Thu, Apr 29, 1999||Vancouver Grizzlies|99|72|33|13|W 1|True|False|0|199904290VAN
+47|47|Sat, May 1, 1999||Portland Trail Blazers|98|90|34|13|W 2|True|True|1|199905010SAS
+48|48|Sun, May 2, 1999||Utah Jazz|84|78|35|13|W 3|True|True|0|199905020SAS
+49|49|Tue, May 4, 1999||Portland Trail Blazers|87|81|36|13|W 4|True|False|0|199905040POR
+50|50|Wed, May 5, 1999||Golden State Warriors|88|81|37|13|W 5|True|False|0|199905050GSW

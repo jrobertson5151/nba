@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Oct 10, 1980||Washington Bullets|85|95|0|1|L 1|False|True|0|198010100DET
+2|2|Sat, Oct 11, 1980||Indiana Pacers|87|100|0|2|L 2|False|False|0|198010110IND
+3|3|Mon, Oct 13, 1980||New Jersey Nets|92|108|0|3|L 3|False|False|0|198010130NJN
+4|4|Tue, Oct 14, 1980||Cleveland Cavaliers|91|99|0|4|L 4|False|False|0|198010140CLE
+5|5|Thu, Oct 16, 1980||San Antonio Spurs|99|102|0|5|L 5|False|True|0|198010160DET
+6|6|Sat, Oct 18, 1980||Atlanta Hawks|123|125|0|6|L 6|False|True|2|198010180DET
+7|7|Wed, Oct 22, 1980||Philadelphia 76ers|93|94|0|7|L 7|False|True|0|198010220DET
+8|8|Sat, Oct 25, 1980||Houston Rockets|112|109|1|7|W 1|True|False|0|198010250HOU
+9|9|Wed, Oct 29, 1980||Boston Celtics|85|103|1|8|L 1|False|True|0|198010290DET
+10|10|Fri, Oct 31, 1980||Phoenix Suns|98|103|1|9|L 2|False|True|1|198010310DET
+11|11|Sat, Nov 1, 1980||Chicago Bulls|100|122|1|10|L 3|False|False|0|198011010CHI
+12|12|Tue, Nov 4, 1980||Milwaukee Bucks|98|96|2|10|W 1|True|False|0|198011040MIL
+13|13|Wed, Nov 5, 1980||Philadelphia 76ers|103|107|2|11|L 1|False|False|0|198011050PHI
+14|14|Fri, Nov 7, 1980||Washington Bullets|88|114|2|12|L 2|False|False|0|198011070WSB
+15|15|Sat, Nov 8, 1980||Dallas Mavericks|101|73|3|12|W 1|True|True|0|198011080DET
+16|16|Tue, Nov 11, 1980||New York Knicks|118|149|3|13|L 1|False|False|0|198011110NYK
+17|17|Wed, Nov 12, 1980||Milwaukee Bucks|98|122|3|14|L 2|False|True|0|198011120DET
+18|18|Fri, Nov 14, 1980||Chicago Bulls|106|99|4|14|W 1|True|True|0|198011140DET
+19|19|Sun, Nov 16, 1980||New Jersey Nets|80|89|4|15|L 1|False|False|0|198011160NJN
+20|20|Tue, Nov 18, 1980||Indiana Pacers|97|102|4|16|L 2|False|True|0|198011180DET
+21|21|Thu, Nov 20, 1980||San Diego Clippers|97|90|5|16|W 1|True|True|0|198011200DET
+22|22|Sat, Nov 22, 1980||New Jersey Nets|117|103|6|16|W 2|True|True|0|198011220DET
+23|23|Wed, Nov 26, 1980||Utah Jazz|97|104|6|17|L 1|False|True|0|198011260DET
+24|24|Fri, Nov 28, 1980||Kansas City Kings|104|94|7|17|W 1|True|True|0|198011280DET
+25|25|Sat, Nov 29, 1980||Atlanta Hawks|98|95|8|17|W 2|True|False|0|198011290ATL
+26|26|Tue, Dec 2, 1980||Boston Celtics|85|94|8|18|L 1|False|True|0|198012020DET
+27|27|Fri, Dec 5, 1980||Washington Bullets|92|103|8|19|L 2|False|False|0|198012050WSB
+28|28|Sat, Dec 6, 1980||Cleveland Cavaliers|100|101|8|20|L 3|False|False|0|198012060CLE
+29|29|Wed, Dec 10, 1980||Atlanta Hawks|92|100|8|21|L 4|False|True|0|198012100DET
+30|30|Fri, Dec 12, 1980||Cleveland Cavaliers|101|95|9|21|W 1|True|True|0|198012120DET
+31|31|Sat, Dec 13, 1980||New York Knicks|94|100|9|22|L 1|False|False|0|198012130NYK
+32|32|Wed, Dec 17, 1980||New York Knicks|103|119|9|23|L 2|False|True|0|198012170DET
+33|33|Thu, Dec 18, 1980||Milwaukee Bucks|104|121|9|24|L 3|False|False|0|198012180MIL
+34|34|Fri, Dec 19, 1980||Indiana Pacers|109|106|10|24|W 1|True|True|0|198012190DET
+35|35|Sun, Dec 21, 1980||San Diego Clippers|97|117|10|25|L 1|False|False|0|198012210SDC
+36|36|Tue, Dec 23, 1980||Phoenix Suns|104|113|10|26|L 2|False|False|0|198012230PHO
+37|37|Fri, Dec 26, 1980||Houston Rockets|94|114|10|27|L 3|False|True|0|198012260DET
+38|38|Sat, Dec 27, 1980||Chicago Bulls|97|104|10|28|L 4|False|False|0|198012270CHI
+39|39|Tue, Dec 30, 1980||Atlanta Hawks|89|96|10|29|L 5|False|False|0|198012300ATL
+40|40|Fri, Jan 2, 1981||New York Knicks|102|100|11|29|W 1|True|True|0|198101020DET
+41|41|Tue, Jan 6, 1981||Portland Trail Blazers|90|110|11|30|L 1|False|False|0|198101060POR
+42|42|Wed, Jan 7, 1981||Seattle SuperSonics|94|99|11|31|L 2|False|False|0|198101070SEA
+43|43|Sat, Jan 10, 1981||Golden State Warriors|103|105|11|32|L 3|False|False|0|198101100GSW
+44|44|Sun, Jan 11, 1981||Los Angeles Lakers|108|117|11|33|L 4|False|False|0|198101110LAL
+45|45|Tue, Jan 13, 1981||Milwaukee Bucks|96|119|11|34|L 5|False|True|0|198101130DET
+46|46|Wed, Jan 14, 1981||Indiana Pacers|99|101|11|35|L 6|False|False|0|198101140IND
+47|47|Thu, Jan 15, 1981||Washington Bullets|89|106|11|36|L 7|False|True|0|198101150DET
+48|48|Sat, Jan 17, 1981||New Jersey Nets|104|116|11|37|L 8|False|True|0|198101170DET
+49|49|Mon, Jan 19, 1981||Boston Celtics|90|92|11|38|L 9|False|False|0|198101190BOS
+50|50|Tue, Jan 20, 1981||Philadelphia 76ers|83|75|12|38|W 1|True|True|0|198101200DET
+51|51|Thu, Jan 22, 1981||Chicago Bulls|92|125|12|39|L 1|False|True|0|198101220DET
+52|52|Sat, Jan 24, 1981||Cleveland Cavaliers|117|94|13|39|W 1|True|True|0|198101240DET
+53|53|Mon, Jan 26, 1981||Utah Jazz|99|102|13|40|L 1|False|False|0|198101260UTA
+54|54|Tue, Jan 27, 1981||Denver Nuggets|123|143|13|41|L 2|False|False|0|198101270DEN
+55|55|Thu, Jan 29, 1981||Golden State Warriors|112|117|13|42|L 3|False|True|0|198101290DET
+56|56|Tue, Feb 3, 1981||San Antonio Spurs|99|102|13|43|L 4|False|False|0|198102030SAS
+57|57|Wed, Feb 4, 1981||Kansas City Kings|90|91|13|44|L 5|False|False|0|198102040KCK
+58|58|Fri, Feb 6, 1981||Los Angeles Lakers|102|111|13|45|L 6|False|True|0|198102060DET
+59|59|Sat, Feb 7, 1981||Chicago Bulls|90|98|13|46|L 7|False|False|0|198102070CHI
+60|60|Sun, Feb 8, 1981||Indiana Pacers|101|124|13|47|L 8|False|True|0|198102080DET
+61|61|Tue, Feb 10, 1981||Dallas Mavericks|101|95|14|47|W 1|True|False|0|198102100DAL
+62|62|Fri, Feb 13, 1981||New York Knicks|92|120|14|48|L 1|False|False|0|198102130NYK
+63|63|Sat, Feb 14, 1981||Washington Bullets|105|103|15|48|W 1|True|True|0|198102140DET
+64|64|Tue, Feb 17, 1981||Cleveland Cavaliers|108|109|15|49|L 1|False|False|0|198102170CLE
+65|65|Wed, Feb 18, 1981||Philadelphia 76ers|97|111|15|50|L 2|False|False|0|198102180PHI
+66|66|Thu, Feb 19, 1981||Portland Trail Blazers|106|115|15|51|L 3|False|True|0|198102190DET
+67|67|Sat, Feb 21, 1981||Boston Celtics|119|130|15|52|L 4|False|True|0|198102210DET
+68|68|Fri, Feb 27, 1981||Cleveland Cavaliers|118|109|16|52|W 1|True|True|0|198102270DET
+69|69|Sun, Mar 1, 1981||New Jersey Nets|117|104|17|52|W 2|True|False|0|198103010NJN
+70|70|Tue, Mar 3, 1981||Milwaukee Bucks|98|115|17|53|L 1|False|False|0|198103030MIL
+71|71|Thu, Mar 5, 1981||New York Knicks|101|104|17|54|L 2|False|True|0|198103050DET
+72|72|Sat, Mar 7, 1981||Denver Nuggets|109|121|17|55|L 3|False|True|0|198103070DET
+73|73|Wed, Mar 11, 1981||Atlanta Hawks|100|97|18|55|W 1|True|True|0|198103110DET
+74|74|Fri, Mar 13, 1981||Seattle SuperSonics|100|102|18|56|L 1|False|True|0|198103130DET
+75|75|Sat, Mar 14, 1981||Indiana Pacers|101|94|19|56|W 1|True|False|0|198103140IND
+76|76|Wed, Mar 18, 1981||New Jersey Nets|118|115|20|56|W 2|True|True|0|198103180DET
+77|77|Fri, Mar 20, 1981||Milwaukee Bucks|86|104|20|57|L 1|False|True|0|198103200DET
+78|78|Sun, Mar 22, 1981||Chicago Bulls|103|109|20|58|L 2|False|True|0|198103220DET
+79|79|Tue, Mar 24, 1981||Atlanta Hawks|91|96|20|59|L 3|False|False|0|198103240ATL
+80|80|Wed, Mar 25, 1981||Philadelphia 76ers|75|114|20|60|L 4|False|False|0|198103250PHI
+81|81|Fri, Mar 27, 1981||Boston Celtics|115|90|21|60|W 1|True|False|0|198103270BOS
+82|82|Sat, Mar 28, 1981||Washington Bullets|103|108|21|61|L 1|False|False|0|198103280WSB

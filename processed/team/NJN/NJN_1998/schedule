@@ -1,0 +1,51 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Sat, Feb 6, 1999||Atlanta Hawks|106|111|0|1|L 1|False|False|0|199902060ATL
+2|2|Sun, Feb 7, 1999||Atlanta Hawks|79|69|1|1|W 1|True|True|0|199902070NJN
+3|3|Wed, Feb 10, 1999||Orlando Magic|81|89|1|2|L 1|False|True|0|199902100NJN
+4|4|Thu, Feb 11, 1999||Milwaukee Bucks|75|95|1|3|L 2|False|False|0|199902110MIL
+5|5|Mon, Feb 15, 1999||Miami Heat|72|95|1|4|L 3|False|False|0|199902150MIA
+6|6|Tue, Feb 16, 1999||Detroit Pistons|97|82|2|4|W 1|True|True|0|199902160NJN
+7|7|Thu, Feb 18, 1999||Houston Rockets|92|93|2|5|L 1|False|True|1|199902180NJN
+8|8|Sat, Feb 20, 1999||Cleveland Cavaliers|84|89|2|6|L 2|False|False|0|199902200CLE
+9|9|Sun, Feb 21, 1999||Indiana Pacers|79|80|2|7|L 3|False|False|0|199902210IND
+10|10|Tue, Feb 23, 1999||New York Knicks|74|82|2|8|L 4|False|False|0|199902230NYK
+11|11|Wed, Feb 24, 1999||Portland Trail Blazers|85|94|2|9|L 5|False|True|0|199902240NJN
+12|12|Sat, Feb 27, 1999||Boston Celtics|92|101|2|10|L 6|False|True|0|199902270NJN
+13|13|Mon, Mar 1, 1999||Boston Celtics|99|97|3|10|W 1|True|False|0|199903010BOS
+14|14|Tue, Mar 2, 1999||Milwaukee Bucks|86|94|3|11|L 1|False|True|0|199903020NJN
+15|15|Thu, Mar 4, 1999||Charlotte Hornets|82|96|3|12|L 2|False|True|0|199903040NJN
+16|16|Sun, Mar 7, 1999||New York Knicks|86|97|3|13|L 3|False|False|0|199903070NYK
+17|17|Tue, Mar 9, 1999||Chicago Bulls|87|103|3|14|L 4|False|False|0|199903090CHI
+18|18|Wed, Mar 10, 1999||Indiana Pacers|82|93|3|15|L 5|False|False|0|199903100IND
+19|19|Fri, Mar 12, 1999||Philadelphia 76ers|93|100|3|16|L 6|False|False|1|199903120PHI
+20|20|Sun, Mar 14, 1999||Miami Heat|76|102|3|17|L 7|False|False|0|199903140MIA
+21|21|Tue, Mar 16, 1999||Toronto Raptors|85|100|3|18|L 8|False|False|0|199903160TOR
+22|22|Wed, Mar 17, 1999||Dallas Mavericks|88|87|4|18|W 1|True|True|0|199903170NJN
+23|23|Thu, Mar 18, 1999||Chicago Bulls|95|104|4|19|L 1|False|False|0|199903180CHI
+24|24|Sun, Mar 21, 1999||Cleveland Cavaliers|85|88|4|20|L 2|False|False|0|199903210CLE
+25|25|Mon, Mar 22, 1999||Toronto Raptors|106|87|5|20|W 1|True|True|0|199903220NJN
+26|26|Wed, Mar 24, 1999||Detroit Pistons|71|84|5|21|L 1|False|True|0|199903240NJN
+27|27|Fri, Mar 26, 1999||Indiana Pacers|91|100|5|22|L 2|False|True|0|199903260NJN
+28|28|Sat, Mar 27, 1999||Cleveland Cavaliers|99|109|5|23|L 3|False|True|0|199903270NJN
+29|29|Tue, Mar 30, 1999||Orlando Magic|98|100|5|24|L 4|False|False|0|199903300ORL
+30|30|Thu, Apr 1, 1999||Atlanta Hawks|90|85|6|24|W 1|True|True|0|199904010NJN
+31|31|Sat, Apr 3, 1999||Miami Heat|88|77|7|24|W 2|True|True|0|199904030NJN
+32|32|Sun, Apr 4, 1999||Boston Celtics|91|79|8|24|W 3|True|False|0|199904040BOS
+33|33|Tue, Apr 6, 1999||Washington Wizards|97|93|9|24|W 4|True|False|0|199904060WAS
+34|34|Wed, Apr 7, 1999||Philadelphia 76ers|92|96|9|25|L 1|False|True|0|199904070NJN
+35|35|Fri, Apr 9, 1999||Toronto Raptors|106|99|10|25|W 1|True|True|0|199904090NJN
+36|36|Sun, Apr 11, 1999||New York Knicks|78|93|10|26|L 1|False|True|0|199904110NJN
+37|37|Tue, Apr 13, 1999||Los Angeles Clippers|101|109|10|27|L 2|False|False|0|199904130LAC
+38|38|Wed, Apr 14, 1999||Denver Nuggets|97|120|10|28|L 3|False|False|0|199904140DEN
+39|39|Fri, Apr 16, 1999||Seattle SuperSonics|121|91|11|28|W 1|True|False|0|199904160SEA
+40|40|Sun, Apr 18, 1999||Philadelphia 76ers|86|79|12|28|W 2|True|True|0|199904180NJN
+41|41|Mon, Apr 19, 1999||Charlotte Hornets|113|120|12|29|L 1|False|True|0|199904190NJN
+42|42|Wed, Apr 21, 1999||Chicago Bulls|99|87|13|29|W 1|True|True|0|199904210NJN
+43|43|Sat, Apr 24, 1999||Charlotte Hornets|82|97|13|30|L 1|False|False|0|199904240CHH
+44|44|Sun, Apr 25, 1999||Indiana Pacers|120|98|14|30|W 1|True|True|0|199904250NJN
+45|45|Tue, Apr 27, 1999||Miami Heat|76|95|14|31|L 1|False|True|0|199904270NJN
+46|46|Wed, Apr 28, 1999||Detroit Pistons|93|101|14|32|L 2|False|False|0|199904280DET
+47|47|Fri, Apr 30, 1999||Orlando Magic|95|107|14|33|L 3|False|False|0|199904300ORL
+48|48|Sat, May 1, 1999||Washington Wizards|102|91|15|33|W 1|True|True|0|199905010NJN
+49|49|Mon, May 3, 1999||Washington Wizards|102|113|15|34|L 1|False|False|0|199905030WAS
+50|50|Wed, May 5, 1999||Milwaukee Bucks|115|107|16|34|W 1|True|True|0|199905050NJN

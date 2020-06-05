@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Tue, Oct 18, 1977||Golden State Warriors|100|83|1|0|W 1|True|True|0|197710180PHO
+2|2|Sun, Oct 23, 1977||Los Angeles Lakers|104|101|2|0|W 2|True|False|0|197710230LAL
+3|3|Tue, Oct 25, 1977||Seattle SuperSonics|93|86|3|0|W 3|True|True|0|197710250PHO
+4|4|Fri, Oct 28, 1977||New Orleans Jazz|107|114|3|1|L 1|False|False|0|197710280NOJ
+5|5|Sat, Oct 29, 1977||Houston Rockets|112|125|3|2|L 2|False|False|0|197710290HOU
+6|6|Mon, Oct 31, 1977||San Antonio Spurs|143|145|3|3|L 3|False|True|0|197710310PHO
+7|7|Thu, Nov 3, 1977||San Antonio Spurs|110|89|4|3|W 1|True|False|0|197711030SAS
+8|8|Fri, Nov 4, 1977||Washington Bullets|96|113|4|4|L 1|False|False|0|197711040WSB
+9|9|Sat, Nov 5, 1977||Chicago Bulls|94|111|4|5|L 2|False|False|0|197711050CHI
+10|10|Thu, Nov 10, 1977||New Orleans Jazz|127|111|5|5|W 1|True|True|0|197711100PHO
+11|11|Sun, Nov 13, 1977||Indiana Pacers|116|107|6|5|W 2|True|True|0|197711130PHO
+12|12|Fri, Nov 18, 1977||Chicago Bulls|103|101|7|5|W 3|True|True|0|197711180PHO
+13|13|Sun, Nov 20, 1977||San Antonio Spurs|134|112|8|5|W 4|True|True|0|197711200PHO
+14|14|Tue, Nov 22, 1977||Los Angeles Lakers|118|107|9|5|W 5|True|True|0|197711220PHO
+15|15|Thu, Nov 24, 1977||Cleveland Cavaliers|82|97|9|6|L 1|False|False|0|197711240CLE
+16|16|Fri, Nov 25, 1977||Indiana Pacers|118|110|10|6|W 1|True|False|0|197711250IND
+17|17|Sun, Nov 27, 1977||Denver Nuggets|115|97|11|6|W 2|True|True|0|197711270PHO
+18|18|Tue, Nov 29, 1977||Portland Trail Blazers|96|108|11|7|L 1|False|False|0|197711290POR
+19|19|Fri, Dec 2, 1977||Portland Trail Blazers|103|106|11|8|L 2|False|True|0|197712020PHO
+20|20|Sun, Dec 4, 1977||Atlanta Hawks|89|96|11|9|L 3|False|True|0|197712040PHO
+21|21|Tue, Dec 6, 1977||Kansas City Kings|103|92|12|9|W 1|True|False|0|197712060KCK
+22|22|Wed, Dec 7, 1977||Detroit Pistons|113|107|13|9|W 2|True|False|1|197712070DET
+23|23|Sat, Dec 10, 1977||Houston Rockets|110|93|14|9|W 3|True|True|0|197712100PHO
+24|24|Wed, Dec 14, 1977||Buffalo Braves|113|103|15|9|W 4|True|True|0|197712140PHO
+25|25|Fri, Dec 16, 1977||New Orleans Jazz|126|113|16|9|W 5|True|False|0|197712160NOJ
+26|26|Sat, Dec 17, 1977||Houston Rockets|101|97|17|9|W 6|True|False|0|197712170HOU
+27|27|Sun, Dec 18, 1977||Atlanta Hawks|129|134|17|10|L 1|False|False|2|197712180ATL
+28|28|Tue, Dec 20, 1977||New York Knicks|110|99|18|10|W 1|True|False|0|197712200NYK
+29|29|Wed, Dec 21, 1977||Philadelphia 76ers|119|125|18|11|L 1|False|False|0|197712210PHI
+30|30|Fri, Dec 23, 1977||Boston Celtics|129|110|19|11|W 1|True|True|0|197712230PHO
+31|31|Mon, Dec 26, 1977||Denver Nuggets|108|127|19|12|L 1|False|False|0|197712260DEN
+32|32|Tue, Dec 27, 1977||Seattle SuperSonics|131|105|20|12|W 1|True|True|0|197712270PHO
+33|33|Thu, Dec 29, 1977||Kansas City Kings|110|104|21|12|W 2|True|True|0|197712290PHO
+34|34|Fri, Dec 30, 1977||Seattle SuperSonics|110|121|21|13|L 1|False|False|0|197712300SEA
+35|35|Tue, Jan 3, 1978||Milwaukee Bucks|125|103|22|13|W 1|True|False|0|197801030MIL
+36|36|Wed, Jan 4, 1978||New Jersey Nets|83|115|22|14|L 1|False|False|0|197801040NJN
+37|37|Thu, Jan 5, 1978||Boston Celtics|121|111|23|14|W 1|True|False|0|197801050BOS
+38|38|Sat, Jan 7, 1978||Buffalo Braves|107|97|24|14|W 2|True|False|0|197801070BUF
+39|39|Wed, Jan 11, 1978||New Orleans Jazz|142|99|25|14|W 3|True|True|0|197801110PHO
+40|40|Fri, Jan 13, 1978||Detroit Pistons|111|100|26|14|W 4|True|True|0|197801130PHO
+41|41|Sun, Jan 15, 1978||Cleveland Cavaliers|113|104|27|14|W 5|True|True|0|197801150PHO
+42|42|Thu, Jan 19, 1978||New York Knicks|134|114|28|14|W 6|True|True|0|197801190PHO
+43|43|Fri, Jan 20, 1978||Golden State Warriors|104|119|28|15|L 1|False|False|0|197801200GSW
+44|44|Sun, Jan 22, 1978||Washington Bullets|114|101|29|15|W 1|True|True|0|197801220PHO
+45|45|Wed, Jan 25, 1978||Houston Rockets|118|96|30|15|W 2|True|True|0|197801250PHO
+46|46|Fri, Jan 27, 1978||Philadelphia 76ers|110|101|31|15|W 3|True|True|0|197801270PHO
+47|47|Sun, Jan 29, 1978||New Jersey Nets|131|100|32|15|W 4|True|True|0|197801290PHO
+48|48|Tue, Jan 31, 1978||Kansas City Kings|112|102|33|15|W 5|True|False|0|197801310KCK
+49|49|Wed, Feb 1, 1978||Detroit Pistons|120|127|33|16|L 1|False|False|0|197802010DET
+50|50|Fri, Feb 3, 1978||Milwaukee Bucks|115|105|34|16|W 1|True|True|0|197802030PHO
+51|51|Thu, Feb 9, 1978||Atlanta Hawks|125|98|35|16|W 2|True|True|0|197802090PHO
+52|52|Sun, Feb 12, 1978||Washington Bullets|121|109|36|16|W 3|True|True|0|197802120PHO
+53|53|Tue, Feb 14, 1978||Portland Trail Blazers|100|113|36|17|L 1|False|False|0|197802140POR
+54|54|Thu, Feb 16, 1978||Boston Celtics|95|98|36|18|L 2|False|True|0|197802160PHO
+55|55|Fri, Feb 17, 1978||Golden State Warriors|92|111|36|19|L 3|False|False|0|197802170GSW
+56|56|Sat, Feb 18, 1978||Indiana Pacers|114|101|37|19|W 1|True|True|0|197802180PHO
+57|57|Tue, Feb 21, 1978||Buffalo Braves|114|111|38|19|W 2|True|False|0|197802210BUF
+58|58|Wed, Feb 22, 1978||Atlanta Hawks|95|107|38|20|L 1|False|False|0|197802220ATL
+59|59|Fri, Feb 24, 1978||Washington Bullets|120|121|38|21|L 2|False|False|1|197802240WSB
+60|60|Sat, Feb 25, 1978||New York Knicks|115|122|38|22|L 3|False|False|0|197802250NYK
+61|61|Tue, Feb 28, 1978||Chicago Bulls|115|126|38|23|L 4|False|False|0|197802280CHI
+62|62|Wed, Mar 1, 1978||Detroit Pistons|102|115|38|24|L 5|False|True|0|197803010PHO
+63|63|Fri, Mar 3, 1978||Milwaukee Bucks|132|126|39|24|W 1|True|True|0|197803030PHO
+64|64|Sun, Mar 5, 1978||Philadelphia 76ers|92|104|39|25|L 1|False|True|0|197803050PHO
+65|65|Tue, Mar 7, 1978||Denver Nuggets|126|112|40|25|W 1|True|False|0|197803070DEN
+66|66|Thu, Mar 9, 1978||Chicago Bulls|112|103|41|25|W 2|True|True|0|197803090PHO
+67|67|Sat, Mar 11, 1978||Los Angeles Lakers|120|114|42|25|W 3|True|True|0|197803110PHO
+68|68|Sun, Mar 12, 1978||Los Angeles Lakers|112|128|42|26|L 1|False|False|0|197803120LAL
+69|69|Tue, Mar 14, 1978||Milwaukee Bucks|106|121|42|27|L 2|False|False|0|197803140MIL
+70|70|Wed, Mar 15, 1978||New Jersey Nets|98|117|42|28|L 3|False|False|0|197803150NJN
+71|71|Fri, Mar 17, 1978||Boston Celtics|108|115|42|29|L 4|False|False|0|197803170BOS
+72|72|Sun, Mar 19, 1978||Cleveland Cavaliers|123|112|43|29|W 1|True|False|0|197803190CLE
+73|73|Tue, Mar 21, 1978||Indiana Pacers|115|119|43|30|L 1|False|False|0|197803210IND
+74|74|Thu, Mar 23, 1978||New York Knicks|120|108|44|30|W 1|True|True|0|197803230PHO
+75|75|Sat, Mar 25, 1978||Buffalo Braves|112|106|45|30|W 2|True|True|0|197803250PHO
+76|76|Wed, Mar 29, 1978||Portland Trail Blazers|127|94|46|30|W 3|True|True|0|197803290PHO
+77|77|Fri, Mar 31, 1978||Kansas City Kings|136|112|47|30|W 4|True|True|0|197803310PHO
+78|78|Sun, Apr 2, 1978||Golden State Warriors|105|99|48|30|W 5|True|True|0|197804020PHO
+79|79|Tue, Apr 4, 1978||San Antonio Spurs|119|125|48|31|L 1|False|False|0|197804040SAS
+80|80|Thu, Apr 6, 1978||Denver Nuggets|105|111|48|32|L 2|False|True|0|197804060PHO
+81|81|Fri, Apr 7, 1978||Seattle SuperSonics|83|95|48|33|L 3|False|False|0|197804070SEA
+82|82|Sat, Apr 8, 1978||New Jersey Nets|120|109|49|33|W 1|True|True|0|197804080PHO

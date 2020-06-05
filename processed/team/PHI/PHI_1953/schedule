@@ -1,0 +1,73 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Sat, Oct 31, 1953||Philadelphia Warriors|73|79|0|1|L 1|False|False|0|195310310PHW
+2|2|Sun, Nov 1, 1953||Philadelphia Warriors|85|61|1|1|W 1|True|True|0|195311010SYR
+3|3|Thu, Nov 5, 1953||Minneapolis Lakers|65|77|1|2|L 1|False|True|0|195311050SYR
+4|4|Sat, Nov 7, 1953||Baltimore Bullets|88|77|2|2|W 1|True|True|0|195311070BLB
+5|5|Sun, Nov 8, 1953||Rochester Royals|85|66|3|2|W 2|True|True|0|195311080SYR
+6|6|Tue, Nov 10, 1953||Milwaukee Hawks|74|59|4|2|W 3|True|False|0|195311100MLH
+7|7|Thu, Nov 12, 1953||Fort Wayne Pistons|74|78|4|3|L 1|False|False|0|195311120FTW
+8|8|Sat, Nov 14, 1953||Boston Celtics|66|77|4|4|L 2|False|False|0|195311140BOS
+9|9|Sun, Nov 15, 1953||Milwaukee Hawks|69|61|5|4|W 1|True|True|0|195311150SYR
+10|10|Thu, Nov 19, 1953||Fort Wayne Pistons|79|76|6|4|W 2|True|True|0|195311190SYR
+11|11|Sat, Nov 21, 1953||New York Knicks|67|68|6|5|L 1|False|False|0|195311210NYK
+12|12|Sun, Nov 22, 1953||New York Knicks|80|84|6|6|L 2|False|True|1|195311220SYR
+13|13|Tue, Nov 24, 1953||Rochester Royals|89|80|7|6|W 1|True|False|0|195311240ROC
+14|14|Wed, Nov 25, 1953||Baltimore Bullets|58|66|7|7|L 1|False|True|0|195311250BLB
+15|15|Thu, Nov 26, 1953||Boston Celtics|93|86|8|7|W 1|True|True|0|195311260SYR
+16|16|Sat, Nov 28, 1953||Boston Celtics|80|91|8|8|L 1|False|True|0|195311280BOS
+17|17|Sun, Nov 29, 1953||Baltimore Bullets|101|82|9|8|W 1|True|True|0|195311290SYR
+18|18|Tue, Dec 1, 1953||Milwaukee Hawks|76|69|10|8|W 2|True|False|1|195312010MLH
+19|19|Thu, Dec 3, 1953||Minneapolis Lakers|74|87|10|9|L 1|False|True|0|195312030MNL
+20|20|Sat, Dec 5, 1953||Minneapolis Lakers|80|90|10|10|L 2|False|False|0|195312050MNL
+21|21|Sun, Dec 6, 1953||Fort Wayne Pistons|77|78|10|11|L 3|False|False|0|195312060FTW
+22|22|Wed, Dec 9, 1953||Baltimore Bullets|77|92|10|12|L 4|False|False|0|195312090BLB
+23|23|Thu, Dec 10, 1953||Milwaukee Hawks|96|76|11|12|W 1|True|True|0|195312100SYR
+24|24|Sat, Dec 12, 1953||Rochester Royals|85|90|11|13|L 1|False|False|0|195312120ROC
+25|25|Sun, Dec 13, 1953||Boston Celtics|108|74|12|13|W 1|True|True|0|195312130SYR
+26|26|Sat, Dec 19, 1953||Boston Celtics|90|83|13|13|W 2|True|False|0|195312190BOS
+27|27|Sun, Dec 20, 1953||Minneapolis Lakers|81|76|14|13|W 3|True|True|0|195312200SYR
+28|28|Wed, Dec 23, 1953||Baltimore Bullets|76|72|15|13|W 4|True|False|0|195312230BLB
+29|29|Fri, Dec 25, 1953||New York Knicks|80|89|15|14|L 1|False|False|0|195312250NYK
+30|30|Sun, Dec 27, 1953||Milwaukee Hawks|96|75|16|14|W 1|True|True|0|195312270SYR
+31|31|Wed, Dec 30, 1953||Boston Celtics|96|89|17|14|W 2|True|True|0|195312300BOS
+32|32|Thu, Dec 31, 1953||Rochester Royals|86|81|18|14|W 3|True|True|0|195312310SYR
+33|33|Fri, Jan 1, 1954||Boston Celtics|92|95|18|15|L 1|False|False|0|195401010BOS
+34|34|Sat, Jan 2, 1954||Philadelphia Warriors|74|66|19|15|W 1|True|False|0|195401020PHW
+35|35|Sun, Jan 3, 1954||Philadelphia Warriors|77|90|19|16|L 1|False|True|0|195401030SYR
+36|36|Tue, Jan 5, 1954||Fort Wayne Pistons|72|60|20|16|W 1|True|False|0|195401050FTW
+37|37|Thu, Jan 7, 1954||Fort Wayne Pistons|79|67|21|16|W 2|True|True|0|195401070SYR
+38|38|Sun, Jan 10, 1954||Baltimore Bullets|77|73|22|16|W 3|True|True|0|195401100SYR
+39|39|Wed, Jan 13, 1954||New York Knicks|93|72|23|16|W 4|True|True|0|195401130NYK
+40|40|Thu, Jan 14, 1954||Minneapolis Lakers|96|71|24|16|W 5|True|True|0|195401140SYR
+41|41|Sat, Jan 16, 1954||Rochester Royals|95|93|25|16|W 6|True|False|3|195401160ROC
+42|42|Sun, Jan 17, 1954||Rochester Royals|84|81|26|16|W 7|True|True|0|195401170SYR
+43|43|Sat, Jan 23, 1954||Baltimore Bullets|91|98|26|17|L 1|False|False|0|195401230BLB
+44|44|Sun, Jan 24, 1954||Philadelphia Warriors|78|80|26|18|L 2|False|True|0|195401240SYR
+45|45|Tue, Jan 26, 1954||Philadelphia Warriors|79|75|27|18|W 1|True|True|0|195401260PHW
+46|46|Thu, Jan 28, 1954||New York Knicks|79|66|28|18|W 2|True|True|0|195401280SYR
+47|47|Sat, Jan 30, 1954||New York Knicks|65|66|28|19|L 1|False|False|0|195401300NYK
+48|48|Sun, Jan 31, 1954||New York Knicks|114|70|29|19|W 1|True|True|0|195401310SYR
+49|49|Wed, Feb 3, 1954||Philadelphia Warriors|79|82|29|20|L 1|False|True|0|195402030PHW
+50|50|Thu, Feb 4, 1954||New York Knicks|90|82|30|20|W 1|True|True|0|195402040NYK
+51|51|Sat, Feb 6, 1954||Fort Wayne Pistons|93|87|31|20|W 2|True|True|1|195402060SYR
+52|52|Sun, Feb 7, 1954||Milwaukee Hawks|88|73|32|20|W 3|True|True|0|195402070SYR
+53|53|Wed, Feb 10, 1954||Boston Celtics|79|94|32|21|L 1|False|False|0|195402100BOS
+54|54|Thu, Feb 11, 1954||Philadelphia Warriors|74|76|32|22|L 2|False|False|2|195402110PHW
+55|55|Sat, Feb 13, 1954||Rochester Royals|78|81|32|23|L 3|False|False|0|195402130ROC
+56|56|Sun, Feb 14, 1954||Baltimore Bullets|111|91|33|23|W 1|True|True|0|195402140SYR
+57|57|Tue, Feb 16, 1954||Philadelphia Warriors|77|95|33|24|L 1|False|True|0|195402160PHW
+58|58|Thu, Feb 18, 1954||Fort Wayne Pistons|91|77|34|24|W 1|True|True|0|195402180SYR
+59|59|Sat, Feb 20, 1954||Minneapolis Lakers|68|83|34|25|L 1|False|False|0|195402200MNL
+60|60|Sun, Feb 21, 1954||Minneapolis Lakers|100|73|35|25|W 1|True|True|0|195402210SYR
+61|61|Tue, Feb 23, 1954||Milwaukee Hawks|68|70|35|26|L 1|False|True|0|195402230MLH
+62|62|Thu, Feb 25, 1954||Boston Celtics|96|101|35|27|L 2|False|True|0|195402250SYR
+63|63|Fri, Feb 26, 1954||Milwaukee Hawks|68|62|36|27|W 1|True|False|0|195402260MLH
+64|64|Sun, Feb 28, 1954||Rochester Royals|85|91|36|28|L 1|False|True|0|195402280SYR
+65|65|Tue, Mar 2, 1954||Minneapolis Lakers|87|91|36|29|L 2|False|False|0|195403020MNL
+66|66|Thu, Mar 4, 1954||Fort Wayne Pistons|86|63|37|29|W 1|True|False|0|195403040FTW
+67|67|Sat, Mar 6, 1954||Philadelphia Warriors|88|77|38|29|W 2|True|True|0|195403060SYR
+68|68|Sun, Mar 7, 1954||Baltimore Bullets|103|77|39|29|W 3|True|True|0|195403070SYR
+69|69|Wed, Mar 10, 1954||Baltimore Bullets|85|77|40|29|W 4|True|False|0|195403100BLB
+70|70|Thu, Mar 11, 1954||Boston Celtics|97|95|41|29|W 5|True|True|1|195403110SYR
+71|71|Sat, Mar 13, 1954||New York Knicks|60|67|41|30|L 1|False|False|0|195403130NYK
+72|72|Sun, Mar 14, 1954||New York Knicks|113|83|42|30|W 1|True|True|0|195403140SYR

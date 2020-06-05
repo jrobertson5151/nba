@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Tue, Oct 10, 1972||Cleveland Cavaliers|102|90|1|0|W 1|True|False|0|197210100CLE
+2|2|Fri, Oct 13, 1972||Atlanta Hawks|115|98|2|0|W 2|True|True|0|197210130BAL
+3|3|Sun, Oct 15, 1972||Phoenix Suns|98|107|2|1|L 1|False|False|0|197210150PHO
+4|4|Mon, Oct 16, 1972||Golden State Warriors|96|97|2|2|L 2|False|False|0|197210160GSW
+5|5|Thu, Oct 19, 1972||Kansas City-Omaha Kings|94|83|3|2|W 1|True|False|0|197210190KCO
+6|6|Sat, Oct 21, 1972||Boston Celtics|101|104|3|3|L 1|False|True|0|197210210BAL
+7|7|Wed, Oct 25, 1972||Detroit Pistons|115|105|4|3|W 1|True|False|0|197210250DET
+8|8|Fri, Oct 27, 1972||New York Knicks|88|92|4|4|L 1|False|True|0|197210270BAL
+9|9|Sat, Oct 28, 1972||New York Knicks|90|94|4|5|L 2|False|False|0|197210280NYK
+10|10|Fri, Nov 3, 1972||Boston Celtics|96|109|4|6|L 3|False|False|0|197211030BOS
+11|11|Sat, Nov 4, 1972||Cleveland Cavaliers|108|98|5|6|W 1|True|True|0|197211040BAL
+12|12|Tue, Nov 7, 1972||Atlanta Hawks|107|109|5|7|L 1|False|False|1|197211070ATL
+13|13|Wed, Nov 8, 1972||Buffalo Braves|126|94|6|7|W 1|True|True|0|197211080BAL
+14|14|Fri, Nov 10, 1972||Milwaukee Bucks|82|120|6|8|L 1|False|False|0|197211100MIL
+15|15|Sat, Nov 11, 1972||Chicago Bulls|106|111|6|9|L 2|False|True|0|197211110BAL
+16|16|Tue, Nov 14, 1972||Houston Rockets|104|103|7|9|W 1|True|True|0|197211140BAL
+17|17|Fri, Nov 17, 1972||Phoenix Suns|117|106|8|9|W 2|True|True|0|197211170BAL
+18|18|Sat, Nov 18, 1972||Chicago Bulls|79|95|8|10|L 1|False|False|0|197211180CHI
+19|19|Tue, Nov 21, 1972||Buffalo Braves|124|88|9|10|W 1|True|False|0|197211210BUF
+20|20|Wed, Nov 22, 1972||Seattle SuperSonics|112|90|10|10|W 2|True|True|0|197211220BAL
+21|21|Sat, Nov 25, 1972||Milwaukee Bucks|91|101|10|11|L 1|False|True|0|197211250BAL
+22|22|Tue, Nov 28, 1972||Houston Rockets|108|90|11|11|W 1|True|True|0|197211280BAL
+23|23|Wed, Nov 29, 1972||Houston Rockets|94|102|11|12|L 1|False|True|0|197211290BAL
+24|24|Fri, Dec 1, 1972||Houston Rockets|103|96|12|12|W 1|True|True|0|197212010BAL
+25|25|Tue, Dec 5, 1972||Cleveland Cavaliers|103|100|13|12|W 2|True|False|0|197212050CLE
+26|26|Wed, Dec 6, 1972||Portland Trail Blazers|115|102|14|12|W 3|True|True|0|197212060BAL
+27|27|Fri, Dec 8, 1972||Atlanta Hawks|115|134|14|13|L 1|False|False|0|197212080ATL
+28|28|Sat, Dec 9, 1972||Kansas City-Omaha Kings|120|112|15|13|W 1|True|True|0|197212090BAL
+29|29|Tue, Dec 12, 1972||Philadelphia 76ers|123|102|16|13|W 2|True|True|0|197212120BAL
+30|30|Fri, Dec 15, 1972||Houston Rockets|94|91|17|13|W 3|True|True|0|197212150BAL
+31|31|Sat, Dec 16, 1972||Golden State Warriors|105|99|18|13|W 4|True|True|0|197212160BAL
+32|32|Wed, Dec 20, 1972||Los Angeles Lakers|90|96|18|14|L 1|False|True|0|197212200BAL
+33|33|Sat, Dec 23, 1972||Detroit Pistons|104|97|19|14|W 1|True|True|0|197212230BAL
+34|34|Tue, Dec 26, 1972||Buffalo Braves|121|104|20|14|W 2|True|False|0|197212260BUF
+35|35|Thu, Dec 28, 1972||Atlanta Hawks|112|111|21|14|W 3|True|False|0|197212280ATL
+36|36|Fri, Dec 29, 1972||Buffalo Braves|109|118|21|15|L 1|False|True|0|197212290BAL
+37|37|Sat, Dec 30, 1972||New York Knicks|98|100|21|16|L 2|False|False|0|197212300NYK
+38|38|Mon, Jan 1, 1973||Milwaukee Bucks|88|87|22|16|W 1|True|False|0|197301010MIL
+39|39|Wed, Jan 3, 1973||Cleveland Cavaliers|89|80|23|16|W 2|True|True|0|197301030BAL
+40|40|Sun, Jan 7, 1973||Boston Celtics|98|116|23|17|L 1|False|True|0|197301070BAL
+41|41|Tue, Jan 9, 1973||Portland Trail Blazers|105|93|24|17|W 1|True|False|0|197301090POR
+42|42|Wed, Jan 10, 1973||Seattle SuperSonics|98|86|25|17|W 2|True|False|0|197301100SEA
+43|43|Sun, Jan 14, 1973||Phoenix Suns|95|94|26|17|W 3|True|False|0|197301140PHO
+44|44|Tue, Jan 16, 1973||Los Angeles Lakers|112|104|27|17|W 4|True|False|0|197301160LAL
+45|45|Fri, Jan 19, 1973||Philadelphia 76ers|110|94|28|17|W 5|True|True|0|197301190BAL
+46|46|Sat, Jan 20, 1973||Seattle SuperSonics|126|106|29|17|W 6|True|True|0|197301200BAL
+47|47|Sun, Jan 21, 1973||Philadelphia 76ers|108|97|30|17|W 7|True|True|0|197301210BAL
+48|48|Fri, Jan 26, 1973||Chicago Bulls|100|110|30|18|L 1|False|False|0|197301260CHI
+49|49|Sat, Jan 27, 1973||Buffalo Braves|115|87|31|18|W 1|True|True|0|197301270BAL
+50|50|Sun, Jan 28, 1973||Cleveland Cavaliers|102|93|32|18|W 2|True|False|0|197301280CLE
+51|51|Tue, Jan 30, 1973||Golden State Warriors|104|86|33|18|W 3|True|True|0|197301300BAL
+52|52|Fri, Feb 2, 1973||New York Knicks|89|77|34|18|W 4|True|True|0|197302020BAL
+53|53|Sun, Feb 4, 1973||Los Angeles Lakers|115|125|34|19|L 1|False|True|0|197302040BAL
+54|54|Tue, Feb 6, 1973||Atlanta Hawks|106|112|34|20|L 2|False|False|0|197302060ATL
+55|55|Wed, Feb 7, 1973||Atlanta Hawks|137|108|35|20|W 1|True|True|0|197302070BAL
+56|56|Fri, Feb 9, 1973||Buffalo Braves|101|95|36|20|W 2|True|False|0|197302090BUF
+57|57|Sun, Feb 11, 1973||Portland Trail Blazers|102|97|37|20|W 3|True|False|0|197302110POR
+58|58|Wed, Feb 14, 1973||Seattle SuperSonics|107|106|38|20|W 4|True|False|0|197302140SEA
+59|59|Thu, Feb 15, 1973||Golden State Warriors|96|94|39|20|W 5|True|False|0|197302150GSW
+60|60|Fri, Feb 16, 1973||Los Angeles Lakers|103|121|39|21|L 1|False|False|0|197302160LAL
+61|61|Sun, Feb 18, 1973||Milwaukee Bucks|96|93|40|21|W 1|True|True|0|197302180BAL
+62|62|Wed, Feb 21, 1973||Phoenix Suns|98|107|40|22|L 1|False|True|0|197302210BAL
+63|63|Fri, Feb 23, 1973||Detroit Pistons|105|107|40|23|L 2|False|False|0|197302230DET
+64|64|Sat, Feb 24, 1973||Portland Trail Blazers|128|110|41|23|W 1|True|True|0|197302240BAL
+65|65|Tue, Feb 27, 1973||Cleveland Cavaliers|99|95|42|23|W 2|True|True|0|197302270BAL
+66|66|Wed, Feb 28, 1973||Philadelphia 76ers|96|102|42|24|L 1|False|False|0|197302280PHI
+67|67|Sat, Mar 3, 1973||New York Knicks|97|75|43|24|W 1|True|False|0|197303030NYK
+68|68|Sun, Mar 4, 1973||New York Knicks|106|97|44|24|W 2|True|True|0|197303040BAL
+69|69|Thu, Mar 8, 1973||Kansas City-Omaha Kings|93|105|44|25|L 1|False|False|0|197303080KCO
+70|70|Fri, Mar 9, 1973||Houston Rockets|109|104|45|25|W 1|True|False|0|197303090HOU
+71|71|Sat, Mar 10, 1973||Chicago Bulls|99|105|45|26|L 1|False|True|0|197303100BAL
+72|72|Tue, Mar 13, 1973||Kansas City-Omaha Kings|103|99|46|26|W 1|True|True|0|197303130BAL
+73|73|Wed, Mar 14, 1973||Boston Celtics|107|111|46|27|L 1|False|False|0|197303140BOS
+74|74|Fri, Mar 16, 1973||Boston Celtics|103|97|47|27|W 1|True|True|0|197303160BAL
+75|75|Sat, Mar 17, 1973||Philadelphia 76ers|120|115|48|27|W 2|True|False|0|197303170PHI
+76|76|Sun, Mar 18, 1973||Philadelphia 76ers|129|118|49|27|W 3|True|True|0|197303180BAL
+77|77|Wed, Mar 21, 1973||Houston Rockets|110|118|49|28|L 1|False|True|0|197303210BAL
+78|78|Fri, Mar 23, 1973||Cleveland Cavaliers|106|104|50|28|W 1|True|False|0|197303230CLE
+79|79|Sat, Mar 24, 1973||Cleveland Cavaliers|120|116|51|28|W 2|True|True|1|197303240BAL
+80|80|Sun, Mar 25, 1973||Atlanta Hawks|112|105|52|28|W 3|True|True|0|197303250BAL
+81|81|Tue, Mar 27, 1973||Detroit Pistons|98|112|52|29|L 1|False|True|0|197303270BAL
+82|82|Wed, Mar 28, 1973||Boston Celtics|101|120|52|30|L 2|False|False|0|197303280BOS

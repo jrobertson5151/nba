@@ -1,0 +1,85 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Wed, Oct 14, 1970||Utah Stars|99|134|0|1|L 1|False|False|0|197010140UTS
+2|2|Fri, Oct 16, 1970||Indiana Pacers|103|115|0|2|L 2|False|False|0|197010160INA
+3|3|Sat, Oct 17, 1970||Kentucky Colonels|103|109|0|3|L 3|False|False|0|197010170KEN
+4|4|Wed, Oct 21, 1970||Texas Chaparrals|133|115|1|3|W 1|True|True|0|197010210DNR
+5|5|Fri, Oct 23, 1970||Pittsburgh Condors|123|127|1|4|L 1|False|True|0|197010230DNR
+6|6|Sun, Oct 25, 1970||Indiana Pacers|122|116|2|4|W 1|True|True|1|197010250DNR
+7|7|Tue, Oct 27, 1970||Memphis Pros|94|102|2|5|L 1|False|True|0|197010270DNR
+8|8|Sat, Oct 31, 1970||Utah Stars|113|122|2|6|L 2|False|False|0|197010310UTS
+9|9|Sun, Nov 1, 1970||Utah Stars|111|117|2|7|L 3|False|True|0|197011010DNR
+10|10|Fri, Nov 6, 1970||Kentucky Colonels|114|131|2|8|L 4|False|False|0|197011060KEN
+11|11|Sat, Nov 7, 1970||Virginia Squires|133|138|2|9|L 5|False|False|2|197011070VIR
+12|12|Sun, Nov 8, 1970||New York Nets|104|114|2|10|L 6|False|False|0|197011080NYA
+13|13|Tue, Nov 10, 1970||The Floridians|119|116|3|10|W 1|True|False|0|197011100FLO
+14|14|Sun, Nov 15, 1970||Utah Stars|110|107|4|10|W 2|True|True|0|197011150DNR
+15|15|Wed, Nov 18, 1970||Indiana Pacers|114|119|4|11|L 1|False|True|0|197011180DNR
+16|16|Fri, Nov 20, 1970||New York Nets|121|103|5|11|W 1|True|True|0|197011200DNR
+17|17|Sun, Nov 22, 1970||Memphis Pros|121|141|5|12|L 1|False|True|0|197011220DNR
+18|18|Tue, Nov 24, 1970||Utah Stars|102|115|5|13|L 2|False|True|0|197011240DNR
+19|19|Wed, Nov 25, 1970||Kentucky Colonels|138|153|5|14|L 3|False|False|0|197011250KEN
+20|20|Thu, Nov 26, 1970||Pittsburgh Condors|130|124|6|14|W 1|True|False|0|197011260PTC
+21|21|Sun, Nov 29, 1970||Indiana Pacers|107|130|6|15|L 1|False|False|0|197011290INA
+22|22|Mon, Nov 30, 1970||Memphis Pros|103|93|7|15|W 1|True|False|0|197011300MMP
+23|23|Thu, Dec 3, 1970||Virginia Squires|124|111|8|15|W 2|True|True|0|197012030DNR
+24|24|Fri, Dec 4, 1970||Texas Chaparrals|134|141|8|16|L 1|False|False|0|197012040TEX
+25|25|Sun, Dec 6, 1970||Kentucky Colonels|125|140|8|17|L 2|False|True|0|197012060DNR
+26|26|Wed, Dec 9, 1970||Virginia Squires|109|113|8|18|L 3|False|True|0|197012090DNR
+27|27|Thu, Dec 10, 1970||Pittsburgh Condors|131|109|9|18|W 1|True|True|0|197012100DNR
+28|28|Fri, Dec 11, 1970||Memphis Pros|100|102|9|19|L 1|False|False|0|197012110MMP
+29|29|Tue, Dec 15, 1970||Carolina Cougars|126|116|10|19|W 1|True|True|0|197012150DNR
+30|30|Thu, Dec 17, 1970||Memphis Pros|108|99|11|19|W 2|True|True|0|197012170DNR
+31|31|Fri, Dec 18, 1970||Pittsburgh Condors|121|143|11|20|L 1|False|False|0|197012180PTC
+32|32|Sat, Dec 19, 1970||Carolina Cougars|124|128|11|21|L 2|False|False|0|197012190CAR
+33|33|Tue, Dec 22, 1970||Memphis Pros|104|102|12|21|W 1|True|False|0|197012220MMP
+34|34|Wed, Dec 23, 1970||The Floridians|109|102|13|21|W 2|True|True|0|197012230DNR
+35|35|Sat, Dec 26, 1970||Virginia Squires|120|122|13|22|L 1|False|True|0|197012260DNR
+36|36|Tue, Dec 29, 1970||Indiana Pacers|116|106|14|22|W 1|True|True|0|197012290DNR
+37|37|Wed, Dec 30, 1970||Carolina Cougars|132|136|14|23|L 1|False|True|0|197012300DNR
+38|38|Sun, Jan 3, 1971||Texas Chaparrals|129|124|15|23|W 1|True|True|1|197101030DNR
+39|39|Tue, Jan 5, 1971||Utah Stars|99|114|15|24|L 1|False|True|0|197101050DNR
+40|40|Thu, Jan 7, 1971||Pittsburgh Condors|116|131|15|25|L 2|False|True|0|197101070DNR
+41|41|Fri, Jan 8, 1971||Texas Chaparrals|126|132|15|26|L 3|False|False|0|197101080TEX
+42|42|Sun, Jan 10, 1971||Carolina Cougars|124|118|16|26|W 1|True|True|1|197101100DNR
+43|43|Tue, Jan 12, 1971||Texas Chaparrals|120|112|17|26|W 2|True|True|0|197101120DNR
+44|44|Fri, Jan 15, 1971||Carolina Cougars|114|125|17|27|L 1|False|False|0|197101150CAR
+45|45|Sat, Jan 16, 1971||Virginia Squires|131|141|17|28|L 2|False|False|0|197101160VIR
+46|46|Sun, Jan 17, 1971||Texas Chaparrals|129|123|18|28|W 1|True|True|0|197101170DNR
+47|47|Tue, Jan 19, 1971||Texas Chaparrals|127|148|18|29|L 1|False|False|0|197101190TEX
+48|48|Wed, Jan 20, 1971||Memphis Pros|103|120|18|30|L 2|False|False|0|197101200MMP
+49|49|Thu, Jan 21, 1971||Indiana Pacers|106|118|18|31|L 3|False|True|0|197101210DNR
+50|50|Sun, Jan 24, 1971||Kentucky Colonels|119|116|19|31|W 1|True|True|0|197101240DNR
+51|51|Wed, Jan 27, 1971||Utah Stars|105|111|19|32|L 1|False|False|0|197101270UTS
+52|52|Fri, Jan 29, 1971||Indiana Pacers|123|127|19|33|L 2|False|False|0|197101290INA
+53|53|Sat, Jan 30, 1971||Carolina Cougars|109|114|19|34|L 3|False|False|0|197101300CAR
+54|54|Sun, Jan 31, 1971||Indiana Pacers|104|124|19|35|L 4|False|True|0|197101310DNR
+55|55|Wed, Feb 3, 1971||Texas Chaparrals|119|127|19|36|L 5|False|True|0|197102030DNR
+56|56|Fri, Feb 5, 1971||The Floridians|132|120|20|36|W 1|True|True|1|197102050DNR
+57|57|Sat, Feb 6, 1971||Pittsburgh Condors|115|114|21|36|W 2|True|False|0|197102060PTC
+58|58|Sun, Feb 7, 1971||Indiana Pacers|133|131|22|36|W 3|True|False|1|197102070INA
+59|59|Wed, Feb 10, 1971||Memphis Pros|106|123|22|37|L 1|False|True|0|197102100DNR
+60|60|Fri, Feb 12, 1971||Kentucky Colonels|138|142|22|38|L 2|False|True|0|197102120DNR
+61|61|Sun, Feb 14, 1971||New York Nets|117|118|22|39|L 3|False|True|0|197102140DNR
+62|62|Tue, Feb 16, 1971||Memphis Pros|125|120|23|39|W 1|True|True|0|197102160DNR
+63|63|Sun, Feb 21, 1971||Utah Stars|107|120|23|40|L 1|False|True|0|197102210DNR
+64|64|Tue, Feb 23, 1971||Utah Stars|103|133|23|41|L 2|False|False|0|197102230UTS
+65|65|Wed, Feb 24, 1971||The Floridians|110|112|23|42|L 3|False|False|0|197102240FLO
+66|66|Fri, Feb 26, 1971||Texas Chaparrals|142|120|24|42|W 1|True|False|0|197102260TEX
+67|67|Sat, Feb 27, 1971||New York Nets|115|122|24|43|L 1|False|False|0|197102270NYA
+68|68|Sun, Feb 28, 1971||Memphis Pros|118|111|25|43|W 1|True|False|0|197102280MMP
+69|69|Wed, Mar 3, 1971||Utah Stars|106|139|25|44|L 1|False|False|0|197103030UTS
+70|70|Fri, Mar 5, 1971||Texas Chaparrals|153|158|25|45|L 2|False|False|3|197103050TEX
+71|71|Sun, Mar 7, 1971||The Floridians|142|141|26|45|W 1|True|False|1|197103070FLO
+72|72|Tue, Mar 9, 1971||Texas Chaparrals|146|127|27|45|W 2|True|False|0|197103090TEX
+73|73|Wed, Mar 10, 1971||The Floridians|113|116|27|46|L 1|False|True|0|197103100DNR
+74|74|Fri, Mar 12, 1971||New York Nets|127|132|27|47|L 2|False|False|0|197103120NYA
+75|75|Sun, Mar 14, 1971||Indiana Pacers|121|131|27|48|L 3|False|False|0|197103140INA
+76|76|Tue, Mar 16, 1971||Memphis Pros|118|127|27|49|L 4|False|True|0|197103160DNR
+77|77|Thu, Mar 18, 1971||Utah Stars|123|124|27|50|L 5|False|True|0|197103180DNR
+78|78|Tue, Mar 23, 1971||Utah Stars|117|124|27|51|L 6|False|False|0|197103230UTS
+79|79|Wed, Mar 24, 1971||Memphis Pros|118|132|27|52|L 7|False|False|0|197103240MMP
+80|80|Thu, Mar 25, 1971||Indiana Pacers|110|129|27|53|L 8|False|True|0|197103250DNR
+81|81|Sat, Mar 27, 1971||Texas Chaparrals|120|118|28|53|W 1|True|True|0|197103270DNR
+82|82|Sun, Mar 28, 1971||Indiana Pacers|126|146|28|54|L 1|False|False|0|197103280INA
+83|83|Tue, Mar 30, 1971||Virginia Squires|129|119|29|54|W 1|True|True|0|197103300DNR
+84|84|Wed, Mar 31, 1971||New York Nets|132|121|30|54|W 2|True|True|0|197103310DNR

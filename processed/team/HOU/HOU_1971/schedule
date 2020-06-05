@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Thu, Oct 14, 1971||Philadelphia 76ers|94|105|0|1|L 1|False|True|0|197110140HOU
+2|2|Sat, Oct 16, 1971||Phoenix Suns|108|128|0|2|L 2|False|False|0|197110160PHO
+3|3|Sun, Oct 17, 1971||Detroit Pistons|99|112|0|3|L 3|False|True|0|197110170DET
+4|4|Wed, Oct 20, 1971||Chicago Bulls|110|125|0|4|L 4|False|True|0|197110200CHI
+5|5|Fri, Oct 22, 1971||Seattle SuperSonics|91|110|0|5|L 5|False|False|0|197110220SEA
+6|6|Sun, Oct 24, 1971||Los Angeles Lakers|103|113|0|6|L 6|False|True|0|197110240HOU
+7|7|Tue, Oct 26, 1971||Detroit Pistons|104|103|1|6|W 1|True|False|0|197110260DET
+8|8|Wed, Oct 27, 1971||Boston Celtics|97|108|1|7|L 1|False|False|0|197110270BOS
+9|9|Thu, Oct 28, 1971||New York Knicks|94|112|1|8|L 2|False|False|0|197110280NYK
+10|10|Sun, Oct 31, 1971||Buffalo Braves|102|87|2|8|W 1|True|True|0|197110310HOU
+11|11|Wed, Nov 3, 1971||New York Knicks|98|117|2|9|L 1|False|True|0|197111030HOU
+12|12|Thu, Nov 4, 1971||Portland Trail Blazers|110|112|2|10|L 2|False|True|0|197111040HOU
+13|13|Sun, Nov 7, 1971||Baltimore Bullets|106|109|2|11|L 3|False|True|0|197111070HOU
+14|14|Tue, Nov 9, 1971||Golden State Warriors|99|115|2|12|L 4|False|False|0|197111090GSW
+15|15|Wed, Nov 10, 1971||Boston Celtics|103|142|2|13|L 5|False|True|0|197111100HOU
+16|16|Fri, Nov 12, 1971||Milwaukee Bucks|102|111|2|14|L 6|False|False|0|197111120MIL
+17|17|Sat, Nov 13, 1971||Chicago Bulls|102|111|2|15|L 7|False|False|0|197111130CHI
+18|18|Tue, Nov 16, 1971||Baltimore Bullets|107|110|2|16|L 8|False|False|0|197111160BAL
+19|19|Wed, Nov 17, 1971||Philadelphia 76ers|118|112|3|16|W 1|True|False|0|197111170PHI
+20|20|Fri, Nov 19, 1971||Los Angeles Lakers|99|106|3|17|L 1|False|False|0|197111190LAL
+21|21|Sun, Nov 21, 1971||Golden State Warriors|115|96|4|17|W 1|True|True|0|197111210GSW
+22|22|Wed, Nov 24, 1971||Philadelphia 76ers|109|108|5|17|W 2|True|True|0|197111240HOU
+23|23|Sun, Nov 28, 1971||Phoenix Suns|110|116|5|18|L 1|False|True|0|197111280HOU
+24|24|Tue, Nov 30, 1971||Buffalo Braves|115|101|6|18|W 1|True|False|0|197111300BUF
+25|25|Wed, Dec 1, 1971||Cleveland Cavaliers|106|116|6|19|L 1|False|False|0|197112010CLE
+26|26|Fri, Dec 3, 1971||Detroit Pistons|112|113|6|20|L 2|False|False|0|197112030DET
+27|27|Sat, Dec 4, 1971||Boston Celtics|107|117|6|21|L 3|False|False|0|197112040BOS
+28|28|Wed, Dec 8, 1971||Los Angeles Lakers|120|125|6|22|L 4|False|True|0|197112080HOU
+29|29|Fri, Dec 10, 1971||Atlanta Hawks|95|88|7|22|W 1|True|True|0|197112100HOU
+30|30|Sat, Dec 11, 1971||Phoenix Suns|111|110|8|22|W 2|True|False|0|197112110PHO
+31|31|Sun, Dec 12, 1971||Seattle SuperSonics|100|98|9|22|W 3|True|True|0|197112120HOU
+32|32|Tue, Dec 14, 1971||Milwaukee Bucks|98|106|9|23|L 1|False|False|0|197112140MIL
+33|33|Wed, Dec 15, 1971||Atlanta Hawks|117|115|10|23|W 1|True|False|1|197112150ATL
+34|34|Fri, Dec 17, 1971||Chicago Bulls|109|98|11|23|W 2|True|False|0|197112170CHI
+35|35|Sat, Dec 18, 1971||Cincinnati Royals|126|116|12|23|W 3|True|False|0|197112180CIN
+36|36|Tue, Dec 21, 1971||Portland Trail Blazers|132|119|13|23|W 4|True|False|0|197112210POR
+37|37|Sun, Dec 26, 1971||Los Angeles Lakers|115|137|13|24|L 1|False|False|0|197112260LAL
+38|38|Wed, Dec 29, 1971||Phoenix Suns|106|124|13|25|L 2|False|True|0|197112290HOU
+39|39|Thu, Dec 30, 1971||Atlanta Hawks|129|115|14|25|W 1|True|True|0|197112300HOU
+40|40|Sun, Jan 2, 1972||Detroit Pistons|107|109|14|26|L 1|False|True|0|197201020HOU
+41|41|Tue, Jan 4, 1972||Seattle SuperSonics|119|110|15|26|W 1|True|True|0|197201040HOU
+42|42|Wed, Jan 5, 1972||Boston Celtics|105|113|15|27|L 1|False|True|0|197201050HOU
+43|43|Sun, Jan 9, 1972||Golden State Warriors|112|113|15|28|L 2|False|True|0|197201090HOU
+44|44|Tue, Jan 11, 1972||Seattle SuperSonics|126|141|15|29|L 3|False|False|0|197201110SEA
+45|45|Sat, Jan 15, 1972||Cleveland Cavaliers|112|109|16|29|W 1|True|True|0|197201150HOU
+46|46|Sun, Jan 16, 1972||New York Knicks|108|109|16|30|L 1|False|True|0|197201160HOU
+47|47|Thu, Jan 20, 1972||Cincinnati Royals|104|87|17|30|W 1|True|False|0|197201200CIN
+48|48|Fri, Jan 21, 1972||Boston Celtics|105|110|17|31|L 1|False|False|0|197201210BOS
+49|49|Sat, Jan 22, 1972||Chicago Bulls|108|115|17|32|L 2|False|False|0|197201220CHI
+50|50|Sun, Jan 23, 1972||Detroit Pistons|109|107|18|32|W 1|True|False|0|197201230DET
+51|51|Tue, Jan 25, 1972||Portland Trail Blazers|118|104|19|32|W 2|True|True|0|197201250HOU
+52|52|Wed, Jan 26, 1972||Chicago Bulls|108|117|19|33|L 1|False|True|0|197201260CHI
+53|53|Fri, Jan 28, 1972||Los Angeles Lakers|105|118|19|34|L 2|False|False|0|197201280LAL
+54|54|Wed, Feb 2, 1972||Seattle SuperSonics|111|88|20|34|W 1|True|True|0|197202020HOU
+55|55|Fri, Feb 4, 1972||Portland Trail Blazers|113|114|20|35|L 1|False|False|0|197202040POR
+56|56|Sat, Feb 5, 1972||Milwaukee Bucks|112|119|20|36|L 2|False|True|0|197202050HOU
+57|57|Sun, Feb 6, 1972||Atlanta Hawks|120|113|21|36|W 1|True|True|0|197202060HOU
+58|58|Tue, Feb 8, 1972||Seattle SuperSonics|119|127|21|37|L 1|False|True|0|197202080HOU
+59|59|Fri, Feb 11, 1972||Baltimore Bullets|116|95|22|37|W 1|True|True|0|197202110HOU
+60|60|Sun, Feb 13, 1972||Cincinnati Royals|112|111|23|37|W 2|True|True|0|197202130HOU
+61|61|Mon, Feb 14, 1972||Philadelphia 76ers|130|116|24|37|W 3|True|False|0|197202140PHI
+62|62|Tue, Feb 15, 1972||Baltimore Bullets|98|113|24|38|L 1|False|False|0|197202150BAL
+63|63|Wed, Feb 16, 1972||New York Knicks|100|110|24|39|L 2|False|False|0|197202160NYK
+64|64|Fri, Feb 18, 1972||Buffalo Braves|108|96|25|39|W 1|True|False|0|197202180BUF
+65|65|Wed, Feb 23, 1972||Los Angeles Lakers|115|110|26|39|W 2|True|True|0|197202230HOU
+66|66|Sat, Feb 26, 1972||Detroit Pistons|122|106|27|39|W 3|True|True|0|197202260HOU
+67|67|Sun, Feb 27, 1972||Golden State Warriors|104|117|27|40|L 1|False|True|0|197202270HOU
+68|68|Wed, Mar 1, 1972||Cincinnati Royals|108|96|28|40|W 1|True|True|0|197203010CIN
+69|69|Fri, Mar 3, 1972||Golden State Warriors|107|108|28|41|L 1|False|True|0|197203030GSW
+70|70|Sat, Mar 4, 1972||Cleveland Cavaliers|123|130|28|42|L 2|False|True|0|197203040HOU
+71|71|Sun, Mar 5, 1972||Chicago Bulls|97|128|28|43|L 3|False|True|0|197203050HOU
+72|72|Thu, Mar 9, 1972||Portland Trail Blazers|114|111|29|43|W 1|True|True|0|197203090HOU
+73|73|Fri, Mar 10, 1972||Golden State Warriors|116|119|29|44|L 1|False|True|0|197203100HOU
+74|74|Sat, Mar 11, 1972||Buffalo Braves|121|100|30|44|W 1|True|True|0|197203110HOU
+75|75|Sun, Mar 12, 1972||Philadelphia 76ers|121|112|31|44|W 2|True|True|0|197203120HOU
+76|76|Thu, Mar 16, 1972||New York Knicks|102|103|31|45|L 1|False|True|0|197203160HOU
+77|77|Sat, Mar 18, 1972||Milwaukee Bucks|116|120|31|46|L 2|False|True|1|197203180HOU
+78|78|Tue, Mar 21, 1972||Milwaukee Bucks|94|111|31|47|L 3|False|False|0|197203210MIL
+79|79|Wed, Mar 22, 1972||Atlanta Hawks|106|107|31|48|L 4|False|False|0|197203220ATL
+80|80|Fri, Mar 24, 1972||Cleveland Cavaliers|127|119|32|48|W 1|True|False|0|197203240CLE
+81|81|Sat, Mar 25, 1972||Baltimore Bullets|106|85|33|48|W 2|True|False|0|197203250BAL
+82|82|Sun, Mar 26, 1972||Portland Trail Blazers|131|109|34|48|W 3|True|True|0|197203260HOU

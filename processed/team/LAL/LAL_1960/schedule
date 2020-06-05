@@ -1,0 +1,80 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Wed, Oct 19, 1960||Cincinnati Royals|123|140|0|1|L 1|False|False|0|196010190CIN
+2|2|Sat, Oct 22, 1960||St. Louis Hawks|96|112|0|2|L 2|False|False|0|196010220STL
+3|3|Mon, Oct 24, 1960||New York Knicks|101|111|0|3|L 3|False|True|0|196010240LAL
+4|4|Tue, Oct 25, 1960||New York Knicks|120|118|1|3|W 1|True|True|0|196010250LAL
+5|5|Fri, Oct 28, 1960||Philadelphia Warriors|120|122|1|4|L 1|False|False|0|196010280PHW
+6|6|Sat, Oct 29, 1960||Syracuse Nationals|118|125|1|5|L 2|False|False|0|196010290SYR
+7|7|Wed, Nov 2, 1960||New York Knicks|106|96|2|5|W 1|True|True|0|196011020LAL
+8|8|Sat, Nov 5, 1960||Syracuse Nationals|112|110|3|5|W 2|True|True|0|196011050LAL
+9|9|Sun, Nov 6, 1960||Syracuse Nationals|119|113|4|5|W 3|True|True|0|196011060LAL
+10|10|Wed, Nov 9, 1960||Philadelphia Warriors|118|125|4|6|L 1|False|True|0|196011090LAL
+11|11|Sat, Nov 12, 1960||Boston Celtics|124|131|4|7|L 2|False|True|0|196011120BOS
+12|12|Tue, Nov 15, 1960||New York Knicks|123|108|5|7|W 1|True|False|0|196011150NYK
+13|13|Sat, Nov 19, 1960||Detroit Pistons|130|122|6|7|W 2|True|True|0|196011190LAL
+14|14|Sun, Nov 20, 1960||Detroit Pistons|135|131|7|7|W 3|True|True|0|196011200DET
+15|15|Tue, Nov 22, 1960||Cincinnati Royals|133|118|8|7|W 4|True|True|0|196011220CIN
+16|16|Wed, Nov 23, 1960||Cincinnati Royals|118|122|8|8|L 1|False|False|0|196011230CIN
+17|17|Thu, Nov 24, 1960||Cincinnati Royals|108|100|9|8|W 1|True|True|0|196011240CIN
+18|18|Fri, Nov 25, 1960||Detroit Pistons|141|128|10|8|W 2|True|False|1|196011250DET
+19|19|Sat, Nov 26, 1960||St. Louis Hawks|113|126|10|9|L 1|False|False|0|196011260STL
+20|20|Sun, Nov 27, 1960||Philadelphia Warriors|106|113|10|10|L 2|False|True|0|196011270LAL
+21|21|Mon, Nov 28, 1960||Philadelphia Warriors|137|112|11|10|W 1|True|True|0|196011280LAL
+22|22|Tue, Nov 29, 1960||Philadelphia Warriors|121|122|11|11|L 1|False|True|0|196011290LAL
+23|23|Thu, Dec 1, 1960||Philadelphia Warriors|114|117|11|12|L 2|False|False|0|196012010PHW
+24|24|Fri, Dec 2, 1960||Boston Celtics|120|117|12|12|W 1|True|False|0|196012020BOS
+25|25|Sun, Dec 4, 1960||Boston Celtics|103|113|12|13|L 1|False|True|0|196012040LAL
+26|26|Mon, Dec 5, 1960||Boston Celtics|101|123|12|14|L 2|False|True|0|196012050LAL
+27|27|Wed, Dec 7, 1960||Cincinnati Royals|112|114|12|15|L 3|False|False|0|196012070CIN
+28|28|Sat, Dec 10, 1960||St. Louis Hawks|108|111|12|16|L 4|False|False|0|196012100STL
+29|29|Mon, Dec 12, 1960||St. Louis Hawks|103|114|12|17|L 5|False|True|0|196012120LAL
+30|30|Wed, Dec 14, 1960||St. Louis Hawks|124|113|13|17|W 1|True|True|0|196012140LAL
+31|31|Fri, Dec 16, 1960||Cincinnati Royals|116|130|13|18|L 1|False|False|0|196012160CIN
+32|32|Sat, Dec 17, 1960||Boston Celtics|112|140|13|19|L 2|False|False|0|196012170BOS
+33|33|Mon, Dec 19, 1960||Detroit Pistons|107|103|14|19|W 1|True|True|0|196012190DET
+34|34|Tue, Dec 20, 1960||Detroit Pistons|94|97|14|20|L 1|False|True|0|196012200DET
+35|35|Mon, Dec 26, 1960||New York Knicks|112|119|14|21|L 2|False|False|0|196012260NYK
+36|36|Wed, Dec 28, 1960||Syracuse Nationals|113|115|14|22|L 3|False|False|0|196012280SYR
+37|37|Thu, Dec 29, 1960||New York Knicks|111|95|15|22|W 1|True|True|0|196012290LAL
+38|38|Fri, Dec 30, 1960||St. Louis Hawks|99|107|15|23|L 1|False|False|0|196012300STL
+39|39|Sun, Jan 1, 1961||Detroit Pistons|105|116|15|24|L 2|False|False|0|196101010DET
+40|40|Mon, Jan 2, 1961||Detroit Pistons|123|113|16|24|W 1|True|True|0|196101020DET
+41|41|Tue, Jan 3, 1961||Boston Celtics|96|102|16|25|L 1|False|True|0|196101030LAL
+42|42|Thu, Jan 5, 1961||St. Louis Hawks|110|96|17|25|W 1|True|True|0|196101050LAL
+43|43|Fri, Jan 6, 1961||St. Louis Hawks|104|108|17|26|L 1|False|True|0|196101060LAL
+44|44|Tue, Jan 10, 1961||New York Knicks|117|104|18|26|W 1|True|True|0|196101100LAL
+45|45|Wed, Jan 11, 1961||New York Knicks|104|109|18|27|L 1|False|True|0|196101110LAL
+46|46|Sat, Jan 14, 1961||Cincinnati Royals|123|114|19|27|W 1|True|True|0|196101140LAL
+47|47|Sun, Jan 15, 1961||Cincinnati Royals|105|109|19|28|L 1|False|True|0|196101150LAL
+48|48|Thu, Jan 19, 1961||Boston Celtics|103|106|19|29|L 2|False|True|0|196101190BOS
+49|49|Sat, Jan 21, 1961||Philadelphia Warriors|111|136|19|30|L 3|False|False|0|196101210PHW
+50|50|Sun, Jan 22, 1961||Syracuse Nationals|109|112|19|31|L 4|False|True|0|196101220LAL
+51|51|Tue, Jan 24, 1961||Syracuse Nationals|116|107|20|31|W 1|True|True|0|196101240LAL
+52|52|Wed, Jan 25, 1961||Syracuse Nationals|117|112|21|31|W 2|True|True|0|196101250LAL
+53|53|Sun, Jan 29, 1961||Detroit Pistons|137|113|22|31|W 3|True|True|0|196101290LAL
+54|54|Mon, Jan 30, 1961||Detroit Pistons|117|116|23|31|W 4|True|True|0|196101300LAL
+55|55|Tue, Jan 31, 1961||Detroit Pistons|112|121|23|32|L 1|False|True|0|196101310DET
+56|56|Thu, Feb 2, 1961||St. Louis Hawks|116|115|24|32|W 1|True|True|0|196102020LAL
+57|57|Sun, Feb 5, 1961||Detroit Pistons|125|120|25|32|W 2|True|False|0|196102050DET
+58|58|Mon, Feb 6, 1961||Cincinnati Royals|110|101|26|32|W 3|True|True|0|196102060CIN
+59|59|Tue, Feb 7, 1961||Boston Celtics|95|96|26|33|L 1|False|True|0|196102070BOS
+60|60|Wed, Feb 8, 1961||St. Louis Hawks|120|103|27|33|W 1|True|True|0|196102080LAL
+61|61|Thu, Feb 9, 1961||St. Louis Hawks|113|123|27|34|L 1|False|True|0|196102090LAL
+62|62|Sun, Feb 12, 1961||St. Louis Hawks|105|95|28|34|W 1|True|False|0|196102120STL
+63|63|Mon, Feb 13, 1961||Cincinnati Royals|100|104|28|35|L 1|False|True|0|196102130CIN
+64|64|Tue, Feb 14, 1961||Boston Celtics|93|113|28|36|L 2|False|True|0|196102140BOS
+65|65|Thu, Feb 16, 1961||Detroit Pistons|129|106|29|36|W 1|True|False|0|196102160DET
+66|66|Sat, Feb 18, 1961||New York Knicks|121|106|30|36|W 2|True|False|0|196102180NYK
+67|67|Sun, Feb 19, 1961||Cincinnati Royals|106|112|30|37|L 1|False|False|0|196102190CIN
+68|68|Mon, Feb 20, 1961||Syracuse Nationals|121|126|30|38|L 2|False|True|0|196102200LAL
+69|69|Wed, Feb 22, 1961||Boston Celtics|105|93|31|38|W 1|True|True|0|196102220LAL
+70|70|Sun, Feb 26, 1961||Philadelphia Warriors|121|116|32|38|W 2|True|True|0|196102260LAL
+71|71|Mon, Feb 27, 1961||Philadelphia Warriors|88|113|32|39|L 1|False|True|0|196102270LAL
+72|72|Tue, Feb 28, 1961||Philadelphia Warriors|108|123|32|40|L 2|False|False|0|196102280PHW
+73|73|Wed, Mar 1, 1961||New York Knicks|144|107|33|40|W 1|True|True|0|196103010LAL
+74|74|Thu, Mar 2, 1961||Syracuse Nationals|114|110|34|40|W 2|True|True|0|196103020LAL
+75|75|Sun, Mar 5, 1961||Syracuse Nationals|125|114|35|40|W 3|True|False|0|196103050SYR
+76|76|Tue, Mar 7, 1961||St. Louis Hawks|136|137|35|41|L 1|False|False|2|196103070STL
+77|77|Wed, Mar 8, 1961||Detroit Pistons|103|120|35|42|L 2|False|False|0|196103080DET
+78|78|Sat, Mar 11, 1961||Cincinnati Royals|105|108|35|43|L 3|False|True|0|196103110LAL
+79|79|Sun, Mar 12, 1961||Cincinnati Royals|123|122|36|43|W 1|True|True|0|196103120LAL

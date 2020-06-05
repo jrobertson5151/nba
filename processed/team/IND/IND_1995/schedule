@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Nov 3, 1995||Atlanta Hawks|111|106|1|0|W 1|True|False|0|199511030ATL
+2|2|Sat, Nov 4, 1995||Toronto Raptors|97|89|2|0|W 2|True|True|0|199511040IND
+3|3|Tue, Nov 7, 1995||Cleveland Cavaliers|104|101|3|0|W 3|True|False|0|199511070CLE
+4|4|Thu, Nov 9, 1995||New York Knicks|95|103|3|1|L 1|False|False|0|199511090NYK
+5|5|Fri, Nov 10, 1995||Sacramento Kings|95|119|3|2|L 2|False|True|0|199511100IND
+6|6|Wed, Nov 15, 1995||Miami Heat|103|97|4|2|W 1|True|False|0|199511150MIA
+7|7|Thu, Nov 16, 1995||Orlando Magic|80|89|4|3|L 1|False|False|0|199511160ORL
+8|8|Sat, Nov 18, 1995||Seattle SuperSonics|118|104|5|3|W 1|True|True|0|199511180IND
+9|9|Thu, Nov 23, 1995||Houston Rockets|108|115|5|4|L 1|False|True|0|199511230IND
+10|10|Fri, Nov 24, 1995||Cleveland Cavaliers|93|100|5|5|L 2|False|True|0|199511240IND
+11|11|Tue, Nov 28, 1995||Seattle SuperSonics|102|101|6|5|W 1|True|False|0|199511280SEA
+12|12|Thu, Nov 30, 1995||Sacramento Kings|95|105|6|6|L 1|False|False|0|199511300SAC
+13|13|Sat, Dec 2, 1995||Golden State Warriors|97|100|6|7|L 2|False|False|0|199512020GSW
+14|14|Sun, Dec 3, 1995||Los Angeles Lakers|96|104|6|8|L 3|False|False|0|199512030LAL
+15|15|Tue, Dec 5, 1995||Philadelphia 76ers|108|91|7|8|W 1|True|True|0|199512050IND
+16|16|Fri, Dec 8, 1995||New Jersey Nets|89|91|7|9|L 1|False|False|0|199512080NJN
+17|17|Sun, Dec 10, 1995||Los Angeles Clippers|111|104|8|9|W 1|True|True|0|199512100IND
+18|18|Tue, Dec 12, 1995||Denver Nuggets|125|92|9|9|W 2|True|True|0|199512120IND
+19|19|Thu, Dec 14, 1995||Toronto Raptors|102|100|10|9|W 3|True|False|0|199512140TOR
+20|20|Fri, Dec 15, 1995||Milwaukee Bucks|112|95|11|9|W 4|True|True|0|199512150IND
+21|21|Sun, Dec 17, 1995||Milwaukee Bucks|80|84|11|10|L 1|False|False|0|199512170MIL
+22|22|Wed, Dec 20, 1995||Los Angeles Lakers|109|98|12|10|W 1|True|True|0|199512200IND
+23|23|Fri, Dec 22, 1995||Dallas Mavericks|90|79|13|10|W 2|True|True|0|199512220IND
+24|24|Sat, Dec 23, 1995||Cleveland Cavaliers|96|97|13|11|L 1|False|False|0|199512230CLE
+25|25|Tue, Dec 26, 1995||Chicago Bulls|103|97|14|11|W 1|True|True|0|199512260IND
+26|26|Thu, Dec 28, 1995||Miami Heat|91|77|15|11|W 2|True|True|0|199512280IND
+27|27|Fri, Dec 29, 1995||Chicago Bulls|93|120|15|12|L 1|False|False|0|199512290CHI
+28|28|Tue, Jan 2, 1996||Denver Nuggets|102|87|16|12|W 1|True|False|0|199601020DEN
+29|29|Wed, Jan 3, 1996||Los Angeles Clippers|110|94|17|12|W 2|True|False|0|199601030LAC
+30|30|Fri, Jan 5, 1996||San Antonio Spurs|105|92|18|12|W 3|True|False|0|199601050SAS
+31|31|Sat, Jan 6, 1996||Houston Rockets|87|99|18|13|L 1|False|False|0|199601060HOU
+32|32|Tue, Jan 9, 1996||Dallas Mavericks|91|84|19|13|W 1|True|False|0|199601090DAL
+33|33|Thu, Jan 11, 1996||Milwaukee Bucks|96|88|20|13|W 2|True|True|0|199601110IND
+34|34|Sat, Jan 13, 1996||Minnesota Timberwolves|103|94|21|13|W 3|True|True|0|199601130IND
+35|35|Tue, Jan 16, 1996||Toronto Raptors|110|102|22|13|W 4|True|False|0|199601160TOR
+36|36|Wed, Jan 17, 1996||Atlanta Hawks|93|102|22|14|L 1|False|False|0|199601170ATL
+37|37|Fri, Jan 19, 1996||Detroit Pistons|89|81|23|14|W 1|True|True|0|199601190IND
+38|38|Sun, Jan 21, 1996||Washington Bullets|106|96|24|14|W 2|True|True|0|199601210IND
+39|39|Tue, Jan 23, 1996||Phoenix Suns|117|102|25|14|W 3|True|True|0|199601230IND
+40|40|Wed, Jan 24, 1996||Milwaukee Bucks|97|89|26|14|W 4|True|False|0|199601240MIL
+41|41|Fri, Jan 26, 1996||Boston Celtics|107|90|27|14|W 5|True|False|0|199601260BOS
+42|42|Sat, Jan 27, 1996||Orlando Magic|102|79|28|14|W 6|True|True|0|199601270IND
+43|43|Tue, Jan 30, 1996||Atlanta Hawks|107|90|29|14|W 7|True|True|0|199601300IND
+44|44|Thu, Feb 1, 1996||Detroit Pistons|70|87|29|15|L 1|False|False|0|199602010DET
+45|45|Fri, Feb 2, 1996||Boston Celtics|116|108|30|15|W 1|True|True|0|199602020IND
+46|46|Sun, Feb 4, 1996||New York Knicks|90|83|31|15|W 2|True|True|0|199602040IND
+47|47|Wed, Feb 7, 1996||Philadelphia 76ers|101|102|31|16|L 1|False|False|0|199602070PHI
+48|48|Tue, Feb 13, 1996||New Jersey Nets|92|101|31|17|L 2|False|True|0|199602130IND
+49|49|Wed, Feb 14, 1996||New Jersey Nets|87|88|31|18|L 3|False|False|0|199602140NJN
+50|50|Fri, Feb 16, 1996||Washington Bullets|95|94|32|18|W 1|True|False|0|199602160WSB
+51|51|Sun, Feb 18, 1996||Chicago Bulls|102|110|32|19|L 1|False|True|0|199602180IND
+52|52|Wed, Feb 21, 1996||Orlando Magic|97|99|32|20|L 2|False|True|0|199602210IND
+53|53|Fri, Feb 23, 1996||Philadelphia 76ers|102|95|33|20|W 1|True|True|0|199602230IND
+54|54|Sat, Feb 24, 1996||Charlotte Hornets|104|90|34|20|W 2|True|False|0|199602240CHH
+55|55|Mon, Feb 26, 1996||Boston Celtics|122|119|35|20|W 3|True|False|1|199602260BOS
+56|56|Tue, Feb 27, 1996||Portland Trail Blazers|101|87|36|20|W 4|True|True|0|199602270IND
+57|57|Thu, Feb 29, 1996||Golden State Warriors|94|85|37|20|W 5|True|True|0|199602290IND
+58|58|Sun, Mar 3, 1996||Charlotte Hornets|103|100|38|20|W 6|True|True|0|199603030IND
+59|59|Tue, Mar 5, 1996||Phoenix Suns|95|108|38|21|L 1|False|False|0|199603050PHO
+60|60|Wed, Mar 6, 1996||Utah Jazz|94|101|38|22|L 2|False|False|0|199603060UTA
+61|61|Fri, Mar 8, 1996||Vancouver Grizzlies|94|80|39|22|W 1|True|False|0|199603080VAN
+62|62|Sun, Mar 10, 1996||Portland Trail Blazers|108|113|39|23|L 1|False|False|2|199603100POR
+63|63|Fri, Mar 15, 1996||Utah Jazz|86|95|39|24|L 2|False|True|0|199603150IND
+64|64|Sun, Mar 17, 1996||Toronto Raptors|105|96|40|24|W 1|True|True|0|199603170IND
+65|65|Tue, Mar 19, 1996||Charlotte Hornets|94|102|40|25|L 1|False|False|0|199603190CHH
+66|66|Wed, Mar 20, 1996||New York Knicks|99|102|40|26|L 2|False|False|0|199603200NYK
+67|67|Fri, Mar 22, 1996||Vancouver Grizzlies|111|94|41|26|W 1|True|True|0|199603220IND
+68|68|Sun, Mar 24, 1996||San Antonio Spurs|88|100|41|27|L 1|False|True|0|199603240IND
+69|69|Tue, Mar 26, 1996||Boston Celtics|103|96|42|27|W 1|True|True|0|199603260IND
+70|70|Wed, Mar 27, 1996||Washington Bullets|99|93|43|27|W 2|True|False|0|199603270WSB
+71|71|Fri, Mar 29, 1996||Minnesota Timberwolves|91|93|43|28|L 1|False|False|0|199603290MIN
+72|72|Sun, Mar 31, 1996||New Jersey Nets|118|100|44|28|W 1|True|True|0|199603310IND
+73|73|Tue, Apr 2, 1996||New York Knicks|86|90|44|29|L 1|False|True|0|199604020IND
+74|74|Wed, Apr 3, 1996||Philadelphia 76ers|102|87|45|29|W 1|True|False|0|199604030PHI
+75|75|Sat, Apr 6, 1996||Miami Heat|99|95|46|29|W 2|True|True|0|199604060IND
+76|76|Mon, Apr 8, 1996||Atlanta Hawks|97|95|47|29|W 3|True|True|0|199604080IND
+77|77|Fri, Apr 12, 1996||Orlando Magic|111|101|48|29|W 4|True|False|0|199604120ORL
+78|78|Sat, Apr 13, 1996||Detroit Pistons|91|86|49|29|W 5|True|True|0|199604130IND
+79|79|Mon, Apr 15, 1996||Charlotte Hornets|90|87|50|29|W 6|True|True|0|199604150IND
+80|80|Wed, Apr 17, 1996||Detroit Pistons|93|102|50|30|L 1|False|False|0|199604170DET
+81|81|Sat, Apr 20, 1996||Chicago Bulls|100|99|51|30|W 1|True|False|0|199604200CHI
+82|82|Sun, Apr 21, 1996||Cleveland Cavaliers|89|88|52|30|W 2|True|True|0|199604210IND

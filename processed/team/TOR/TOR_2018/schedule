@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Wed, Oct 17, 2018|7:30p|Cleveland Cavaliers|116|104|1|0|W 1|True|True|0|201810170TOR
+2|2|Fri, Oct 19, 2018|8:00p|Boston Celtics|113|101|2|0|W 2|True|True|0|201810190TOR
+3|3|Sat, Oct 20, 2018|7:00p|Washington Wizards|117|113|3|0|W 3|True|False|0|201810200WAS
+4|4|Mon, Oct 22, 2018|7:30p|Charlotte Hornets|127|106|4|0|W 4|True|True|0|201810220TOR
+5|5|Wed, Oct 24, 2018|7:30p|Minnesota Timberwolves|112|105|5|0|W 5|True|True|0|201810240TOR
+6|6|Fri, Oct 26, 2018|7:30p|Dallas Mavericks|116|107|6|0|W 6|True|True|0|201810260TOR
+7|7|Mon, Oct 29, 2018|8:00p|Milwaukee Bucks|109|124|6|1|L 1|False|False|0|201810290MIL
+8|8|Tue, Oct 30, 2018|7:30p|Philadelphia 76ers|129|112|7|1|W 1|True|True|0|201810300TOR
+9|9|Fri, Nov 2, 2018|10:00p|Phoenix Suns|107|98|8|1|W 2|True|False|0|201811020PHO
+10|10|Sun, Nov 4, 2018|9:30p|Los Angeles Lakers|121|107|9|1|W 3|True|False|0|201811040LAL
+11|11|Mon, Nov 5, 2018|9:00p|Utah Jazz|124|111|10|1|W 4|True|False|0|201811050UTA
+12|12|Wed, Nov 7, 2018|10:00p|Sacramento Kings|114|105|11|1|W 5|True|False|0|201811070SAC
+13|13|Sat, Nov 10, 2018|3:00p|New York Knicks|128|112|12|1|W 6|True|True|0|201811100TOR
+14|14|Mon, Nov 12, 2018|7:30p|New Orleans Pelicans|110|126|12|2|L 1|False|True|0|201811120TOR
+15|15|Wed, Nov 14, 2018|7:30p|Detroit Pistons|104|106|12|3|L 2|False|True|0|201811140TOR
+16|16|Fri, Nov 16, 2018|7:00p|Boston Celtics|116|123|12|4|L 3|False|False|1|201811160BOS
+17|17|Sat, Nov 17, 2018|8:00p|Chicago Bulls|122|83|13|4|W 1|True|False|0|201811170CHI
+18|18|Tue, Nov 20, 2018|7:00p|Orlando Magic|93|91|14|4|W 2|True|False|0|201811200ORL
+19|19|Wed, Nov 21, 2018|7:30p|Atlanta Hawks|124|108|15|4|W 3|True|False|0|201811210ATL
+20|20|Fri, Nov 23, 2018|7:30p|Washington Wizards|125|107|16|4|W 4|True|True|0|201811230TOR
+21|21|Sun, Nov 25, 2018|6:00p|Miami Heat|125|115|17|4|W 5|True|True|0|201811250TOR
+22|22|Tue, Nov 27, 2018|8:00p|Memphis Grizzlies|122|114|18|4|W 6|True|False|0|201811270MEM
+23|23|Thu, Nov 29, 2018|8:00p|Golden State Warriors|131|128|19|4|W 7|True|True|1|201811290TOR
+24|24|Sat, Dec 1, 2018|8:00p|Cleveland Cavaliers|106|95|20|4|W 8|True|False|0|201812010CLE
+25|25|Mon, Dec 3, 2018|7:30p|Denver Nuggets|103|106|20|5|L 1|False|True|0|201812030TOR
+26|26|Wed, Dec 5, 2018|8:00p|Philadelphia 76ers|113|102|21|5|W 1|True|True|0|201812050TOR
+27|27|Fri, Dec 7, 2018|7:30p|Brooklyn Nets|105|106|21|6|L 1|False|False|1|201812070BRK
+28|28|Sun, Dec 9, 2018|6:00p|Milwaukee Bucks|99|104|21|7|L 2|False|True|0|201812090TOR
+29|29|Tue, Dec 11, 2018|10:30p|Los Angeles Clippers|123|99|22|7|W 1|True|False|0|201812110LAC
+30|30|Wed, Dec 12, 2018|10:30p|Golden State Warriors|113|93|23|7|W 2|True|False|0|201812120GSW
+31|31|Fri, Dec 14, 2018|10:00p|Portland Trail Blazers|122|128|23|8|L 1|False|False|0|201812140POR
+32|32|Sun, Dec 16, 2018|8:00p|Denver Nuggets|86|95|23|9|L 2|False|False|0|201812160DEN
+33|33|Wed, Dec 19, 2018|7:30p|Indiana Pacers|99|96|24|9|W 1|True|True|0|201812190TOR
+34|34|Fri, Dec 21, 2018|7:00p|Cleveland Cavaliers|126|110|25|9|W 2|True|True|0|201812210TOR
+35|35|Sat, Dec 22, 2018|7:30p|Philadelphia 76ers|101|126|25|10|L 1|False|False|0|201812220PHI
+36|36|Wed, Dec 26, 2018|7:30p|Miami Heat|106|104|26|10|W 1|True|False|0|201812260MIA
+37|37|Fri, Dec 28, 2018|7:00p|Orlando Magic|87|116|26|11|L 1|False|False|0|201812280ORL
+38|38|Sun, Dec 30, 2018|6:00p|Chicago Bulls|95|89|27|11|W 1|True|True|0|201812300TOR
+39|39|Tue, Jan 1, 2019|7:30p|Utah Jazz|122|116|28|11|W 2|True|True|0|201901010TOR
+40|40|Thu, Jan 3, 2019|8:00p|San Antonio Spurs|107|125|28|12|L 1|False|False|0|201901030SAS
+41|41|Sat, Jan 5, 2019|8:30p|Milwaukee Bucks|123|116|29|12|W 1|True|False|0|201901050MIL
+42|42|Sun, Jan 6, 2019|7:30p|Indiana Pacers|121|105|30|12|W 2|True|True|0|201901060TOR
+43|43|Tue, Jan 8, 2019|7:30p|Atlanta Hawks|104|101|31|12|W 3|True|True|0|201901080TOR
+44|44|Fri, Jan 11, 2019|7:30p|Brooklyn Nets|122|105|32|12|W 4|True|True|0|201901110TOR
+45|45|Sun, Jan 13, 2019|1:00p|Washington Wizards|140|138|33|12|W 5|True|False|2|201901130WAS
+46|46|Wed, Jan 16, 2019|8:00p|Boston Celtics|108|117|33|13|L 1|False|False|0|201901160BOS
+47|47|Thu, Jan 17, 2019|7:30p|Phoenix Suns|111|109|34|13|W 1|True|True|0|201901170TOR
+48|48|Sat, Jan 19, 2019|7:30p|Memphis Grizzlies|119|90|35|13|W 2|True|True|0|201901190TOR
+49|49|Tue, Jan 22, 2019|7:00p|Sacramento Kings|120|105|36|13|W 3|True|True|0|201901220TOR
+50|50|Wed, Jan 23, 2019|7:00p|Indiana Pacers|106|110|36|14|L 1|False|False|0|201901230IND
+51|51|Fri, Jan 25, 2019|8:00p|Houston Rockets|119|121|36|15|L 2|False|False|0|201901250HOU
+52|52|Sun, Jan 27, 2019|7:00p|Dallas Mavericks|123|120|37|15|W 1|True|False|0|201901270DAL
+53|53|Thu, Jan 31, 2019|8:00p|Milwaukee Bucks|92|105|37|16|L 1|False|True|0|201901310TOR
+54|54|Sun, Feb 3, 2019|3:00p|Los Angeles Clippers|121|103|38|16|W 1|True|True|0|201902030TOR
+55|55|Tue, Feb 5, 2019|8:00p|Philadelphia 76ers|119|107|39|16|W 2|True|False|0|201902050PHI
+56|56|Thu, Feb 7, 2019|7:30p|Atlanta Hawks|119|101|40|16|W 3|True|False|0|201902070ATL
+57|57|Sat, Feb 9, 2019|7:30p|New York Knicks|104|99|41|16|W 4|True|False|0|201902090NYK
+58|58|Mon, Feb 11, 2019|7:30p|Brooklyn Nets|127|125|42|16|W 5|True|True|0|201902110TOR
+59|59|Wed, Feb 13, 2019|7:30p|Washington Wizards|129|120|43|16|W 6|True|True|0|201902130TOR
+60|60|Fri, Feb 22, 2019|7:00p|San Antonio Spurs|120|117|44|16|W 7|True|True|0|201902220TOR
+61|61|Sun, Feb 24, 2019|3:30p|Orlando Magic|98|113|44|17|L 1|False|True|0|201902240TOR
+62|62|Tue, Feb 26, 2019|8:00p|Boston Celtics|118|95|45|17|W 1|True|True|0|201902260TOR
+63|63|Fri, Mar 1, 2019|8:00p|Portland Trail Blazers|119|117|46|17|W 2|True|True|0|201903010TOR
+64|64|Sun, Mar 3, 2019|6:00p|Detroit Pistons|107|112|46|18|L 1|False|False|1|201903030DET
+65|65|Tue, Mar 5, 2019|8:00p|Houston Rockets|95|107|46|19|L 2|False|True|0|201903050TOR
+66|66|Fri, Mar 8, 2019|8:00p|New Orleans Pelicans|127|104|47|19|W 1|True|False|0|201903080NOP
+67|67|Sun, Mar 10, 2019|3:30p|Miami Heat|125|104|48|19|W 2|True|False|0|201903100MIA
+68|68|Mon, Mar 11, 2019|7:00p|Cleveland Cavaliers|101|126|48|20|L 1|False|False|0|201903110CLE
+69|69|Thu, Mar 14, 2019|8:00p|Los Angeles Lakers|111|98|49|20|W 1|True|True|0|201903140TOR
+70|70|Sun, Mar 17, 2019|4:00p|Detroit Pistons|107|110|49|21|L 1|False|False|0|201903170DET
+71|71|Mon, Mar 18, 2019|7:30p|New York Knicks|128|92|50|21|W 1|True|True|0|201903180TOR
+72|72|Wed, Mar 20, 2019|9:30p|Oklahoma City Thunder|123|114|51|21|W 2|True|False|1|201903200OKC
+73|73|Fri, Mar 22, 2019|7:30p|Oklahoma City Thunder|109|116|51|22|L 1|False|True|0|201903220TOR
+74|74|Sun, Mar 24, 2019|6:00p|Charlotte Hornets|114|115|51|23|L 2|False|True|0|201903240TOR
+75|75|Tue, Mar 26, 2019|7:30p|Chicago Bulls|112|103|52|23|W 1|True|True|0|201903260TOR
+76|76|Thu, Mar 28, 2019|7:30p|New York Knicks|117|92|53|23|W 2|True|False|0|201903280NYK
+77|77|Sat, Mar 30, 2019|8:00p|Chicago Bulls|124|101|54|23|W 3|True|False|0|201903300CHI
+78|78|Mon, Apr 1, 2019|7:30p|Orlando Magic|121|109|55|23|W 4|True|True|0|201904010TOR
+79|79|Wed, Apr 3, 2019|7:30p|Brooklyn Nets|115|105|56|23|W 5|True|False|0|201904030BRK
+80|80|Fri, Apr 5, 2019|7:00p|Charlotte Hornets|111|113|56|24|L 1|False|False|0|201904050CHO
+81|81|Sun, Apr 7, 2019|12:00p|Miami Heat|117|109|57|24|W 1|True|True|1|201904070TOR
+82|82|Tue, Apr 9, 2019|8:00p|Minnesota Timberwolves|120|100|58|24|W 2|True|False|0|201904090MIN

@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Nov 6, 1992||Milwaukee Bucks|81|86|0|1|L 1|False|True|0|199211060DET
+2|2|Sat, Nov 7, 1992||Indiana Pacers|89|87|1|1|W 1|True|False|0|199211070IND
+3|3|Wed, Nov 11, 1992||Chicago Bulls|96|98|1|2|L 1|False|False|1|199211110CHI
+4|4|Thu, Nov 12, 1992||Miami Heat|95|88|2|2|W 1|True|True|0|199211120DET
+5|5|Sat, Nov 14, 1992||Indiana Pacers|100|104|2|3|L 1|False|True|0|199211140DET
+6|6|Tue, Nov 17, 1992||Los Angeles Clippers|106|115|2|4|L 2|False|False|1|199211170LAC
+7|7|Thu, Nov 19, 1992||Denver Nuggets|87|99|2|5|L 3|False|False|0|199211190DEN
+8|8|Sat, Nov 21, 1992||Seattle SuperSonics|101|138|2|6|L 4|False|False|0|199211210SEA
+9|9|Sun, Nov 22, 1992||Portland Trail Blazers|90|115|2|7|L 5|False|False|0|199211220POR
+10|10|Wed, Nov 25, 1992||Charlotte Hornets|97|101|2|8|L 6|False|True|0|199211250DET
+11|11|Sat, Nov 28, 1992||Minnesota Timberwolves|80|82|2|9|L 7|False|False|0|199211280MIN
+12|12|Sun, Nov 29, 1992||New York Knicks|92|76|3|9|W 1|True|True|0|199211290DET
+13|13|Fri, Dec 4, 1992||Philadelphia 76ers|101|99|4|9|W 2|True|False|0|199212040PHI
+14|14|Sat, Dec 5, 1992||Philadelphia 76ers|112|88|5|9|W 3|True|True|0|199212050DET
+15|15|Wed, Dec 9, 1992||Orlando Magic|108|103|6|9|W 4|True|True|0|199212090DET
+16|16|Fri, Dec 11, 1992||Cleveland Cavaliers|107|103|7|9|W 5|True|True|0|199212110DET
+17|17|Sat, Dec 12, 1992||New York Knicks|88|95|7|10|L 1|False|False|0|199212120NYK
+18|18|Tue, Dec 15, 1992||Atlanta Hawks|107|94|8|10|W 1|True|False|0|199212150ATL
+19|19|Wed, Dec 16, 1992||Atlanta Hawks|89|88|9|10|W 2|True|True|0|199212160DET
+20|20|Fri, Dec 18, 1992||Indiana Pacers|122|106|10|10|W 3|True|True|0|199212180DET
+21|21|Sat, Dec 19, 1992||Milwaukee Bucks|103|90|11|10|W 4|True|False|0|199212190MIL
+22|22|Tue, Dec 22, 1992||Houston Rockets|98|84|12|10|W 5|True|True|0|199212220DET
+23|23|Wed, Dec 23, 1992||Charlotte Hornets|95|107|12|11|L 1|False|False|0|199212230CHH
+24|24|Sat, Dec 26, 1992||Washington Bullets|99|97|13|11|W 1|True|False|0|199212260WSB
+25|25|Mon, Dec 28, 1992||Cleveland Cavaliers|89|98|13|12|L 1|False|False|0|199212280CLE
+26|26|Wed, Dec 30, 1992||Washington Bullets|118|110|14|12|W 1|True|True|0|199212300DET
+27|27|Sat, Jan 2, 1993||Orlando Magic|98|97|15|12|W 2|True|False|0|199301020ORL
+28|28|Tue, Jan 5, 1993||Miami Heat|83|89|15|13|L 1|False|False|0|199301050MIA
+29|29|Wed, Jan 6, 1993||Los Angeles Clippers|110|103|16|13|W 1|True|True|0|199301060DET
+30|30|Fri, Jan 8, 1993||Atlanta Hawks|92|101|16|14|L 1|False|True|0|199301080DET
+31|31|Sat, Jan 9, 1993||Golden State Warriors|104|108|16|15|L 2|False|True|0|199301090DET
+32|32|Mon, Jan 11, 1993||San Antonio Spurs|91|109|16|16|L 3|False|True|0|199301110DET
+33|33|Wed, Jan 13, 1993||Dallas Mavericks|112|96|17|16|W 1|True|True|0|199301130DET
+34|34|Thu, Jan 14, 1993||Atlanta Hawks|91|108|17|17|L 1|False|False|0|199301140ATL
+35|35|Sat, Jan 16, 1993||Philadelphia 76ers|108|123|17|18|L 2|False|False|0|199301160PHI
+36|36|Tue, Jan 19, 1993||Dallas Mavericks|103|113|17|19|L 3|False|False|0|199301190DAL
+37|37|Thu, Jan 21, 1993||Houston Rockets|120|126|17|20|L 4|False|False|0|199301210HOU
+38|38|Fri, Jan 22, 1993||San Antonio Spurs|109|123|17|21|L 5|False|False|0|199301220SAS
+39|39|Mon, Jan 25, 1993||Phoenix Suns|119|121|17|22|L 6|False|True|0|199301250DET
+40|40|Wed, Jan 27, 1993||Boston Celtics|103|94|18|22|W 1|True|True|0|199301270DET
+41|41|Fri, Jan 29, 1993||Minnesota Timberwolves|112|103|19|22|W 2|True|True|0|199301290DET
+42|42|Sat, Jan 30, 1993||Indiana Pacers|106|110|19|23|L 1|False|False|0|199301300IND
+43|43|Fri, Feb 5, 1993||Cleveland Cavaliers|89|109|19|24|L 2|False|False|0|199302050CLE
+44|44|Sun, Feb 7, 1993||Seattle SuperSonics|101|103|19|25|L 3|False|True|0|199302070DET
+45|45|Tue, Feb 9, 1993||Miami Heat|105|106|19|26|L 4|False|True|0|199302090DET
+46|46|Wed, Feb 10, 1993||New Jersey Nets|86|109|19|27|L 5|False|False|0|199302100NJN
+47|47|Fri, Feb 12, 1993||New Jersey Nets|106|97|20|27|W 1|True|True|0|199302120DET
+48|48|Sun, Feb 14, 1993||Charlotte Hornets|107|117|20|28|L 1|False|False|0|199302140CHH
+49|49|Tue, Feb 16, 1993||Orlando Magic|124|120|21|28|W 1|True|True|1|199302160DET
+50|50|Wed, Feb 17, 1993||Miami Heat|107|111|21|29|L 1|False|False|0|199302170MIA
+51|51|Tue, Feb 23, 1993||Philadelphia 76ers|101|89|22|29|W 1|True|True|0|199302230DET
+52|52|Fri, Feb 26, 1993||New York Knicks|108|80|23|29|W 2|True|True|0|199302260DET
+53|53|Sat, Feb 27, 1993||Milwaukee Bucks|93|95|23|30|L 1|False|True|0|199302270DET
+54|54|Mon, Mar 1, 1993||Boston Celtics|99|95|24|30|W 1|True|True|0|199303010DET
+55|55|Wed, Mar 3, 1993||Utah Jazz|98|106|24|31|L 1|False|True|0|199303030DET
+56|56|Fri, Mar 5, 1993||Boston Celtics|101|105|24|32|L 2|False|False|0|199303050BOS
+57|57|Sun, Mar 7, 1993||Milwaukee Bucks|98|91|25|32|W 1|True|False|0|199303070MIL
+58|58|Tue, Mar 9, 1993||Los Angeles Lakers|121|123|25|33|L 1|False|True|0|199303090DET
+59|59|Thu, Mar 11, 1993||Denver Nuggets|112|104|26|33|W 1|True|True|0|199303110DET
+60|60|Sun, Mar 14, 1993||Chicago Bulls|101|99|27|33|W 2|True|True|0|199303140DET
+61|61|Tue, Mar 16, 1993||Sacramento Kings|113|110|28|33|W 3|True|False|0|199303160SAC
+62|62|Wed, Mar 17, 1993||Utah Jazz|80|104|28|34|L 1|False|False|0|199303170UTA
+63|63|Fri, Mar 19, 1993||Phoenix Suns|97|127|28|35|L 2|False|False|0|199303190PHO
+64|64|Sun, Mar 21, 1993||Los Angeles Lakers|106|101|29|35|W 1|True|False|0|199303210LAL
+65|65|Mon, Mar 22, 1993||Golden State Warriors|91|96|29|36|L 1|False|False|0|199303220GSW
+66|66|Fri, Mar 26, 1993||Charlotte Hornets|115|107|30|36|W 1|True|True|0|199303260DET
+67|67|Sun, Mar 28, 1993||Cleveland Cavaliers|91|78|31|36|W 2|True|True|0|199303280DET
+68|68|Tue, Mar 30, 1993||Orlando Magic|91|105|31|37|L 1|False|False|0|199303300ORL
+69|69|Wed, Mar 31, 1993||Portland Trail Blazers|120|111|32|37|W 1|True|True|0|199303310DET
+70|70|Fri, Apr 2, 1993||Sacramento Kings|109|100|33|37|W 2|True|True|0|199304020DET
+71|71|Tue, Apr 6, 1993||Washington Bullets|91|79|34|37|W 3|True|True|0|199304060DET
+72|72|Thu, Apr 8, 1993||New Jersey Nets|100|98|35|37|W 4|True|False|0|199304080NJN
+73|73|Fri, Apr 9, 1993||Boston Celtics|105|90|36|37|W 5|True|False|0|199304090BOS
+74|74|Sun, Apr 11, 1993||Washington Bullets|106|94|37|37|W 6|True|False|0|199304110WSB
+75|75|Mon, Apr 12, 1993||Chicago Bulls|95|98|37|38|L 1|False|True|0|199304120DET
+76|76|Wed, Apr 14, 1993||Atlanta Hawks|87|84|38|38|W 1|True|True|0|199304140DET
+77|77|Fri, Apr 16, 1993||Charlotte Hornets|93|127|38|39|L 1|False|False|0|199304160CHH
+78|78|Sat, Apr 17, 1993||New York Knicks|85|95|38|40|L 2|False|False|0|199304170NYK
+79|79|Tue, Apr 20, 1993||Cleveland Cavaliers|81|105|38|41|L 3|False|False|0|199304200CLE
+80|80|Thu, Apr 22, 1993||Chicago Bulls|103|109|38|42|L 4|False|False|1|199304220CHI
+81|81|Fri, Apr 23, 1993||Indiana Pacers|109|104|39|42|W 1|True|True|0|199304230DET
+82|82|Sun, Apr 25, 1993||New Jersey Nets|116|110|40|42|W 2|True|True|0|199304250DET

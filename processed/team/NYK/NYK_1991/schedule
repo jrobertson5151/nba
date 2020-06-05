@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Nov 1, 1991||Orlando Magic|96|106|0|1|L 1|False|False|0|199111010ORL
+2|2|Sat, Nov 2, 1991||Miami Heat|93|107|0|2|L 2|False|False|0|199111020MIA
+3|3|Tue, Nov 5, 1991||Milwaukee Bucks|113|85|1|2|W 1|True|True|0|199111050NYK
+4|4|Thu, Nov 7, 1991||Orlando Magic|128|100|2|2|W 2|True|True|0|199111070NYK
+5|5|Sat, Nov 9, 1991||Charlotte Hornets|118|113|3|2|W 3|True|True|0|199111090NYK
+6|6|Tue, Nov 12, 1991||New Jersey Nets|98|96|4|2|W 4|True|True|0|199111120NYK
+7|7|Wed, Nov 13, 1991||Indiana Pacers|107|110|4|3|L 1|False|False|0|199111130IND
+8|8|Sat, Nov 16, 1991||San Antonio Spurs|89|106|4|4|L 2|False|False|0|199111160SAS
+9|9|Tue, Nov 19, 1991||Houston Rockets|79|90|4|5|L 3|False|False|0|199111190HOU
+10|10|Wed, Nov 20, 1991||Dallas Mavericks|92|89|5|5|W 1|True|False|0|199111200DAL
+11|11|Fri, Nov 22, 1991||Detroit Pistons|99|90|6|5|W 2|True|False|0|199111220DET
+12|12|Sat, Nov 23, 1991||Philadelphia 76ers|100|92|7|5|W 3|True|True|0|199111230NYK
+13|13|Tue, Nov 26, 1991||Miami Heat|98|81|8|5|W 4|True|True|0|199111260NYK
+14|14|Sat, Nov 30, 1991||Detroit Pistons|103|96|9|5|W 5|True|True|0|199111300NYK
+15|15|Mon, Dec 2, 1991||Charlotte Hornets|99|97|10|5|W 6|True|False|0|199112020CHH
+16|16|Fri, Dec 6, 1991||Boston Celtics|92|103|10|6|L 1|False|False|0|199112060BOS
+17|17|Sat, Dec 7, 1991||Atlanta Hawks|137|128|11|6|W 1|True|False|2|199112070ATL
+18|18|Tue, Dec 10, 1991||New Jersey Nets|114|88|12|6|W 2|True|False|0|199112100NJN
+19|19|Wed, Dec 11, 1991||Seattle SuperSonics|96|87|13|6|W 3|True|True|0|199112110NYK
+20|20|Fri, Dec 13, 1991||Chicago Bulls|89|99|13|7|L 1|False|False|0|199112130CHI
+21|21|Sat, Dec 14, 1991||Boston Celtics|111|101|14|7|W 1|True|True|0|199112140NYK
+22|22|Tue, Dec 17, 1991||New Jersey Nets|102|94|15|7|W 2|True|True|0|199112170NYK
+23|23|Sat, Dec 21, 1991||Utah Jazz|106|97|16|7|W 3|True|True|0|199112210NYK
+24|24|Mon, Dec 23, 1991||Minnesota Timberwolves|97|91|17|7|W 4|True|False|0|199112230MIN
+25|25|Thu, Dec 26, 1991||San Antonio Spurs|89|118|17|8|L 1|False|True|0|199112260NYK
+26|26|Sat, Dec 28, 1991||Indiana Pacers|115|106|18|8|W 1|True|True|1|199112280NYK
+27|27|Thu, Jan 2, 1992||Cleveland Cavaliers|103|110|18|9|L 1|False|True|0|199201020NYK
+28|28|Sat, Jan 4, 1992||Washington Bullets|113|99|19|9|W 1|True|False|0|199201040WSB
+29|29|Sun, Jan 5, 1992||Phoenix Suns|108|104|20|9|W 2|True|True|1|199201050NYK
+30|30|Tue, Jan 7, 1992||Atlanta Hawks|94|109|20|10|L 1|False|True|0|199201070NYK
+31|31|Wed, Jan 8, 1992||Boston Celtics|95|99|20|11|L 2|False|False|0|199201080BOS
+32|32|Sat, Jan 11, 1992||Boston Celtics|100|96|21|11|W 1|True|True|0|199201110NYK
+33|33|Tue, Jan 14, 1992||Orlando Magic|115|111|22|11|W 2|True|False|0|199201140ORL
+34|34|Wed, Jan 15, 1992||Portland Trail Blazers|91|96|22|12|L 1|False|True|0|199201150NYK
+35|35|Fri, Jan 17, 1992||Milwaukee Bucks|85|90|22|13|L 2|False|False|0|199201170MIL
+36|36|Sat, Jan 18, 1992||Cleveland Cavaliers|106|108|22|14|L 3|False|False|0|199201180CLE
+37|37|Mon, Jan 20, 1992||Indiana Pacers|105|97|23|14|W 1|True|True|0|199201200NYK
+38|38|Wed, Jan 22, 1992||Philadelphia 76ers|109|119|23|15|L 1|False|False|0|199201220PHI
+39|39|Fri, Jan 24, 1992||Golden State Warriors|114|109|24|15|W 1|True|False|0|199201240GSW
+40|40|Sat, Jan 25, 1992||Los Angeles Clippers|100|93|25|15|W 2|True|False|0|199201250LAC
+41|41|Mon, Jan 27, 1992||Utah Jazz|97|80|26|15|W 3|True|False|0|199201270UTA
+42|42|Wed, Jan 29, 1992||Washington Bullets|101|89|27|15|W 4|True|True|0|199201290NYK
+43|43|Fri, Jan 31, 1992||Washington Bullets|125|114|28|15|W 5|True|False|1|199201310WSB
+44|44|Sun, Feb 2, 1992||Golden State Warriors|113|120|28|16|L 1|False|True|0|199202020NYK
+45|45|Tue, Feb 4, 1992||Miami Heat|122|91|29|16|W 1|True|True|0|199202040NYK
+46|46|Thu, Feb 6, 1992||Houston Rockets|102|85|30|16|W 2|True|True|0|199202060NYK
+47|47|Wed, Feb 12, 1992||Indiana Pacers|111|104|31|16|W 3|True|False|0|199202120IND
+48|48|Thu, Feb 13, 1992||Chicago Bulls|85|106|31|17|L 1|False|True|0|199202130NYK
+49|49|Sat, Feb 15, 1992||Chicago Bulls|98|99|31|18|L 2|False|False|0|199202150CHI
+50|50|Mon, Feb 17, 1992||Miami Heat|104|102|32|18|W 1|True|False|0|199202170MIA
+51|51|Tue, Feb 18, 1992||Sacramento Kings|110|97|33|18|W 2|True|True|0|199202180NYK
+52|52|Thu, Feb 20, 1992||Cleveland Cavaliers|89|92|33|19|L 1|False|True|0|199202200NYK
+53|53|Sat, Feb 22, 1992||Denver Nuggets|98|87|34|19|W 1|True|True|0|199202220NYK
+54|54|Mon, Feb 24, 1992||Phoenix Suns|95|104|34|20|L 1|False|False|0|199202240PHO
+55|55|Wed, Feb 26, 1992||Los Angeles Lakers|68|81|34|21|L 2|False|False|0|199202260LAL
+56|56|Thu, Feb 27, 1992||Sacramento Kings|109|110|34|22|L 3|False|False|1|199202270SAC
+57|57|Sat, Feb 29, 1992||Minnesota Timberwolves|103|87|35|22|W 1|True|True|0|199202290NYK
+58|58|Sun, Mar 1, 1992||New Jersey Nets|75|90|35|23|L 1|False|False|0|199203010NJN
+59|59|Tue, Mar 3, 1992||Dallas Mavericks|102|83|36|23|W 1|True|True|0|199203030NYK
+60|60|Thu, Mar 5, 1992||Los Angeles Clippers|101|91|37|23|W 2|True|True|0|199203050NYK
+61|61|Sat, Mar 7, 1992||Charlotte Hornets|107|78|38|23|W 3|True|True|0|199203070NYK
+62|62|Mon, Mar 9, 1992||Philadelphia 76ers|111|99|39|23|W 4|True|False|0|199203090PHI
+63|63|Tue, Mar 10, 1992||Los Angeles Lakers|104|106|39|24|L 1|False|True|0|199203100NYK
+64|64|Sat, Mar 14, 1992||New Jersey Nets|94|96|39|25|L 2|False|True|1|199203140NYK
+65|65|Tue, Mar 17, 1992||Orlando Magic|99|86|40|25|W 1|True|False|0|199203170ORL
+66|66|Thu, Mar 19, 1992||Milwaukee Bucks|96|92|41|25|W 2|True|True|0|199203190NYK
+67|67|Sat, Mar 21, 1992||Miami Heat|105|88|42|25|W 3|True|True|0|199203210NYK
+68|68|Tue, Mar 24, 1992||Orlando Magic|126|117|43|25|W 4|True|True|0|199203240NYK
+69|69|Thu, Mar 26, 1992||Denver Nuggets|106|104|44|25|W 5|True|False|0|199203260DEN
+70|70|Sat, Mar 28, 1992||Seattle SuperSonics|92|87|45|25|W 6|True|False|0|199203280SEA
+71|71|Sun, Mar 29, 1992||Portland Trail Blazers|107|96|46|25|W 7|True|False|0|199203290POR
+72|72|Tue, Mar 31, 1992||Chicago Bulls|90|96|46|26|L 1|False|True|0|199203310NYK
+73|73|Thu, Apr 2, 1992||Charlotte Hornets|117|96|47|26|W 1|True|False|0|199204020CHH
+74|74|Fri, Apr 3, 1992||Atlanta Hawks|115|94|48|26|W 2|True|True|0|199204030NYK
+75|75|Sun, Apr 5, 1992||Cleveland Cavaliers|93|97|48|27|L 1|False|False|0|199204050CLE
+76|76|Tue, Apr 7, 1992||Detroit Pistons|94|103|48|28|L 2|False|True|0|199204070NYK
+77|77|Wed, Apr 8, 1992||Boston Celtics|89|93|48|29|L 3|False|False|0|199204080BOS
+78|78|Fri, Apr 10, 1992||Philadelphia 76ers|115|99|49|29|W 1|True|True|0|199204100NYK
+79|79|Sun, Apr 12, 1992||Detroit Pistons|61|72|49|30|L 1|False|False|0|199204120DET
+80|80|Tue, Apr 14, 1992||Washington Bullets|93|90|50|30|W 1|True|True|0|199204140NYK
+81|81|Wed, Apr 15, 1992||Atlanta Hawks|94|95|50|31|L 1|False|False|0|199204150ATL
+82|82|Sat, Apr 18, 1992||Milwaukee Bucks|114|103|51|31|W 1|True|False|0|199204180MIL

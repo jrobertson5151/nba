@@ -1,0 +1,73 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Sat, Oct 27, 1956||Philadelphia Warriors|109|103|1|0|W 1|True|True|2|195610270PHW
+2|2|Sun, Oct 28, 1956||Rochester Royals|91|75|2|0|W 2|True|True|0|195610280SYR
+3|3|Sat, Nov 3, 1956||St. Louis Hawks|75|73|3|0|W 3|True|True|0|195611030STL
+4|4|Sun, Nov 4, 1956||St. Louis Hawks|76|78|3|1|L 1|False|True|0|195611040SYR
+5|5|Sat, Nov 10, 1956||Rochester Royals|76|90|3|2|L 2|False|False|0|195611100ROC
+6|6|Sun, Nov 11, 1956||Boston Celtics|83|94|3|3|L 3|False|True|0|195611110SYR
+7|7|Thu, Nov 15, 1956||Minneapolis Lakers|96|103|3|4|L 4|False|True|0|195611150SYR
+8|8|Sat, Nov 17, 1956||Philadelphia Warriors|96|109|3|5|L 5|False|True|0|195611170PHW
+9|9|Sun, Nov 18, 1956||Philadelphia Warriors|99|97|4|5|W 1|True|True|0|195611180SYR
+10|10|Tue, Nov 20, 1956||St. Louis Hawks|81|104|4|6|L 1|False|False|0|195611200STL
+11|11|Thu, Nov 22, 1956||Minneapolis Lakers|78|111|4|7|L 2|False|False|0|195611220MNL
+12|12|Sat, Nov 24, 1956||Boston Celtics|99|114|4|8|L 3|False|False|0|195611240BOS
+13|13|Tue, Nov 27, 1956||Rochester Royals|82|90|4|9|L 4|False|True|0|195611270ROC
+14|14|Thu, Nov 29, 1956||Fort Wayne Pistons|87|92|4|10|L 5|False|True|0|195611290SYR
+15|15|Sat, Dec 1, 1956||New York Knicks|100|117|4|11|L 6|False|False|0|195612010NYK
+16|16|Sun, Dec 2, 1956||New York Knicks|110|100|5|11|W 1|True|True|0|195612020SYR
+17|17|Tue, Dec 4, 1956||Fort Wayne Pistons|97|96|6|11|W 2|True|True|1|195612040FTW
+18|18|Thu, Dec 6, 1956||Fort Wayne Pistons|92|104|6|12|L 1|False|False|0|195612060FTW
+19|19|Fri, Dec 7, 1956||Fort Wayne Pistons|97|105|6|13|L 2|False|True|0|195612070FTW
+20|20|Sun, Dec 9, 1956||Boston Celtics|116|110|7|13|W 1|True|True|0|195612090SYR
+21|21|Sat, Dec 15, 1956||Philadelphia Warriors|108|117|7|14|L 1|False|True|0|195612150SYR
+22|22|Sun, Dec 16, 1956||St. Louis Hawks|101|91|8|14|W 1|True|True|0|195612160SYR
+23|23|Sun, Dec 23, 1956||Minneapolis Lakers|107|97|9|14|W 2|True|True|0|195612230SYR
+24|24|Tue, Dec 25, 1956||Rochester Royals|93|98|9|15|L 1|False|False|0|195612250ROC
+25|25|Thu, Dec 27, 1956||St. Louis Hawks|95|102|9|16|L 2|False|False|0|195612270STL
+26|26|Sat, Dec 29, 1956||Philadelphia Warriors|104|103|10|16|W 1|True|False|1|195612290PHW
+27|27|Sun, Dec 30, 1956||Boston Celtics|92|105|10|17|L 1|False|False|0|195612300BOS
+28|28|Tue, Jan 1, 1957||New York Knicks|106|102|11|17|W 1|True|True|0|195701010SYR
+29|29|Thu, Jan 3, 1957||New York Knicks|111|126|11|18|L 1|False|False|0|195701030NYK
+30|30|Fri, Jan 4, 1957||Boston Celtics|116|106|12|18|W 1|True|True|0|195701040BOS
+31|31|Sun, Jan 6, 1957||Philadelphia Warriors|128|123|13|18|W 2|True|True|0|195701060SYR
+32|32|Wed, Jan 9, 1957||Minneapolis Lakers|86|93|13|19|L 1|False|True|0|195701090MNL
+33|33|Thu, Jan 10, 1957||Minneapolis Lakers|110|118|13|20|L 2|False|True|0|195701100SYR
+34|34|Sat, Jan 12, 1957||Rochester Royals|97|88|14|20|W 1|True|False|0|195701120ROC
+35|35|Sun, Jan 13, 1957||Rochester Royals|91|85|15|20|W 2|True|True|0|195701130SYR
+36|36|Thu, Jan 17, 1957||Philadelphia Warriors|108|103|16|20|W 3|True|False|0|195701170PHW
+37|37|Fri, Jan 18, 1957||Philadelphia Warriors|94|96|16|21|L 1|False|True|0|195701180PHW
+38|38|Sat, Jan 19, 1957||St. Louis Hawks|96|104|16|22|L 2|False|True|0|195701190SYR
+39|39|Sun, Jan 20, 1957||Fort Wayne Pistons|101|98|17|22|W 1|True|True|0|195701200SYR
+40|40|Tue, Jan 22, 1957||New York Knicks|88|90|17|23|L 1|False|False|0|195701220NYK
+41|41|Wed, Jan 23, 1957||Boston Celtics|108|140|17|24|L 2|False|False|0|195701230BOS
+42|42|Thu, Jan 24, 1957||New York Knicks|115|97|18|24|W 1|True|True|0|195701240SYR
+43|43|Sat, Jan 26, 1957||Rochester Royals|99|95|19|24|W 2|True|False|0|195701260ROC
+44|44|Sun, Jan 27, 1957||Minneapolis Lakers|94|93|20|24|W 3|True|True|0|195701270SYR
+45|45|Mon, Jan 28, 1957||Minneapolis Lakers|112|96|21|24|W 4|True|True|0|195701280MNL
+46|46|Wed, Jan 30, 1957||Boston Celtics|119|116|22|24|W 5|True|False|0|195701300BOS
+47|47|Thu, Jan 31, 1957||Boston Celtics|105|104|23|24|W 6|True|True|0|195701310SYR
+48|48|Sat, Feb 2, 1957||Philadelphia Warriors|100|107|23|25|L 1|False|False|0|195702020PHW
+49|49|Sun, Feb 3, 1957||Fort Wayne Pistons|104|95|24|25|W 1|True|True|0|195702030SYR
+50|50|Tue, Feb 5, 1957||Boston Celtics|101|105|24|26|L 1|False|True|0|195702050BOS
+51|51|Wed, Feb 6, 1957||New York Knicks|100|119|24|27|L 2|False|True|0|195702060NYK
+52|52|Thu, Feb 7, 1957||St. Louis Hawks|112|110|25|27|W 1|True|True|0|195702070SYR
+53|53|Sat, Feb 9, 1957||New York Knicks|101|89|26|27|W 2|True|False|0|195702090NYK
+54|54|Sun, Feb 10, 1957||New York Knicks|102|100|27|27|W 3|True|True|0|195702100SYR
+55|55|Mon, Feb 11, 1957||St. Louis Hawks|101|107|27|28|L 1|False|True|0|195702110STL
+56|56|Thu, Feb 14, 1957||Rochester Royals|95|104|27|29|L 2|False|True|0|195702140SYR
+57|57|Sun, Feb 17, 1957||Boston Celtics|116|106|28|29|W 1|True|True|0|195702170SYR
+58|58|Thu, Feb 21, 1957||Philadelphia Warriors|92|86|29|29|W 2|True|True|0|195702210SYR
+59|59|Sat, Feb 23, 1957||Minneapolis Lakers|103|101|30|29|W 3|True|False|0|195702230MNL
+60|60|Sun, Feb 24, 1957||Rochester Royals|109|93|31|29|W 4|True|True|0|195702240SYR
+61|61|Mon, Feb 25, 1957||Fort Wayne Pistons|102|108|31|30|L 1|False|False|0|195702250FTW
+62|62|Tue, Feb 26, 1957||Minneapolis Lakers|120|108|32|30|W 1|True|True|0|195702260SYR
+63|63|Wed, Feb 27, 1957||St. Louis Hawks|108|93|33|30|W 2|True|True|0|195702270STL
+64|64|Thu, Feb 28, 1957||Fort Wayne Pistons|123|112|34|30|W 3|True|True|0|195702280SYR
+65|65|Sat, Mar 2, 1957||Philadelphia Warriors|85|98|34|31|L 1|False|True|0|195703020PHW
+66|66|Sun, Mar 3, 1957||Philadelphia Warriors|112|86|35|31|W 1|True|True|0|195703030SYR
+67|67|Tue, Mar 5, 1957||New York Knicks|99|92|36|31|W 2|True|False|0|195703050NYK
+68|68|Wed, Mar 6, 1957||New York Knicks|93|100|36|32|L 1|False|True|0|195703060SYR
+69|69|Thu, Mar 7, 1957||New York Knicks|94|99|36|33|L 2|False|True|0|195703070NYK
+70|70|Sat, Mar 9, 1957||Boston Celtics|104|102|37|33|W 1|True|True|0|195703090SYR
+71|71|Sun, Mar 10, 1957||Boston Celtics|94|92|38|33|W 2|True|False|0|195703100BOS
+72|72|Wed, Mar 13, 1957||Fort Wayne Pistons|81|114|38|34|L 1|False|False|0|195703130FTW

@@ -1,0 +1,51 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Feb 5, 1999||Detroit Pistons|81|95|0|1|L 1|False|True|0|199902050MIA
+2|2|Sun, Feb 7, 1999||New York Knicks|83|79|1|1|W 1|True|False|0|199902070NYK
+3|3|Mon, Feb 8, 1999||Charlotte Hornets|91|94|1|2|L 1|False|False|0|199902080CHH
+4|4|Tue, Feb 9, 1999||Boston Celtics|101|108|1|3|L 2|False|True|0|199902090MIA
+5|5|Thu, Feb 11, 1999||Toronto Raptors|102|84|2|3|W 1|True|True|0|199902110MIA
+6|6|Mon, Feb 15, 1999||New Jersey Nets|95|72|3|3|W 2|True|True|0|199902150MIA
+7|7|Tue, Feb 16, 1999||Indiana Pacers|89|78|4|3|W 3|True|False|0|199902160IND
+8|8|Wed, Feb 17, 1999||Detroit Pistons|91|80|5|3|W 4|True|False|0|199902170DET
+9|9|Sat, Feb 20, 1999||Houston Rockets|81|71|6|3|W 5|True|True|0|199902200MIA
+10|10|Tue, Feb 23, 1999||Washington Wizards|96|80|7|3|W 6|True|False|0|199902230WAS
+11|11|Wed, Feb 24, 1999||Charlotte Hornets|91|83|8|3|W 7|True|False|0|199902240CHH
+12|12|Fri, Feb 26, 1999||Detroit Pistons|93|95|8|4|L 1|False|False|0|199902260DET
+13|13|Sun, Feb 28, 1999||Orlando Magic|84|78|9|4|W 1|True|True|0|199902280MIA
+14|14|Tue, Mar 2, 1999||New York Knicks|85|84|10|4|W 2|True|True|1|199903020MIA
+15|15|Thu, Mar 4, 1999||Denver Nuggets|95|87|11|4|W 3|True|True|0|199903040MIA
+16|16|Fri, Mar 5, 1999||Philadelphia 76ers|89|78|12|4|W 4|True|False|0|199903050PHI
+17|17|Sun, Mar 7, 1999||Indiana Pacers|72|85|12|5|L 1|False|False|0|199903070IND
+18|18|Mon, Mar 8, 1999||Philadelphia 76ers|91|89|13|5|W 1|True|True|0|199903080MIA
+19|19|Wed, Mar 10, 1999||Atlanta Hawks|88|78|14|5|W 2|True|True|0|199903100MIA
+20|20|Thu, Mar 11, 1999||Toronto Raptors|83|73|15|5|W 3|True|True|0|199903110MIA
+21|21|Sun, Mar 14, 1999||New Jersey Nets|102|76|16|5|W 4|True|True|0|199903140MIA
+22|22|Tue, Mar 16, 1999||Washington Wizards|94|85|17|5|W 5|True|True|0|199903160MIA
+23|23|Wed, Mar 17, 1999||Atlanta Hawks|86|85|18|5|W 6|True|False|0|199903170ATL
+24|24|Sat, Mar 20, 1999||Indiana Pacers|89|94|18|6|L 1|False|True|0|199903200MIA
+25|25|Tue, Mar 23, 1999||Utah Jazz|81|84|18|7|L 2|False|False|0|199903230UTA
+26|26|Wed, Mar 24, 1999||Milwaukee Bucks|84|76|19|7|W 1|True|False|0|199903240MIL
+27|27|Fri, Mar 26, 1999||Minnesota Timberwolves|93|100|19|8|L 1|False|False|0|199903260MIN
+28|28|Sun, Mar 28, 1999||Orlando Magic|87|94|19|9|L 2|False|False|0|199903280ORL
+29|29|Thu, Apr 1, 1999||Philadelphia 76ers|84|88|19|10|L 3|False|True|0|199904010MIA
+30|30|Sat, Apr 3, 1999||New Jersey Nets|77|88|19|11|L 4|False|False|0|199904030NJN
+31|31|Sun, Apr 4, 1999||Washington Wizards|90|79|20|11|W 1|True|False|0|199904040WAS
+32|32|Tue, Apr 6, 1999||Toronto Raptors|92|70|21|11|W 2|True|False|0|199904060TOR
+33|33|Wed, Apr 7, 1999||Dallas Mavericks|93|87|22|11|W 3|True|True|0|199904070MIA
+34|34|Sat, Apr 10, 1999||Chicago Bulls|82|49|23|11|W 4|True|False|0|199904100CHI
+35|35|Sun, Apr 11, 1999||Milwaukee Bucks|95|92|24|11|W 5|True|True|0|199904110MIA
+36|36|Tue, Apr 13, 1999||Chicago Bulls|90|74|25|11|W 6|True|True|0|199904130MIA
+37|37|Wed, Apr 14, 1999||Milwaukee Bucks|86|98|25|12|L 1|False|False|0|199904140MIL
+38|38|Fri, Apr 16, 1999||Boston Celtics|81|82|25|13|L 2|False|False|0|199904160BOS
+39|39|Sun, Apr 18, 1999||Indiana Pacers|92|88|26|13|W 1|True|True|0|199904180MIA
+40|40|Mon, Apr 19, 1999||Cleveland Cavaliers|94|87|27|13|W 2|True|False|0|199904190CLE
+41|41|Wed, Apr 21, 1999||Cleveland Cavaliers|93|80|28|13|W 3|True|True|0|199904210MIA
+42|42|Thu, Apr 22, 1999||Orlando Magic|75|70|29|13|W 4|True|False|0|199904220ORL
+43|43|Sun, Apr 25, 1999||New York Knicks|80|82|29|14|L 1|False|True|0|199904250MIA
+44|44|Mon, Apr 26, 1999||Cleveland Cavaliers|90|65|30|14|W 1|True|False|0|199904260CLE
+45|45|Tue, Apr 27, 1999||New Jersey Nets|95|76|31|14|W 2|True|False|0|199904270NJN
+46|46|Thu, Apr 29, 1999||Boston Celtics|96|107|31|15|L 1|False|True|0|199904290MIA
+47|47|Sat, May 1, 1999||Chicago Bulls|86|101|31|16|L 2|False|True|0|199905010MIA
+48|48|Sun, May 2, 1999||Charlotte Hornets|100|93|32|16|W 1|True|True|0|199905020MIA
+49|49|Tue, May 4, 1999||Atlanta Hawks|93|79|33|16|W 2|True|True|0|199905040MIA
+50|50|Wed, May 5, 1999||New York Knicks|88|101|33|17|L 1|False|False|0|199905050NYK

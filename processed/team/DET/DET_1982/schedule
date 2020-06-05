@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Oct 29, 1982||Atlanta Hawks|94|86|1|0|W 1|True|True|0|198210290DET
+2|2|Sun, Oct 31, 1982||Indiana Pacers|118|115|2|0|W 2|True|False|0|198210310IND
+3|3|Tue, Nov 2, 1982||Cleveland Cavaliers|128|119|3|0|W 3|True|False|0|198211020CLE
+4|4|Wed, Nov 3, 1982||Chicago Bulls|152|144|4|0|W 4|True|True|0|198211030DET
+5|5|Fri, Nov 5, 1982||Philadelphia 76ers|109|120|4|1|L 1|False|True|0|198211050DET
+6|6|Sat, Nov 6, 1982||Atlanta Hawks|93|95|4|2|L 2|False|False|0|198211060ATL
+7|7|Tue, Nov 9, 1982||Washington Bullets|108|105|5|2|W 1|True|False|0|198211090WSB
+8|8|Wed, Nov 10, 1982||Indiana Pacers|115|91|6|2|W 2|True|True|0|198211100DET
+9|9|Fri, Nov 12, 1982||Milwaukee Bucks|111|100|7|2|W 3|True|True|0|198211120DET
+10|10|Sat, Nov 13, 1982||New York Knicks|100|112|7|3|L 1|False|False|0|198211130NYK
+11|11|Wed, Nov 17, 1982||Philadelphia 76ers|103|120|7|4|L 2|False|False|0|198211170PHI
+12|12|Fri, Nov 19, 1982||Golden State Warriors|106|102|8|4|W 1|True|True|0|198211190DET
+13|13|Sat, Nov 20, 1982||Chicago Bulls|128|131|8|5|L 1|False|False|0|198211200CHI
+14|14|Tue, Nov 23, 1982||Houston Rockets|128|106|9|5|W 1|True|False|0|198211230HOU
+15|15|Wed, Nov 24, 1982||Kansas City Kings|112|122|9|6|L 1|False|False|0|198211240KCK
+16|16|Fri, Nov 26, 1982||Portland Trail Blazers|132|118|10|6|W 1|True|True|1|198211260DET
+17|17|Tue, Nov 30, 1982||Boston Celtics|123|116|11|6|W 2|True|False|0|198211300BOS
+18|18|Wed, Dec 1, 1982||San Antonio Spurs|105|97|12|6|W 3|True|True|0|198212010DET
+19|19|Sat, Dec 4, 1982||Boston Celtics|112|119|12|7|L 1|False|True|0|198212040DET
+20|20|Wed, Dec 8, 1982||New York Knicks|109|120|12|8|L 2|False|True|0|198212080DET
+21|21|Fri, Dec 10, 1982||Dallas Mavericks|121|122|12|9|L 3|False|True|0|198212100DET
+22|22|Sat, Dec 11, 1982||Philadelphia 76ers|111|128|12|10|L 4|False|False|0|198212110PHI
+23|23|Tue, Dec 14, 1982||New York Knicks|104|99|13|10|W 1|True|False|0|198212140NYK
+24|24|Wed, Dec 15, 1982||Boston Celtics|104|108|13|11|L 1|False|True|0|198212150DET
+25|25|Fri, Dec 17, 1982||Washington Bullets|110|119|13|12|L 2|False|True|0|198212170DET
+26|26|Sat, Dec 18, 1982||Cleveland Cavaliers|97|90|14|12|W 1|True|False|0|198212180CLE
+27|27|Sun, Dec 19, 1982||Boston Celtics|131|114|15|12|W 2|True|False|0|198212190BOS
+28|28|Tue, Dec 21, 1982|7:42p|New Jersey Nets|102|97|16|12|W 3|True|False|0|198212210NJN
+29|29|Thu, Dec 23, 1982||Denver Nuggets|127|135|16|13|L 1|False|True|0|198212230DET
+30|30|Sun, Dec 26, 1982||Milwaukee Bucks|96|106|16|14|L 2|False|False|0|198212260MIL
+31|31|Tue, Dec 28, 1982||Utah Jazz|98|105|16|15|L 3|False|False|1|198212280UTA
+32|32|Thu, Dec 30, 1982||Phoenix Suns|98|115|16|16|L 4|False|False|0|198212300PHO
+33|33|Sat, Jan 1, 1983||San Diego Clippers|117|105|17|16|W 1|True|False|0|198301010SDC
+34|34|Sun, Jan 2, 1983||Los Angeles Lakers|112|127|17|17|L 1|False|False|0|198301020LAL
+35|35|Tue, Jan 4, 1983||Chicago Bulls|138|147|17|18|L 2|False|False|2|198301040CHI
+36|36|Wed, Jan 5, 1983||Cleveland Cavaliers|130|116|18|18|W 1|True|True|0|198301050DET
+37|37|Fri, Jan 7, 1983||Milwaukee Bucks|92|109|18|19|L 1|False|False|0|198301070MIL
+38|38|Sun, Jan 9, 1983|7:09p|New Jersey Nets|102|110|18|20|L 2|False|False|0|198301090NJN
+39|39|Wed, Jan 12, 1983||Washington Bullets|116|100|19|20|W 1|True|True|0|198301120DET
+40|40|Fri, Jan 14, 1983||Philadelphia 76ers|105|115|19|21|L 1|False|True|0|198301140DET
+41|41|Wed, Jan 19, 1983||Milwaukee Bucks|107|106|20|21|W 1|True|True|0|198301190DET
+42|42|Sat, Jan 22, 1983||Atlanta Hawks|111|109|21|21|W 2|True|True|0|198301220DET
+43|43|Mon, Jan 24, 1983||Atlanta Hawks|112|108|22|21|W 3|True|False|0|198301240ATL
+44|44|Wed, Jan 26, 1983||Seattle SuperSonics|109|118|22|22|L 1|False|True|0|198301260DET
+45|45|Fri, Jan 28, 1983||Cleveland Cavaliers|106|107|22|23|L 2|False|True|0|198301280DET
+46|46|Sat, Jan 29, 1983||Chicago Bulls|128|126|23|23|W 1|True|True|0|198301290DET
+47|47|Wed, Feb 2, 1983||Indiana Pacers|135|141|23|24|L 1|False|False|0|198302020IND
+48|48|Thu, Feb 3, 1983||San Diego Clippers|108|115|23|25|L 2|False|True|0|198302030DET
+49|49|Sat, Feb 5, 1983||New Jersey Nets|111|101|24|25|W 1|True|True|0|198302050DET
+50|50|Tue, Feb 8, 1983||San Antonio Spurs|143|147|24|26|L 1|False|False|1|198302080SAS
+51|51|Wed, Feb 9, 1983||Dallas Mavericks|113|122|24|27|L 2|False|False|0|198302090DAL
+52|52|Wed, Feb 16, 1983||Milwaukee Bucks|121|126|24|28|L 3|False|False|1|198302160MIL
+53|53|Thu, Feb 17, 1983||Houston Rockets|113|110|25|28|W 1|True|True|0|198302170DET
+54|54|Sat, Feb 19, 1983||Phoenix Suns|112|101|26|28|W 2|True|True|0|198302190DET
+55|55|Wed, Feb 23, 1983||New York Knicks|107|120|26|29|L 1|False|True|0|198302230DET
+56|56|Thu, Feb 24, 1983||Atlanta Hawks|107|116|26|30|L 2|False|False|0|198302240ATL
+57|57|Sat, Feb 26, 1983||Cleveland Cavaliers|122|102|27|30|W 1|True|False|0|198302260CLE
+58|58|Tue, Mar 1, 1983||Golden State Warriors|114|103|28|30|W 2|True|False|0|198303010GSW
+59|59|Thu, Mar 3, 1983||Kansas City Kings|118|125|28|31|L 1|False|True|0|198303030DET
+60|60|Sat, Mar 5, 1983||Los Angeles Lakers|108|122|28|32|L 2|False|True|0|198303050DET
+61|61|Mon, Mar 7, 1983||Philadelphia 76ers|114|123|28|33|L 3|False|False|0|198303070PHI
+62|62|Tue, Mar 8, 1983||Indiana Pacers|107|101|29|33|W 1|True|True|0|198303080DET
+63|63|Sat, Mar 12, 1983||Atlanta Hawks|119|120|29|34|L 1|False|True|0|198303120DET
+64|64|Sun, Mar 13, 1983||Indiana Pacers|114|118|29|35|L 2|False|False|0|198303130IND
+65|65|Tue, Mar 15, 1983|7:43p|New Jersey Nets|90|109|29|36|L 3|False|False|0|198303150NJN
+66|66|Wed, Mar 16, 1983||Utah Jazz|115|125|29|37|L 4|False|True|0|198303160DET
+67|67|Fri, Mar 18, 1983||Milwaukee Bucks|103|99|30|37|W 1|True|True|1|198303180DET
+68|68|Sun, Mar 20, 1983||Philadelphia 76ers|119|121|30|38|L 1|False|True|0|198303200DET
+69|69|Tue, Mar 22, 1983||Chicago Bulls|134|116|31|38|W 1|True|False|0|198303220CHI
+70|70|Wed, Mar 23, 1983||Indiana Pacers|109|96|32|38|W 2|True|True|0|198303230DET
+71|71|Fri, Mar 25, 1983||Denver Nuggets|120|131|32|39|L 1|False|False|0|198303250DEN
+72|72|Tue, Mar 29, 1983||Portland Trail Blazers|107|114|32|40|L 2|False|False|0|198303290POR
+73|73|Wed, Mar 30, 1983||Seattle SuperSonics|124|135|32|41|L 3|False|False|0|198303300SEA
+74|74|Fri, Apr 1, 1983||Cleveland Cavaliers|120|111|33|41|W 1|True|True|0|198304010DET
+75|75|Sun, Apr 3, 1983||Chicago Bulls|122|107|34|41|W 2|True|True|0|198304030DET
+76|76|Tue, Apr 5, 1983||New York Knicks|107|110|34|42|L 1|False|False|1|198304050NYK
+77|77|Wed, Apr 6, 1983||Washington Bullets|107|96|35|42|W 1|True|True|0|198304060DET
+78|78|Fri, Apr 8, 1983||New Jersey Nets|102|92|36|42|W 2|True|True|0|198304080DET
+79|79|Sun, Apr 10, 1983||Boston Celtics|113|115|36|43|L 1|False|False|0|198304100BOS
+80|80|Wed, Apr 13, 1983||Boston Celtics|113|101|37|43|W 1|True|True|0|198304130DET
+81|81|Fri, Apr 15, 1983||New York Knicks|83|100|37|44|L 1|False|True|0|198304150DET
+82|82|Sat, Apr 16, 1983||Washington Bullets|95|102|37|45|L 2|False|False|0|198304160WSB

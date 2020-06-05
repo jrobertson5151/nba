@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Nov 6, 1992||Sacramento Kings|106|114|0|1|L 1|False|False|0|199211060SAC
+2|2|Sat, Nov 7, 1992||Denver Nuggets|121|125|0|2|L 2|False|False|2|199211070DEN
+3|3|Tue, Nov 10, 1992||Milwaukee Bucks|104|98|1|2|W 1|True|True|0|199211100SAS
+4|4|Thu, Nov 12, 1992||Atlanta Hawks|97|104|1|3|L 1|False|True|0|199211120SAS
+5|5|Sat, Nov 14, 1992||Houston Rockets|87|93|1|4|L 2|False|True|0|199211140SAS
+6|6|Tue, Nov 17, 1992||Cleveland Cavaliers|106|95|2|4|W 1|True|True|0|199211170SAS
+7|7|Thu, Nov 19, 1992||Dallas Mavericks|123|95|3|4|W 2|True|True|0|199211190SAS
+8|8|Sat, Nov 21, 1992||Houston Rockets|100|103|3|5|L 1|False|False|0|199211210HOU
+9|9|Tue, Nov 24, 1992||Portland Trail Blazers|91|95|3|6|L 2|False|False|0|199211240POR
+10|10|Wed, Nov 25, 1992||Utah Jazz|128|102|4|6|W 1|True|False|0|199211250UTA
+11|11|Sat, Nov 28, 1992||Seattle SuperSonics|104|97|5|6|W 2|True|True|0|199211280SAS
+12|12|Tue, Dec 1, 1992||Washington Bullets|106|119|5|7|L 1|False|False|0|199212010WSB
+13|13|Wed, Dec 2, 1992||Philadelphia 76ers|98|82|6|7|W 1|True|False|0|199212020PHI
+14|14|Fri, Dec 4, 1992||New Jersey Nets|103|108|6|8|L 1|False|False|1|199212040NJN
+15|15|Sat, Dec 5, 1992||Atlanta Hawks|105|113|6|9|L 2|False|False|0|199212050ATL
+16|16|Tue, Dec 8, 1992||Utah Jazz|121|103|7|9|W 1|True|True|0|199212080SAS
+17|17|Thu, Dec 10, 1992||Miami Heat|101|91|8|9|W 2|True|True|0|199212100SAS
+18|18|Sat, Dec 12, 1992||Dallas Mavericks|113|91|9|9|W 3|True|False|0|199212120DAL
+19|19|Tue, Dec 15, 1992||Los Angeles Lakers|101|107|9|10|L 1|False|True|0|199212150SAS
+20|20|Thu, Dec 17, 1992||Houston Rockets|109|121|9|11|L 2|False|False|0|199212170HOU
+21|21|Fri, Dec 18, 1992||Dallas Mavericks|122|101|10|11|W 1|True|True|0|199212180SAS
+22|22|Tue, Dec 22, 1992||Denver Nuggets|113|108|11|11|W 2|True|True|0|199212220SAS
+23|23|Fri, Dec 25, 1992||Los Angeles Clippers|103|94|12|11|W 3|True|False|0|199212250LAC
+24|24|Sat, Dec 26, 1992||Los Angeles Lakers|104|92|13|11|W 4|True|False|0|199212260LAL
+25|25|Mon, Dec 28, 1992||Golden State Warriors|105|106|13|12|L 1|False|True|0|199212280SAS
+26|26|Wed, Dec 30, 1992||Denver Nuggets|114|94|14|12|W 1|True|False|0|199212300DEN
+27|27|Sun, Jan 3, 1993||Phoenix Suns|114|113|15|12|W 2|True|True|1|199301030SAS
+28|28|Tue, Jan 5, 1993||Utah Jazz|87|113|15|13|L 1|False|False|0|199301050UTA
+29|29|Thu, Jan 7, 1993||Utah Jazz|109|99|16|13|W 1|True|True|0|199301070SAS
+30|30|Sat, Jan 9, 1993||Portland Trail Blazers|109|93|17|13|W 2|True|True|0|199301090SAS
+31|31|Mon, Jan 11, 1993||Detroit Pistons|109|91|18|13|W 3|True|False|0|199301110DET
+32|32|Wed, Jan 13, 1993||Minnesota Timberwolves|89|81|19|13|W 4|True|False|0|199301130MIN
+33|33|Thu, Jan 14, 1993||Milwaukee Bucks|108|93|20|13|W 5|True|False|0|199301140MIL
+34|34|Sat, Jan 16, 1993||Charlotte Hornets|124|111|21|13|W 6|True|True|0|199301160SAS
+35|35|Tue, Jan 19, 1993||Denver Nuggets|121|110|22|13|W 7|True|True|0|199301190SAS
+36|36|Fri, Jan 22, 1993||Detroit Pistons|123|109|23|13|W 8|True|True|0|199301220SAS
+37|37|Sun, Jan 24, 1993||Chicago Bulls|103|99|24|13|W 9|True|True|0|199301240SAS
+38|38|Wed, Jan 27, 1993||Seattle SuperSonics|119|99|25|13|W 10|True|False|0|199301270SEA
+39|39|Fri, Jan 29, 1993||Phoenix Suns|110|125|25|14|L 1|False|False|0|199301290PHO
+40|40|Sat, Jan 30, 1993||Sacramento Kings|129|124|26|14|W 1|True|True|0|199301300SAS
+41|41|Tue, Feb 2, 1993||New Jersey Nets|111|93|27|14|W 2|True|True|0|199302020SAS
+42|42|Thu, Feb 4, 1993||Indiana Pacers|133|115|28|14|W 3|True|True|0|199302040SAS
+43|43|Sat, Feb 6, 1993||Minnesota Timberwolves|104|95|29|14|W 4|True|True|0|199302060SAS
+44|44|Tue, Feb 9, 1993||Los Angeles Clippers|112|97|30|14|W 5|True|True|0|199302090SAS
+45|45|Thu, Feb 11, 1993||Washington Bullets|105|95|31|14|W 6|True|True|0|199302110SAS
+46|46|Sat, Feb 13, 1993||Boston Celtics|90|85|32|14|W 7|True|True|0|199302130SAS
+47|47|Mon, Feb 15, 1993||Los Angeles Clippers|102|99|33|14|W 8|True|False|0|199302150LAC
+48|48|Tue, Feb 16, 1993||Golden State Warriors|112|133|33|15|L 1|False|False|0|199302160GSW
+49|49|Thu, Feb 18, 1993||Philadelphia 76ers|103|98|34|15|W 1|True|True|0|199302180SAS
+50|50|Tue, Feb 23, 1993||Phoenix Suns|103|105|34|16|L 1|False|True|0|199302230SAS
+51|51|Thu, Feb 25, 1993||Charlotte Hornets|104|111|34|17|L 2|False|False|0|199302250CHH
+52|52|Fri, Feb 26, 1993||Miami Heat|86|93|34|18|L 3|False|False|0|199302260MIA
+53|53|Sun, Feb 28, 1993||Orlando Magic|94|90|35|18|W 1|True|False|0|199302280ORL
+54|54|Tue, Mar 2, 1993||Indiana Pacers|95|109|35|19|L 1|False|False|0|199303020IND
+55|55|Wed, Mar 3, 1993||Boston Celtics|91|132|35|20|L 2|False|False|0|199303030BOS
+56|56|Fri, Mar 5, 1993||Chicago Bulls|107|102|36|20|W 1|True|False|1|199303050CHI
+57|57|Sat, Mar 6, 1993||Minnesota Timberwolves|105|106|36|21|L 1|False|False|0|199303060MIN
+58|58|Tue, Mar 9, 1993||Dallas Mavericks|119|84|37|21|W 1|True|True|0|199303090SAS
+59|59|Sat, Mar 13, 1993||Portland Trail Blazers|108|99|38|21|W 2|True|True|0|199303130SAS
+60|60|Mon, Mar 15, 1993||Los Angeles Lakers|87|92|38|22|L 1|False|True|0|199303150SAS
+61|61|Wed, Mar 17, 1993||Los Angeles Lakers|101|100|39|22|W 1|True|False|0|199303170LAL
+62|62|Fri, Mar 19, 1993||Orlando Magic|96|93|40|22|W 2|True|True|0|199303190SAS
+63|63|Sun, Mar 21, 1993||New York Knicks|96|115|40|23|L 1|False|False|0|199303210NYK
+64|64|Tue, Mar 23, 1993||Cleveland Cavaliers|90|127|40|24|L 2|False|False|0|199303230CLE
+65|65|Wed, Mar 24, 1993||Minnesota Timberwolves|105|92|41|24|W 1|True|False|0|199303240MIN
+66|66|Fri, Mar 26, 1993||Utah Jazz|98|104|41|25|L 1|False|True|0|199303260SAS
+67|67|Sun, Mar 28, 1993||Dallas Mavericks|114|107|42|25|W 1|True|False|0|199303280DAL
+68|68|Tue, Mar 30, 1993||Seattle SuperSonics|99|97|43|25|W 2|True|True|0|199303300SAS
+69|69|Wed, Mar 31, 1993||Utah Jazz|85|93|43|26|L 1|False|False|0|199303310UTA
+70|70|Fri, Apr 2, 1993||Minnesota Timberwolves|108|101|44|26|W 1|True|True|0|199304020SAS
+71|71|Sun, Apr 4, 1993||New York Knicks|103|108|44|27|L 1|False|True|1|199304040SAS
+72|72|Tue, Apr 6, 1993||Golden State Warriors|111|125|44|28|L 2|False|True|0|199304060SAS
+73|73|Thu, Apr 8, 1993||Los Angeles Clippers|112|108|45|28|W 1|True|True|0|199304080SAS
+74|74|Sat, Apr 10, 1993||Houston Rockets|88|98|45|29|L 1|False|False|0|199304100HOU
+75|75|Tue, Apr 13, 1993||Sacramento Kings|110|100|46|29|W 1|True|False|0|199304130SAC
+76|76|Wed, Apr 14, 1993||Golden State Warriors|96|93|47|29|W 2|True|False|0|199304140GSW
+77|77|Fri, Apr 16, 1993||Sacramento Kings|93|100|47|30|L 1|False|True|0|199304160SAS
+78|78|Sun, Apr 18, 1993||Portland Trail Blazers|101|105|47|31|L 2|False|False|0|199304180POR
+79|79|Mon, Apr 19, 1993||Seattle SuperSonics|89|96|47|32|L 3|False|False|0|199304190SEA
+80|80|Thu, Apr 22, 1993||Denver Nuggets|131|111|48|32|W 1|True|True|0|199304220SAS
+81|81|Sat, Apr 24, 1993||Phoenix Suns|97|99|48|33|L 1|False|False|0|199304240PHO
+82|82|Sun, Apr 25, 1993||Houston Rockets|119|117|49|33|W 1|True|True|1|199304250SAS

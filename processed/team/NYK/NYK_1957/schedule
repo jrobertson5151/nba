@@ -1,0 +1,73 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Wed, Oct 23, 1957||St. Louis Hawks|112|95|1|0|W 1|True|True|0|195710230NYK
+2|2|Sat, Oct 26, 1957||Boston Celtics|121|131|1|1|L 1|False|True|0|195710260NYK
+3|3|Sun, Nov 3, 1957||Philadelphia Warriors|123|105|2|1|W 1|True|True|0|195711030NYK
+4|4|Thu, Nov 7, 1957||Philadelphia Warriors|101|113|2|2|L 1|False|False|0|195711070PHW
+5|5|Fri, Nov 8, 1957||Syracuse Nationals|104|99|3|2|W 1|True|False|0|195711080SYR
+6|6|Tue, Nov 12, 1957||Detroit Pistons|107|109|3|3|L 1|False|False|0|195711120DET
+7|7|Wed, Nov 13, 1957||Minneapolis Lakers|106|124|3|4|L 2|False|False|0|195711130MNL
+8|8|Fri, Nov 15, 1957||Cincinnati Royals|99|101|3|5|L 3|False|False|0|195711150CIN
+9|9|Sat, Nov 16, 1957||Detroit Pistons|105|109|3|6|L 4|False|True|0|195711160NYK
+10|10|Tue, Nov 19, 1957||St. Louis Hawks|115|118|3|7|L 5|False|False|0|195711190STL
+11|11|Wed, Nov 20, 1957||Minneapolis Lakers|105|101|4|7|W 1|True|False|0|195711200MNL
+12|12|Thu, Nov 21, 1957||Minneapolis Lakers|124|123|5|7|W 2|True|True|1|195711210MNL
+13|13|Sat, Nov 23, 1957||Syracuse Nationals|115|119|5|8|L 1|False|True|0|195711230NYK
+14|14|Tue, Nov 26, 1957||St. Louis Hawks|110|120|5|9|L 2|False|True|0|195711260NYK
+15|15|Wed, Nov 27, 1957||Boston Celtics|107|120|5|10|L 3|False|False|0|195711270BOS
+16|16|Thu, Nov 28, 1957||Boston Celtics|97|80|6|10|W 1|True|True|0|195711280BOS
+17|17|Sat, Nov 30, 1957||Philadelphia Warriors|83|111|6|11|L 1|False|False|0|195711300PHW
+18|18|Sun, Dec 1, 1957||Detroit Pistons|109|102|7|11|W 1|True|True|0|195712010NYK
+19|19|Tue, Dec 3, 1957||Cincinnati Royals|110|104|8|11|W 2|True|True|0|195712030NYK
+20|20|Fri, Dec 6, 1957||Cincinnati Royals|112|97|9|11|W 3|True|False|0|195712060CIN
+21|21|Sun, Dec 8, 1957||St. Louis Hawks|113|110|10|11|W 4|True|False|0|195712080STL
+22|22|Tue, Dec 10, 1957||Boston Celtics|106|103|11|11|W 5|True|True|0|195712100NYK
+23|23|Wed, Dec 11, 1957||St. Louis Hawks|126|135|11|12|L 1|False|True|0|195712110NYK
+24|24|Sat, Dec 14, 1957||St. Louis Hawks|124|136|11|13|L 2|False|False|0|195712140STL
+25|25|Sun, Dec 15, 1957||Detroit Pistons|116|109|12|13|W 1|True|False|0|195712150DET
+26|26|Tue, Dec 17, 1957||Syracuse Nationals|123|117|13|13|W 2|True|True|0|195712170NYK
+27|27|Sun, Dec 22, 1957||Philadelphia Warriors|126|100|14|13|W 3|True|True|0|195712220NYK
+28|28|Wed, Dec 25, 1957||Syracuse Nationals|130|134|14|14|L 1|False|False|1|195712250SYR
+29|29|Thu, Dec 26, 1957||Boston Celtics|110|120|14|15|L 2|False|False|0|195712260BOS
+30|30|Fri, Dec 27, 1957||Detroit Pistons|125|120|15|15|W 1|True|True|0|195712270NYK
+31|31|Sat, Dec 28, 1957||Philadelphia Warriors|115|122|15|16|L 1|False|False|0|195712280PHW
+32|32|Tue, Dec 31, 1957||Minneapolis Lakers|142|116|16|16|W 1|True|True|0|195712310NYK
+33|33|Thu, Jan 2, 1958||Syracuse Nationals|131|98|17|16|W 2|True|True|0|195801020NYK
+34|34|Sun, Jan 5, 1958||Cincinnati Royals|100|101|17|17|L 1|False|True|0|195801050NYK
+35|35|Tue, Jan 7, 1958||St. Louis Hawks|112|114|17|18|L 2|False|True|0|195801070NYK
+36|36|Wed, Jan 8, 1958||Cincinnati Royals|123|105|18|18|W 1|True|True|0|195801080CIN
+37|37|Thu, Jan 9, 1958||Boston Celtics|136|123|19|18|W 2|True|True|0|195801090BOS
+38|38|Fri, Jan 10, 1958||Cincinnati Royals|104|107|19|19|L 1|False|False|0|195801100CIN
+39|39|Sun, Jan 12, 1958||Philadelphia Warriors|110|115|19|20|L 2|False|True|1|195801120NYK
+40|40|Tue, Jan 14, 1958||Cincinnati Royals|111|117|19|21|L 3|False|True|0|195801140CIN
+41|41|Fri, Jan 17, 1958||Philadelphia Warriors|116|117|19|22|L 4|False|True|0|195801170NYK
+42|42|Sat, Jan 18, 1958||Syracuse Nationals|123|120|20|22|W 1|True|True|0|195801180NYK
+43|43|Sun, Jan 19, 1958||Syracuse Nationals|108|112|20|23|L 1|False|False|0|195801190SYR
+44|44|Wed, Jan 22, 1958||Detroit Pistons|115|92|21|23|W 1|True|False|0|195801220DET
+45|45|Fri, Jan 24, 1958||Boston Celtics|104|125|21|24|L 1|False|False|0|195801240BOS
+46|46|Sat, Jan 25, 1958||Minneapolis Lakers|128|116|22|24|W 1|True|True|0|195801250NYK
+47|47|Sun, Jan 26, 1958||Minneapolis Lakers|109|106|23|24|W 2|True|False|0|195801260MNL
+48|48|Mon, Jan 27, 1958||Minneapolis Lakers|113|102|24|24|W 3|True|True|0|195801270MNL
+49|49|Tue, Jan 28, 1958||Syracuse Nationals|102|110|24|25|L 1|False|True|0|195801280NYK
+50|50|Fri, Jan 31, 1958||Detroit Pistons|105|119|24|26|L 2|False|True|0|195801310DET
+51|51|Sat, Feb 1, 1958||Boston Celtics|114|121|24|27|L 3|False|True|0|195802010NYK
+52|52|Sun, Feb 2, 1958||Philadelphia Warriors|120|131|24|28|L 4|False|False|0|195802020PHW
+53|53|Tue, Feb 4, 1958||St. Louis Hawks|120|116|25|28|W 1|True|True|0|195802040NYK
+54|54|Fri, Feb 7, 1958||Syracuse Nationals|102|105|25|29|L 1|False|True|0|195802070NYK
+55|55|Sat, Feb 8, 1958||Minneapolis Lakers|94|93|26|29|W 1|True|True|0|195802080NYK
+56|56|Sun, Feb 9, 1958||Detroit Pistons|100|98|27|29|W 2|True|False|0|195802090DET
+57|57|Tue, Feb 11, 1958||St. Louis Hawks|105|107|27|30|L 1|False|False|0|195802110STL
+58|58|Wed, Feb 12, 1958||Minneapolis Lakers|106|97|28|30|W 1|True|False|0|195802120MNL
+59|59|Fri, Feb 14, 1958||Cincinnati Royals|103|92|29|30|W 2|True|False|0|195802140CIN
+60|60|Sat, Feb 15, 1958||Cincinnati Royals|99|97|30|30|W 3|True|True|0|195802150NYK
+61|61|Tue, Feb 18, 1958||Boston Celtics|111|113|30|31|L 1|False|True|0|195802180NYK
+62|62|Wed, Feb 19, 1958||Syracuse Nationals|110|116|30|32|L 2|False|False|0|195802190SYR
+63|63|Fri, Feb 21, 1958||Philadelphia Warriors|111|117|30|33|L 3|False|False|1|195802210PHW
+64|64|Sat, Feb 22, 1958||Syracuse Nationals|115|112|31|33|W 1|True|True|0|195802220NYK
+65|65|Tue, Feb 25, 1958||Philadelphia Warriors|110|132|31|34|L 1|False|True|0|195802250NYK
+66|66|Wed, Feb 26, 1958||Philadelphia Warriors|112|96|32|34|W 1|True|True|0|195802260NYK
+67|67|Sat, Mar 1, 1958||Detroit Pistons|101|103|32|35|L 1|False|True|0|195803010NYK
+68|68|Tue, Mar 4, 1958||Boston Celtics|104|99|33|35|W 1|True|True|0|195803040NYK
+69|69|Wed, Mar 5, 1958||Syracuse Nationals|91|102|33|36|L 1|False|False|0|195803050SYR
+70|70|Sun, Mar 9, 1958||Philadelphia Warriors|123|81|34|36|W 1|True|True|0|195803090NYK
+71|71|Tue, Mar 11, 1958||Boston Celtics|119|126|34|37|L 1|False|False|0|195803110BOS
+72|72|Wed, Mar 12, 1958||Boston Celtics|127|125|35|37|W 1|True|False|0|195803120BOS

@@ -1,0 +1,10 @@
+Season,Age,Tm,Lg,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS
+1993-94,23,GSW,NBA,PG,2,0,5.5,1.0,3.0,.333,0.0,0.0,,1.0,3.0,.333,.333,0.0,1.0,.000,0.0,0.0,0.0,0.5,1.0,0.0,0.5,0.5,2.0
+1994-95,24,Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA)
+1995-96,25,SAS,NBA,SG,16,0,5.4,1.2,2.1,.576,0.1,0.1,.500,1.1,1.9,.581,.591,0.9,1.1,.824,0.1,0.4,0.6,0.5,0.2,0.1,0.8,0.6,3.3
+1996-97,26,ORL,NBA,SG,2,0,5.0,0.0,1.5,.000,0.0,0.5,.000,0.0,1.0,.000,.000,1.0,1.0,1.000,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,1.0
+Career,NA,,NBA,,20,0,5.4,1.1,2.1,.500,0.1,0.2,.333,1.0,2.0,.513,.512,0.8,1.1,.762,0.1,0.4,0.5,0.5,0.3,0.1,0.7,0.6,3.0
+,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1 season,NA,SAS,NBA,,16,0,5.4,1.2,2.1,.576,0.1,0.1,.500,1.1,1.9,.581,.591,0.9,1.1,.824,0.1,0.4,0.6,0.5,0.2,0.1,0.8,0.6,3.3
+1 season,NA,GSW,NBA,,2,0,5.5,1.0,3.0,.333,0.0,0.0,,1.0,3.0,.333,.333,0.0,1.0,.000,0.0,0.0,0.0,0.5,1.0,0.0,0.5,0.5,2.0
+1 season,NA,ORL,NBA,,2,0,5.0,0.0,1.5,.000,0.0,0.5,.000,0.0,1.0,.000,.000,1.0,1.0,1.000,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,1.0

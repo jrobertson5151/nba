@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Tue, Oct 27, 2009|8:30p|Dallas Mavericks|102|91|1|0|W 1|True|False|0|200910270DAL
+2|2|Fri, Oct 30, 2009|7:30p|Atlanta Hawks|89|100|1|1|L 1|False|False|0|200910300ATL
+3|3|Sat, Oct 31, 2009|7:00p|New Jersey Nets|123|104|2|1|W 1|True|True|0|200910310WAS
+4|4|Tue, Nov 3, 2009|7:00p|Cleveland Cavaliers|90|102|2|2|L 1|False|False|0|200911030CLE
+5|5|Wed, Nov 4, 2009|7:00p|Miami Heat|89|93|2|3|L 2|False|True|0|200911040WAS
+6|6|Fri, Nov 6, 2009|7:00p|Indiana Pacers|86|102|2|4|L 3|False|False|0|200911060IND
+7|7|Sun, Nov 8, 2009|1:00p|Phoenix Suns|90|102|2|5|L 4|False|True|0|200911080WAS
+8|8|Tue, Nov 10, 2009|7:30p|Miami Heat|76|90|2|6|L 5|False|False|0|200911100MIA
+9|9|Sat, Nov 14, 2009|7:00p|Detroit Pistons|103|106|2|7|L 6|False|True|0|200911140WAS
+10|10|Wed, Nov 18, 2009|7:00p|Cleveland Cavaliers|108|91|3|7|W 1|True|True|0|200911180WAS
+11|11|Fri, Nov 20, 2009|8:00p|Oklahoma City Thunder|108|127|3|8|L 1|False|False|0|200911200OKC
+12|12|Sat, Nov 21, 2009|8:30p|San Antonio Spurs|84|106|3|9|L 2|False|False|0|200911210SAS
+13|13|Tue, Nov 24, 2009|7:00p|Philadelphia 76ers|108|107|4|9|W 1|True|True|0|200911240WAS
+14|14|Fri, Nov 27, 2009|7:00p|Miami Heat|94|84|5|9|W 2|True|False|0|200911270MIA
+15|15|Sat, Nov 28, 2009|7:00p|Charlotte Bobcats|76|92|5|10|L 1|False|True|0|200911280WAS
+16|16|Tue, Dec 1, 2009|7:00p|Toronto Raptors|106|102|6|10|W 1|True|False|0|200912010TOR
+17|17|Wed, Dec 2, 2009|7:00p|Milwaukee Bucks|104|102|7|10|W 2|True|True|0|200912020WAS
+18|18|Fri, Dec 4, 2009|7:00p|Toronto Raptors|107|109|7|11|L 1|False|True|1|200912040WAS
+19|19|Sun, Dec 6, 2009|6:00p|Detroit Pistons|94|98|7|12|L 2|False|False|0|200912060DET
+20|20|Thu, Dec 10, 2009|8:00p|Boston Celtics|102|104|7|13|L 3|False|True|0|200912100WAS
+21|21|Sat, Dec 12, 2009|7:00p|Indiana Pacers|113|114|7|14|L 4|False|True|0|200912120WAS
+22|22|Mon, Dec 14, 2009|10:30p|Los Angeles Clippers|95|97|7|15|L 5|False|False|0|200912140LAC
+23|23|Wed, Dec 16, 2009|10:30p|Sacramento Kings|109|112|7|16|L 6|False|False|0|200912160SAC
+24|24|Fri, Dec 18, 2009|10:30p|Golden State Warriors|118|109|8|16|W 1|True|False|0|200912180GSW
+25|25|Sat, Dec 19, 2009|9:00p|Phoenix Suns|95|121|8|17|L 1|False|False|0|200912190PHO
+26|26|Tue, Dec 22, 2009|7:00p|Philadelphia 76ers|105|98|9|17|W 1|True|True|0|200912220WAS
+27|27|Wed, Dec 23, 2009|8:00p|Milwaukee Bucks|109|97|10|17|W 2|True|False|0|200912230MIL
+28|28|Sat, Dec 26, 2009|8:00p|Minnesota Timberwolves|89|101|10|18|L 1|False|False|0|200912260MIN
+29|29|Mon, Dec 28, 2009|8:00p|Memphis Grizzlies|111|116|10|19|L 2|False|False|1|200912280MEM
+30|30|Tue, Dec 29, 2009|7:00p|Oklahoma City Thunder|98|110|10|20|L 3|False|True|0|200912290WAS
+31|31|Sat, Jan 2, 2010|7:00p|San Antonio Spurs|86|97|10|21|L 4|False|True|0|201001020WAS
+32|32|Tue, Jan 5, 2010|7:00p|Philadelphia 76ers|104|97|11|21|W 1|True|False|0|201001050PHI
+33|33|Wed, Jan 6, 2010|7:00p|Cleveland Cavaliers|98|121|11|22|L 1|False|False|0|201001060CLE
+34|34|Fri, Jan 8, 2010|7:00p|Orlando Magic|104|97|12|22|W 1|True|True|0|201001080WAS
+35|35|Sun, Jan 10, 2010|1:00p|New Orleans Hornets|110|115|12|23|L 1|False|True|0|201001100WAS
+36|36|Tue, Jan 12, 2010|7:00p|Detroit Pistons|90|99|12|24|L 2|False|True|0|201001120WAS
+37|37|Wed, Jan 13, 2010|7:00p|Atlanta Hawks|82|94|12|25|L 3|False|False|0|201001130ATL
+38|38|Fri, Jan 15, 2010|8:00p|Chicago Bulls|119|121|12|26|L 4|False|False|2|201001150CHI
+39|39|Sat, Jan 16, 2010|7:00p|Sacramento Kings|96|86|13|26|W 1|True|True|0|201001160WAS
+40|40|Mon, Jan 18, 2010|1:00p|Portland Trail Blazers|97|92|14|26|W 2|True|True|0|201001180WAS
+41|41|Wed, Jan 20, 2010|7:00p|Dallas Mavericks|93|94|14|27|L 1|False|True|0|201001200WAS
+42|42|Fri, Jan 22, 2010|7:00p|Miami Heat|88|112|14|28|L 2|False|True|0|201001220WAS
+43|43|Sun, Jan 24, 2010|1:00p|Los Angeles Clippers|78|92|14|29|L 3|False|True|0|201001240WAS
+44|44|Tue, Jan 26, 2010|7:00p|Los Angeles Lakers|103|115|14|30|L 4|False|True|0|201001260WAS
+45|45|Fri, Jan 29, 2010|8:00p|New Jersey Nets|81|79|15|30|W 1|True|False|0|201001290NJN
+46|46|Sat, Jan 30, 2010|8:00p|New York Knicks|106|96|16|30|W 2|True|True|0|201001300WAS
+47|47|Mon, Feb 1, 2010|7:00p|Boston Celtics|88|99|16|31|L 1|False|True|0|201002010WAS
+48|48|Wed, Feb 3, 2010|7:30p|New York Knicks|85|107|16|32|L 2|False|False|0|201002030NYK
+49|49|Fri, Feb 5, 2010|7:00p|Orlando Magic|92|91|17|32|W 1|True|False|0|201002050ORL
+50|50|Tue, Feb 9, 2010|7:00p|Charlotte Bobcats|92|94|17|33|L 1|False|False|0|201002090CHA
+51|51|Wed, Feb 17, 2010|7:00p|Minnesota Timberwolves|108|99|18|33|W 1|True|True|0|201002170WAS
+52|52|Fri, Feb 19, 2010|7:00p|Denver Nuggets|107|97|19|33|W 2|True|True|0|201002190WAS
+53|53|Sat, Feb 20, 2010|7:00p|Toronto Raptors|104|109|19|34|L 1|False|False|0|201002200TOR
+54|54|Mon, Feb 22, 2010|7:00p|Chicago Bulls|101|95|20|34|W 1|True|True|0|201002220WAS
+55|55|Wed, Feb 24, 2010|7:00p|Memphis Grizzlies|94|99|20|35|L 1|False|True|0|201002240WAS
+56|56|Fri, Feb 26, 2010|7:00p|New York Knicks|116|118|20|36|L 2|False|True|1|201002260WAS
+57|57|Sun, Feb 28, 2010|6:00p|New Jersey Nets|89|85|21|36|W 1|True|False|0|201002280NJN
+58|58|Wed, Mar 3, 2010|8:00p|Milwaukee Bucks|87|100|21|37|L 1|False|False|0|201003030MIL
+59|59|Fri, Mar 5, 2010|7:00p|Milwaukee Bucks|74|102|21|38|L 2|False|True|0|201003050WAS
+60|60|Sun, Mar 7, 2010|8:00p|Boston Celtics|83|86|21|39|L 3|False|False|0|201003070BOS
+61|61|Tue, Mar 9, 2010|7:00p|Houston Rockets|88|96|21|40|L 4|False|True|0|201003090WAS
+62|62|Thu, Mar 11, 2010|7:00p|Atlanta Hawks|99|105|21|41|L 5|False|True|0|201003110WAS
+63|63|Fri, Mar 12, 2010|8:00p|Detroit Pistons|87|101|21|42|L 6|False|False|0|201003120DET
+64|64|Sat, Mar 13, 2010|7:00p|Orlando Magic|95|109|21|43|L 7|False|True|0|201003130WAS
+65|65|Mon, Mar 15, 2010|9:00p|Utah Jazz|89|112|21|44|L 8|False|False|0|201003150UTA
+66|66|Tue, Mar 16, 2010|9:00p|Denver Nuggets|87|97|21|45|L 9|False|False|0|201003160DEN
+67|67|Fri, Mar 19, 2010|10:00p|Portland Trail Blazers|74|76|21|46|L 10|False|False|0|201003190POR
+68|68|Sun, Mar 21, 2010|9:30p|Los Angeles Lakers|92|99|21|47|L 11|False|False|0|201003210LAL
+69|69|Tue, Mar 23, 2010|7:00p|Charlotte Bobcats|86|95|21|48|L 12|False|True|1|201003230WAS
+70|70|Wed, Mar 24, 2010|7:00p|Indiana Pacers|82|99|21|49|L 13|False|False|0|201003240IND
+71|71|Fri, Mar 26, 2010|7:00p|Charlotte Bobcats|96|107|21|50|L 14|False|False|0|201003260CHA
+72|72|Sat, Mar 27, 2010|7:00p|Utah Jazz|87|103|21|51|L 15|False|True|0|201003270WAS
+73|73|Tue, Mar 30, 2010|8:30p|Houston Rockets|94|98|21|52|L 16|False|False|0|201003300HOU
+74|74|Wed, Mar 31, 2010|8:00p|New Orleans Hornets|96|91|22|52|W 1|True|False|0|201003310NOH
+75|75|Fri, Apr 2, 2010|7:00p|Chicago Bulls|87|95|22|53|L 1|False|True|0|201004020WAS
+76|76|Sun, Apr 4, 2010|6:00p|New Jersey Nets|109|99|23|53|W 1|True|True|0|201004040WAS
+77|77|Tue, Apr 6, 2010|7:00p|Golden State Warriors|112|94|24|53|W 2|True|True|0|201004060WAS
+78|78|Wed, Apr 7, 2010|7:00p|Orlando Magic|94|121|24|54|L 1|False|False|0|201004070ORL
+79|79|Fri, Apr 9, 2010|7:30p|Boston Celtics|106|96|25|54|W 1|True|False|0|201004090BOS
+80|80|Sat, Apr 10, 2010|7:00p|Atlanta Hawks|95|105|25|55|L 1|False|True|0|201004100WAS
+81|81|Mon, Apr 12, 2010|7:30p|New York Knicks|103|114|25|56|L 2|False|False|0|201004120NYK
+82|82|Wed, Apr 14, 2010|8:00p|Indiana Pacers|98|97|26|56|W 1|True|True|0|201004140WAS

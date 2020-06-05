@@ -1,0 +1,51 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Sun, Feb 7, 1999||Seattle SuperSonics|88|91|0|1|L 1|False|False|0|199902070SEA
+2|2|Mon, Feb 8, 1999||Vancouver Grizzlies|95|76|1|1|W 1|True|False|0|199902080VAN
+3|3|Wed, Feb 10, 1999||Indiana Pacers|100|92|2|1|W 2|True|True|0|199902100POR
+4|4|Sun, Feb 14, 1999||Golden State Warriors|100|105|2|2|L 1|False|False|2|199902140GSW
+5|5|Mon, Feb 15, 1999||Dallas Mavericks|99|84|3|2|W 1|True|True|0|199902150POR
+6|6|Wed, Feb 17, 1999||Denver Nuggets|100|85|4|2|W 2|True|True|0|199902170POR
+7|7|Fri, Feb 19, 1999||Boston Celtics|106|86|5|2|W 3|True|True|0|199902190POR
+8|8|Sat, Feb 20, 1999||Golden State Warriors|90|84|6|2|W 4|True|True|0|199902200POR
+9|9|Wed, Feb 24, 1999||New Jersey Nets|94|85|7|2|W 5|True|False|0|199902240NJN
+10|10|Fri, Feb 26, 1999||Charlotte Hornets|95|97|7|3|L 1|False|False|0|199902260CHH
+11|11|Sat, Feb 27, 1999||Washington Wizards|82|81|8|3|W 1|True|False|0|199902270WAS
+12|12|Sun, Feb 28, 1999||Minnesota Timberwolves|100|93|9|3|W 2|True|False|0|199902280MIN
+13|13|Tue, Mar 2, 1999||Utah Jazz|102|100|10|3|W 3|True|True|2|199903020POR
+14|14|Wed, Mar 3, 1999||Sacramento Kings|97|93|11|3|W 4|True|False|1|199903030SAC
+15|15|Fri, Mar 5, 1999||Minnesota Timberwolves|97|85|12|3|W 5|True|True|0|199903050POR
+16|16|Sun, Mar 7, 1999||Houston Rockets|111|71|13|3|W 6|True|True|0|199903070POR
+17|17|Mon, Mar 8, 1999||Vancouver Grizzlies|92|73|14|3|W 7|True|False|0|199903080VAN
+18|18|Tue, Mar 9, 1999||Sacramento Kings|103|98|15|3|W 8|True|True|0|199903090POR
+19|19|Fri, Mar 12, 1999||Utah Jazz|77|91|15|4|L 1|False|True|0|199903120POR
+20|20|Sat, Mar 13, 1999||Los Angeles Clippers|106|96|16|4|W 1|True|False|1|199903130LAC
+21|21|Mon, Mar 15, 1999||Dallas Mavericks|106|91|17|4|W 2|True|False|0|199903150DAL
+22|22|Tue, Mar 16, 1999||Houston Rockets|93|101|17|5|L 1|False|False|0|199903160HOU
+23|23|Thu, Mar 18, 1999||Sacramento Kings|88|78|18|5|W 1|True|False|0|199903180SAC
+24|24|Fri, Mar 19, 1999||San Antonio Spurs|90|85|19|5|W 2|True|True|0|199903190POR
+25|25|Sun, Mar 21, 1999||Philadelphia 76ers|91|75|20|5|W 3|True|True|0|199903210POR
+26|26|Tue, Mar 23, 1999||Golden State Warriors|79|72|21|5|W 4|True|True|0|199903230POR
+27|27|Thu, Mar 25, 1999||Phoenix Suns|97|84|22|5|W 5|True|True|0|199903250POR
+28|28|Sun, Mar 28, 1999||Phoenix Suns|88|86|23|5|W 6|True|False|0|199903280PHO
+29|29|Tue, Mar 30, 1999||Golden State Warriors|90|93|23|6|L 1|False|False|0|199903300GSW
+30|30|Wed, Mar 31, 1999||Sacramento Kings|100|86|24|6|W 1|True|True|0|199903310POR
+31|31|Fri, Apr 2, 1999||Seattle SuperSonics|107|95|25|6|W 2|True|True|0|199904020POR
+32|32|Sat, Apr 3, 1999||Phoenix Suns|98|93|26|6|W 3|True|True|0|199904030POR
+33|33|Tue, Apr 6, 1999||Vancouver Grizzlies|98|89|27|6|W 4|True|True|0|199904060POR
+34|34|Thu, Apr 8, 1999||Seattle SuperSonics|86|87|27|7|L 1|False|False|0|199904080SEA
+35|35|Sat, Apr 10, 1999||Los Angeles Clippers|97|70|28|7|W 1|True|False|0|199904100LAC
+36|36|Sun, Apr 11, 1999||Los Angeles Clippers|83|89|28|8|L 1|False|True|0|199904110POR
+37|37|Tue, Apr 13, 1999||Los Angeles Lakers|113|86|29|8|W 1|True|True|0|199904130POR
+38|38|Thu, Apr 15, 1999||Houston Rockets|76|86|29|9|L 1|False|False|0|199904150HOU
+39|39|Fri, Apr 16, 1999||San Antonio Spurs|80|81|29|10|L 2|False|False|0|199904160SAS
+40|40|Sat, Apr 17, 1999||Dallas Mavericks|102|94|30|10|W 1|True|False|0|199904170DAL
+41|41|Wed, Apr 21, 1999||Los Angeles Lakers|88|82|31|10|W 2|True|True|0|199904210POR
+42|42|Fri, Apr 23, 1999||Utah Jazz|85|96|31|11|L 1|False|False|0|199904230UTA
+43|43|Sun, Apr 25, 1999||Minnesota Timberwolves|100|84|32|11|W 1|True|True|0|199904250POR
+44|44|Mon, Apr 26, 1999||Denver Nuggets|93|77|33|11|W 2|True|True|0|199904260POR
+45|45|Wed, Apr 28, 1999||Seattle SuperSonics|119|84|34|11|W 3|True|True|0|199904280POR
+46|46|Thu, Apr 29, 1999||Los Angeles Lakers|89|108|34|12|L 1|False|False|0|199904290LAL
+47|47|Sat, May 1, 1999||San Antonio Spurs|90|98|34|13|L 2|False|False|1|199905010SAS
+48|48|Sun, May 2, 1999||Denver Nuggets|110|102|35|13|W 1|True|False|0|199905020DEN
+49|49|Tue, May 4, 1999||San Antonio Spurs|81|87|35|14|L 1|False|True|0|199905040POR
+50|50|Wed, May 5, 1999||Los Angeles Lakers|91|119|35|15|L 2|False|False|0|199905050LAL

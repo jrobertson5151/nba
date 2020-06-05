@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Tue, Oct 31, 2006|10:30p|Phoenix Suns|114|106|1|0|W 1|True|True|0|200610310LAL
+2|2|Wed, Nov 1, 2006|10:30p|Golden State Warriors|110|98|2|0|W 2|True|False|0|200611010GSW
+3|3|Fri, Nov 3, 2006|10:30p|Seattle SuperSonics|118|112|3|0|W 3|True|True|0|200611030LAL
+4|4|Sun, Nov 5, 2006|9:00p|Seattle SuperSonics|101|117|3|1|L 1|False|False|0|200611050SEA
+5|5|Tue, Nov 7, 2006|10:30p|Minnesota Timberwolves|95|88|4|1|W 1|True|True|0|200611070LAL
+6|6|Wed, Nov 8, 2006|10:00p|Portland Trail Blazers|90|101|4|2|L 1|False|False|0|200611080POR
+7|7|Fri, Nov 10, 2006|10:30p|Detroit Pistons|83|97|4|3|L 2|False|True|0|200611100LAL
+8|8|Sun, Nov 12, 2006|9:30p|Memphis Grizzlies|91|81|5|3|W 1|True|True|0|200611120LAL
+9|9|Fri, Nov 17, 2006|10:30p|Toronto Raptors|107|100|6|3|W 2|True|True|0|200611170LAL
+10|10|Sun, Nov 19, 2006|8:00p|Chicago Bulls|82|72|7|3|W 3|True|True|0|200611190LAL
+11|11|Tue, Nov 21, 2006|10:30p|Los Angeles Clippers|105|101|8|3|W 4|True|True|0|200611210LAL
+12|12|Fri, Nov 24, 2006|9:00p|Utah Jazz|108|114|8|4|L 1|False|False|0|200611240UTA
+13|13|Sun, Nov 26, 2006|9:30p|New Jersey Nets|99|93|9|4|W 1|True|True|0|200611260LAL
+14|14|Tue, Nov 28, 2006|10:30p|Milwaukee Bucks|105|109|9|5|L 1|False|True|0|200611280LAL
+15|15|Thu, Nov 30, 2006|10:30p|Utah Jazz|132|102|10|5|W 1|True|True|0|200611300LAL
+16|16|Sat, Dec 2, 2006|10:30p|Los Angeles Clippers|97|88|11|5|W 2|True|False|0|200612020LAC
+17|17|Mon, Dec 4, 2006|10:30p|Indiana Pacers|101|87|12|5|W 3|True|True|0|200612040LAL
+18|18|Wed, Dec 6, 2006|10:30p|New Orleans/Oklahoma City Hornets|89|105|12|6|L 1|False|True|0|200612060LAL
+19|19|Fri, Dec 8, 2006|10:30p|Atlanta Hawks|106|95|13|6|W 1|True|True|0|200612080LAL
+20|20|Sun, Dec 10, 2006|9:30p|San Antonio Spurs|106|99|14|6|W 2|True|True|0|200612100LAL
+21|21|Tue, Dec 12, 2006|8:30p|Houston Rockets|102|94|15|6|W 3|True|False|0|200612120HOU
+22|22|Wed, Dec 13, 2006|9:30p|Dallas Mavericks|101|110|15|7|L 1|False|False|0|200612130DAL
+23|23|Fri, Dec 15, 2006|10:30p|Houston Rockets|112|101|16|7|W 1|True|True|2|200612150LAL
+24|24|Sun, Dec 17, 2006|9:30p|Washington Wizards|141|147|16|8|L 1|False|True|1|200612170LAL
+25|25|Tue, Dec 19, 2006|8:30p|Chicago Bulls|89|94|16|9|L 2|False|False|0|200612190CHI
+26|26|Wed, Dec 20, 2006|8:00p|Minnesota Timberwolves|111|94|17|9|W 1|True|False|0|200612200MIN
+27|27|Fri, Dec 22, 2006|7:30p|New Jersey Nets|99|95|18|9|W 2|True|False|0|200612220NJN
+28|28|Mon, Dec 25, 2006|2:30p|Miami Heat|85|101|18|10|L 1|False|False|0|200612250MIA
+29|29|Wed, Dec 27, 2006|7:00p|Orlando Magic|106|93|19|10|W 1|True|False|0|200612270ORL
+30|30|Fri, Dec 29, 2006|7:00p|Charlotte Bobcats|124|133|19|11|L 1|False|False|3|200612290CHA
+31|31|Sun, Dec 31, 2006|9:30p|Philadelphia 76ers|104|94|20|11|W 1|True|True|0|200612310LAL
+32|32|Thu, Jan 4, 2007|10:30p|Sacramento Kings|132|128|21|11|W 2|True|False|1|200701040SAC
+33|33|Fri, Jan 5, 2007|10:30p|Denver Nuggets|123|104|22|11|W 3|True|True|0|200701050LAL
+34|34|Sun, Jan 7, 2007|9:30p|Dallas Mavericks|101|98|23|11|W 4|True|True|0|200701070LAL
+35|35|Tue, Jan 9, 2007|8:00p|Memphis Grizzlies|118|128|23|12|L 1|False|False|0|200701090MEM
+36|36|Wed, Jan 10, 2007|8:30p|Houston Rockets|77|102|23|13|L 2|False|False|0|200701100HOU
+37|37|Fri, Jan 12, 2007|10:30p|Orlando Magic|109|106|24|13|W 1|True|True|0|200701120LAL
+38|38|Mon, Jan 15, 2007|10:00p|Miami Heat|124|118|25|13|W 2|True|True|1|200701150LAL
+39|39|Wed, Jan 17, 2007|9:00p|San Antonio Spurs|100|96|26|13|W 3|True|False|0|200701170SAS
+40|40|Thu, Jan 18, 2007|9:30p|Dallas Mavericks|95|114|26|14|L 1|False|False|0|200701180DAL
+41|41|Sat, Jan 20, 2007|8:00p|New Orleans/Oklahoma City Hornets|103|113|26|15|L 2|False|False|0|200701200NOK
+42|42|Mon, Jan 22, 2007|10:30p|Golden State Warriors|108|103|27|15|W 1|True|True|0|200701220LAL
+43|43|Fri, Jan 26, 2007|10:30p|Charlotte Bobcats|97|106|27|16|L 1|False|True|1|200701260LAL
+44|44|Sun, Jan 28, 2007|3:30p|San Antonio Spurs|94|96|27|17|L 2|False|True|1|200701280LAL
+45|45|Tue, Jan 30, 2007|7:30p|New York Knicks|94|99|27|18|L 3|False|False|0|200701300NYK
+46|46|Wed, Jan 31, 2007|7:30p|Boston Celtics|111|98|28|18|W 1|True|False|0|200701310BOS
+47|47|Fri, Feb 2, 2007|7:00p|Indiana Pacers|84|95|28|19|L 1|False|False|0|200702020IND
+48|48|Sat, Feb 3, 2007|7:00p|Washington Wizards|118|102|29|19|W 1|True|False|0|200702030WAS
+49|49|Mon, Feb 5, 2007|7:00p|Atlanta Hawks|90|83|30|19|W 2|True|False|0|200702050ATL
+50|50|Thu, Feb 8, 2007|8:00p|Detroit Pistons|78|93|30|20|L 1|False|False|0|200702080DET
+51|51|Fri, Feb 9, 2007|7:00p|Toronto Raptors|92|96|30|21|L 2|False|False|0|200702090TOR
+52|52|Sun, Feb 11, 2007|3:30p|Cleveland Cavaliers|90|99|30|22|L 3|False|False|0|200702110CLE
+53|53|Tue, Feb 13, 2007|10:30p|New York Knicks|106|107|30|23|L 4|False|True|0|200702130LAL
+54|54|Thu, Feb 15, 2007|10:30p|Cleveland Cavaliers|108|114|30|24|L 5|False|True|0|200702150LAL
+55|55|Wed, Feb 21, 2007|10:30p|Portland Trail Blazers|108|112|30|25|L 6|False|True|0|200702210LAL
+56|56|Fri, Feb 23, 2007|10:30p|Boston Celtics|122|96|31|25|W 1|True|True|0|200702230LAL
+57|57|Sun, Feb 25, 2007|6:00p|Golden State Warriors|102|85|32|25|W 2|True|False|0|200702250GSW
+58|58|Mon, Feb 26, 2007|9:00p|Utah Jazz|102|94|33|25|W 3|True|False|0|200702260UTA
+59|59|Fri, Mar 2, 2007|10:30p|Sacramento Kings|108|116|33|26|L 1|False|True|0|200703020LAL
+60|60|Sun, Mar 4, 2007|3:30p|Phoenix Suns|94|99|33|27|L 2|False|False|0|200703040PHO
+61|61|Tue, Mar 6, 2007|8:00p|Minnesota Timberwolves|107|117|33|28|L 3|False|False|2|200703060MIN
+62|62|Wed, Mar 7, 2007|8:00p|Milwaukee Bucks|90|110|33|29|L 4|False|False|0|200703070MIL
+63|63|Fri, Mar 9, 2007|7:00p|Philadelphia 76ers|92|108|33|30|L 5|False|False|0|200703090PHI
+64|64|Sun, Mar 11, 2007|9:00p|Dallas Mavericks|72|108|33|31|L 6|False|True|0|200703110LAL
+65|65|Thu, Mar 15, 2007|10:30p|Denver Nuggets|86|113|33|32|L 7|False|False|0|200703150DEN
+66|66|Fri, Mar 16, 2007|10:30p|Portland Trail Blazers|116|111|34|32|W 1|True|True|1|200703160LAL
+67|67|Sun, Mar 18, 2007|8:00p|Minnesota Timberwolves|109|102|35|32|W 2|True|True|0|200703180LAL
+68|68|Thu, Mar 22, 2007|8:00p|Memphis Grizzlies|121|119|36|32|W 3|True|False|0|200703220MEM
+69|69|Fri, Mar 23, 2007|8:00p|New Orleans/Oklahoma City Hornets|111|105|37|32|W 4|True|False|0|200703230NOK
+70|70|Sun, Mar 25, 2007|9:30p|Golden State Warriors|115|113|38|32|W 5|True|True|0|200703250LAL
+71|71|Tue, Mar 27, 2007|10:30p|Memphis Grizzlies|86|88|38|33|L 1|False|True|0|200703270LAL
+72|72|Fri, Mar 30, 2007|10:30p|Houston Rockets|104|107|38|34|L 2|False|True|1|200703300LAL
+73|73|Sun, Apr 1, 2007|9:30p|Sacramento Kings|126|103|39|34|W 1|True|True|0|200704010LAL
+74|74|Tue, Apr 3, 2007|10:30p|Denver Nuggets|105|111|39|35|L 1|False|True|0|200704030LAL
+75|75|Wed, Apr 4, 2007|10:30p|Los Angeles Clippers|82|90|39|36|L 2|False|False|0|200704040LAC
+76|76|Fri, Apr 6, 2007|10:30p|Seattle SuperSonics|112|109|40|36|W 1|True|False|0|200704060SEA
+77|77|Sun, Apr 8, 2007|3:30p|Phoenix Suns|107|115|40|37|L 1|False|True|0|200704080LAL
+78|78|Mon, Apr 9, 2007|9:00p|Denver Nuggets|111|115|40|38|L 2|False|False|0|200704090DEN
+79|79|Thu, Apr 12, 2007|10:30p|Los Angeles Clippers|110|118|40|39|L 3|False|True|0|200704120LAL
+80|80|Fri, Apr 13, 2007|10:30p|Phoenix Suns|85|93|40|40|L 4|False|False|0|200704130PHO
+81|81|Sun, Apr 15, 2007|9:30p|Seattle SuperSonics|109|98|41|40|W 1|True|True|0|200704150LAL
+82|82|Wed, Apr 18, 2007|10:00p|Sacramento Kings|117|106|42|40|W 2|True|False|0|200704180SAC

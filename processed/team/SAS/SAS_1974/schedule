@@ -1,0 +1,85 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Oct 18, 1974||Indiana Pacers|129|121|1|0|W 1|True|False|2|197410180INA
+2|2|Sat, Oct 19, 1974||Memphis Sounds|114|94|2|0|W 2|True|True|0|197410190SAA
+3|3|Wed, Oct 23, 1974||San Diego Conquistadors|121|119|3|0|W 3|True|True|0|197410230SAA
+4|4|Thu, Oct 24, 1974||Kentucky Colonels|103|113|3|1|L 1|False|False|0|197410240KEN
+5|5|Fri, Oct 25, 1974||New York Nets|93|113|3|2|L 2|False|False|0|197410250NYA
+6|6|Sat, Oct 26, 1974||Utah Stars|101|68|4|2|W 1|True|True|0|197410260SAA
+7|7|Wed, Oct 30, 1974||Spirits of St. Louis|135|98|5|2|W 2|True|True|0|197410300SAA
+8|8|Fri, Nov 1, 1974||Utah Stars|88|97|5|3|L 1|False|False|0|197411010UTS
+9|9|Sat, Nov 2, 1974||Virginia Squires|109|92|6|3|W 1|True|False|0|197411020VIR
+10|10|Sun, Nov 3, 1974||New York Nets|109|120|6|4|L 1|False|False|0|197411030NYA
+11|11|Wed, Nov 6, 1974||Virginia Squires|111|106|7|4|W 1|True|True|0|197411060SAA
+12|12|Sat, Nov 9, 1974||Indiana Pacers|131|118|8|4|W 2|True|True|0|197411090SAA
+13|13|Sun, Nov 10, 1974||Memphis Sounds|89|91|8|5|L 1|False|False|1|197411100MMS
+14|14|Tue, Nov 12, 1974||Virginia Squires|109|92|9|5|W 1|True|False|0|197411120VIR
+15|15|Thu, Nov 14, 1974||Kentucky Colonels|102|100|10|5|W 2|True|True|1|197411140SAA
+16|16|Sat, Nov 16, 1974||Indiana Pacers|112|109|11|5|W 3|True|True|0|197411160SAA
+17|17|Wed, Nov 20, 1974||Memphis Sounds|102|96|12|5|W 4|True|False|0|197411200MMS
+18|18|Thu, Nov 21, 1974||New York Nets|116|110|13|5|W 5|True|True|0|197411210SAA
+19|19|Sat, Nov 23, 1974||Spirits of St. Louis|127|114|14|5|W 6|True|True|0|197411230SAA
+20|20|Wed, Nov 27, 1974||Denver Nuggets|106|112|14|6|L 1|False|True|0|197411270SAA
+21|21|Fri, Nov 29, 1974||Denver Nuggets|124|139|14|7|L 2|False|False|0|197411290DNA
+22|22|Sat, Nov 30, 1974||Utah Stars|103|110|14|8|L 3|False|True|0|197411300SAA
+23|23|Wed, Dec 4, 1974||Memphis Sounds|122|108|15|8|W 1|True|True|0|197412040SAA
+24|24|Fri, Dec 6, 1974||Virginia Squires|114|95|16|8|W 2|True|True|0|197412060SAA
+25|25|Sat, Dec 7, 1974||Utah Stars|107|111|16|9|L 1|False|False|0|197412070UTS
+26|26|Sun, Dec 8, 1974||San Diego Conquistadors|92|104|16|10|L 2|False|False|0|197412080SDA
+27|27|Thu, Dec 12, 1974||San Diego Conquistadors|117|98|17|10|W 1|True|True|0|197412120SAA
+28|28|Fri, Dec 13, 1974||Memphis Sounds|118|94|18|10|W 2|True|False|0|197412130MMS
+29|29|Sat, Dec 14, 1974||Indiana Pacers|105|110|18|11|L 1|False|True|0|197412140SAA
+30|30|Tue, Dec 17, 1974||Kentucky Colonels|98|121|18|12|L 2|False|False|0|197412170KEN
+31|31|Wed, Dec 18, 1974||Indiana Pacers|122|128|18|13|L 3|False|False|0|197412180INA
+32|32|Thu, Dec 19, 1974||Utah Stars|100|105|18|14|L 4|False|False|0|197412190UTS
+33|33|Sat, Dec 21, 1974||Denver Nuggets|104|119|18|15|L 5|False|False|0|197412210DNA
+34|34|Sun, Dec 22, 1974||San Diego Conquistadors|124|104|19|15|W 1|True|False|0|197412220SDA
+35|35|Thu, Dec 26, 1974||Spirits of St. Louis|118|119|19|16|L 1|False|False|0|197412260SSL
+36|36|Fri, Dec 27, 1974||New York Nets|108|103|20|16|W 1|True|False|0|197412270NYA
+37|37|Sun, Dec 29, 1974||Denver Nuggets|121|124|20|17|L 1|False|False|0|197412290DNA
+38|38|Mon, Dec 30, 1974||Utah Stars|104|105|20|18|L 2|False|False|0|197412300UTS
+39|39|Tue, Dec 31, 1974||Indiana Pacers|140|105|21|18|W 1|True|True|0|197412310SAA
+40|40|Thu, Jan 2, 1975||San Diego Conquistadors|122|104|22|18|W 2|True|True|0|197501020SAA
+41|41|Sat, Jan 4, 1975||Kentucky Colonels|111|125|22|19|L 1|False|False|0|197501040KEN
+42|42|Sun, Jan 5, 1975||San Diego Conquistadors|134|116|23|19|W 1|True|False|0|197501050SDA
+43|43|Mon, Jan 6, 1975||Utah Stars|113|92|24|19|W 2|True|False|0|197501060UTS
+44|44|Wed, Jan 8, 1975||Denver Nuggets|128|130|24|20|L 1|False|False|0|197501080DNA
+45|45|Sat, Jan 11, 1975||Denver Nuggets|130|108|25|20|W 1|True|True|0|197501110SAA
+46|46|Wed, Jan 15, 1975||Utah Stars|96|91|26|20|W 2|True|True|0|197501150SAA
+47|47|Fri, Jan 17, 1975||Spirits of St. Louis|139|120|27|20|W 3|True|False|0|197501170SSL
+48|48|Sat, Jan 18, 1975||San Diego Conquistadors|125|110|28|20|W 4|True|True|0|197501180SAA
+49|49|Sun, Jan 19, 1975||Memphis Sounds|94|101|28|21|L 1|False|False|0|197501190MMS
+50|50|Tue, Jan 21, 1975||Indiana Pacers|110|91|29|21|W 1|True|True|0|197501210SAA
+51|51|Thu, Jan 23, 1975||Denver Nuggets|117|127|29|22|L 1|False|True|0|197501230SAA
+52|52|Fri, Jan 24, 1975||Indiana Pacers|105|114|29|23|L 2|False|False|0|197501240INA
+53|53|Sat, Jan 25, 1975||Spirits of St. Louis|115|104|30|23|W 1|True|True|0|197501250SAA
+54|54|Sun, Jan 26, 1975||Spirits of St. Louis|106|117|30|24|L 1|False|False|0|197501260SSL
+55|55|Thu, Jan 30, 1975||Utah Stars|118|102|31|24|W 1|True|False|0|197501300UTS
+56|56|Fri, Jan 31, 1975||San Diego Conquistadors|125|112|32|24|W 2|True|False|0|197501310SDA
+57|57|Sun, Feb 2, 1975||Indiana Pacers|119|100|33|24|W 3|True|False|0|197502020INA
+58|58|Wed, Feb 5, 1975||Memphis Sounds|143|119|34|24|W 4|True|True|0|197502050SAA
+59|59|Fri, Feb 7, 1975||Denver Nuggets|101|96|35|24|W 5|True|True|0|197502070SAA
+60|60|Sat, Feb 8, 1975||Denver Nuggets|120|115|36|24|W 6|True|False|0|197502080DNA
+61|61|Sun, Feb 9, 1975||San Diego Conquistadors|126|123|37|24|W 7|True|False|0|197502090SDA
+62|62|Wed, Feb 12, 1975||Kentucky Colonels|100|112|37|25|L 1|False|True|0|197502120SAA
+63|63|Sun, Feb 16, 1975||Spirits of St. Louis|99|101|37|26|L 2|False|True|0|197502160SAA
+64|64|Wed, Feb 19, 1975||New York Nets|91|113|37|27|L 3|False|True|0|197502190SAA
+65|65|Sat, Feb 22, 1975||Kentucky Colonels|110|108|38|27|W 1|True|True|0|197502220SAA
+66|66|Fri, Feb 28, 1975||Utah Stars|110|100|39|27|W 2|True|True|0|197502280SAA
+67|67|Sat, Mar 1, 1975||Virginia Squires|110|106|40|27|W 3|True|False|0|197503010VIR
+68|68|Sun, Mar 2, 1975||Kentucky Colonels|103|98|41|27|W 4|True|False|0|197503020KEN
+69|69|Wed, Mar 5, 1975||New York Nets|122|109|42|27|W 5|True|True|0|197503050SAA
+70|70|Fri, Mar 7, 1975||Denver Nuggets|95|100|42|28|L 1|False|True|0|197503070SAA
+71|71|Sat, Mar 8, 1975||Denver Nuggets|144|156|42|29|L 2|False|False|1|197503080DNA
+72|72|Sun, Mar 9, 1975||Indiana Pacers|107|141|42|30|L 3|False|False|0|197503090INA
+73|73|Thu, Mar 13, 1975||New York Nets|94|108|42|31|L 4|False|True|0|197503130SAA
+74|74|Fri, Mar 14, 1975||Virginia Squires|97|95|43|31|W 1|True|False|0|197503140VIR
+75|75|Sat, Mar 15, 1975||Utah Stars|112|102|44|31|W 2|True|True|0|197503150SAA
+76|76|Wed, Mar 19, 1975||Spirits of St. Louis|128|115|45|31|W 3|True|False|0|197503190SSL
+77|77|Fri, Mar 21, 1975||Virginia Squires|136|115|46|31|W 4|True|True|0|197503210SAA
+78|78|Sun, Mar 23, 1975||San Diego Conquistadors|122|102|47|31|W 5|True|True|0|197503230SAA
+79|79|Wed, Mar 26, 1975||Memphis Sounds|133|121|48|31|W 6|True|True|0|197503260SAA
+80|80|Sat, Mar 29, 1975||Virginia Squires|108|101|49|31|W 7|True|True|0|197503290SAA
+81|81|Sun, Mar 30, 1975||New York Nets|104|130|49|32|L 1|False|False|0|197503300NYA
+82|82|Mon, Mar 31, 1975||Kentucky Colonels|88|103|49|33|L 2|False|False|0|197503310KEN
+83|83|Tue, Apr 1, 1975||San Diego Conquistadors|130|113|50|33|W 1|True|True|0|197504010SAA
+84|84|Thu, Apr 3, 1975||Indiana Pacers|137|122|51|33|W 2|True|True|0|197504030SAA

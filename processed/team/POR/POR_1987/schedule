@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Nov 6, 1987||Phoenix Suns|118|104|1|0|W 1|True|True|0|198711060POR
+2|2|Sat, Nov 7, 1987||Los Angeles Clippers|124|99|2|0|W 2|True|False|0|198711070LAC
+3|3|Tue, Nov 10, 1987||Houston Rockets|111|118|2|1|L 1|False|True|0|198711100POR
+4|4|Thu, Nov 12, 1987||Denver Nuggets|113|126|2|2|L 2|False|False|0|198711120DEN
+5|5|Sat, Nov 14, 1987||Dallas Mavericks|116|127|2|3|L 3|False|False|0|198711140DAL
+6|6|Tue, Nov 17, 1987||Los Angeles Lakers|115|142|2|4|L 4|False|False|0|198711170LAL
+7|7|Wed, Nov 18, 1987||Seattle SuperSonics|114|120|2|5|L 5|False|False|0|198711180SEA
+8|8|Fri, Nov 20, 1987||Washington Bullets|120|101|3|5|W 1|True|True|0|198711200POR
+9|9|Sun, Nov 22, 1987||Indiana Pacers|120|110|4|5|W 2|True|True|0|198711220POR
+10|10|Tue, Nov 24, 1987||Sacramento Kings|98|94|5|5|W 3|True|True|0|198711240POR
+11|11|Fri, Nov 27, 1987||Los Angeles Clippers|97|87|6|5|W 4|True|True|0|198711270POR
+12|12|Sun, Nov 29, 1987||New Jersey Nets|125|104|7|5|W 5|True|True|0|198711290POR
+13|13|Tue, Dec 1, 1987||Phoenix Suns|102|100|8|5|W 6|True|True|0|198712010POR
+14|14|Wed, Dec 2, 1987||Los Angeles Lakers|117|104|9|5|W 7|True|False|0|198712020LAL
+15|15|Sat, Dec 5, 1987||Phoenix Suns|133|115|10|5|W 8|True|False|0|198712050PHO
+16|16|Sun, Dec 6, 1987||New York Knicks|117|99|11|5|W 9|True|True|0|198712060POR
+17|17|Tue, Dec 8, 1987||Detroit Pistons|117|127|11|6|L 1|False|False|0|198712080DET
+18|18|Wed, Dec 9, 1987||Philadelphia 76ers|86|94|11|7|L 2|False|False|0|198712090PHI
+19|19|Fri, Dec 11, 1987||Milwaukee Bucks|112|125|11|8|L 3|False|False|0|198712110MIL
+20|20|Sat, Dec 12, 1987||Indiana Pacers|108|101|12|8|W 1|True|False|0|198712120IND
+21|21|Tue, Dec 15, 1987||Seattle SuperSonics|128|109|13|8|W 2|True|True|0|198712150POR
+22|22|Fri, Dec 18, 1987||Phoenix Suns|129|114|14|8|W 3|True|False|0|198712180PHO
+23|23|Sun, Dec 20, 1987||San Antonio Spurs|148|126|15|8|W 4|True|True|0|198712200POR
+24|24|Tue, Dec 22, 1987||Golden State Warriors|136|91|16|8|W 5|True|True|0|198712220POR
+25|25|Sat, Dec 26, 1987||Cleveland Cavaliers|117|120|16|9|L 1|False|False|0|198712260CLE
+26|26|Tue, Dec 29, 1987||New York Knicks|110|123|16|10|L 2|False|False|0|198712290NYK
+27|27|Wed, Dec 30, 1987||Washington Bullets|117|112|17|10|W 1|True|False|0|198712300WSB
+28|28|Fri, Jan 1, 1988||Philadelphia 76ers|127|125|18|10|W 2|True|True|0|198801010POR
+29|29|Sun, Jan 3, 1988||Los Angeles Lakers|81|98|18|11|L 1|False|True|0|198801030POR
+30|30|Tue, Jan 5, 1988||Seattle SuperSonics|126|114|19|11|W 1|True|True|0|198801050POR
+31|31|Fri, Jan 8, 1988||Sacramento Kings|98|91|20|11|W 2|True|True|0|198801080POR
+32|32|Wed, Jan 13, 1988||Utah Jazz|104|116|20|12|L 1|False|False|0|198801130UTA
+33|33|Thu, Jan 14, 1988||Houston Rockets|98|103|20|13|L 2|False|False|0|198801140HOU
+34|34|Sat, Jan 16, 1988||San Antonio Spurs|121|120|21|13|W 1|True|False|0|198801160SAS
+35|35|Tue, Jan 19, 1988||Dallas Mavericks|116|120|21|14|L 1|False|True|0|198801190POR
+36|36|Fri, Jan 22, 1988||Denver Nuggets|126|106|22|14|W 1|True|True|0|198801220POR
+37|37|Sun, Jan 24, 1988||Detroit Pistons|119|111|23|14|W 2|True|True|0|198801240POR
+38|38|Tue, Jan 26, 1988||Milwaukee Bucks|112|106|24|14|W 3|True|True|0|198801260POR
+39|39|Wed, Jan 27, 1988||Golden State Warriors|110|115|24|15|L 1|False|False|0|198801270GSW
+40|40|Fri, Jan 29, 1988||Phoenix Suns|128|119|25|15|W 1|True|True|0|198801290POR
+41|41|Tue, Feb 2, 1988||Atlanta Hawks|121|118|26|15|W 2|True|True|0|198802020POR
+42|42|Thu, Feb 4, 1988||Utah Jazz|123|126|26|16|L 1|False|True|0|198802040POR
+43|43|Tue, Feb 9, 1988||Seattle SuperSonics|139|123|27|16|W 1|True|True|0|198802090POR
+44|44|Thu, Feb 11, 1988||Sacramento Kings|113|123|27|17|L 1|False|False|0|198802110SAC
+45|45|Fri, Feb 12, 1988||Denver Nuggets|120|105|28|17|W 1|True|True|0|198802120POR
+46|46|Sun, Feb 14, 1988||Houston Rockets|103|115|28|18|L 1|False|True|0|198802140POR
+47|47|Mon, Feb 15, 1988||Utah Jazz|94|112|28|19|L 2|False|False|0|198802150UTA
+48|48|Wed, Feb 17, 1988||Los Angeles Clippers|110|96|29|19|W 1|True|False|0|198802170LAC
+49|49|Fri, Feb 19, 1988||Boston Celtics|104|124|29|20|L 1|False|True|0|198802190POR
+50|50|Sun, Feb 21, 1988||San Antonio Spurs|117|112|30|20|W 1|True|True|0|198802210POR
+51|51|Tue, Feb 23, 1988||New Jersey Nets|114|102|31|20|W 2|True|False|0|198802230NJN
+52|52|Wed, Feb 24, 1988||Boston Celtics|112|113|31|21|L 1|False|False|0|198802240BOS
+53|53|Fri, Feb 26, 1988||Chicago Bulls|104|96|32|21|W 1|True|False|0|198802260CHI
+54|54|Sat, Feb 27, 1988||Atlanta Hawks|123|120|33|21|W 2|True|False|0|198802270ATL
+55|55|Mon, Feb 29, 1988||Cleveland Cavaliers|107|94|34|21|W 3|True|True|0|198802290POR
+56|56|Thu, Mar 3, 1988||Phoenix Suns|135|112|35|21|W 4|True|False|0|198803030PHO
+57|57|Sat, Mar 5, 1988||Golden State Warriors|123|117|36|21|W 5|True|True|0|198803050POR
+58|58|Tue, Mar 8, 1988||Dallas Mavericks|112|110|37|21|W 6|True|False|0|198803080DAL
+59|59|Thu, Mar 10, 1988||Houston Rockets|112|109|38|21|W 7|True|False|0|198803100HOU
+60|60|Sun, Mar 13, 1988||Los Angeles Clippers|121|100|39|21|W 8|True|True|0|198803130POR
+61|61|Tue, Mar 15, 1988||Los Angeles Lakers|112|95|40|21|W 9|True|True|0|198803150POR
+62|62|Thu, Mar 17, 1988||Denver Nuggets|115|116|40|22|L 1|False|False|1|198803170DEN
+63|63|Fri, Mar 18, 1988||Golden State Warriors|121|116|41|22|W 1|True|False|0|198803180GSW
+64|64|Sun, Mar 20, 1988||Dallas Mavericks|105|99|42|22|W 2|True|True|0|198803200POR
+65|65|Wed, Mar 23, 1988||Seattle SuperSonics|108|118|42|23|L 1|False|False|0|198803230SEA
+66|66|Fri, Mar 25, 1988||Dallas Mavericks|101|106|42|24|L 2|False|False|0|198803250DAL
+67|67|Sat, Mar 26, 1988||Houston Rockets|109|115|42|25|L 3|False|False|0|198803260HOU
+68|68|Tue, Mar 29, 1988||San Antonio Spurs|136|113|43|25|W 1|True|False|0|198803290SAS
+69|69|Fri, Apr 1, 1988||Chicago Bulls|101|116|43|26|L 1|False|True|0|198804010POR
+70|70|Sun, Apr 3, 1988||San Antonio Spurs|110|107|44|26|W 1|True|True|0|198804030POR
+71|71|Tue, Apr 5, 1988||Los Angeles Clippers|141|119|45|26|W 2|True|True|0|198804050POR
+72|72|Wed, Apr 6, 1988||Los Angeles Clippers|111|103|46|26|W 3|True|False|0|198804060LAC
+73|73|Fri, Apr 8, 1988||Seattle SuperSonics|100|114|46|27|L 1|False|False|0|198804080SEA
+74|74|Sat, Apr 9, 1988||Los Angeles Lakers|119|109|47|27|W 1|True|True|0|198804090POR
+75|75|Tue, Apr 12, 1988||Los Angeles Lakers|103|109|47|28|L 1|False|False|0|198804120LAL
+76|76|Thu, Apr 14, 1988||Utah Jazz|128|123|48|28|W 1|True|False|0|198804140UTA
+77|77|Fri, Apr 15, 1988||Golden State Warriors|147|113|49|28|W 2|True|True|0|198804150POR
+78|78|Sun, Apr 17, 1988||Sacramento Kings|112|102|50|28|W 3|True|True|0|198804170POR
+79|79|Tue, Apr 19, 1988||Utah Jazz|122|129|50|29|L 1|False|True|0|198804190POR
+80|80|Wed, Apr 20, 1988||Golden State Warriors|131|117|51|29|W 1|True|False|0|198804200GSW
+81|81|Fri, Apr 22, 1988||Denver Nuggets|141|135|52|29|W 2|True|True|1|198804220POR
+82|82|Sat, Apr 23, 1988||Sacramento Kings|124|110|53|29|W 3|True|False|0|198804230SAC

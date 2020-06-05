@@ -1,0 +1,81 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Oct 15, 1965||San Francisco Warriors|122|115|1|0|W 1|True|False|0|196510150SFW
+2|2|Sat, Oct 16, 1965||St. Louis Hawks|106|94|2|0|W 2|True|False|0|196510160STL
+3|3|Wed, Oct 20, 1965||Boston Celtics|96|100|2|1|L 1|False|False|0|196510200BOS
+4|4|Sat, Oct 23, 1965||New York Knicks|101|106|2|2|L 2|False|False|0|196510230NYK
+5|5|Tue, Oct 26, 1965||New York Knicks|104|102|3|2|W 1|True|True|0|196510260LAL
+6|6|Thu, Oct 28, 1965||New York Knicks|140|116|4|2|W 2|True|True|0|196510280LAL
+7|7|Sat, Oct 30, 1965||San Francisco Warriors|122|124|4|3|L 1|False|True|0|196510300LAL
+8|8|Wed, Nov 3, 1965||St. Louis Hawks|120|116|5|3|W 1|True|True|0|196511030LAL
+9|9|Fri, Nov 5, 1965||St. Louis Hawks|118|116|6|3|W 2|True|True|0|196511050LAL
+10|10|Sat, Nov 6, 1965||St. Louis Hawks|101|131|6|4|L 1|False|False|0|196511060STL
+11|11|Sun, Nov 7, 1965||Baltimore Bullets|116|137|6|5|L 2|False|False|0|196511070BAL
+12|12|Tue, Nov 9, 1965||Philadelphia 76ers|110|118|6|6|L 3|False|False|0|196511090PHI
+13|13|Wed, Nov 10, 1965||Detroit Pistons|133|125|7|6|W 1|True|True|0|196511100LAL
+14|14|Fri, Nov 12, 1965||New York Knicks|107|106|8|6|W 2|True|True|0|196511120LAL
+15|15|Sun, Nov 14, 1965||Baltimore Bullets|129|114|9|6|W 3|True|True|0|196511140LAL
+16|16|Wed, Nov 17, 1965||Boston Celtics|125|115|10|6|W 4|True|True|0|196511170LAL
+17|17|Fri, Nov 19, 1965||San Francisco Warriors|135|124|11|6|W 5|True|True|0|196511190LAL
+18|18|Sat, Nov 20, 1965||San Francisco Warriors|133|117|12|6|W 6|True|True|0|196511200LAL
+19|19|Sun, Nov 21, 1965||Philadelphia 76ers|104|110|12|7|L 1|False|True|0|196511210LAL
+20|20|Wed, Nov 24, 1965||Philadelphia 76ers|127|124|13|7|W 1|True|True|0|196511240LAL
+21|21|Fri, Nov 26, 1965||Baltimore Bullets|107|110|13|8|L 1|False|False|0|196511260BAL
+22|22|Sat, Nov 27, 1965||Boston Celtics|95|101|13|9|L 2|False|False|0|196511270BOS
+23|23|Sun, Nov 28, 1965||Detroit Pistons|128|110|14|9|W 1|True|False|0|196511280DET
+24|24|Tue, Nov 30, 1965||Cincinnati Royals|120|126|14|10|L 1|False|False|0|196511300CIN
+25|25|Wed, Dec 1, 1965||Cincinnati Royals|121|105|15|10|W 1|True|True|0|196512010LAL
+26|26|Fri, Dec 3, 1965||Cincinnati Royals|118|122|15|11|L 1|False|True|0|196512030LAL
+27|27|Mon, Dec 6, 1965||Philadelphia 76ers|107|116|15|12|L 2|False|True|0|196512060LAL
+28|28|Tue, Dec 7, 1965||New York Knicks|127|131|15|13|L 3|False|False|0|196512070NYK
+29|29|Wed, Dec 8, 1965||Boston Celtics|106|108|15|14|L 4|False|False|0|196512080BOS
+30|30|Fri, Dec 10, 1965||Cincinnati Royals|129|110|16|14|W 1|True|False|0|196512100CIN
+31|31|Sat, Dec 11, 1965||St. Louis Hawks|126|108|17|14|W 2|True|True|0|196512110LAL
+32|32|Sun, Dec 12, 1965||St. Louis Hawks|123|101|18|14|W 3|True|True|0|196512120LAL
+33|33|Wed, Dec 15, 1965||Philadelphia 76ers|108|122|18|15|L 1|False|True|0|196512150LAL
+34|34|Fri, Dec 17, 1965||Philadelphia 76ers|117|127|18|16|L 2|False|True|0|196512170LAL
+35|35|Sun, Dec 19, 1965||San Francisco Warriors|132|120|19|16|W 1|True|True|0|196512190LAL
+36|36|Thu, Dec 23, 1965||Detroit Pistons|122|112|20|16|W 2|True|True|0|196512230LAL
+37|37|Sat, Dec 25, 1965||Detroit Pistons|115|106|21|16|W 3|True|True|0|196512250LAL
+38|38|Mon, Dec 27, 1965||St. Louis Hawks|108|100|22|16|W 4|True|True|0|196512270LAL
+39|39|Tue, Dec 28, 1965||St. Louis Hawks|107|100|23|16|W 5|True|False|0|196512280STL
+40|40|Wed, Dec 29, 1965||Cincinnati Royals|109|111|23|17|L 1|False|False|0|196512290CIN
+41|41|Thu, Dec 30, 1965||Detroit Pistons|114|117|23|18|L 2|False|True|0|196512300DET
+42|42|Sun, Jan 2, 1966||Boston Celtics|113|124|23|19|L 3|False|True|0|196601020LAL
+43|43|Wed, Jan 5, 1966||Boston Celtics|120|113|24|19|W 1|True|True|0|196601050LAL
+44|44|Fri, Jan 7, 1966||Philadelphia 76ers|126|120|25|19|W 2|True|False|0|196601070PHI
+45|45|Sat, Jan 8, 1966||New York Knicks|127|133|25|20|L 1|False|False|0|196601080NYK
+46|46|Sun, Jan 9, 1966||Detroit Pistons|111|98|26|20|W 1|True|False|0|196601090DET
+47|47|Wed, Jan 12, 1966||Boston Celtics|102|114|26|21|L 1|False|False|0|196601120BOS
+48|48|Fri, Jan 14, 1966||San Francisco Warriors|118|110|27|21|W 1|True|False|0|196601140SFW
+49|49|Sat, Jan 15, 1966||New York Knicks|152|123|28|21|W 2|True|True|0|196601150LAL
+50|50|Tue, Jan 18, 1966||Cincinnati Royals|108|119|28|22|L 1|False|False|0|196601180CIN
+51|51|Thu, Jan 20, 1966||Baltimore Bullets|121|123|28|23|L 2|False|False|0|196601200BAL
+52|52|Fri, Jan 21, 1966||San Francisco Warriors|109|120|28|24|L 3|False|True|0|196601210LAL
+53|53|Tue, Jan 25, 1966||Philadelphia 76ers|106|110|28|25|L 4|False|True|0|196601250LAL
+54|54|Wed, Jan 26, 1966||Detroit Pistons|126|110|29|25|W 1|True|False|0|196601260DET
+55|55|Fri, Jan 28, 1966||Baltimore Bullets|138|123|30|25|W 2|True|True|0|196601280LAL
+56|56|Sun, Jan 30, 1966||Baltimore Bullets|136|122|31|25|W 3|True|True|0|196601300LAL
+57|57|Wed, Feb 2, 1966||Cincinnati Royals|119|118|32|25|W 4|True|True|0|196602020LAL
+58|58|Fri, Feb 4, 1966||Cincinnati Royals|132|125|33|25|W 5|True|True|0|196602040LAL
+59|59|Sun, Feb 6, 1966||St. Louis Hawks|105|109|33|26|L 1|False|False|0|196602060STL
+60|60|Mon, Feb 7, 1966||Philadelphia 76ers|125|132|33|27|L 2|False|False|0|196602070PHI
+61|61|Wed, Feb 9, 1966||Baltimore Bullets|123|116|34|27|W 1|True|False|1|196602090BAL
+62|62|Sat, Feb 12, 1966||New York Knicks|127|140|34|28|L 1|False|False|0|196602120NYK
+63|63|Sun, Feb 13, 1966||Boston Celtics|120|110|35|28|W 1|True|False|0|196602130BOS
+64|64|Tue, Feb 15, 1966||New York Knicks|132|124|36|28|W 2|True|True|0|196602150LAL
+65|65|Thu, Feb 17, 1966||Philadelphia 76ers|121|136|36|29|L 1|False|True|0|196602170LAL
+66|66|Sat, Feb 19, 1966||Boston Celtics|111|115|36|30|L 2|False|True|0|196602190LAL
+67|67|Mon, Feb 21, 1966||Boston Celtics|108|115|36|31|L 3|False|True|0|196602210LAL
+68|68|Wed, Feb 23, 1966||Cincinnati Royals|140|133|37|31|W 1|True|True|0|196602230LAL
+69|69|Sat, Feb 26, 1966||Detroit Pistons|131|118|38|31|W 2|True|False|0|196602260DET
+70|70|Wed, Mar 2, 1966||Baltimore Bullets|113|119|38|32|L 1|False|False|0|196603020BAL
+71|71|Fri, Mar 4, 1966||Baltimore Bullets|123|106|39|32|W 1|True|True|0|196603040LAL
+72|72|Sat, Mar 5, 1966||San Francisco Warriors|125|123|40|32|W 2|True|False|0|196603050SFW
+73|73|Sun, Mar 6, 1966||Baltimore Bullets|126|105|41|32|W 3|True|True|0|196603060LAL
+74|74|Tue, Mar 8, 1966||New York Knicks|132|133|41|33|L 1|False|False|1|196603080NYK
+75|75|Wed, Mar 9, 1966||Cincinnati Royals|119|116|42|33|W 1|True|True|0|196603090CIN
+76|76|Fri, Mar 11, 1966||Detroit Pistons|114|116|42|34|L 1|False|True|0|196603110LAL
+77|77|Tue, Mar 15, 1966||Detroit Pistons|135|108|43|34|W 1|True|True|0|196603150LAL
+78|78|Fri, Mar 18, 1966||St. Louis Hawks|132|120|44|34|W 2|True|True|0|196603180LAL
+79|79|Sat, Mar 19, 1966||San Francisco Warriors|119|125|44|35|L 1|False|False|0|196603190SFW
+80|80|Sun, Mar 20, 1966||San Francisco Warriors|124|112|45|35|W 1|True|True|0|196603200LAL

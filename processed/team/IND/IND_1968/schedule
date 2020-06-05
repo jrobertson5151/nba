@@ -1,0 +1,79 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Oct 18, 1968||Oakland Oaks|133|144|0|1|L 1|False|True|0|196810180INA
+2|2|Wed, Oct 23, 1968||Kentucky Colonels|108|112|0|2|L 2|False|True|0|196810230INA
+3|3|Sat, Oct 26, 1968||Kentucky Colonels|119|122|0|3|L 3|False|False|0|196810260KEN
+4|4|Thu, Oct 31, 1968||Denver Rockets|122|100|1|3|W 1|True|True|0|196810310INA
+5|5|Sat, Nov 2, 1968||Houston Mavericks|100|102|1|4|L 1|False|True|0|196811020INA
+6|6|Mon, Nov 4, 1968||Minnesota Pipers|120|121|1|5|L 2|False|True|0|196811040INA
+7|7|Wed, Nov 6, 1968||Denver Rockets|107|109|1|6|L 3|False|False|1|196811060DNR
+8|8|Thu, Nov 7, 1968||Oakland Oaks|128|153|1|7|L 4|False|False|0|196811070OAK
+9|9|Sat, Nov 9, 1968||Los Angeles Stars|112|107|2|7|W 1|True|False|0|196811090LAS
+10|10|Fri, Nov 15, 1968||Minnesota Pipers|95|105|2|8|L 1|False|False|0|196811150MNP
+11|11|Sun, Nov 17, 1968||New York Nets|114|91|3|8|W 1|True|False|0|196811170NYA
+12|12|Tue, Nov 19, 1968||Dallas Chaparrals|107|110|3|9|L 1|False|False|0|196811190DLC
+13|13|Wed, Nov 20, 1968||Houston Mavericks|106|94|4|9|W 1|True|False|0|196811200HSM
+14|14|Thu, Nov 21, 1968||New Orleans Buccaneers|117|129|4|10|L 1|False|False|0|196811210NOB
+15|15|Sat, Nov 23, 1968||Miami Floridians|107|126|4|11|L 2|False|False|0|196811230MMF
+16|16|Mon, Nov 25, 1968||Miami Floridians|121|126|4|12|L 3|False|False|2|196811250MMF
+17|17|Wed, Nov 27, 1968||Dallas Chaparrals|100|106|4|13|L 4|False|True|0|196811270INA
+18|18|Fri, Nov 29, 1968||Los Angeles Stars|108|103|5|13|W 1|True|True|0|196811290INA
+19|19|Mon, Dec 2, 1968||Miami Floridians|104|109|5|14|L 1|False|False|0|196812020MMF
+20|20|Wed, Dec 4, 1968||Kentucky Colonels|110|112|5|15|L 2|False|False|0|196812040KEN
+21|21|Thu, Dec 5, 1968||New Orleans Buccaneers|118|115|6|15|W 1|True|True|0|196812050INA
+22|22|Tue, Dec 10, 1968||New York Nets|102|117|6|16|L 1|False|False|0|196812100NYA
+23|23|Wed, Dec 11, 1968||Miami Floridians|117|100|7|16|W 1|True|True|0|196812110INA
+24|24|Fri, Dec 13, 1968||Kentucky Colonels|115|107|8|16|W 2|True|False|0|196812130KEN
+25|25|Sat, Dec 14, 1968||Houston Mavericks|112|103|9|16|W 3|True|True|0|196812140INA
+26|26|Tue, Dec 17, 1968||Minnesota Pipers|109|111|9|17|L 1|False|False|0|196812170MNP
+27|27|Wed, Dec 18, 1968||Miami Floridians|122|118|10|17|W 1|True|True|1|196812180INA
+28|28|Sat, Dec 21, 1968||Kentucky Colonels|114|97|11|17|W 2|True|True|0|196812210INA
+29|29|Sun, Dec 22, 1968||New York Nets|125|110|12|17|W 3|True|False|0|196812220NYA
+30|30|Mon, Dec 23, 1968||Miami Floridians|109|118|12|18|L 1|False|False|0|196812230MMF
+31|31|Thu, Dec 26, 1968||Minnesota Pipers|134|133|13|18|W 1|True|True|1|196812260INA
+32|32|Sat, Dec 28, 1968||Oakland Oaks|121|129|13|19|L 1|False|True|0|196812280INA
+33|33|Mon, Dec 30, 1968||Kentucky Colonels|110|93|14|19|W 1|True|True|0|196812300INA
+34|34|Tue, Dec 31, 1968||New York Nets|123|105|15|19|W 2|True|True|0|196812310INA
+35|35|Fri, Jan 3, 1969||New Orleans Buccaneers|126|112|16|19|W 3|True|True|0|196901030INA
+36|36|Sat, Jan 4, 1969||Minnesota Pipers|103|102|17|19|W 4|True|True|0|196901040INA
+37|37|Sun, Jan 5, 1969||Houston Mavericks|107|101|18|19|W 5|True|False|0|196901050HSM
+38|38|Tue, Jan 7, 1969||New Orleans Buccaneers|120|108|19|19|W 6|True|False|0|196901070NOB
+39|39|Wed, Jan 8, 1969||Kentucky Colonels|97|109|19|20|L 1|False|False|0|196901080KEN
+40|40|Fri, Jan 10, 1969||Minnesota Pipers|119|122|19|21|L 2|False|False|0|196901100MNP
+41|41|Sat, Jan 11, 1969||New Orleans Buccaneers|128|114|20|21|W 1|True|True|0|196901110INA
+42|42|Tue, Jan 14, 1969||Houston Mavericks|116|113|21|21|W 2|True|False|0|196901140HSM
+43|43|Wed, Jan 15, 1969||Dallas Chaparrals|120|127|21|22|L 1|False|False|1|196901150DLC
+44|44|Thu, Jan 16, 1969||New York Nets|96|94|22|22|W 1|True|True|0|196901160INA
+45|45|Sat, Jan 18, 1969||Los Angeles Stars|128|129|22|23|L 1|False|True|1|196901180INA
+46|46|Mon, Jan 20, 1969||Kentucky Colonels|141|129|23|23|W 1|True|True|0|196901200INA
+47|47|Wed, Jan 22, 1969||Miami Floridians|140|117|24|23|W 2|True|True|0|196901220INA
+48|48|Sat, Jan 25, 1969||Denver Rockets|131|122|25|23|W 3|True|True|0|196901250INA
+49|49|Wed, Jan 29, 1969||Denver Rockets|128|131|25|24|L 1|False|False|0|196901290DNR
+50|50|Thu, Jan 30, 1969||Oakland Oaks|143|146|25|25|L 2|False|False|1|196901300OAK
+51|51|Fri, Jan 31, 1969||Minnesota Pipers|117|110|26|25|W 1|True|False|0|196901310MNP
+52|52|Sat, Feb 1, 1969||Los Angeles Stars|172|141|27|25|W 2|True|True|0|196902010INA
+53|53|Sun, Feb 2, 1969||Miami Floridians|113|130|27|26|L 1|False|False|0|196902020MMF
+54|54|Tue, Feb 4, 1969||New Orleans Buccaneers|138|117|28|26|W 1|True|False|0|196902040NOB
+55|55|Wed, Feb 5, 1969||Denver Rockets|125|109|29|26|W 2|True|True|0|196902050INA
+56|56|Sat, Feb 8, 1969||Oakland Oaks|103|118|29|27|L 1|False|True|0|196902080INA
+57|57|Sun, Feb 9, 1969||Minnesota Pipers|119|118|30|27|W 1|True|False|0|196902090MNP
+58|58|Fri, Feb 14, 1969||Denver Rockets|103|112|30|28|L 1|False|False|0|196902140DNR
+59|59|Sat, Feb 15, 1969||Dallas Chaparrals|116|121|30|29|L 2|False|True|0|196902150INA
+60|60|Sun, Feb 16, 1969||New York Nets|96|112|30|30|L 3|False|False|0|196902160NYA
+61|61|Tue, Feb 18, 1969||Minnesota Pipers|140|133|31|30|W 1|True|True|0|196902180INA
+62|62|Fri, Feb 21, 1969||Dallas Chaparrals|116|120|31|31|L 1|False|False|0|196902210DLC
+63|63|Sat, Feb 22, 1969||Kentucky Colonels|108|118|31|32|L 2|False|True|0|196902220INA
+64|64|Tue, Feb 25, 1969||Miami Floridians|128|123|32|32|W 1|True|True|0|196902250INA
+65|65|Wed, Feb 26, 1969||New York Nets|113|104|33|32|W 2|True|False|0|196902260NYA
+66|66|Sun, Mar 2, 1969||Houston Mavericks|133|128|34|32|W 3|True|True|0|196903020INA
+67|67|Wed, Mar 5, 1969||Dallas Chaparrals|131|96|35|32|W 4|True|True|0|196903050INA
+68|68|Fri, Mar 7, 1969||New York Nets|143|124|36|32|W 5|True|True|0|196903070INA
+69|69|Sun, Mar 9, 1969||Miami Floridians|128|123|37|32|W 6|True|True|0|196903090INA
+70|70|Tue, Mar 11, 1969||New York Nets|122|112|38|32|W 7|True|False|0|196903110NYA
+71|71|Thu, Mar 13, 1969||New York Nets|125|87|39|32|W 8|True|True|0|196903130INA
+72|72|Sun, Mar 16, 1969||Minnesota Pipers|144|113|40|32|W 9|True|True|0|196903160INA
+73|73|Tue, Mar 18, 1969||New York Nets|143|114|41|32|W 10|True|True|0|196903180INA
+74|74|Sun, Mar 23, 1969||Minnesota Pipers|132|113|42|32|W 11|True|True|0|196903230INA
+75|75|Tue, Mar 25, 1969||Los Angeles Stars|140|124|43|32|W 12|True|False|0|196903250LAS
+76|76|Wed, Mar 26, 1969||Los Angeles Stars|134|123|44|32|W 13|True|False|0|196903260LAS
+77|77|Thu, Mar 27, 1969||Oakland Oaks|110|122|44|33|L 1|False|False|0|196903270OAK
+78|78|Wed, Apr 2, 1969||Kentucky Colonels|127|132|44|34|L 2|False|False|0|196904020KEN

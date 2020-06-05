@@ -1,0 +1,61 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Thu, Nov 4, 1948||Philadelphia Warriors|73|94|0|1|L 1|False|False|0|194811040PHW
+2|2|Sun, Nov 7, 1948||Philadelphia Warriors|85|77|1|1|W 1|True|True|0|194811070BOS
+3|3|Tue, Nov 9, 1948||Minneapolis Lakers|77|55|2|1|W 2|True|True|0|194811090BOS
+4|4|Fri, Nov 12, 1948||Fort Wayne Pistons|84|75|3|1|W 3|True|True|0|194811120BOS
+5|5|Sat, Nov 13, 1948||Rochester Royals|63|95|3|2|L 1|False|False|0|194811130ROC
+6|6|Tue, Nov 16, 1948||St. Louis Bombers|74|79|3|3|L 2|False|False|1|194811160STB
+7|7|Wed, Nov 17, 1948||Minneapolis Lakers|74|72|4|3|W 1|True|False|0|194811170MNL
+8|8|Fri, Nov 19, 1948||Indianapolis Jets|75|70|5|3|W 2|True|True|0|194811190BOS
+9|9|Sat, Nov 20, 1948||Washington Capitols|75|90|5|4|L 1|False|False|0|194811200WSC
+10|10|Tue, Nov 23, 1948||Washington Capitols|68|71|5|5|L 2|False|True|0|194811230BOS
+11|11|Thu, Nov 25, 1948||Indianapolis Jets|66|81|5|6|L 3|False|False|0|194811250INJ
+12|12|Sun, Nov 28, 1948||Fort Wayne Pistons|74|80|5|7|L 4|False|False|0|194811280FTW
+13|13|Tue, Nov 30, 1948||Minneapolis Lakers|84|94|5|8|L 5|False|True|0|194811300BOS
+14|14|Thu, Dec 2, 1948||Philadelphia Warriors|88|87|6|8|W 1|True|False|0|194812020PHW
+15|15|Sat, Dec 4, 1948||Providence Steamrollers|70|63|7|8|W 2|True|False|0|194812040PRO
+16|16|Mon, Dec 6, 1948||Rochester Royals|79|87|7|9|L 1|False|True|0|194812060BOS
+17|17|Mon, Dec 13, 1948||St. Louis Bombers|83|79|8|9|W 1|True|True|1|194812130BOS
+18|18|Fri, Dec 17, 1948||Baltimore Bullets|63|74|8|10|L 1|False|True|0|194812170BOS
+19|19|Sat, Dec 18, 1948||Washington Capitols|60|69|8|11|L 2|False|False|0|194812180WSC
+20|20|Sun, Dec 19, 1948||New York Knicks|77|75|9|11|W 1|True|True|0|194812190BOS
+21|21|Sat, Dec 25, 1948||Philadelphia Warriors|77|80|9|12|L 1|False|False|0|194812250PHW
+22|22|Sun, Dec 26, 1948||Chicago Stags|73|84|9|13|L 2|False|False|0|194812260CHS
+23|23|Tue, Dec 28, 1948||Chicago Stags|74|76|9|14|L 3|False|True|0|194812280BOS
+24|24|Fri, Dec 31, 1948||Providence Steamrollers|69|67|10|14|W 1|True|True|0|194812310BOS
+25|25|Sat, Jan 1, 1949||Baltimore Bullets|67|72|10|15|L 1|False|False|0|194901010BLB
+26|26|Sun, Jan 2, 1949||Fort Wayne Pistons|90|69|11|15|W 1|True|False|0|194901020FTW
+27|27|Tue, Jan 4, 1949||Baltimore Bullets|75|69|12|15|W 2|True|True|0|194901040BOS
+28|28|Fri, Jan 7, 1949||New York Knicks|67|69|12|16|L 1|False|True|0|194901070BOS
+29|29|Sat, Jan 8, 1949||Providence Steamrollers|69|87|12|17|L 2|False|False|0|194901080PRO
+30|30|Mon, Jan 10, 1949||Washington Capitols|83|94|12|18|L 3|False|True|0|194901100BOS
+31|31|Wed, Jan 12, 1949||New York Knicks|64|81|12|19|L 4|False|False|0|194901120NYK
+32|32|Fri, Jan 14, 1949||Philadelphia Warriors|79|104|12|20|L 5|False|True|0|194901140BOS
+33|33|Sat, Jan 15, 1949||Chicago Stags|86|94|12|21|L 6|False|True|0|194901150BOS
+34|34|Tue, Jan 18, 1949||St. Louis Bombers|83|89|12|22|L 7|False|True|0|194901180BOS
+35|35|Fri, Jan 21, 1949||Chicago Stags|76|86|12|23|L 8|False|True|0|194901210BOS
+36|36|Sat, Jan 22, 1949||Washington Capitols|64|95|12|24|L 9|False|False|0|194901220WSC
+37|37|Tue, Jan 25, 1949||Providence Steamrollers|54|69|12|25|L 10|False|True|0|194901250BOS
+38|38|Fri, Jan 28, 1949||Washington Capitols|91|90|13|25|W 1|True|True|0|194901280BOS
+39|39|Sat, Jan 29, 1949||Providence Steamrollers|85|91|13|26|L 1|False|False|1|194901290PRO
+40|40|Tue, Feb 1, 1949||Rochester Royals|68|76|13|27|L 2|False|True|0|194902010BOS
+41|41|Thu, Feb 3, 1949||Baltimore Bullets|76|84|13|28|L 3|False|False|0|194902030BLB
+42|42|Fri, Feb 4, 1949||Indianapolis Jets|75|64|14|28|W 1|True|True|0|194902040BOS
+43|43|Mon, Feb 7, 1949||Baltimore Bullets|95|83|15|28|W 2|True|True|0|194902070BOS
+44|44|Fri, Feb 11, 1949||Providence Steamrollers|94|77|16|28|W 3|True|True|0|194902110BOS
+45|45|Fri, Feb 18, 1949||Minneapolis Lakers|71|85|16|29|L 1|False|True|0|194902180BOS
+46|46|Sat, Feb 19, 1949||New York Knicks|87|77|17|29|W 1|True|False|0|194902190NYK
+47|47|Tue, Feb 22, 1949||Indianapolis Jets|68|74|17|30|L 1|False|False|0|194902220INJ
+48|48|Wed, Feb 23, 1949||St. Louis Bombers|83|77|18|30|W 1|True|False|0|194902230STB
+49|49|Fri, Feb 25, 1949||St. Louis Bombers|102|83|19|30|W 2|True|True|0|194902250BOS
+50|50|Sat, Feb 26, 1949||Rochester Royals|59|64|19|31|L 1|False|False|0|194902260ROC
+51|51|Fri, Mar 4, 1949||Fort Wayne Pistons|76|70|20|31|W 1|True|True|0|194903040BOS
+52|52|Sat, Mar 5, 1949||New York Knicks|61|66|20|32|L 1|False|False|0|194903050NYK
+53|53|Mon, Mar 7, 1949||Indianapolis Jets|107|86|21|32|W 1|True|False|0|194903070INJ
+54|54|Tue, Mar 8, 1949||Fort Wayne Pistons|63|60|22|32|W 2|True|True|0|194903080BOS
+55|55|Wed, Mar 9, 1949||Minneapolis Lakers|67|74|22|33|L 1|False|False|0|194903090MNL
+56|56|Fri, Mar 11, 1949||Philadelphia Warriors|108|100|23|33|W 1|True|True|0|194903110BOS
+57|57|Sat, Mar 12, 1949||Baltimore Bullets|77|89|23|34|L 1|False|False|0|194903120BLB
+58|58|Tue, Mar 15, 1949||Rochester Royals|86|83|24|34|W 1|True|True|0|194903150BOS
+59|59|Wed, Mar 16, 1949||Chicago Stags|82|107|24|35|L 1|False|True|0|194903160BOS
+60|60|Fri, Mar 18, 1949||New York Knicks|70|56|25|35|W 1|True|True|0|194903180BOS

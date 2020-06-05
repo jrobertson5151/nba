@@ -1,0 +1,9 @@
+,,,,,,,,,,,,,,,,,,,,,2-Pt Field Goals,2-Pt Field Goals,2-Pt Field Goals,3-Pt Field Goals,3-Pt Field Goals,3-Pt Field Goals,3-Pt Field Goals,3-Pt Field Goals
+,,,,,,,,,% of FGA by Distance,% of FGA by Distance,% of FGA by Distance,% of FGA by Distance,% of FGA by Distance,% of FGA by Distance,FG% by Distance,FG% by Distance,FG% by Distance,FG% by Distance,FG% by Distance,FG% by Distance,,Dunks,Dunks,,Corner,Corner,Heaves,Heaves
+Season,Age,Tm,Lg,Pos,G,MP,FG%,Dist.,2P,0-3,3-10,10-16,16-3pt,3P,2P,0-3,3-10,10-16,16-3pt,3P,%Ast'd,%FGA,Md.,%Ast'd,%3PA,3P%,Att.,Md.
+2000-01,35,IND,NBA,SG,4,177,.456,18.0,.611,.100,.089,.144,.278,.389,.473,.889,.500,.231,.440,.429,.654,.000,0,.867,.200,.429,0,0
+2001-02,36,IND,NBA,SG,5,198,.506,17.3,.627,.145,.072,.193,.217,.373,.558,.917,.500,.563,.333,.419,.724,.048,4,.846,.097,.000,0,0
+2002-03,37,IND,NBA,SG,6,176,.283,20.2,.528,.057,.038,.094,.340,.472,.393,1.000,.000,.600,.278,.160,.909,.000,0,1.000,.280,.143,0,0
+2003-04,38,IND,NBA,SG,16,455,.402,20.2,.429,.071,.018,.134,.205,.571,.438,.500,.000,.467,.435,.375,.810,.009,1,1.000,.266,.471,0,0
+2004-05,39,IND,NBA,SG,13,430,.434,19.8,.538,.070,.021,.119,.329,.462,.532,.600,.333,.529,.532,.318,.780,.000,0,.952,.242,.375,0,0
+Career,,,NBA,,44,1436,.426,19.2,.541,.087,.044,.137,.272,.459,.492,.762,.381,.470,.435,.348,.758,.010,5,.935,.226,.360,0,0

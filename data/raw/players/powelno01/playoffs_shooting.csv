@@ -1,0 +1,8 @@
+,,,,,,,,,,,,,,,,,,,,,2-Pt Field Goals,2-Pt Field Goals,2-Pt Field Goals,3-Pt Field Goals,3-Pt Field Goals,3-Pt Field Goals,3-Pt Field Goals,3-Pt Field Goals
+,,,,,,,,,% of FGA by Distance,% of FGA by Distance,% of FGA by Distance,% of FGA by Distance,% of FGA by Distance,% of FGA by Distance,FG% by Distance,FG% by Distance,FG% by Distance,FG% by Distance,FG% by Distance,FG% by Distance,,Dunks,Dunks,,Corner,Corner,Heaves,Heaves
+Season,Age,Tm,Lg,Pos,G,MP,FG%,Dist.,2P,0-3,3-10,10-16,16-3pt,3P,2P,0-3,3-10,10-16,16-3pt,3P,%Ast'd,%FGA,Md.,%Ast'd,%3PA,3P%,Att.,Md.
+2015-16,22,TOR,NBA,SG,18,206,.386,13.7,.629,.314,.129,.043,.143,.371,.455,.455,.556,.667,.300,.269,.300,.043,3,1.000,.423,.364,0,0
+2016-17,23,TOR,NBA,SG,9,227,.427,12.3,.585,.415,.110,.012,.049,.415,.417,.471,.333,.000,.250,.441,.650,.085,5,.933,.500,.529,0,0
+2017-18,24,TOR,NBA,SG,6,40,.286,12.9,.500,.500,.000,.000,.000,.500,.429,.429,,,,.143,.667,.000,0,1.000,.429,.333,0,0
+2018-19,25,TOR,NBA,SG,23,366,.444,15.8,.508,.310,.079,.016,.103,.492,.500,.667,.200,.500,.231,.387,.688,.071,9,.833,.355,.455,1,0
+Career,,,NBA,,56,839,.418,14.2,.558,.349,.096,.021,.092,.442,.460,.539,.357,.500,.259,.364,.573,.065,17,.894,.411,.453,1,0

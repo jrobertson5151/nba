@@ -1,0 +1,73 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Oct 25, 1957||Philadelphia Warriors|103|85|1|0|W 1|True|True|0|195710250SYR
+2|2|Sat, Oct 26, 1957||Cincinnati Royals|100|110|1|1|L 1|False|False|0|195710260CIN
+3|3|Fri, Nov 1, 1957||Minneapolis Lakers|113|100|2|1|W 1|True|True|0|195711010SYR
+4|4|Sat, Nov 2, 1957||Boston Celtics|83|107|2|2|L 1|False|False|0|195711020BOS
+5|5|Sun, Nov 3, 1957||Boston Celtics|95|113|2|3|L 2|False|True|0|195711030BOS
+6|6|Tue, Nov 5, 1957||St. Louis Hawks|101|115|2|4|L 3|False|False|0|195711050STL
+7|7|Fri, Nov 8, 1957||New York Knicks|99|104|2|5|L 4|False|True|0|195711080SYR
+8|8|Thu, Nov 14, 1957||Philadelphia Warriors|97|94|3|5|W 1|True|False|0|195711140PHW
+9|9|Fri, Nov 15, 1957||St. Louis Hawks|91|86|4|5|W 2|True|True|0|195711150SYR
+10|10|Sat, Nov 16, 1957||St. Louis Hawks|101|118|4|6|L 1|False|False|0|195711160STL
+11|11|Sun, Nov 17, 1957||Minneapolis Lakers|110|98|5|6|W 1|True|False|0|195711170MNL
+12|12|Fri, Nov 22, 1957||Cincinnati Royals|98|102|5|7|L 1|False|True|0|195711220SYR
+13|13|Sat, Nov 23, 1957||New York Knicks|119|115|6|7|W 1|True|False|0|195711230NYK
+14|14|Wed, Nov 27, 1957||Philadelphia Warriors|92|87|7|7|W 2|True|True|0|195711270SYR
+15|15|Thu, Nov 28, 1957||Philadelphia Warriors|98|102|7|8|L 1|False|False|0|195711280PHW
+16|16|Sat, Nov 30, 1957||Boston Celtics|112|118|7|9|L 2|False|False|0|195711300BOS
+17|17|Sun, Dec 1, 1957||Boston Celtics|118|109|8|9|W 1|True|True|0|195712010SYR
+18|18|Tue, Dec 3, 1957||Philadelphia Warriors|119|96|9|9|W 2|True|True|0|195712030PHW
+19|19|Fri, Dec 6, 1957||Detroit Pistons|118|91|10|9|W 3|True|True|0|195712060SYR
+20|20|Sat, Dec 7, 1957||Minneapolis Lakers|113|121|10|10|L 1|False|False|0|195712070MNL
+21|21|Tue, Dec 10, 1957||Minneapolis Lakers|114|104|11|10|W 1|True|True|0|195712100MNL
+22|22|Wed, Dec 11, 1957||Minneapolis Lakers|95|110|11|11|L 1|False|False|0|195712110MNL
+23|23|Sat, Dec 14, 1957||Cincinnati Royals|104|100|12|11|W 1|True|True|0|195712140CIN
+24|24|Sun, Dec 15, 1957||Cincinnati Royals|109|83|13|11|W 2|True|True|0|195712150SYR
+25|25|Tue, Dec 17, 1957||New York Knicks|117|123|13|12|L 1|False|False|0|195712170NYK
+26|26|Fri, Dec 20, 1957||Cincinnati Royals|122|113|14|12|W 1|True|False|0|195712200CIN
+27|27|Sat, Dec 21, 1957||St. Louis Hawks|136|146|14|13|L 1|False|True|0|195712210STL
+28|28|Sun, Dec 22, 1957||Detroit Pistons|119|93|15|13|W 1|True|True|0|195712220SYR
+29|29|Wed, Dec 25, 1957||New York Knicks|134|130|16|13|W 2|True|True|1|195712250SYR
+30|30|Thu, Dec 26, 1957||Cincinnati Royals|104|100|17|13|W 3|True|True|0|195712260CIN
+31|31|Sat, Dec 28, 1957||Detroit Pistons|111|117|17|14|L 1|False|False|0|195712280DET
+32|32|Sun, Dec 29, 1957||Philadelphia Warriors|105|97|18|14|W 1|True|True|0|195712290SYR
+33|33|Wed, Jan 1, 1958||Minneapolis Lakers|120|109|19|14|W 2|True|True|0|195801010SYR
+34|34|Thu, Jan 2, 1958||New York Knicks|98|131|19|15|L 1|False|True|0|195801020NYK
+35|35|Sat, Jan 4, 1958||Boston Celtics|115|106|20|15|W 1|True|True|0|195801040SYR
+36|36|Sun, Jan 5, 1958||Philadelphia Warriors|111|96|21|15|W 2|True|False|0|195801050PHW
+37|37|Wed, Jan 8, 1958||Detroit Pistons|107|109|21|16|L 1|False|False|0|195801080DET
+38|38|Thu, Jan 9, 1958||Minneapolis Lakers|127|122|22|16|W 1|True|True|0|195801090SYR
+39|39|Sat, Jan 11, 1958||Cincinnati Royals|100|105|22|17|L 1|False|False|0|195801110CIN
+40|40|Sun, Jan 12, 1958||Detroit Pistons|135|109|23|17|W 1|True|True|0|195801120SYR
+41|41|Thu, Jan 16, 1958||St. Louis Hawks|112|96|24|17|W 2|True|True|0|195801160SYR
+42|42|Fri, Jan 17, 1958||Boston Celtics|99|120|24|18|L 1|False|False|0|195801170BOS
+43|43|Sat, Jan 18, 1958||New York Knicks|120|123|24|19|L 2|False|False|0|195801180NYK
+44|44|Sun, Jan 19, 1958||New York Knicks|112|108|25|19|W 1|True|True|0|195801190SYR
+45|45|Wed, Jan 22, 1958||Cincinnati Royals|109|115|25|20|L 1|False|True|0|195801220SYR
+46|46|Thu, Jan 23, 1958||Philadelphia Warriors|101|88|26|20|W 1|True|False|0|195801230PHW
+47|47|Sat, Jan 25, 1958||Boston Celtics|112|100|27|20|W 2|True|True|0|195801250SYR
+48|48|Sun, Jan 26, 1958||Boston Celtics|95|118|27|21|L 1|False|False|0|195801260BOS
+49|49|Tue, Jan 28, 1958||New York Knicks|110|102|28|21|W 1|True|False|0|195801280NYK
+50|50|Thu, Jan 30, 1958||Detroit Pistons|83|87|28|22|L 1|False|True|0|195801300DET
+51|51|Sat, Feb 1, 1958||Minneapolis Lakers|97|91|29|22|W 1|True|False|0|195802010MNL
+52|52|Sun, Feb 2, 1958||St. Louis Hawks|102|100|30|22|W 2|True|False|0|195802020STL
+53|53|Tue, Feb 4, 1958||Detroit Pistons|113|118|30|23|L 1|False|False|0|195802040DET
+54|54|Fri, Feb 7, 1958||New York Knicks|105|102|31|23|W 1|True|True|0|195802070NYK
+55|55|Sat, Feb 8, 1958||St. Louis Hawks|102|103|31|24|L 1|False|True|0|195802080SYR
+56|56|Sun, Feb 9, 1958||Boston Celtics|123|98|32|24|W 1|True|True|0|195802090SYR
+57|57|Tue, Feb 11, 1958||Boston Celtics|84|76|33|24|W 2|True|True|0|195802110BOS
+58|58|Wed, Feb 12, 1958||Boston Celtics|101|119|33|25|L 1|False|False|0|195802120BOS
+59|59|Thu, Feb 13, 1958||Philadelphia Warriors|108|98|34|25|W 1|True|True|0|195802130SYR
+60|60|Sun, Feb 16, 1958||Cincinnati Royals|113|105|35|25|W 2|True|True|0|195802160SYR
+61|61|Tue, Feb 18, 1958||Detroit Pistons|98|120|35|26|L 1|False|False|0|195802180DET
+62|62|Wed, Feb 19, 1958||New York Knicks|116|110|36|26|W 1|True|True|0|195802190SYR
+63|63|Thu, Feb 20, 1958||Philadelphia Warriors|97|110|36|27|L 1|False|True|0|195802200PHW
+64|64|Sat, Feb 22, 1958||New York Knicks|112|115|36|28|L 2|False|False|0|195802220NYK
+65|65|Sun, Feb 23, 1958||St. Louis Hawks|101|92|37|28|W 1|True|True|0|195802230SYR
+66|66|Wed, Feb 26, 1958||Minneapolis Lakers|119|90|38|28|W 2|True|True|0|195802260SYR
+67|67|Thu, Feb 27, 1958||Philadelphia Warriors|91|97|38|29|L 1|False|False|0|195802270PHW
+68|68|Sun, Mar 2, 1958||Boston Celtics|100|107|38|30|L 2|False|True|0|195803020SYR
+69|69|Wed, Mar 5, 1958||New York Knicks|102|91|39|30|W 1|True|True|0|195803050SYR
+70|70|Fri, Mar 7, 1958||St. Louis Hawks|100|102|39|31|L 1|False|False|0|195803070STL
+71|71|Sun, Mar 9, 1958||Detroit Pistons|111|90|40|31|W 1|True|True|0|195803090SYR
+72|72|Wed, Mar 12, 1958||Philadelphia Warriors|110|99|41|31|W 2|True|True|0|195803120SYR

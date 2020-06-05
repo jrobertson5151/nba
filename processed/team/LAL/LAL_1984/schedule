@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Sat, Oct 27, 1984||San Antonio Spurs|112|113|0|1|L 1|False|False|0|198410270SAS
+2|2|Sun, Oct 28, 1984||Dallas Mavericks|96|107|0|2|L 2|False|False|0|198410280DAL
+3|3|Tue, Oct 30, 1984||Golden State Warriors|144|110|1|2|W 1|True|True|0|198410300LAL
+4|4|Thu, Nov 1, 1984||Seattle SuperSonics|103|105|1|3|L 1|False|False|0|198411010SEA
+5|5|Fri, Nov 2, 1984||San Antonio Spurs|119|100|2|3|W 1|True|True|0|198411020LAL
+6|6|Sun, Nov 4, 1984||Portland Trail Blazers|124|116|3|3|W 2|True|True|0|198411040LAL
+7|7|Tue, Nov 6, 1984||Denver Nuggets|130|146|3|4|L 1|False|True|0|198411060LAL
+8|8|Thu, Nov 8, 1984||Golden State Warriors|106|122|3|5|L 2|False|False|0|198411080GSW
+9|9|Fri, Nov 9, 1984||Portland Trail Blazers|130|126|4|5|W 1|True|False|0|198411090POR
+10|10|Sun, Nov 11, 1984||New Jersey Nets|121|111|5|5|W 2|True|True|0|198411110LAL
+11|11|Fri, Nov 16, 1984||Kansas City Kings|128|116|6|5|W 3|True|True|0|198411160LAL
+12|12|Sun, Nov 18, 1984||Milwaukee Bucks|96|89|7|5|W 4|True|True|0|198411180LAL
+13|13|Tue, Nov 20, 1984||Phoenix Suns|130|108|8|5|W 5|True|True|0|198411200LAL
+14|14|Wed, Nov 21, 1984||Phoenix Suns|102|97|9|5|W 6|True|False|0|198411210PHO
+15|15|Sat, Nov 24, 1984||Los Angeles Clippers|108|103|10|5|W 7|True|False|0|198411240LAC
+16|16|Sun, Nov 25, 1984||Seattle SuperSonics|94|105|10|6|L 1|False|True|0|198411250LAL
+17|17|Wed, Nov 28, 1984||Utah Jazz|114|109|11|6|W 1|True|False|0|198411280UTA
+18|18|Fri, Nov 30, 1984||Kansas City Kings|130|121|12|6|W 2|True|True|0|198411300LAL
+19|19|Sun, Dec 2, 1984||Chicago Bulls|112|113|12|7|L 1|False|True|0|198412020LAL
+20|20|Tue, Dec 4, 1984||Cleveland Cavaliers|116|112|13|7|W 1|True|False|0|198412040CLE
+21|21|Wed, Dec 5, 1984||New Jersey Nets|104|93|14|7|W 2|True|False|0|198412050NJN
+22|22|Fri, Dec 7, 1984||Philadelphia 76ers|116|122|14|8|L 1|False|False|0|198412070PHI
+23|23|Sat, Dec 8, 1984||Washington Bullets|98|101|14|9|L 2|False|False|0|198412080WSB
+24|24|Wed, Dec 12, 1984||Golden State Warriors|131|107|15|9|W 1|True|True|0|198412120LAL
+25|25|Thu, Dec 13, 1984||Seattle SuperSonics|122|124|15|10|L 1|False|False|1|198412130SEA
+26|26|Sun, Dec 16, 1984||Washington Bullets|109|101|16|10|W 1|True|True|0|198412160LAL
+27|27|Tue, Dec 18, 1984||Atlanta Hawks|117|116|17|10|W 2|True|False|0|198412180ATL
+28|28|Wed, Dec 19, 1984||Houston Rockets|123|116|18|10|W 3|True|False|0|198412190HOU
+29|29|Fri, Dec 21, 1984||Phoenix Suns|119|105|19|10|W 4|True|True|0|198412210LAL
+30|30|Wed, Dec 26, 1984||Seattle SuperSonics|101|97|20|10|W 5|True|True|0|198412260LAL
+31|31|Fri, Dec 28, 1984||Denver Nuggets|135|123|21|10|W 6|True|False|0|198412280DEN
+32|32|Sat, Dec 29, 1984||Los Angeles Clippers|113|107|22|10|W 7|True|True|0|198412290LAL
+33|33|Fri, Jan 4, 1985||Portland Trail Blazers|120|95|23|10|W 8|True|True|0|198501040LAL
+34|34|Sun, Jan 6, 1985||San Antonio Spurs|99|98|24|10|W 9|True|True|0|198501060LAL
+35|35|Tue, Jan 8, 1985||Denver Nuggets|124|126|24|11|L 1|False|True|0|198501080LAL
+36|36|Thu, Jan 10, 1985||Utah Jazz|120|112|25|11|W 1|True|True|0|198501100LAL
+37|37|Fri, Jan 11, 1985||Dallas Mavericks|121|102|26|11|W 2|True|False|0|198501110DAL
+38|38|Sun, Jan 13, 1985||Detroit Pistons|98|121|26|12|L 1|False|False|0|198501130DET
+39|39|Tue, Jan 15, 1985||Milwaukee Bucks|105|115|26|13|L 2|False|False|0|198501150MIL
+40|40|Wed, Jan 16, 1985||Boston Celtics|102|104|26|14|L 3|False|False|0|198501160BOS
+41|41|Fri, Jan 18, 1985||Dallas Mavericks|110|92|27|14|W 1|True|True|0|198501180LAL
+42|42|Sat, Jan 19, 1985||Golden State Warriors|139|109|28|14|W 2|True|False|0|198501190GSW
+43|43|Tue, Jan 22, 1985||Los Angeles Clippers|123|114|29|14|W 3|True|True|0|198501220LAL
+44|44|Fri, Jan 25, 1985||Philadelphia 76ers|109|104|30|14|W 4|True|True|0|198501250LAL
+45|45|Sat, Jan 26, 1985||Utah Jazz|83|96|30|15|L 1|False|False|0|198501260UTA
+46|46|Tue, Jan 29, 1985||Portland Trail Blazers|122|106|31|15|W 1|True|False|0|198501290POR
+47|47|Wed, Jan 30, 1985||Houston Rockets|113|116|31|16|L 1|False|True|0|198501300LAL
+48|48|Fri, Feb 1, 1985||New York Knicks|105|104|32|16|W 1|True|True|0|198502010LAL
+49|49|Sat, Feb 2, 1985||Los Angeles Clippers|105|96|33|16|W 2|True|False|0|198502020LAC
+50|50|Sun, Feb 3, 1985||Indiana Pacers|122|100|34|16|W 3|True|True|0|198502030LAL
+51|51|Tue, Feb 5, 1985||Houston Rockets|113|104|35|16|W 4|True|False|0|198502050HOU
+52|52|Tue, Feb 12, 1985||Los Angeles Clippers|121|110|36|16|W 5|True|True|0|198502120LAL
+53|53|Fri, Feb 15, 1985||Atlanta Hawks|120|111|37|16|W 6|True|True|0|198502150LAL
+54|54|Sun, Feb 17, 1985||Boston Celtics|117|111|38|16|W 7|True|True|0|198502170LAL
+55|55|Tue, Feb 19, 1985||Chicago Bulls|127|117|39|16|W 8|True|False|0|198502190CHI
+56|56|Thu, Feb 21, 1985||Kansas City Kings|123|117|40|16|W 9|True|False|0|198502210KCK
+57|57|Fri, Feb 22, 1985||Indiana Pacers|113|122|40|17|L 1|False|False|0|198502220IND
+58|58|Sun, Feb 24, 1985||New York Knicks|119|114|41|17|W 1|True|False|0|198502240NYK
+59|59|Tue, Feb 26, 1985||Houston Rockets|100|94|42|17|W 2|True|True|0|198502260LAL
+60|60|Thu, Feb 28, 1985||Phoenix Suns|105|117|42|18|L 1|False|False|0|198502280PHO
+61|61|Sat, Mar 2, 1985||Dallas Mavericks|125|106|43|18|W 1|True|False|0|198503020DAL
+62|62|Wed, Mar 6, 1985||Golden State Warriors|145|119|44|18|W 2|True|True|0|198503060LAL
+63|63|Sat, Mar 9, 1985||Cleveland Cavaliers|133|106|45|18|W 3|True|True|0|198503090LAL
+64|64|Tue, Mar 12, 1985||Utah Jazz|123|108|46|18|W 4|True|True|0|198503120LAL
+65|65|Wed, Mar 13, 1985||Utah Jazz|120|105|47|18|W 5|True|False|0|198503130UTA
+66|66|Fri, Mar 15, 1985||San Antonio Spurs|115|114|48|18|W 6|True|True|0|198503150LAL
+67|67|Sat, Mar 16, 1985||Los Angeles Clippers|123|112|49|18|W 7|True|False|0|198503160LAC
+68|68|Tue, Mar 19, 1985||Phoenix Suns|130|112|50|18|W 8|True|False|0|198503190PHO
+69|69|Fri, Mar 22, 1985||Houston Rockets|130|107|51|18|W 9|True|False|0|198503220HOU
+70|70|Sun, Mar 24, 1985||Detroit Pistons|148|130|52|18|W 10|True|True|0|198503240LAL
+71|71|Tue, Mar 26, 1985||Portland Trail Blazers|113|116|52|19|L 1|False|False|1|198503260POR
+72|72|Wed, Mar 27, 1985||Seattle SuperSonics|122|97|53|19|W 1|True|False|0|198503270SEA
+73|73|Fri, Mar 29, 1985||Dallas Mavericks|120|115|54|19|W 2|True|True|0|198503290LAL
+74|74|Sun, Mar 31, 1985||Phoenix Suns|123|98|55|19|W 3|True|True|0|198503310LAL
+75|75|Tue, Apr 2, 1985||Denver Nuggets|118|104|56|19|W 4|True|False|0|198504020DEN
+76|76|Wed, Apr 3, 1985||San Antonio Spurs|108|122|56|20|L 1|False|False|0|198504030SAS
+77|77|Fri, Apr 5, 1985||Kansas City Kings|132|125|57|20|W 1|True|True|0|198504050LAL
+78|78|Sun, Apr 7, 1985||Portland Trail Blazers|135|133|58|20|W 2|True|True|1|198504070LAL
+79|79|Tue, Apr 9, 1985||Denver Nuggets|148|119|59|20|W 3|True|True|0|198504090LAL
+80|80|Thu, Apr 11, 1985||Golden State Warriors|137|130|60|20|W 4|True|False|0|198504110GSW
+81|81|Fri, Apr 12, 1985||Seattle SuperSonics|145|131|61|20|W 5|True|True|0|198504120LAL
+82|82|Sun, Apr 14, 1985||Kansas City Kings|122|116|62|20|W 6|True|False|0|198504140KCK

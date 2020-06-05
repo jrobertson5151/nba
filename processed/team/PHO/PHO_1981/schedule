@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Oct 30, 1981||Portland Trail Blazers|95|103|0|1|L 1|False|False|0|198110300POR
+2|2|Sat, Oct 31, 1981||Seattle SuperSonics|84|94|0|2|L 2|False|False|0|198110310SEA
+3|3|Tue, Nov 3, 1981||San Antonio Spurs|111|88|1|2|W 1|True|True|0|198111030PHO
+4|4|Thu, Nov 5, 1981||Dallas Mavericks|121|93|2|2|W 2|True|True|0|198111050PHO
+5|5|Fri, Nov 6, 1981||Los Angeles Lakers|101|99|3|2|W 3|True|False|0|198111060LAL
+6|6|Sat, Nov 7, 1981||Utah Jazz|87|95|3|3|L 1|False|False|0|198111070UTA
+7|7|Tue, Nov 10, 1981||Denver Nuggets|109|106|4|3|W 1|True|False|0|198111100DEN
+8|8|Thu, Nov 12, 1981||Indiana Pacers|95|93|5|3|W 2|True|True|0|198111120PHO
+9|9|Sat, Nov 14, 1981||Los Angeles Lakers|97|98|5|4|L 1|False|True|0|198111140PHO
+10|10|Wed, Nov 18, 1981||Atlanta Hawks|97|102|5|5|L 2|False|False|0|198111180ATL
+11|11|Sat, Nov 21, 1981||Dallas Mavericks|110|88|6|5|W 1|True|False|0|198111210DAL
+12|12|Wed, Nov 25, 1981||Houston Rockets|128|114|7|5|W 2|True|True|0|198111250PHO
+13|13|Fri, Nov 27, 1981||Chicago Bulls|111|107|8|5|W 3|True|True|0|198111270PHO
+14|14|Tue, Dec 1, 1981||San Diego Clippers|117|94|9|5|W 4|True|True|0|198112010PHO
+15|15|Thu, Dec 3, 1981||Denver Nuggets|137|109|10|5|W 5|True|True|0|198112030PHO
+16|16|Sat, Dec 5, 1981||Utah Jazz|101|99|11|5|W 6|True|True|0|198112050PHO
+17|17|Tue, Dec 8, 1981||San Diego Clippers|110|121|11|6|L 1|False|False|0|198112080SDC
+18|18|Wed, Dec 9, 1981||Golden State Warriors|127|134|11|7|L 2|False|False|2|198112090GSW
+19|19|Thu, Dec 10, 1981||Portland Trail Blazers|117|110|12|7|W 1|True|True|0|198112100PHO
+20|20|Sat, Dec 12, 1981||Washington Bullets|98|105|12|8|L 1|False|True|0|198112120PHO
+21|21|Tue, Dec 15, 1981||Houston Rockets|95|99|12|9|L 2|False|False|0|198112150HOU
+22|22|Wed, Dec 16, 1981||Kansas City Kings|81|97|12|10|L 3|False|False|0|198112160KCK
+23|23|Fri, Dec 18, 1981||San Antonio Spurs|108|104|13|10|W 1|True|False|0|198112180SAS
+24|24|Sat, Dec 19, 1981||Kansas City Kings|95|87|14|10|W 2|True|True|0|198112190PHO
+25|25|Wed, Dec 23, 1981||Golden State Warriors|118|103|15|10|W 3|True|True|0|198112230PHO
+26|26|Fri, Dec 25, 1981||Los Angeles Lakers|101|104|15|11|L 1|False|True|0|198112250PHO
+27|27|Sat, Dec 26, 1981||Golden State Warriors|96|112|15|12|L 2|False|False|0|198112260GSW
+28|28|Sun, Dec 27, 1981||Philadelphia 76ers|99|96|16|12|W 1|True|True|0|198112270PHO
+29|29|Wed, Dec 30, 1981||Portland Trail Blazers|113|112|17|12|W 2|True|True|0|198112300PHO
+30|30|Sat, Jan 2, 1982||Seattle SuperSonics|120|97|18|12|W 3|True|True|0|198201020PHO
+31|31|Tue, Jan 5, 1982||Indiana Pacers|82|87|18|13|L 1|False|False|0|198201050IND
+32|32|Thu, Jan 7, 1982||Detroit Pistons|110|94|19|13|W 1|True|False|0|198201070DET
+33|33|Sat, Jan 9, 1982||Dallas Mavericks|101|105|19|14|L 1|False|False|0|198201090DAL
+34|34|Tue, Jan 12, 1982||Golden State Warriors|133|121|20|14|W 1|True|True|0|198201120PHO
+35|35|Thu, Jan 14, 1982||New York Knicks|90|89|21|14|W 2|True|True|0|198201140PHO
+36|36|Sat, Jan 16, 1982||San Diego Clippers|106|87|22|14|W 3|True|True|0|198201160PHO
+37|37|Tue, Jan 19, 1982||San Antonio Spurs|108|96|23|14|W 4|True|True|0|198201190PHO
+38|38|Fri, Jan 22, 1982||New Jersey Nets|97|99|23|15|L 1|False|True|0|198201220PHO
+39|39|Sat, Jan 23, 1982||Detroit Pistons|113|90|24|15|W 1|True|True|0|198201230PHO
+40|40|Wed, Jan 27, 1982||San Diego Clippers|92|99|24|16|L 1|False|False|0|198201270SDC
+41|41|Thu, Jan 28, 1982||Los Angeles Lakers|87|97|24|17|L 2|False|False|0|198201280LAL
+42|42|Wed, Feb 3, 1982||Golden State Warriors|88|90|24|18|L 3|False|True|0|198202030PHO
+43|43|Thu, Feb 4, 1982||San Antonio Spurs|112|118|24|19|L 4|False|False|0|198202040SAS
+44|44|Fri, Feb 5, 1982||Houston Rockets|104|106|24|20|L 5|False|False|0|198202050HOU
+45|45|Sun, Feb 7, 1982||Milwaukee Bucks|92|107|24|21|L 6|False|False|0|198202070MIL
+46|46|Wed, Feb 10, 1982||Boston Celtics|112|110|25|21|W 1|True|True|0|198202100PHO
+47|47|Fri, Feb 12, 1982||Atlanta Hawks|94|90|26|21|W 2|True|True|0|198202120PHO
+48|48|Sat, Feb 13, 1982||Utah Jazz|115|120|26|22|L 1|False|False|0|198202130UTA
+49|49|Tue, Feb 16, 1982||Chicago Bulls|91|86|27|22|W 1|True|False|0|198202160CHI
+50|50|Wed, Feb 17, 1982||Kansas City Kings|107|110|27|23|L 1|False|False|0|198202170KCK
+51|51|Fri, Feb 19, 1982||New York Knicks|104|90|28|23|W 1|True|False|0|198202190NYK
+52|52|Sun, Feb 21, 1982||Philadelphia 76ers|102|109|28|24|L 1|False|False|0|198202210PHI
+53|53|Wed, Feb 24, 1982||Cleveland Cavaliers|131|97|29|24|W 1|True|True|0|198202240PHO
+54|54|Fri, Feb 26, 1982||Denver Nuggets|131|122|30|24|W 2|True|True|0|198202260PHO
+55|55|Sun, Feb 28, 1982||Seattle SuperSonics|103|98|31|24|W 3|True|False|0|198202280SEA
+56|56|Tue, Mar 2, 1982||Portland Trail Blazers|108|119|31|25|L 1|False|False|1|198203020POR
+57|57|Wed, Mar 3, 1982||Utah Jazz|115|102|32|25|W 1|True|True|0|198203030PHO
+58|58|Fri, Mar 5, 1982||Kansas City Kings|110|98|33|25|W 2|True|True|0|198203050PHO
+59|59|Sun, Mar 7, 1982||Houston Rockets|92|94|33|26|L 1|False|True|0|198203070PHO
+60|60|Tue, Mar 9, 1982||Washington Bullets|103|95|34|26|W 1|True|False|0|198203090WSB
+61|61|Wed, Mar 10, 1982||New Jersey Nets|105|113|34|27|L 1|False|False|0|198203100NJN
+62|62|Thu, Mar 11, 1982||Cleveland Cavaliers|101|95|35|27|W 1|True|False|0|198203110CLE
+63|63|Sun, Mar 14, 1982||Boston Celtics|92|105|35|28|L 1|False|False|0|198203140BOS
+64|64|Tue, Mar 16, 1982||Houston Rockets|114|109|36|28|W 1|True|False|0|198203160HOU
+65|65|Wed, Mar 17, 1982||Denver Nuggets|133|135|36|29|L 1|False|True|1|198203170PHO
+66|66|Sun, Mar 21, 1982||Seattle SuperSonics|105|115|36|30|L 2|False|True|0|198203210PHO
+67|67|Tue, Mar 23, 1982||Golden State Warriors|91|95|36|31|L 3|False|False|0|198203230GSW
+68|68|Wed, Mar 24, 1982||Dallas Mavericks|104|96|37|31|W 1|True|True|0|198203240PHO
+69|69|Fri, Mar 26, 1982||Milwaukee Bucks|113|112|38|31|W 2|True|True|0|198203260PHO
+70|70|Sat, Mar 27, 1982||Denver Nuggets|134|140|38|32|L 1|False|False|2|198203270DEN
+71|71|Mon, Mar 29, 1982||Utah Jazz|113|102|39|32|W 1|True|False|0|198203290UTA
+72|72|Wed, Mar 31, 1982||San Diego Clippers|127|106|40|32|W 2|True|True|0|198203310PHO
+73|73|Fri, Apr 2, 1982||Los Angeles Lakers|109|99|41|32|W 3|True|False|0|198204020LAL
+74|74|Sun, Apr 4, 1982||Kansas City Kings|104|95|42|32|W 4|True|True|0|198204040PHO
+75|75|Tue, Apr 6, 1982||Seattle SuperSonics|91|102|42|33|L 1|False|False|0|198204060SEA
+76|76|Thu, Apr 8, 1982||Portland Trail Blazers|104|106|42|34|L 2|False|True|0|198204080PHO
+77|77|Fri, Apr 9, 1982||Dallas Mavericks|100|105|42|35|L 3|False|False|0|198204090DAL
+78|78|Sat, Apr 10, 1982||Seattle SuperSonics|116|99|43|35|W 1|True|True|0|198204100PHO
+79|79|Tue, Apr 13, 1982||San Diego Clippers|105|94|44|35|W 2|True|False|0|198204130SDC
+80|80|Wed, Apr 14, 1982||San Antonio Spurs|104|92|45|35|W 3|True|True|0|198204140PHO
+81|81|Fri, Apr 16, 1982||Portland Trail Blazers|113|99|46|35|W 4|True|False|0|198204160POR
+82|82|Sun, Apr 18, 1982||Los Angeles Lakers|115|120|46|36|L 1|False|True|0|198204180PHO

@@ -1,0 +1,81 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Wed, Oct 16, 1963||Detroit Pistons|117|115|1|0|W 1|True|False|0|196310160DET
+2|2|Sat, Oct 19, 1963||Detroit Pistons|121|124|1|1|L 1|False|True|0|196310190PHI
+3|3|Fri, Oct 25, 1963||New York Knicks|112|136|1|2|L 2|False|True|0|196310250PHI
+4|4|Sat, Oct 26, 1963||New York Knicks|101|109|1|3|L 3|False|False|0|196310260NYK
+5|5|Wed, Oct 30, 1963||Baltimore Bullets|111|108|2|3|W 1|True|False|0|196310300BAL
+6|6|Fri, Nov 1, 1963||Boston Celtics|102|119|2|4|L 1|False|True|0|196311010PHI
+7|7|Sat, Nov 2, 1963||St. Louis Hawks|99|128|2|5|L 2|False|False|0|196311020STL
+8|8|Sun, Nov 3, 1963||Cincinnati Royals|93|95|2|6|L 3|False|True|0|196311030CIN
+9|9|Wed, Nov 6, 1963||Detroit Pistons|101|119|2|7|L 4|False|False|0|196311060DET
+10|10|Fri, Nov 8, 1963||St. Louis Hawks|108|106|3|7|W 1|True|True|0|196311080PHI
+11|11|Sat, Nov 9, 1963||Baltimore Bullets|100|116|3|8|L 1|False|False|0|196311090BAL
+12|12|Tue, Nov 12, 1963||San Francisco Warriors|106|102|4|8|W 1|True|True|1|196311120PHI
+13|13|Fri, Nov 15, 1963||Los Angeles Lakers|99|97|5|8|W 2|True|True|0|196311150PHI
+14|14|Wed, Nov 20, 1963||New York Knicks|118|101|6|8|W 3|True|True|0|196311200PHI
+15|15|Tue, Nov 26, 1963||Baltimore Bullets|115|113|7|8|W 4|True|True|0|196311260PHI
+16|16|Thu, Nov 28, 1963||Cincinnati Royals|110|125|7|9|L 1|False|True|0|196311280PHI
+17|17|Fri, Nov 29, 1963||Boston Celtics|78|112|7|10|L 2|False|True|0|196311290BOS
+18|18|Sat, Nov 30, 1963||New York Knicks|132|125|8|10|W 1|True|False|0|196311300NYK
+19|19|Sun, Dec 1, 1963||Detroit Pistons|132|121|9|10|W 2|True|True|0|196312010DET
+20|20|Thu, Dec 5, 1963||St. Louis Hawks|103|106|9|11|L 1|False|True|0|196312050PHI
+21|21|Sat, Dec 7, 1963||St. Louis Hawks|120|129|9|12|L 2|False|False|0|196312070STL
+22|22|Sun, Dec 8, 1963||Cincinnati Royals|126|116|10|12|W 1|True|False|0|196312080CIN
+23|23|Tue, Dec 10, 1963||St. Louis Hawks|103|113|10|13|L 1|False|True|0|196312100PHI
+24|24|Wed, Dec 11, 1963||New York Knicks|113|103|11|13|W 1|True|True|0|196312110PHI
+25|25|Fri, Dec 13, 1963||Boston Celtics|84|111|11|14|L 1|False|True|0|196312130PHI
+26|26|Sat, Dec 14, 1963||New York Knicks|123|119|12|14|W 1|True|False|0|196312140NYK
+27|27|Wed, Dec 18, 1963||Los Angeles Lakers|96|116|12|15|L 1|False|False|0|196312180LAL
+28|28|Fri, Dec 20, 1963||San Francisco Warriors|114|112|13|15|W 1|True|False|0|196312200SFW
+29|29|Sat, Dec 21, 1963||Los Angeles Lakers|113|126|13|16|L 1|False|False|0|196312210LAL
+30|30|Sun, Dec 22, 1963||San Francisco Warriors|104|118|13|17|L 2|False|False|0|196312220SFW
+31|31|Thu, Dec 26, 1963||San Francisco Warriors|118|112|14|17|W 1|True|True|0|196312260PHI
+32|32|Fri, Dec 27, 1963||Detroit Pistons|119|107|15|17|W 2|True|True|0|196312270DET
+33|33|Sat, Dec 28, 1963||Los Angeles Lakers|114|100|16|17|W 3|True|True|0|196312280PHI
+34|34|Fri, Jan 3, 1964||Cincinnati Royals|132|110|17|17|W 4|True|True|0|196401030PHI
+35|35|Sat, Jan 4, 1964||Baltimore Bullets|123|113|18|17|W 5|True|False|0|196401040BAL
+36|36|Sun, Jan 5, 1964||New York Knicks|118|142|18|18|L 1|False|True|0|196401050PHI
+37|37|Tue, Jan 7, 1964||Cincinnati Royals|110|130|18|19|L 2|False|True|0|196401070CIN
+38|38|Wed, Jan 8, 1964||Cincinnati Royals|110|126|18|20|L 3|False|True|0|196401080CIN
+39|39|Thu, Jan 9, 1964||St. Louis Hawks|122|115|19|20|W 1|True|True|0|196401090PHI
+40|40|Sat, Jan 11, 1964||Boston Celtics|115|108|20|20|W 2|True|True|0|196401110PHI
+41|41|Sun, Jan 12, 1964||Boston Celtics|112|123|20|21|L 1|False|False|0|196401120BOS
+42|42|Fri, Jan 17, 1964||San Francisco Warriors|91|112|20|22|L 2|False|True|0|196401170PHI
+43|43|Sat, Jan 18, 1964||Los Angeles Lakers|111|115|20|23|L 3|False|True|0|196401180LAL
+44|44|Tue, Jan 21, 1964||Baltimore Bullets|121|124|20|24|L 4|False|True|0|196401210BAL
+45|45|Wed, Jan 22, 1964||Baltimore Bullets|116|124|20|25|L 5|False|False|0|196401220BAL
+46|46|Fri, Jan 24, 1964||Cincinnati Royals|134|111|21|25|W 1|True|True|0|196401240PHI
+47|47|Sat, Jan 25, 1964||New York Knicks|131|129|22|25|W 2|True|False|0|196401250NYK
+48|48|Sun, Jan 26, 1964||Baltimore Bullets|120|131|22|26|L 1|False|True|0|196401260PHI
+49|49|Tue, Jan 28, 1964||San Francisco Warriors|117|139|22|27|L 2|False|True|0|196401280PHI
+50|50|Wed, Jan 29, 1964||Los Angeles Lakers|102|97|23|27|W 1|True|True|0|196401290LAL
+51|51|Fri, Jan 31, 1964||Boston Celtics|97|114|23|28|L 1|False|False|0|196401310BOS
+52|52|Sat, Feb 1, 1964||Boston Celtics|111|119|23|29|L 2|False|True|0|196402010PHI
+53|53|Thu, Feb 6, 1964||New York Knicks|128|117|24|29|W 1|True|True|0|196402060PHI
+54|54|Fri, Feb 7, 1964||Cincinnati Royals|114|126|24|30|L 1|False|False|0|196402070CIN
+55|55|Sat, Feb 8, 1964||Los Angeles Lakers|109|101|25|30|W 1|True|True|0|196402080PHI
+56|56|Sun, Feb 9, 1964||Boston Celtics|109|120|25|31|L 1|False|False|0|196402090BOS
+57|57|Wed, Feb 12, 1964||Baltimore Bullets|115|121|25|32|L 2|False|False|0|196402120BAL
+58|58|Fri, Feb 14, 1964||Detroit Pistons|130|123|26|32|W 1|True|True|0|196402140PHI
+59|59|Sat, Feb 15, 1964||St. Louis Hawks|110|118|26|33|L 1|False|False|0|196402150STL
+60|60|Sun, Feb 16, 1964||Cincinnati Royals|97|114|26|34|L 2|False|False|0|196402160CIN
+61|61|Tue, Feb 18, 1964||Boston Celtics|93|103|26|35|L 3|False|True|0|196402180BOS
+62|62|Wed, Feb 19, 1964||Baltimore Bullets|130|122|27|35|W 1|True|True|0|196402190PHI
+63|63|Fri, Feb 21, 1964||Boston Celtics|144|119|28|35|W 2|True|True|0|196402210PHI
+64|64|Sun, Feb 23, 1964||New York Knicks|114|105|29|35|W 3|True|False|0|196402230NYK
+65|65|Tue, Feb 25, 1964||St. Louis Hawks|107|115|29|36|L 1|False|True|0|196402250PHI
+66|66|Wed, Feb 26, 1964||Detroit Pistons|130|122|30|36|W 1|True|False|0|196402260DET
+67|67|Fri, Feb 28, 1964||Cincinnati Royals|132|134|30|37|L 1|False|True|0|196402280CIN
+68|68|Sat, Feb 29, 1964||Cincinnati Royals|114|117|30|38|L 2|False|True|0|196402290PHI
+69|69|Sun, Mar 1, 1964||Boston Celtics|93|108|30|39|L 3|False|False|0|196403010BOS
+70|70|Tue, Mar 3, 1964||Boston Celtics|94|108|30|40|L 4|False|True|0|196403030BOS
+71|71|Sat, Mar 7, 1964||New York Knicks|130|115|31|40|W 1|True|True|0|196403070PHI
+72|72|Sun, Mar 8, 1964||New York Knicks|108|140|31|41|L 1|False|False|0|196403080NYK
+73|73|Wed, Mar 11, 1964||St. Louis Hawks|124|111|32|41|W 1|True|False|0|196403110STL
+74|74|Thu, Mar 12, 1964||Cincinnati Royals|111|128|32|42|L 1|False|False|0|196403120CIN
+75|75|Fri, Mar 13, 1964||Detroit Pistons|122|133|32|43|L 2|False|True|0|196403130DET
+76|76|Sat, Mar 14, 1964||Baltimore Bullets|128|122|33|43|W 1|True|True|0|196403140BAL
+77|77|Sun, Mar 15, 1964||Los Angeles Lakers|95|120|33|44|L 1|False|False|0|196403150LAL
+78|78|Mon, Mar 16, 1964||San Francisco Warriors|111|110|34|44|W 1|True|False|0|196403160SFW
+79|79|Tue, Mar 17, 1964||Los Angeles Lakers|97|121|34|45|L 1|False|False|0|196403170LAL
+80|80|Wed, Mar 18, 1964||San Francisco Warriors|85|89|34|46|L 2|False|False|0|196403180SFW

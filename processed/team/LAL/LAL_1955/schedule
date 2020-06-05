@@ -1,0 +1,73 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Sat, Nov 5, 1955||St. Louis Hawks|89|101|0|1|L 1|False|False|0|195511050STL
+2|2|Sun, Nov 6, 1955||Fort Wayne Pistons|96|95|1|1|W 1|True|False|0|195511060FTW
+3|3|Wed, Nov 9, 1955||Philadelphia Warriors|106|117|1|2|L 1|False|False|0|195511090PHW
+4|4|Thu, Nov 10, 1955||New York Knicks|105|112|1|3|L 2|False|False|0|195511100NYK
+5|5|Fri, Nov 11, 1955||Boston Celtics|75|119|1|4|L 3|False|False|0|195511110BOS
+6|6|Sat, Nov 12, 1955||Philadelphia Warriors|89|100|1|5|L 4|False|True|0|195511120MNL
+7|7|Thu, Nov 17, 1955||Syracuse Nationals|91|105|1|6|L 5|False|False|0|195511170SYR
+8|8|Sat, Nov 19, 1955||Rochester Royals|91|90|2|6|W 1|True|False|0|195511190ROC
+9|9|Sun, Nov 20, 1955||Rochester Royals|96|104|2|7|L 1|False|True|0|195511200MNL
+10|10|Thu, Nov 24, 1955||St. Louis Hawks|107|99|3|7|W 1|True|True|0|195511240MNL
+11|11|Sat, Nov 26, 1955||St. Louis Hawks|95|104|3|8|L 1|False|False|0|195511260STL
+12|12|Sun, Nov 27, 1955||Philadelphia Warriors|99|94|4|8|W 1|True|True|0|195511270MNL
+13|13|Wed, Nov 30, 1955||St. Louis Hawks|97|99|4|9|L 1|False|True|0|195511300MNL
+14|14|Thu, Dec 1, 1955||New York Knicks|97|90|5|9|W 1|True|True|0|195512010MNL
+15|15|Sat, Dec 3, 1955||Syracuse Nationals|103|114|5|10|L 1|False|False|0|195512030SYR
+16|16|Sun, Dec 4, 1955||Syracuse Nationals|96|102|5|11|L 2|False|True|0|195512040MNL
+17|17|Tue, Dec 6, 1955||Philadelphia Warriors|103|116|5|12|L 3|False|True|0|195512060MNL
+18|18|Wed, Dec 7, 1955||Rochester Royals|79|92|5|13|L 4|False|False|0|195512070ROC
+19|19|Sat, Dec 10, 1955||Boston Celtics|102|118|5|14|L 5|False|False|0|195512100BOS
+20|20|Tue, Dec 13, 1955||New York Knicks|91|98|5|15|L 6|False|False|0|195512130NYK
+21|21|Wed, Dec 14, 1955||Fort Wayne Pistons|98|85|6|15|W 1|True|True|0|195512140FTW
+22|22|Thu, Dec 15, 1955||Syracuse Nationals|135|133|7|15|W 2|True|False|3|195512150SYR
+23|23|Sat, Dec 17, 1955||Rochester Royals|94|92|8|15|W 3|True|True|0|195512170MNL
+24|24|Sun, Dec 18, 1955||Fort Wayne Pistons|86|96|8|16|L 1|False|False|0|195512180FTW
+25|25|Tue, Dec 20, 1955||Boston Celtics|104|111|8|17|L 2|False|True|0|195512200BOS
+26|26|Sun, Dec 25, 1955||Boston Celtics|112|115|8|18|L 3|False|True|0|195512250MNL
+27|27|Wed, Dec 28, 1955||St. Louis Hawks|90|111|8|19|L 4|False|True|0|195512280MNL
+28|28|Thu, Dec 29, 1955||St. Louis Hawks|74|71|9|19|W 1|True|True|0|195512290MNL
+29|29|Sun, Jan 1, 1956||Syracuse Nationals|80|85|9|20|L 1|False|True|0|195601010MNL
+30|30|Mon, Jan 2, 1956||Fort Wayne Pistons|95|89|10|20|W 1|True|True|0|195601020FTW
+31|31|Wed, Jan 4, 1956||St. Louis Hawks|94|76|11|20|W 2|True|True|0|195601040MNL
+32|32|Sat, Jan 7, 1956||Rochester Royals|98|103|11|21|L 1|False|False|0|195601070ROC
+33|33|Sun, Jan 8, 1956||Syracuse Nationals|99|91|12|21|W 1|True|True|0|195601080MNL
+34|34|Tue, Jan 10, 1956||Syracuse Nationals|90|79|13|21|W 2|True|True|0|195601100MNL
+35|35|Wed, Jan 11, 1956||Boston Celtics|114|110|14|21|W 3|True|True|0|195601110BOS
+36|36|Sat, Jan 14, 1956||Fort Wayne Pistons|117|94|15|21|W 4|True|True|0|195601140MNL
+37|37|Sun, Jan 15, 1956||Fort Wayne Pistons|99|104|15|22|L 1|False|False|0|195601150FTW
+38|38|Tue, Jan 17, 1956||St. Louis Hawks|97|86|16|22|W 1|True|True|0|195601170MNL
+39|39|Wed, Jan 18, 1956||Philadelphia Warriors|105|94|17|22|W 2|True|True|0|195601180MNL
+40|40|Thu, Jan 19, 1956||Syracuse Nationals|100|122|17|23|L 1|False|False|0|195601190SYR
+41|41|Fri, Jan 20, 1956||New York Knicks|109|122|17|24|L 2|False|True|0|195601200MNL
+42|42|Sat, Jan 21, 1956||New York Knicks|109|89|18|24|W 1|True|False|0|195601210NYK
+43|43|Sun, Jan 22, 1956||New York Knicks|95|100|18|25|L 1|False|True|0|195601220MNL
+44|44|Wed, Jan 25, 1956||New York Knicks|104|95|19|25|W 1|True|True|0|195601250MNL
+45|45|Sat, Jan 28, 1956||Philadelphia Warriors|85|108|19|26|L 1|False|True|0|195601280MNL
+46|46|Sun, Jan 29, 1956||St. Louis Hawks|107|114|19|27|L 2|False|True|0|195601290MNL
+47|47|Tue, Jan 31, 1956||Rochester Royals|92|86|20|27|W 1|True|True|0|195601310MNL
+48|48|Wed, Feb 1, 1956||Boston Celtics|107|106|21|27|W 2|True|True|0|195602010MNL
+49|49|Thu, Feb 2, 1956||Boston Celtics|101|102|21|28|L 1|False|True|0|195602020BOS
+50|50|Sun, Feb 5, 1956||Rochester Royals|109|121|21|29|L 2|False|True|0|195602050MNL
+51|51|Wed, Feb 8, 1956||Fort Wayne Pistons|106|82|22|29|W 1|True|True|0|195602080MNL
+52|52|Sat, Feb 11, 1956||Philadelphia Warriors|102|117|22|30|L 1|False|True|0|195602110MNL
+53|53|Sun, Feb 12, 1956||Fort Wayne Pistons|78|82|22|31|L 2|False|False|0|195602120FTW
+54|54|Tue, Feb 14, 1956||Rochester Royals|110|79|23|31|W 1|True|True|0|195602140MNL
+55|55|Wed, Feb 15, 1956||New York Knicks|113|102|24|31|W 2|True|True|0|195602150MNL
+56|56|Fri, Feb 17, 1956||Philadelphia Warriors|111|134|24|32|L 1|False|False|0|195602170PHW
+57|57|Sat, Feb 18, 1956||Rochester Royals|119|99|25|32|W 1|True|False|0|195602180ROC
+58|58|Sun, Feb 19, 1956||Rochester Royals|100|93|26|32|W 2|True|True|0|195602190MNL
+59|59|Wed, Feb 22, 1956||Boston Celtics|90|93|26|33|L 1|False|True|0|195602220MNL
+60|60|Sun, Feb 26, 1956||Fort Wayne Pistons|90|95|26|34|L 2|False|True|0|195602260MNL
+61|61|Wed, Feb 29, 1956||Syracuse Nationals|98|94|27|34|W 1|True|True|0|195602290MNL
+62|62|Thu, Mar 1, 1956||Philadelphia Warriors|102|100|28|34|W 2|True|False|0|195603010PHW
+63|63|Fri, Mar 2, 1956||Boston Celtics|113|119|28|35|L 1|False|False|0|195603020BOS
+64|64|Sat, Mar 3, 1956||Rochester Royals|90|94|28|36|L 2|False|False|0|195603030ROC
+65|65|Sun, Mar 4, 1956||St. Louis Hawks|113|84|29|36|W 1|True|True|0|195603040MNL
+66|66|Wed, Mar 7, 1956||Fort Wayne Pistons|98|95|30|36|W 2|True|True|0|195603070MNL
+67|67|Thu, Mar 8, 1956||Fort Wayne Pistons|82|100|30|37|L 1|False|False|0|195603080FTW
+68|68|Fri, Mar 9, 1956||St. Louis Hawks|102|103|30|38|L 2|False|False|0|195603090STL
+69|69|Sat, Mar 10, 1956||St. Louis Hawks|97|105|30|39|L 3|False|False|0|195603100STL
+70|70|Sun, Mar 11, 1956||Rochester Royals|126|98|31|39|W 1|True|True|0|195603110MNL
+71|71|Tue, Mar 13, 1956||New York Knicks|102|89|32|39|W 2|True|True|0|195603130MNL
+72|72|Wed, Mar 14, 1956||Fort Wayne Pistons|100|96|33|39|W 3|True|True|0|195603140MNL

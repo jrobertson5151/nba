@@ -1,0 +1,85 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Wed, Oct 10, 1973||San Diego Conquistadors|106|121|0|1|L 1|False|True|0|197310100SAA
+2|2|Fri, Oct 12, 1973||Utah Stars|82|94|0|2|L 2|False|False|0|197310120UTS
+3|3|Sat, Oct 13, 1973||Indiana Pacers|99|116|0|3|L 3|False|False|0|197310130INA
+4|4|Sun, Oct 14, 1973||Utah Stars|95|101|0|4|L 4|False|True|0|197310140SAA
+5|5|Tue, Oct 16, 1973||Virginia Squires|116|106|1|4|W 1|True|True|0|197310160SAA
+6|6|Thu, Oct 18, 1973||Memphis Tams|81|93|1|5|L 1|False|False|0|197310180MMT
+7|7|Fri, Oct 19, 1973||Virginia Squires|93|105|1|6|L 2|False|False|0|197310190VIR
+8|8|Sat, Oct 20, 1973||Indiana Pacers|92|66|2|6|W 1|True|True|0|197310200SAA
+9|9|Tue, Oct 23, 1973||San Diego Conquistadors|112|110|3|6|W 2|True|False|0|197310230SDA
+10|10|Wed, Oct 24, 1973||Carolina Cougars|92|124|3|7|L 1|False|True|0|197310240SAA
+11|11|Fri, Oct 26, 1973||New York Nets|88|87|4|7|W 1|True|False|0|197310260NYA
+12|12|Sat, Oct 27, 1973||Carolina Cougars|95|117|4|8|L 1|False|False|0|197310270CAR
+13|13|Tue, Oct 30, 1973||New York Nets|104|92|5|8|W 1|True|True|0|197310300SAA
+14|14|Wed, Oct 31, 1973||Carolina Cougars|101|99|6|8|W 2|True|True|1|197310310SAA
+15|15|Fri, Nov 2, 1973||Carolina Cougars|106|117|6|9|L 1|False|False|0|197311020CAR
+16|16|Sat, Nov 3, 1973||Denver Rockets|95|72|7|9|W 1|True|True|0|197311030SAA
+17|17|Wed, Nov 7, 1973||San Diego Conquistadors|105|104|8|9|W 2|True|True|0|197311070SAA
+18|18|Sat, Nov 10, 1973||Denver Rockets|78|88|8|10|L 1|False|True|0|197311100SAA
+19|19|Sun, Nov 11, 1973||New York Nets|94|106|8|11|L 2|False|True|0|197311110SAA
+20|20|Wed, Nov 14, 1973||Indiana Pacers|95|90|9|11|W 1|True|True|1|197311140SAA
+21|21|Sat, Nov 17, 1973||San Diego Conquistadors|118|96|10|11|W 2|True|True|0|197311170SAA
+22|22|Sun, Nov 18, 1973||Utah Stars|80|83|10|12|L 1|False|True|0|197311180SAA
+23|23|Thu, Nov 22, 1973||Utah Stars|92|84|11|12|W 1|True|False|0|197311220UTS
+24|24|Sat, Nov 24, 1973||Memphis Tams|121|118|12|12|W 2|True|True|2|197311240SAA
+25|25|Wed, Nov 28, 1973||Kentucky Colonels|104|99|13|12|W 3|True|True|0|197311280SAA
+26|26|Fri, Nov 30, 1973||Utah Stars|91|104|13|13|L 1|False|False|0|197311300UTS
+27|27|Sat, Dec 1, 1973||Denver Rockets|86|107|13|14|L 2|False|False|0|197312010DNR
+28|28|Sun, Dec 2, 1973||Indiana Pacers|79|90|13|15|L 3|False|True|0|197312020SAA
+29|29|Fri, Dec 7, 1973||Denver Rockets|116|94|14|15|W 1|True|True|0|197312070SAA
+30|30|Sat, Dec 8, 1973||San Diego Conquistadors|95|85|15|15|W 2|True|False|0|197312080SDA
+31|31|Wed, Dec 12, 1973||Kentucky Colonels|84|96|15|16|L 1|False|True|0|197312120SAA
+32|32|Thu, Dec 13, 1973||Virginia Squires|96|94|16|16|W 1|True|False|0|197312130VIR
+33|33|Sat, Dec 15, 1973||Indiana Pacers|92|81|17|16|W 2|True|False|0|197312150INA
+34|34|Sun, Dec 16, 1973||Memphis Tams|85|80|18|16|W 3|True|False|0|197312160MMT
+35|35|Wed, Dec 19, 1973||Virginia Squires|107|100|19|16|W 4|True|True|0|197312190SAA
+36|36|Fri, Dec 21, 1973||Indiana Pacers|81|84|19|17|L 1|False|False|0|197312210INA
+37|37|Sat, Dec 22, 1973||San Diego Conquistadors|123|129|19|18|L 2|False|True|1|197312220SAA
+38|38|Wed, Dec 26, 1973||Memphis Tams|95|96|19|19|L 3|False|False|0|197312260MMT
+39|39|Thu, Dec 27, 1973||San Diego Conquistadors|104|76|20|19|W 1|True|False|0|197312270SDA
+40|40|Wed, Jan 2, 1974||Denver Rockets|108|110|20|20|L 1|False|False|0|197401020DNR
+41|41|Thu, Jan 3, 1974||Utah Stars|93|101|20|21|L 2|False|False|0|197401030UTS
+42|42|Fri, Jan 4, 1974||San Diego Conquistadors|112|105|21|21|W 1|True|False|0|197401040SDA
+43|43|Sat, Jan 5, 1974||Memphis Tams|94|89|22|21|W 2|True|False|1|197401050MMT
+44|44|Thu, Jan 10, 1974||New York Nets|93|105|22|22|L 1|False|True|0|197401100SAA
+45|45|Fri, Jan 11, 1974||Kentucky Colonels|95|99|22|23|L 2|False|False|0|197401110KEN
+46|46|Sat, Jan 12, 1974||Memphis Tams|101|105|22|24|L 3|False|True|0|197401120SAA
+47|47|Mon, Jan 14, 1974||Utah Stars|90|81|23|24|W 1|True|True|0|197401140SAA
+48|48|Thu, Jan 17, 1974||San Diego Conquistadors|101|97|24|24|W 2|True|True|0|197401170SAA
+49|49|Sat, Jan 19, 1974||Kentucky Colonels|101|103|24|25|L 1|False|True|0|197401190SAA
+50|50|Sun, Jan 20, 1974||Utah Stars|88|80|25|25|W 1|True|True|0|197401200SAA
+51|51|Thu, Jan 24, 1974||Kentucky Colonels|93|84|26|25|W 2|True|True|0|197401240SAA
+52|52|Fri, Jan 25, 1974||New York Nets|89|93|26|26|L 1|False|False|0|197401250NYA
+53|53|Sat, Jan 26, 1974||Indiana Pacers|90|89|27|26|W 1|True|False|0|197401260INA
+54|54|Sun, Jan 27, 1974||Denver Rockets|98|87|28|26|W 2|True|True|0|197401270SAA
+55|55|Fri, Feb 1, 1974||New York Nets|91|95|28|27|L 1|False|False|0|197402010NYA
+56|56|Sat, Feb 2, 1974||Kentucky Colonels|110|107|29|27|W 1|True|False|1|197402020KEN
+57|57|Sun, Feb 3, 1974||Carolina Cougars|108|95|30|27|W 2|True|True|0|197402030SAA
+58|58|Tue, Feb 5, 1974||Denver Rockets|79|82|30|28|L 1|False|False|0|197402050DNR
+59|59|Wed, Feb 6, 1974||Utah Stars|81|88|30|29|L 2|False|False|0|197402060UTS
+60|60|Thu, Feb 7, 1974||Utah Stars|83|86|30|30|L 3|False|True|0|197402070SAA
+61|61|Fri, Feb 8, 1974||San Diego Conquistadors|105|120|30|31|L 4|False|False|0|197402080SDA
+62|62|Sun, Feb 10, 1974||Denver Rockets|99|90|31|31|W 1|True|False|0|197402100DNR
+63|63|Thu, Feb 14, 1974||Indiana Pacers|88|83|32|31|W 2|True|True|0|197402140SAA
+64|64|Fri, Feb 15, 1974||Carolina Cougars|97|103|32|32|L 1|False|False|0|197402150CAR
+65|65|Tue, Feb 19, 1974||Indiana Pacers|102|107|32|33|L 2|False|False|0|197402190INA
+66|66|Thu, Feb 21, 1974||Utah Stars|123|102|33|33|W 1|True|True|0|197402210SAA
+67|67|Wed, Feb 27, 1974||New York Nets|107|103|34|33|W 2|True|False|0|197402270NYA
+68|68|Fri, Mar 1, 1974||Kentucky Colonels|93|108|34|34|L 1|False|False|0|197403010KEN
+69|69|Sat, Mar 2, 1974||Denver Rockets|113|104|35|34|W 1|True|True|0|197403020SAA
+70|70|Sun, Mar 3, 1974||Virginia Squires|111|79|36|34|W 2|True|True|0|197403030SAA
+71|71|Wed, Mar 6, 1974||Indiana Pacers|82|92|36|35|L 1|False|False|0|197403060INA
+72|72|Thu, Mar 7, 1974||Carolina Cougars|98|90|37|35|W 1|True|True|0|197403070SAA
+73|73|Fri, Mar 8, 1974||San Diego Conquistadors|115|113|38|35|W 2|True|False|0|197403080SDA
+74|74|Sun, Mar 10, 1974||Memphis Tams|99|94|39|35|W 3|True|True|0|197403100SAA
+75|75|Mon, Mar 11, 1974||Virginia Squires|91|102|39|36|L 1|False|False|0|197403110VIR
+76|76|Wed, Mar 13, 1974||Denver Rockets|111|108|40|36|W 1|True|False|1|197403130DNR
+77|77|Thu, Mar 14, 1974||Virginia Squires|105|90|41|36|W 2|True|True|0|197403140SAA
+78|78|Sat, Mar 16, 1974||Memphis Tams|104|102|42|36|W 3|True|True|0|197403160SAA
+79|79|Mon, Mar 18, 1974||Carolina Cougars|100|93|43|36|W 4|True|False|0|197403180CAR
+80|80|Wed, Mar 20, 1974||Kentucky Colonels|98|102|43|37|L 1|False|False|0|197403200KEN
+81|81|Thu, Mar 21, 1974||Virginia Squires|95|81|44|37|W 1|True|False|0|197403210VIR
+82|82|Sun, Mar 24, 1974||New York Nets|97|99|44|38|L 1|False|True|0|197403240SAA
+83|83|Wed, Mar 27, 1974||Indiana Pacers|98|80|45|38|W 1|True|True|0|197403270SAA
+84|84|Thu, Mar 28, 1974||Denver Rockets|92|96|45|39|L 1|False|True|0|197403280SAA

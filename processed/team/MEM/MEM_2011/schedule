@@ -1,0 +1,67 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Mon, Dec 26, 2011|8:30p|San Antonio Spurs|82|95|0|1|L 1|False|False|0|201112260SAS
+2|2|Wed, Dec 28, 2011|8:00p|Oklahoma City Thunder|95|98|0|2|L 2|False|True|0|201112280MEM
+3|3|Fri, Dec 30, 2011|8:00p|Houston Rockets|113|93|1|2|W 1|True|True|0|201112300MEM
+4|4|Sun, Jan 1, 2012|8:00p|Chicago Bulls|64|104|1|3|L 1|False|False|0|201201010CHI
+5|5|Tue, Jan 3, 2012|8:00p|Sacramento Kings|113|96|2|3|W 1|True|True|0|201201030MEM
+6|6|Wed, Jan 4, 2012|8:00p|Minnesota Timberwolves|90|86|3|3|W 2|True|False|0|201201040MIN
+7|7|Fri, Jan 6, 2012|9:00p|Utah Jazz|85|94|3|4|L 1|False|False|0|201201060UTA
+8|8|Sun, Jan 8, 2012|9:30p|Los Angeles Lakers|82|90|3|5|L 2|False|False|0|201201080LAL
+9|9|Tue, Jan 10, 2012|8:00p|Oklahoma City Thunder|95|100|3|6|L 3|False|True|0|201201100MEM
+10|10|Thu, Jan 12, 2012|8:00p|New York Knicks|94|83|4|6|W 1|True|True|0|201201120MEM
+11|11|Sat, Jan 14, 2012|8:00p|New Orleans Hornets|108|99|5|6|W 2|True|True|0|201201140MEM
+12|12|Mon, Jan 16, 2012|1:00p|Chicago Bulls|102|86|6|6|W 3|True|True|0|201201160MEM
+13|13|Wed, Jan 18, 2012|8:00p|New Orleans Hornets|93|87|7|6|W 4|True|False|0|201201180NOH
+14|14|Fri, Jan 20, 2012|7:30p|Detroit Pistons|98|81|8|6|W 5|True|False|0|201201200DET
+15|15|Sat, Jan 21, 2012|8:00p|Sacramento Kings|128|95|9|6|W 6|True|True|0|201201210MEM
+16|16|Mon, Jan 23, 2012|10:30p|Golden State Warriors|91|90|10|6|W 7|True|False|0|201201230GSW
+17|17|Tue, Jan 24, 2012|10:00p|Portland Trail Blazers|84|97|10|7|L 1|False|False|0|201201240POR
+18|18|Thu, Jan 26, 2012|10:30p|Los Angeles Clippers|91|98|10|8|L 2|False|False|0|201201260LAC
+19|19|Sat, Jan 28, 2012|9:00p|Phoenix Suns|84|86|10|9|L 3|False|False|0|201201280PHO
+20|20|Mon, Jan 30, 2012|8:00p|San Antonio Spurs|73|83|10|10|L 4|False|True|0|201201300MEM
+21|21|Tue, Jan 31, 2012|8:00p|Denver Nuggets|100|97|11|10|W 1|True|True|1|201201310MEM
+22|22|Thu, Feb 2, 2012|7:30p|Atlanta Hawks|96|77|12|10|W 2|True|False|0|201202020ATL
+23|23|Fri, Feb 3, 2012|8:00p|Oklahoma City Thunder|94|101|12|11|L 1|False|False|0|201202030OKC
+24|24|Sun, Feb 5, 2012|12:00p|Boston Celtics|80|98|12|12|L 2|False|False|0|201202050BOS
+25|25|Mon, Feb 6, 2012|8:00p|San Antonio Spurs|84|89|12|13|L 3|False|True|0|201202060MEM
+26|26|Wed, Feb 8, 2012|8:00p|Minnesota Timberwolves|85|80|13|13|W 1|True|True|0|201202080MEM
+27|27|Fri, Feb 10, 2012|8:00p|Indiana Pacers|98|92|14|13|W 2|True|True|0|201202100MEM
+28|28|Sun, Feb 12, 2012|9:30p|Utah Jazz|88|98|14|14|L 1|False|True|0|201202120MEM
+29|29|Tue, Feb 14, 2012|8:00p|Houston Rockets|93|83|15|14|W 1|True|True|0|201202140MEM
+30|30|Wed, Feb 15, 2012|7:30p|New Jersey Nets|105|100|16|14|W 2|True|False|0|201202150NJN
+31|31|Fri, Feb 17, 2012|8:00p|Denver Nuggets|103|102|17|14|W 3|True|True|0|201202170MEM
+32|32|Sat, Feb 18, 2012|8:00p|Golden State Warriors|104|103|18|14|W 4|True|True|0|201202180MEM
+33|33|Mon, Feb 20, 2012|8:00p|Houston Rockets|93|97|18|15|L 1|False|False|0|201202200HOU
+34|34|Tue, Feb 21, 2012|8:00p|Philadelphia 76ers|89|76|19|15|W 1|True|True|0|201202210MEM
+35|35|Wed, Feb 29, 2012|8:00p|Dallas Mavericks|96|85|20|15|W 2|True|True|0|201202290MEM
+36|36|Fri, Mar 2, 2012|7:00p|Toronto Raptors|102|99|21|15|W 3|True|False|0|201203020TOR
+37|37|Sat, Mar 3, 2012|8:00p|Detroit Pistons|100|83|22|15|W 4|True|True|0|201203030MEM
+38|38|Wed, Mar 7, 2012|10:30p|Golden State Warriors|110|92|23|15|W 5|True|False|0|201203070GSW
+39|39|Sat, Mar 10, 2012|9:00p|Phoenix Suns|91|98|23|16|L 1|False|False|0|201203100PHO
+40|40|Sun, Mar 11, 2012|8:00p|Denver Nuggets|94|91|24|16|W 1|True|False|0|201203110DEN
+41|41|Tue, Mar 13, 2012|8:00p|Los Angeles Lakers|111|116|24|17|L 1|False|True|2|201203130MEM
+42|42|Fri, Mar 16, 2012|8:00p|Toronto Raptors|110|114|24|18|L 2|False|True|1|201203160MEM
+43|43|Sun, Mar 18, 2012|6:00p|Washington Wizards|97|92|25|18|W 1|True|True|0|201203180MEM
+44|44|Tue, Mar 20, 2012|10:00p|Sacramento Kings|110|119|25|19|L 1|False|False|0|201203200SAC
+45|45|Thu, Mar 22, 2012|10:00p|Portland Trail Blazers|93|97|25|20|L 2|False|False|0|201203220POR
+46|46|Sat, Mar 24, 2012|3:00p|Los Angeles Clippers|85|101|25|21|L 3|False|False|0|201203240LAC
+47|47|Sun, Mar 25, 2012|10:30p|Los Angeles Lakers|102|96|26|21|W 1|True|False|0|201203250LAL
+48|48|Tue, Mar 27, 2012|8:00p|Minnesota Timberwolves|93|86|27|21|W 2|True|True|0|201203270MEM
+49|49|Fri, Mar 30, 2012|8:00p|Houston Rockets|89|98|27|22|L 1|False|False|0|201203300HOU
+50|50|Sat, Mar 31, 2012|8:30p|Milwaukee Bucks|99|95|28|22|W 1|True|False|0|201203310MIL
+51|51|Mon, Apr 2, 2012|8:00p|Oklahoma City Thunder|94|88|29|22|W 2|True|False|0|201204020OKC
+52|52|Tue, Apr 3, 2012|8:00p|Golden State Warriors|98|94|30|22|W 3|True|True|0|201204030MEM
+53|53|Wed, Apr 4, 2012|8:30p|Dallas Mavericks|85|95|30|23|L 1|False|False|0|201204040DAL
+54|54|Fri, Apr 6, 2012|7:30p|Miami Heat|97|82|31|23|W 1|True|False|0|201204060MIA
+55|55|Sat, Apr 7, 2012|8:00p|Dallas Mavericks|94|89|32|23|W 2|True|True|0|201204070MEM
+56|56|Mon, Apr 9, 2012|8:00p|Los Angeles Clippers|94|85|33|23|W 3|True|True|0|201204090MEM
+57|57|Wed, Apr 11, 2012|8:00p|Phoenix Suns|104|93|34|23|W 4|True|True|0|201204110MEM
+58|58|Thu, Apr 12, 2012|8:30p|San Antonio Spurs|97|107|34|24|L 1|False|False|0|201204120SAS
+59|59|Sat, Apr 14, 2012|8:00p|Utah Jazz|103|98|35|24|W 1|True|True|0|201204140MEM
+60|60|Sun, Apr 15, 2012|7:00p|New Orleans Hornets|75|88|35|25|L 1|False|False|0|201204150NOH
+61|61|Tue, Apr 17, 2012|8:00p|Minnesota Timberwolves|91|84|36|25|W 1|True|False|0|201204170MIN
+62|62|Wed, Apr 18, 2012|8:00p|New Orleans Hornets|103|91|37|25|W 2|True|True|0|201204180MEM
+63|63|Fri, Apr 20, 2012|7:00p|Charlotte Bobcats|85|80|38|25|W 3|True|False|0|201204200CHA
+64|64|Sat, Apr 21, 2012|8:00p|Portland Trail Blazers|93|89|39|25|W 4|True|True|0|201204210MEM
+65|65|Mon, Apr 23, 2012|8:00p|Cleveland Cavaliers|109|101|40|25|W 5|True|True|0|201204230MEM
+66|66|Thu, Apr 26, 2012|8:00p|Orlando Magic|88|76|41|25|W 6|True|True|0|201204260MEM

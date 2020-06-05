@@ -1,0 +1,81 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Thu, Oct 19, 1961||Los Angeles Lakers|113|118|0|1|L 1|False|True|0|196110190LAL
+2|2|Fri, Oct 20, 1961||Los Angeles Lakers|122|115|1|1|W 1|True|True|0|196110200PHW
+3|3|Sat, Oct 21, 1961||New York Knicks|132|95|2|1|W 2|True|True|0|196110210PHW
+4|4|Fri, Oct 27, 1961||Syracuse Nationals|122|126|2|2|L 1|False|True|0|196110270PHW
+5|5|Sat, Oct 28, 1961||Syracuse Nationals|119|115|3|2|W 1|True|False|0|196110280SYR
+6|6|Fri, Nov 3, 1961||Boston Celtics|98|112|3|3|L 1|False|True|0|196111030PHW
+7|7|Sat, Nov 4, 1961||Detroit Pistons|135|132|4|3|W 1|True|True|0|196111040PHW
+8|8|Wed, Nov 8, 1961||Detroit Pistons|132|128|5|3|W 2|True|False|0|196111080DET
+9|9|Thu, Nov 9, 1961||Syracuse Nationals|151|108|6|3|W 3|True|True|0|196111090PHW
+10|10|Sat, Nov 11, 1961||Boston Celtics|125|128|6|4|L 1|False|False|0|196111110BOS
+11|11|Tue, Nov 14, 1961||New York Knicks|122|124|6|5|L 2|False|False|0|196111140NYK
+12|12|Wed, Nov 15, 1961||Cincinnati Royals|145|133|7|5|W 1|True|True|0|196111150PHW
+13|13|Fri, Nov 17, 1961||Los Angeles Lakers|121|125|7|6|L 1|False|True|0|196111170PHW
+14|14|Sat, Nov 18, 1961||Syracuse Nationals|130|148|7|7|L 2|False|False|0|196111180SYR
+15|15|Sun, Nov 19, 1961||Chicago Packers|122|114|8|7|W 1|True|False|0|196111190CHP
+16|16|Tue, Nov 21, 1961||Cincinnati Royals|125|118|9|7|W 2|True|False|0|196111210CIN
+17|17|Thu, Nov 23, 1961||Boston Celtics|106|119|9|8|L 1|False|True|0|196111230PHW
+18|18|Sat, Nov 25, 1961||Chicago Packers|134|102|10|8|W 1|True|True|0|196111250PHW
+19|19|Tue, Nov 28, 1961||St. Louis Hawks|121|111|11|8|W 2|True|False|0|196111280STL
+20|20|Fri, Dec 1, 1961||Los Angeles Lakers|138|117|12|8|W 3|True|False|0|196112010LAL
+21|21|Sat, Dec 2, 1961||Los Angeles Lakers|119|129|12|9|L 1|False|False|0|196112020LAL
+22|22|Tue, Dec 5, 1961||New York Knicks|122|105|13|9|W 1|True|False|0|196112050NYK
+23|23|Wed, Dec 6, 1961||St. Louis Hawks|132|137|13|10|L 1|False|True|0|196112060PHW
+24|24|Fri, Dec 8, 1961||Los Angeles Lakers|147|151|13|11|L 2|False|True|3|196112080PHW
+25|25|Sat, Dec 9, 1961||Chicago Packers|135|113|14|11|W 1|True|True|0|196112090PHW
+26|26|Sun, Dec 10, 1961||Chicago Packers|118|109|15|11|W 2|True|True|0|196112100CHP
+27|27|Tue, Dec 12, 1961||Detroit Pistons|132|109|16|11|W 3|True|True|0|196112120DET
+28|28|Wed, Dec 13, 1961||Boston Celtics|113|123|16|12|L 1|False|False|0|196112130BOS
+29|29|Thu, Dec 14, 1961||Syracuse Nationals|136|125|17|12|W 1|True|True|0|196112140PHW
+30|30|Sat, Dec 16, 1961||Chicago Packers|112|110|18|12|W 2|True|False|0|196112160CHP
+31|31|Tue, Dec 19, 1961||Cincinnati Royals|117|110|19|12|W 3|True|False|0|196112190CIN
+32|32|Wed, Dec 20, 1961||Detroit Pistons|117|102|20|12|W 4|True|False|0|196112200DET
+33|33|Mon, Dec 25, 1961||New York Knicks|135|136|20|13|L 1|False|False|2|196112250NYK
+34|34|Tue, Dec 26, 1961||Syracuse Nationals|118|111|21|13|W 1|True|True|0|196112260PHW
+35|35|Wed, Dec 27, 1961||New York Knicks|131|119|22|13|W 2|True|True|0|196112270PHW
+36|36|Fri, Dec 29, 1961||Los Angeles Lakers|123|118|23|13|W 3|True|True|0|196112290LAL
+37|37|Sat, Dec 30, 1961||Boston Celtics|111|116|23|14|L 1|False|True|1|196112300PHW
+38|38|Mon, Jan 1, 1962||Los Angeles Lakers|111|114|23|15|L 2|False|False|0|196201010LAL
+39|39|Wed, Jan 3, 1962||Los Angeles Lakers|123|124|23|16|L 3|False|False|0|196201030LAL
+40|40|Fri, Jan 5, 1962||St. Louis Hawks|134|116|24|16|W 1|True|True|0|196201050PHW
+41|41|Sun, Jan 7, 1962||St. Louis Hawks|112|137|24|17|L 1|False|False|0|196201070STL
+42|42|Tue, Jan 9, 1962||Syracuse Nationals|120|129|24|18|L 2|False|True|0|196201090PHW
+43|43|Wed, Jan 10, 1962||Detroit Pistons|113|110|25|18|W 1|True|False|0|196201100DET
+44|44|Thu, Jan 11, 1962||Cincinnati Royals|128|145|25|19|L 1|False|False|0|196201110CIN
+45|45|Sat, Jan 13, 1962||Chicago Packers|135|117|26|19|W 1|True|True|0|196201130PHW
+46|46|Sun, Jan 14, 1962||Boston Celtics|136|145|26|20|L 1|False|False|0|196201140BOS
+47|47|Wed, Jan 17, 1962||St. Louis Hawks|136|130|27|20|W 1|True|True|1|196201170PHW
+48|48|Thu, Jan 18, 1962||Cincinnati Royals|133|151|27|21|L 1|False|True|0|196201180PHW
+49|49|Fri, Jan 19, 1962||Detroit Pistons|136|125|28|21|W 1|True|True|0|196201190DET
+50|50|Sat, Jan 20, 1962||Detroit Pistons|123|107|29|21|W 2|True|True|0|196201200PHW
+51|51|Sun, Jan 21, 1962||Syracuse Nationals|139|132|30|21|W 3|True|True|1|196201210PHW
+52|52|Wed, Jan 24, 1962||Chicago Packers|122|108|31|21|W 4|True|True|0|196201240CHP
+53|53|Fri, Jan 26, 1962||St. Louis Hawks|136|110|32|21|W 5|True|True|0|196201260PHW
+54|54|Sat, Jan 27, 1962||Boston Celtics|131|106|33|21|W 6|True|True|0|196201270PHW
+55|55|Sun, Jan 28, 1962||Boston Celtics|133|129|34|21|W 7|True|False|1|196201280BOS
+56|56|Tue, Jan 30, 1962||New York Knicks|110|116|34|22|L 1|False|False|0|196201300NYK
+57|57|Thu, Feb 1, 1962||Cincinnati Royals|130|109|35|22|W 1|True|True|0|196202010PHW
+58|58|Fri, Feb 2, 1962||New York Knicks|129|116|36|22|W 2|True|True|0|196202020NYK
+59|59|Sat, Feb 3, 1962||Syracuse Nationals|112|134|36|23|L 1|False|False|0|196202030SYR
+60|60|Sun, Feb 4, 1962||Syracuse Nationals|128|117|37|23|W 1|True|True|0|196202040PHW
+61|61|Thu, Feb 8, 1962||New York Knicks|136|120|38|23|W 2|True|True|0|196202080NYK
+62|62|Fri, Feb 9, 1962||Boston Celtics|126|124|39|23|W 3|True|False|0|196202090BOS
+63|63|Sat, Feb 10, 1962||Boston Celtics|107|106|40|23|W 4|True|True|0|196202100PHW
+64|64|Sun, Feb 11, 1962||New York Knicks|121|111|41|23|W 5|True|False|0|196202110NYK
+65|65|Tue, Feb 13, 1962||Cincinnati Royals|132|152|41|24|L 1|False|False|0|196202130CIN
+66|66|Wed, Feb 14, 1962||Detroit Pistons|110|119|41|25|L 2|False|False|0|196202140DET
+67|67|Fri, Feb 16, 1962||Cincinnati Royals|136|132|42|25|W 1|True|True|0|196202160PHW
+68|68|Sat, Feb 17, 1962||St. Louis Hawks|121|128|42|26|L 1|False|False|0|196202170STL
+69|69|Tue, Feb 20, 1962||Chicago Packers|112|107|43|26|W 1|True|True|0|196202200CHP
+70|70|Wed, Feb 21, 1962||Syracuse Nationals|109|150|43|27|L 1|False|False|0|196202210SYR
+71|71|Thu, Feb 22, 1962||St. Louis Hawks|139|121|44|27|W 1|True|True|0|196202220PHW
+72|72|Sat, Feb 24, 1962||Boston Celtics|86|109|44|28|L 1|False|True|0|196202240PHW
+73|73|Sun, Feb 25, 1962||New York Knicks|135|149|44|29|L 2|False|True|0|196202250PHW
+74|74|Tue, Feb 27, 1962||St. Louis Hawks|147|137|45|29|W 1|True|False|0|196202270STL
+75|75|Wed, Feb 28, 1962||Chicago Packers|128|119|46|29|W 2|True|False|0|196202280CHP
+76|76|Fri, Mar 2, 1962||New York Knicks|169|147|47|29|W 3|True|True|0|196203020NYK
+77|77|Sun, Mar 4, 1962||New York Knicks|129|128|48|29|W 4|True|False|0|196203040NYK
+78|78|Wed, Mar 7, 1962||Boston Celtics|102|153|48|30|L 1|False|False|0|196203070BOS
+79|79|Sun, Mar 11, 1962||Syracuse Nationals|130|148|48|31|L 2|False|False|0|196203110SYR
+80|80|Wed, Mar 14, 1962||Chicago Packers|119|115|49|31|W 1|True|False|1|196203140CHP

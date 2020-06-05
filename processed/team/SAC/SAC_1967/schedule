@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Tue, Oct 17, 1967||Detroit Pistons|108|131|0|1|L 1|False|False|0|196710170DET
+2|2|Wed, Oct 18, 1967||San Francisco Warriors|122|118|1|1|W 1|True|True|0|196710180CIN
+3|3|Sat, Oct 21, 1967||Chicago Bulls|109|107|2|1|W 2|True|True|0|196710210CIN
+4|4|Sun, Oct 22, 1967||Seattle SuperSonics|106|94|3|1|W 3|True|False|0|196710220SEA
+5|5|Tue, Oct 24, 1967||San Francisco Warriors|106|116|3|2|L 1|False|False|0|196710240SFW
+6|6|Wed, Oct 25, 1967||Los Angeles Lakers|116|132|3|3|L 2|False|False|0|196710250LAL
+7|7|Fri, Oct 27, 1967||San Diego Rockets|116|113|4|3|W 1|True|False|0|196710270SDR
+8|8|Sun, Oct 29, 1967||San Diego Rockets|108|99|5|3|W 2|True|False|0|196710290SDR
+9|9|Wed, Nov 1, 1967||St. Louis Hawks|96|101|5|4|L 1|False|True|0|196711010CIN
+10|10|Sat, Nov 4, 1967||Los Angeles Lakers|104|106|5|5|L 2|False|True|0|196711040CIN
+11|11|Tue, Nov 7, 1967||Boston Celtics|103|113|5|6|L 3|False|True|0|196711070CIN
+12|12|Wed, Nov 8, 1967||Baltimore Bullets|100|122|5|7|L 4|False|False|0|196711080BAL
+13|13|Thu, Nov 9, 1967||New York Knicks|106|123|5|8|L 5|False|False|0|196711090NYK
+14|14|Sat, Nov 11, 1967||San Diego Rockets|109|108|6|8|W 1|True|True|0|196711110CIN
+15|15|Tue, Nov 14, 1967||Philadelphia 76ers|102|122|6|9|L 1|False|False|0|196711140PHI
+16|16|Fri, Nov 17, 1967||Boston Celtics|120|119|7|9|W 1|True|False|0|196711170BOS
+17|17|Wed, Nov 22, 1967||New York Knicks|123|122|8|9|W 2|True|True|0|196711220CIN
+18|18|Fri, Nov 24, 1967||Seattle SuperSonics|153|133|9|9|W 3|True|True|0|196711240CIN
+19|19|Sat, Nov 25, 1967||Detroit Pistons|123|133|9|10|L 1|False|True|0|196711250CIN
+20|20|Wed, Nov 29, 1967||New York Knicks|99|119|9|11|L 2|False|True|0|196711290CIN
+21|21|Fri, Dec 1, 1967||Baltimore Bullets|109|123|9|12|L 3|False|False|0|196712010BAL
+22|22|Sat, Dec 2, 1967||Chicago Bulls|110|126|9|13|L 4|False|True|0|196712020CIN
+23|23|Tue, Dec 5, 1967||Chicago Bulls|104|105|9|14|L 5|False|True|0|196712050CHI
+24|24|Wed, Dec 6, 1967||Philadelphia 76ers|107|108|9|15|L 6|False|True|0|196712060CIN
+25|25|Fri, Dec 8, 1967||St. Louis Hawks|95|101|9|16|L 7|False|False|0|196712080STL
+26|26|Sat, Dec 9, 1967||Boston Celtics|108|104|10|16|W 1|True|True|0|196712090CIN
+27|27|Wed, Dec 13, 1967||Baltimore Bullets|136|108|11|16|W 2|True|True|0|196712130CIN
+28|28|Fri, Dec 15, 1967||Detroit Pistons|147|130|12|16|W 3|True|True|0|196712150CIN
+29|29|Sat, Dec 16, 1967||Detroit Pistons|122|110|13|16|W 4|True|False|0|196712160DET
+30|30|Tue, Dec 19, 1967||New York Knicks|118|133|13|17|L 1|False|False|0|196712190NYK
+31|31|Fri, Dec 22, 1967||Boston Celtics|117|120|13|18|L 2|False|False|0|196712220BOS
+32|32|Mon, Dec 25, 1967||Seattle SuperSonics|118|112|14|18|W 1|True|True|0|196712250CIN
+33|33|Tue, Dec 26, 1967||Philadelphia 76ers|121|126|14|19|L 1|False|False|0|196712260PHI
+34|34|Wed, Dec 27, 1967||Los Angeles Lakers|132|127|15|19|W 1|True|True|0|196712270CIN
+35|35|Thu, Dec 28, 1967||San Francisco Warriors|126|122|16|19|W 2|True|True|0|196712280CIN
+36|36|Fri, Dec 29, 1967||Baltimore Bullets|113|130|16|20|L 1|False|False|0|196712290BAL
+37|37|Tue, Jan 2, 1968||New York Knicks|125|119|17|20|W 1|True|False|0|196801020NYK
+38|38|Fri, Jan 5, 1968||Detroit Pistons|141|142|17|21|L 1|False|False|1|196801050DET
+39|39|Sat, Jan 6, 1968||Chicago Bulls|109|114|17|22|L 2|False|True|0|196801060CIN
+40|40|Sun, Jan 7, 1968||Philadelphia 76ers|134|118|18|22|W 1|True|True|0|196801070CIN
+41|41|Tue, Jan 9, 1968||Baltimore Bullets|118|121|18|23|L 1|False|True|0|196801090BAL
+42|42|Wed, Jan 10, 1968||Baltimore Bullets|133|117|19|23|W 1|True|True|0|196801100CIN
+43|43|Thu, Jan 11, 1968||Boston Celtics|120|116|20|23|W 2|True|True|0|196801110BOS
+44|44|Sat, Jan 13, 1968||San Diego Rockets|122|116|21|23|W 3|True|True|0|196801130CIN
+45|45|Tue, Jan 16, 1968||San Francisco Warriors|148|121|22|23|W 4|True|True|0|196801160CIN
+46|46|Thu, Jan 18, 1968||San Diego Rockets|129|126|23|23|W 5|True|True|0|196801180CIN
+47|47|Sat, Jan 20, 1968||Detroit Pistons|128|120|24|23|W 6|True|True|0|196801200CIN
+48|48|Thu, Jan 25, 1968||Los Angeles Lakers|116|118|24|24|L 1|False|True|0|196801250CIN
+49|49|Fri, Jan 26, 1968||Philadelphia 76ers|113|123|24|25|L 2|False|False|0|196801260PHI
+50|50|Sat, Jan 27, 1968||St. Louis Hawks|111|120|24|26|L 3|False|True|0|196801270CIN
+51|51|Tue, Jan 30, 1968||Detroit Pistons|121|101|25|26|W 1|True|True|0|196801300CIN
+52|52|Wed, Jan 31, 1968||New York Knicks|126|128|25|27|L 1|False|True|1|196801310CIN
+53|53|Fri, Feb 2, 1968||Chicago Bulls|125|113|26|27|W 1|True|False|0|196802020CHI
+54|54|Sat, Feb 3, 1968||St. Louis Hawks|111|125|26|28|L 1|False|True|0|196802030CIN
+55|55|Sun, Feb 4, 1968||St. Louis Hawks|100|106|26|29|L 2|False|False|0|196802040STL
+56|56|Mon, Feb 5, 1968||Seattle SuperSonics|129|132|26|30|L 3|False|True|1|196802050CIN
+57|57|Tue, Feb 6, 1968||Los Angeles Lakers|102|146|26|31|L 4|False|False|0|196802060LAL
+58|58|Thu, Feb 8, 1968||San Francisco Warriors|109|126|26|32|L 5|False|False|0|196802080SFW
+59|59|Sat, Feb 10, 1968||San Diego Rockets|101|99|27|32|W 1|True|False|0|196802100SDR
+60|60|Mon, Feb 12, 1968||Chicago Bulls|104|112|27|33|L 1|False|True|1|196802120CHI
+61|61|Tue, Feb 13, 1968||St. Louis Hawks|111|123|27|34|L 2|False|True|0|196802130CIN
+62|62|Thu, Feb 15, 1968||Seattle SuperSonics|132|119|28|34|W 1|True|True|0|196802150CIN
+63|63|Fri, Feb 16, 1968||New York Knicks|125|91|29|34|W 2|True|True|0|196802160CIN
+64|64|Sat, Feb 17, 1968||Baltimore Bullets|117|115|30|34|W 3|True|True|0|196802170CIN
+65|65|Sun, Feb 18, 1968||Boston Celtics|107|100|31|34|W 4|True|True|0|196802180CIN
+66|66|Tue, Feb 20, 1968||Boston Celtics|110|126|31|35|L 1|False|False|0|196802200BOS
+67|67|Thu, Feb 22, 1968||Baltimore Bullets|99|112|31|36|L 2|False|True|0|196802220BAL
+68|68|Fri, Feb 23, 1968||Los Angeles Lakers|115|131|31|37|L 3|False|False|0|196802230LAL
+69|69|Sat, Feb 24, 1968||San Francisco Warriors|114|127|31|38|L 4|False|False|0|196802240SFW
+70|70|Tue, Feb 27, 1968||Los Angeles Lakers|106|117|31|39|L 5|False|False|0|196802270LAL
+71|71|Thu, Feb 29, 1968||San Diego Rockets|120|114|32|39|W 1|True|False|0|196802290SDR
+72|72|Fri, Mar 1, 1968||San Francisco Warriors|122|101|33|39|W 2|True|False|0|196803010SFW
+73|73|Sun, Mar 3, 1968||Seattle SuperSonics|138|128|34|39|W 3|True|False|0|196803030SEA
+74|74|Wed, Mar 6, 1968||Philadelphia 76ers|108|106|35|39|W 4|True|True|0|196803060CIN
+75|75|Thu, Mar 7, 1968||Philadelphia 76ers|117|125|35|40|L 1|False|True|0|196803070CIN
+76|76|Fri, Mar 8, 1968||Detroit Pistons|118|129|35|41|L 2|False|True|0|196803080CIN
+77|77|Sun, Mar 10, 1968||Boston Celtics|137|111|36|41|W 1|True|False|0|196803100BOS
+78|78|Mon, Mar 11, 1968||Chicago Bulls|98|104|36|42|L 1|False|False|0|196803110CHI
+79|79|Wed, Mar 13, 1968||Seattle SuperSonics|142|123|37|42|W 1|True|True|0|196803130CIN
+80|80|Thu, Mar 14, 1968||St. Louis Hawks|102|96|38|42|W 2|True|True|0|196803140CIN
+81|81|Tue, Mar 19, 1968||Philadelphia 76ers|131|130|39|42|W 3|True|False|1|196803190PHI
+82|82|Wed, Mar 20, 1968||New York Knicks|106|108|39|43|L 1|False|False|0|196803200NYK

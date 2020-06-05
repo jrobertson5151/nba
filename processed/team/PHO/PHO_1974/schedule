@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Thu, Oct 17, 1974||Seattle SuperSonics|114|97|1|0|W 1|True|True|0|197410170PHO
+2|2|Sat, Oct 19, 1974||Kansas City-Omaha Kings|91|94|1|1|L 1|False|True|0|197410190PHO
+3|3|Wed, Oct 23, 1974||Detroit Pistons|100|90|2|1|W 1|True|True|0|197410230PHO
+4|4|Fri, Oct 25, 1974||Seattle SuperSonics|97|106|2|2|L 1|False|False|0|197410250SEA
+5|5|Sun, Oct 27, 1974||Los Angeles Lakers|116|123|2|3|L 2|False|False|0|197410270LAL
+6|6|Wed, Oct 30, 1974||Philadelphia 76ers|104|99|3|3|W 1|True|False|0|197410300PHI
+7|7|Sat, Nov 2, 1974||Washington Bullets|94|108|3|4|L 1|False|False|0|197411020WSB
+8|8|Sun, Nov 3, 1974||Cleveland Cavaliers|101|104|3|5|L 2|False|False|0|197411030CLE
+9|9|Thu, Nov 7, 1974||Atlanta Hawks|108|109|3|6|L 3|False|False|0|197411070ATL
+10|10|Fri, Nov 8, 1974||New Orleans Jazz|105|102|4|6|W 1|True|False|0|197411080NOJ
+11|11|Sat, Nov 9, 1974||Houston Rockets|101|96|5|6|W 2|True|False|0|197411090HOU
+12|12|Wed, Nov 13, 1974||Philadelphia 76ers|105|100|6|6|W 3|True|True|0|197411130PHO
+13|13|Fri, Nov 15, 1974||Chicago Bulls|95|102|6|7|L 1|False|True|0|197411150PHO
+14|14|Sun, Nov 17, 1974||Golden State Warriors|105|106|6|8|L 2|False|True|0|197411170PHO
+15|15|Tue, Nov 19, 1974||Milwaukee Bucks|108|122|6|9|L 3|False|False|0|197411190MIL
+16|16|Wed, Nov 20, 1974||Detroit Pistons|114|106|7|9|W 1|True|False|0|197411200DET
+17|17|Fri, Nov 22, 1974||Boston Celtics|94|95|7|10|L 1|False|False|0|197411220BOS
+18|18|Sat, Nov 23, 1974||Buffalo Braves|104|117|7|11|L 2|False|False|0|197411230BUF
+19|19|Tue, Nov 26, 1974||New Orleans Jazz|120|110|8|11|W 1|True|True|0|197411260PHO
+20|20|Thu, Nov 28, 1974||Portland Trail Blazers|85|88|8|12|L 1|False|True|0|197411280PHO
+21|21|Sat, Nov 30, 1974||Houston Rockets|112|100|9|12|W 1|True|True|0|197411300PHO
+22|22|Sun, Dec 1, 1974||Los Angeles Lakers|105|111|9|13|L 1|False|False|1|197412010LAL
+23|23|Tue, Dec 3, 1974||Atlanta Hawks|85|91|9|14|L 2|False|True|0|197412030PHO
+24|24|Thu, Dec 5, 1974||Golden State Warriors|108|106|10|14|W 1|True|True|2|197412050PHO
+25|25|Sat, Dec 7, 1974||Los Angeles Lakers|92|88|11|14|W 2|True|True|0|197412070PHO
+26|26|Sun, Dec 8, 1974||Los Angeles Lakers|102|107|11|15|L 1|False|False|0|197412080LAL
+27|27|Wed, Dec 11, 1974||Portland Trail Blazers|104|100|12|15|W 1|True|True|0|197412110PHO
+28|28|Fri, Dec 13, 1974||Cleveland Cavaliers|85|84|13|15|W 2|True|True|0|197412130PHO
+29|29|Thu, Dec 19, 1974||Milwaukee Bucks|108|112|13|16|L 1|False|True|0|197412190PHO
+30|30|Sat, Dec 21, 1974||Los Angeles Lakers|114|104|14|16|W 1|True|True|0|197412210PHO
+31|31|Mon, Dec 23, 1974||Golden State Warriors|94|111|14|17|L 1|False|False|0|197412230GSW
+32|32|Wed, Dec 25, 1974||Boston Celtics|110|96|15|17|W 1|True|True|0|197412250PHO
+33|33|Fri, Dec 27, 1974||Buffalo Braves|92|108|15|18|L 1|False|True|0|197412270PHO
+34|34|Thu, Jan 2, 1975||New York Knicks|113|117|15|19|L 2|False|False|1|197501020NYK
+35|35|Fri, Jan 3, 1975||Chicago Bulls|99|126|15|20|L 3|False|False|0|197501030CHI
+36|36|Sun, Jan 5, 1975||Cleveland Cavaliers|86|97|15|21|L 4|False|False|0|197501050CLE
+37|37|Wed, Jan 8, 1975||Washington Bullets|95|102|15|22|L 5|False|True|0|197501080PHO
+38|38|Fri, Jan 10, 1975||Portland Trail Blazers|110|113|15|23|L 6|False|True|0|197501100PHO
+39|39|Sat, Jan 11, 1975||New York Knicks|113|107|16|23|W 1|True|True|0|197501110PHO
+40|40|Fri, Jan 17, 1975||Chicago Bulls|115|105|17|23|W 2|True|False|0|197501170CHI
+41|41|Sat, Jan 18, 1975||Detroit Pistons|77|86|17|24|L 1|False|False|0|197501180DET
+42|42|Sun, Jan 19, 1975||Kansas City-Omaha Kings|109|97|18|24|W 1|True|False|0|197501190KCO
+43|43|Tue, Jan 21, 1975||Philadelphia 76ers|95|101|18|25|L 1|False|True|0|197501210PHO
+44|44|Sat, Jan 25, 1975||New Orleans Jazz|94|90|19|25|W 1|True|True|1|197501250PHO
+45|45|Tue, Jan 28, 1975||Portland Trail Blazers|107|115|19|26|L 1|False|False|0|197501280POR
+46|46|Wed, Jan 29, 1975||Seattle SuperSonics|85|99|19|27|L 2|False|True|0|197501290PHO
+47|47|Fri, Jan 31, 1975||Los Angeles Lakers|105|101|20|27|W 1|True|True|0|197501310PHO
+48|48|Tue, Feb 4, 1975||Washington Bullets|90|89|21|27|W 2|True|True|0|197502040PHO
+49|49|Wed, Feb 5, 1975||Seattle SuperSonics|107|102|22|27|W 3|True|False|0|197502050SEA
+50|50|Thu, Feb 6, 1975||Seattle SuperSonics|112|105|23|27|W 4|True|True|0|197502060PHO
+51|51|Sat, Feb 8, 1975||Golden State Warriors|96|105|23|28|L 1|False|False|0|197502080GSW
+52|52|Wed, Feb 12, 1975||Buffalo Braves|108|96|24|28|W 1|True|True|0|197502120PHO
+53|53|Fri, Feb 14, 1975||Boston Celtics|106|112|24|29|L 1|False|True|0|197502140PHO
+54|54|Sat, Feb 15, 1975||Atlanta Hawks|107|111|24|30|L 2|False|True|0|197502150PHO
+55|55|Tue, Feb 18, 1975||Buffalo Braves|109|124|24|31|L 3|False|False|0|197502180BUF
+56|56|Wed, Feb 19, 1975||Washington Bullets|97|120|24|32|L 4|False|False|0|197502190WSB
+57|57|Fri, Feb 21, 1975||New Orleans Jazz|96|98|24|33|L 5|False|False|0|197502210NOJ
+58|58|Sun, Feb 23, 1975||Milwaukee Bucks|106|97|25|33|W 1|True|False|0|197502230MIL
+59|59|Tue, Feb 25, 1975||Golden State Warriors|111|97|26|33|W 2|True|False|0|197502250GSW
+60|60|Wed, Feb 26, 1975||Cleveland Cavaliers|108|96|27|33|W 3|True|True|0|197502260PHO
+61|61|Fri, Feb 28, 1975||Golden State Warriors|102|96|28|33|W 4|True|True|0|197502280PHO
+62|62|Sun, Mar 2, 1975||Houston Rockets|104|110|28|34|L 1|False|False|0|197503020HOU
+63|63|Tue, Mar 4, 1975||Kansas City-Omaha Kings|99|103|28|35|L 2|False|False|0|197503040KCO
+64|64|Thu, Mar 6, 1975||Chicago Bulls|88|65|29|35|W 1|True|True|0|197503060PHO
+65|65|Fri, Mar 7, 1975||Portland Trail Blazers|98|120|29|36|L 1|False|False|0|197503070POR
+66|66|Sat, Mar 8, 1975||Houston Rockets|107|112|29|37|L 2|False|True|0|197503080PHO
+67|67|Tue, Mar 11, 1975||New York Knicks|98|103|29|38|L 3|False|False|0|197503110NYK
+68|68|Wed, Mar 12, 1975||Boston Celtics|82|88|29|39|L 4|False|False|0|197503120BOS
+69|69|Fri, Mar 14, 1975||Philadelphia 76ers|97|108|29|40|L 5|False|False|0|197503140PHI
+70|70|Sun, Mar 16, 1975||Atlanta Hawks|114|117|29|41|L 6|False|False|0|197503160ATL
+71|71|Tue, Mar 18, 1975||Golden State Warriors|103|133|29|42|L 7|False|False|0|197503180GSW
+72|72|Wed, Mar 19, 1975||New York Knicks|96|101|29|43|L 8|False|True|0|197503190PHO
+73|73|Fri, Mar 21, 1975||Portland Trail Blazers|108|112|29|44|L 9|False|True|0|197503210PHO
+74|74|Sat, Mar 22, 1975||Portland Trail Blazers|92|94|29|45|L 10|False|False|0|197503220POR
+75|75|Sun, Mar 23, 1975||Seattle SuperSonics|102|96|30|45|W 1|True|False|0|197503230SEA
+76|76|Tue, Mar 25, 1975||Milwaukee Bucks|92|87|31|45|W 2|True|True|0|197503250PHO
+77|77|Thu, Mar 27, 1975||Detroit Pistons|79|91|31|46|L 1|False|True|0|197503270PHO
+78|78|Sat, Mar 29, 1975||Kansas City-Omaha Kings|100|104|31|47|L 2|False|True|0|197503290PHO
+79|79|Sun, Mar 30, 1975||Los Angeles Lakers|90|104|31|48|L 3|False|False|0|197503300LAL
+80|80|Wed, Apr 2, 1975||Los Angeles Lakers|108|106|32|48|W 1|True|True|0|197504020PHO
+81|81|Fri, Apr 4, 1975||Golden State Warriors|99|128|32|49|L 1|False|True|0|197504040PHO
+82|82|Sun, Apr 6, 1975||Seattle SuperSonics|111|114|32|50|L 2|False|False|0|197504060SEA

@@ -1,0 +1,51 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Feb 5, 1999||Utah Jazz|96|104|0|1|L 1|False|False|0|199902050UTA
+2|2|Sun, Feb 7, 1999||Los Angeles Clippers|89|84|1|1|W 1|True|False|0|199902070LAC
+3|3|Tue, Feb 9, 1999||Atlanta Hawks|71|87|1|2|L 1|False|True|0|199902090CHI
+4|4|Thu, Feb 11, 1999||New York Knicks|68|73|1|3|L 2|False|True|0|199902110CHI
+5|5|Sun, Feb 14, 1999||San Antonio Spurs|76|89|1|4|L 3|False|True|0|199902140CHI
+6|6|Tue, Feb 16, 1999||Atlanta Hawks|67|83|1|5|L 4|False|True|0|199902160CHI
+7|7|Wed, Feb 17, 1999||Milwaukee Bucks|83|91|1|6|L 5|False|False|0|199902170MIL
+8|8|Fri, Feb 19, 1999||Washington Wizards|91|93|1|7|L 6|False|False|0|199902190WAS
+9|9|Sun, Feb 21, 1999||New York Knicks|63|79|1|8|L 7|False|False|0|199902210NYK
+10|10|Mon, Feb 22, 1999||Atlanta Hawks|77|68|2|8|W 1|True|False|0|199902220ATL
+11|11|Tue, Feb 23, 1999||Milwaukee Bucks|88|90|2|9|L 1|False|True|0|199902230CHI
+12|12|Thu, Feb 25, 1999||Philadelphia 76ers|80|98|2|10|L 2|False|True|0|199902250CHI
+13|13|Sat, Feb 27, 1999||Charlotte Hornets|94|77|3|10|W 1|True|True|0|199902270CHI
+14|14|Sun, Feb 28, 1999||Toronto Raptors|90|88|4|10|W 2|True|False|1|199902280TOR
+15|15|Tue, Mar 2, 1999||Detroit Pistons|78|108|4|11|L 1|False|True|0|199903020CHI
+16|16|Wed, Mar 3, 1999||Philadelphia 76ers|86|102|4|12|L 2|False|False|0|199903030PHI
+17|17|Mon, Mar 8, 1999||Milwaukee Bucks|76|81|4|13|L 3|False|False|0|199903080MIL
+18|18|Tue, Mar 9, 1999||New Jersey Nets|103|87|5|13|W 1|True|True|0|199903090CHI
+19|19|Thu, Mar 11, 1999||Seattle SuperSonics|83|92|5|14|L 1|False|True|0|199903110CHI
+20|20|Fri, Mar 12, 1999||New York Knicks|76|63|6|14|W 1|True|True|0|199903120CHI
+21|21|Mon, Mar 15, 1999||Cleveland Cavaliers|85|89|6|15|L 1|False|True|1|199903150CHI
+22|22|Wed, Mar 17, 1999||Orlando Magic|94|103|6|16|L 2|False|False|0|199903170ORL
+23|23|Thu, Mar 18, 1999||New Jersey Nets|104|95|7|16|W 1|True|True|0|199903180CHI
+24|24|Fri, Mar 19, 1999||Indiana Pacers|87|96|7|17|L 1|False|False|0|199903190IND
+25|25|Sun, Mar 21, 1999||Boston Celtics|95|92|8|17|W 1|True|False|1|199903210BOS
+26|26|Tue, Mar 23, 1999||Toronto Raptors|90|113|8|18|L 1|False|True|0|199903230CHI
+27|27|Wed, Mar 24, 1999||Charlotte Hornets|81|110|8|19|L 2|False|False|0|199903240CHH
+28|28|Fri, Mar 26, 1999||Atlanta Hawks|81|93|8|20|L 3|False|False|0|199903260ATL
+29|29|Sun, Mar 28, 1999||Toronto Raptors|78|91|8|21|L 4|False|False|0|199903280TOR
+30|30|Tue, Mar 30, 1999||Philadelphia 76ers|91|81|9|21|W 1|True|True|0|199903300CHI
+31|31|Thu, Apr 1, 1999||Detroit Pistons|75|107|9|22|L 1|False|False|0|199904010DET
+32|32|Fri, Apr 2, 1999||Orlando Magic|68|115|9|23|L 2|False|True|0|199904020CHI
+33|33|Sun, Apr 4, 1999||Vancouver Grizzlies|88|87|10|23|W 1|True|True|0|199904040CHI
+34|34|Tue, Apr 6, 1999||Cleveland Cavaliers|89|96|10|24|L 1|False|False|0|199904060CLE
+35|35|Wed, Apr 7, 1999||Indiana Pacers|74|91|10|25|L 2|False|True|0|199904070CHI
+36|36|Sat, Apr 10, 1999||Miami Heat|49|82|10|26|L 3|False|True|0|199904100CHI
+37|37|Sun, Apr 11, 1999||Boston Celtics|81|87|10|27|L 4|False|False|0|199904110BOS
+38|38|Tue, Apr 13, 1999||Miami Heat|74|90|10|28|L 5|False|False|0|199904130MIA
+39|39|Wed, Apr 14, 1999||Cleveland Cavaliers|81|89|10|29|L 6|False|True|0|199904140CHI
+40|40|Fri, Apr 16, 1999||Washington Wizards|70|87|10|30|L 7|False|False|0|199904160WAS
+41|41|Sun, Apr 18, 1999||Milwaukee Bucks|79|77|11|30|W 1|True|True|0|199904180CHI
+42|42|Tue, Apr 20, 1999||Washington Wizards|83|77|12|30|W 2|True|True|0|199904200CHI
+43|43|Wed, Apr 21, 1999||New Jersey Nets|87|99|12|31|L 1|False|False|0|199904210NJN
+44|44|Fri, Apr 23, 1999||Boston Celtics|71|100|12|32|L 2|False|True|0|199904230CHI
+45|45|Sat, Apr 24, 1999||Indiana Pacers|69|87|12|33|L 3|False|False|0|199904240IND
+46|46|Mon, Apr 26, 1999||Dallas Mavericks|93|101|12|34|L 4|False|False|0|199904260DAL
+47|47|Fri, Apr 30, 1999||Charlotte Hornets|88|92|12|35|L 5|False|False|0|199904300CHH
+48|48|Sat, May 1, 1999||Miami Heat|101|86|13|35|W 1|True|False|0|199905010MIA
+49|49|Mon, May 3, 1999||Detroit Pistons|71|115|13|36|L 1|False|True|0|199905030CHI
+50|50|Wed, May 5, 1999||Orlando Magic|83|103|13|37|L 2|False|True|0|199905050CHI

@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Nov 3, 1989||Washington Bullets|96|116|0|1|L 1|False|True|0|198911030CHH
+2|2|Tue, Nov 7, 1989||Seattle SuperSonics|88|128|0|2|L 2|False|False|0|198911070SEA
+3|3|Wed, Nov 8, 1989||Utah Jazz|86|102|0|3|L 3|False|False|0|198911080UTA
+4|4|Fri, Nov 10, 1989||Los Angeles Lakers|100|106|0|4|L 4|False|False|0|198911100LAL
+5|5|Sat, Nov 11, 1989||Golden State Warriors|104|115|0|5|L 5|False|False|0|198911110GSW
+6|6|Tue, Nov 14, 1989||Orlando Magic|130|116|1|5|W 1|True|True|0|198911140CHH
+7|7|Wed, Nov 15, 1989||Philadelphia 76ers|96|109|1|6|L 1|False|False|0|198911150PHI
+8|8|Fri, Nov 17, 1989||Golden State Warriors|99|98|2|6|W 1|True|True|0|198911170CHH
+9|9|Tue, Nov 21, 1989||Miami Heat|87|98|2|7|L 1|False|True|0|198911210CHH
+10|10|Fri, Nov 24, 1989||Houston Rockets|81|85|2|8|L 2|False|True|0|198911240CHH
+11|11|Sat, Nov 25, 1989||Minnesota Timberwolves|81|73|3|8|W 1|True|True|0|198911250CHH
+12|12|Mon, Nov 27, 1989||New York Knicks|108|119|3|9|L 1|False|False|0|198911270NYK
+13|13|Wed, Nov 29, 1989||Dallas Mavericks|83|102|3|10|L 2|False|False|0|198911290DAL
+14|14|Thu, Nov 30, 1989||Houston Rockets|101|113|3|11|L 3|False|False|0|198911300HOU
+15|15|Sat, Dec 2, 1989||San Antonio Spurs|110|118|3|12|L 4|False|False|0|198912020SAS
+16|16|Tue, Dec 5, 1989||Boston Celtics|101|114|3|13|L 5|False|True|0|198912050CHH
+17|17|Thu, Dec 7, 1989||Portland Trail Blazers|86|96|3|14|L 6|False|True|0|198912070CHH
+18|18|Sat, Dec 9, 1989||Denver Nuggets|93|106|3|15|L 7|False|True|0|198912090CHH
+19|19|Tue, Dec 12, 1989||Los Angeles Lakers|89|103|3|16|L 8|False|True|0|198912120CHH
+20|20|Thu, Dec 14, 1989||Washington Bullets|101|105|3|17|L 9|False|False|0|198912140WSB
+21|21|Sat, Dec 16, 1989||Chicago Bulls|104|115|3|18|L 10|False|False|0|198912160CHI
+22|22|Tue, Dec 19, 1989||Dallas Mavericks|102|97|4|18|W 1|True|True|0|198912190CHH
+23|23|Fri, Dec 22, 1989||Utah Jazz|100|114|4|19|L 1|False|True|0|198912220CHH
+24|24|Tue, Dec 26, 1989||San Antonio Spurs|82|107|4|20|L 2|False|True|0|198912260CHH
+25|25|Thu, Dec 28, 1989||Cleveland Cavaliers|94|92|5|20|W 1|True|True|0|198912280CHH
+26|26|Sat, Dec 30, 1989||Houston Rockets|111|92|6|20|W 2|True|True|0|198912300CHH
+27|27|Thu, Jan 4, 1990||Minnesota Timberwolves|98|100|6|21|L 1|False|False|0|199001040MIN
+28|28|Sat, Jan 6, 1990||Indiana Pacers|117|111|7|21|W 1|True|True|0|199001060CHH
+29|29|Mon, Jan 8, 1990||Milwaukee Bucks|113|126|7|22|L 1|False|False|0|199001080MIL
+30|30|Tue, Jan 9, 1990||Los Angeles Clippers|98|108|7|23|L 2|False|True|0|199001090CHH
+31|31|Thu, Jan 11, 1990||New Jersey Nets|101|109|7|24|L 3|False|False|0|199001110NJN
+32|32|Fri, Jan 12, 1990||Chicago Bulls|95|107|7|25|L 4|False|True|0|199001120CHH
+33|33|Mon, Jan 15, 1990||Phoenix Suns|108|118|7|26|L 5|False|False|1|199001150PHO
+34|34|Tue, Jan 16, 1990||Los Angeles Clippers|98|106|7|27|L 6|False|False|0|199001160LAC
+35|35|Thu, Jan 18, 1990||Denver Nuggets|110|108|8|27|W 1|True|False|0|199001180DEN
+36|36|Fri, Jan 19, 1990||Utah Jazz|93|116|8|28|L 1|False|False|0|199001190UTA
+37|37|Sun, Jan 21, 1990||Portland Trail Blazers|100|115|8|29|L 2|False|False|0|199001210POR
+38|38|Tue, Jan 23, 1990||Atlanta Hawks|101|106|8|30|L 3|False|True|0|199001230CHH
+39|39|Thu, Jan 25, 1990||Phoenix Suns|97|124|8|31|L 4|False|True|0|199001250CHH
+40|40|Sat, Jan 27, 1990||Sacramento Kings|85|92|8|32|L 5|False|True|0|199001270CHH
+41|41|Wed, Jan 31, 1990||San Antonio Spurs|95|129|8|33|L 6|False|False|0|199001310SAS
+42|42|Fri, Feb 2, 1990||San Antonio Spurs|107|118|8|34|L 7|False|True|0|199002020CHH
+43|43|Mon, Feb 5, 1990||Seattle SuperSonics|100|101|8|35|L 8|False|True|0|199002050CHH
+44|44|Wed, Feb 7, 1990||Boston Celtics|125|146|8|36|L 9|False|False|0|199002070BOS
+45|45|Thu, Feb 8, 1990||Utah Jazz|74|94|8|37|L 10|False|True|0|199002080CHH
+46|46|Tue, Feb 13, 1990||Indiana Pacers|105|128|8|38|L 11|False|False|0|199002130IND
+47|47|Wed, Feb 14, 1990||Minnesota Timberwolves|86|95|8|39|L 12|False|False|0|199002140MIN
+48|48|Fri, Feb 16, 1990||Denver Nuggets|113|107|9|39|W 1|True|True|0|199002160CHH
+49|49|Sun, Feb 18, 1990||Seattle SuperSonics|70|85|9|40|L 1|False|True|0|199002180CHH
+50|50|Tue, Feb 20, 1990||Portland Trail Blazers|94|104|9|41|L 2|False|True|0|199002200CHH
+51|51|Fri, Feb 23, 1990||Milwaukee Bucks|100|104|9|42|L 3|False|True|0|199002230CHH
+52|52|Sun, Feb 25, 1990||Cleveland Cavaliers|86|102|9|43|L 4|False|False|0|199002250CLE
+53|53|Tue, Feb 27, 1990||Orlando Magic|109|115|9|44|L 5|False|False|0|199002270ORL
+54|54|Thu, Mar 1, 1990||Los Angeles Clippers|118|109|10|44|W 1|True|True|1|199003010CHH
+55|55|Sat, Mar 3, 1990||Sacramento Kings|103|104|10|45|L 1|False|True|0|199003030CHH
+56|56|Mon, Mar 5, 1990||Golden State Warriors|117|138|10|46|L 2|False|False|0|199003050GSW
+57|57|Tue, Mar 6, 1990||Denver Nuggets|96|122|10|47|L 3|False|False|0|199003060DEN
+58|58|Thu, Mar 8, 1990||Sacramento Kings|102|111|10|48|L 4|False|False|0|199003080SAC
+59|59|Sun, Mar 11, 1990||Detroit Pistons|88|98|10|49|L 5|False|True|0|199003110CHH
+60|60|Mon, Mar 12, 1990||Los Angeles Lakers|102|107|10|50|L 6|False|True|0|199003120CHH
+61|61|Wed, Mar 14, 1990||Seattle SuperSonics|100|103|10|51|L 7|False|False|0|199003140SEA
+62|62|Fri, Mar 16, 1990||Portland Trail Blazers|109|124|10|52|L 8|False|False|0|199003160POR
+63|63|Sun, Mar 18, 1990||Los Angeles Clippers|108|97|11|52|W 1|True|False|0|199003180LAC
+64|64|Tue, Mar 20, 1990||Los Angeles Lakers|97|109|11|53|L 1|False|False|0|199003200LAL
+65|65|Wed, Mar 21, 1990||Phoenix Suns|115|114|12|53|W 1|True|False|1|199003210PHO
+66|66|Fri, Mar 23, 1990||New York Knicks|106|93|13|53|W 2|True|True|0|199003230CHH
+67|67|Sat, Mar 24, 1990||Atlanta Hawks|109|122|13|54|L 1|False|False|0|199003240ATL
+68|68|Mon, Mar 26, 1990||New Jersey Nets|97|83|14|54|W 1|True|True|0|199003260CHH
+69|69|Wed, Mar 28, 1990||Detroit Pistons|97|106|14|55|L 1|False|False|0|199003280DET
+70|70|Thu, Mar 29, 1990||Phoenix Suns|92|105|14|56|L 2|False|True|0|199003290CHH
+71|71|Sat, Mar 31, 1990||Sacramento Kings|115|103|15|56|W 1|True|False|0|199003310SAC
+72|72|Tue, Apr 3, 1990||Utah Jazz|104|127|15|57|L 1|False|False|0|199004030UTA
+73|73|Wed, Apr 4, 1990||Denver Nuggets|116|112|16|57|W 1|True|False|0|199004040DEN
+74|74|Fri, Apr 6, 1990||Minnesota Timberwolves|108|93|17|57|W 2|True|True|0|199004060CHH
+75|75|Sun, Apr 8, 1990||Golden State Warriors|110|109|18|57|W 3|True|True|0|199004080CHH
+76|76|Tue, Apr 10, 1990||Houston Rockets|112|115|18|58|L 1|False|True|0|199004100CHH
+77|77|Thu, Apr 12, 1990||Houston Rockets|110|117|18|59|L 2|False|False|0|199004120HOU
+78|78|Sat, Apr 14, 1990||Philadelphia 76ers|102|109|18|60|L 3|False|True|0|199004140CHH
+79|79|Mon, Apr 16, 1990||San Antonio Spurs|101|110|18|61|L 4|False|True|0|199004160CHH
+80|80|Wed, Apr 18, 1990||Miami Heat|98|91|19|61|W 1|True|False|0|199004180MIA
+81|81|Thu, Apr 19, 1990||Dallas Mavericks|102|111|19|62|L 1|False|True|0|199004190CHH
+82|82|Sun, Apr 22, 1990||Dallas Mavericks|107|118|19|63|L 2|False|False|0|199004220DAL

@@ -1,0 +1,81 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Sat, Oct 20, 1962||Detroit Pistons|120|111|1|0|W 1|True|True|0|196210200STL
+2|2|Tue, Oct 23, 1962||Chicago Zephyrs|110|109|2|0|W 2|True|True|0|196210230CHZ
+3|3|Wed, Oct 24, 1962||Cincinnati Royals|121|114|3|0|W 3|True|True|0|196210240STL
+4|4|Fri, Oct 26, 1962||Cincinnati Royals|102|118|3|1|L 1|False|False|0|196210260CIN
+5|5|Sat, Oct 27, 1962||New York Knicks|115|109|4|1|W 1|True|True|0|196210270STL
+6|6|Tue, Oct 30, 1962||Boston Celtics|98|97|5|1|W 2|True|True|0|196210300STL
+7|7|Wed, Oct 31, 1962||Syracuse Nationals|108|126|5|2|L 1|False|True|0|196210310STL
+8|8|Sat, Nov 3, 1962||Chicago Zephyrs|114|109|6|2|W 1|True|True|0|196211030STL
+9|9|Wed, Nov 7, 1962||New York Knicks|112|122|6|3|L 1|False|True|0|196211070STL
+10|10|Fri, Nov 9, 1962||Syracuse Nationals|93|101|6|4|L 2|False|False|0|196211090SYR
+11|11|Sat, Nov 10, 1962||Los Angeles Lakers|97|96|7|4|W 1|True|True|0|196211100STL
+12|12|Sun, Nov 11, 1962||Detroit Pistons|117|100|8|4|W 2|True|True|0|196211110STL
+13|13|Tue, Nov 13, 1962||San Francisco Warriors|132|100|9|4|W 3|True|True|0|196211130STL
+14|14|Fri, Nov 16, 1962||Cincinnati Royals|111|120|9|5|L 1|False|False|0|196211160CIN
+15|15|Sat, Nov 17, 1962||Syracuse Nationals|113|107|10|5|W 1|True|True|0|196211170STL
+16|16|Tue, Nov 20, 1962||New York Knicks|95|103|10|6|L 1|False|False|0|196211200NYK
+17|17|Wed, Nov 21, 1962||Boston Celtics|106|115|10|7|L 2|False|False|0|196211210BOS
+18|18|Thu, Nov 22, 1962||Detroit Pistons|106|91|11|7|W 1|True|True|0|196211220STL
+19|19|Fri, Nov 23, 1962||Detroit Pistons|121|93|12|7|W 2|True|False|0|196211230DET
+20|20|Sat, Nov 24, 1962||Boston Celtics|97|95|13|7|W 3|True|True|0|196211240STL
+21|21|Tue, Nov 27, 1962||Syracuse Nationals|120|105|14|7|W 4|True|True|0|196211270STL
+22|22|Wed, Nov 28, 1962||Los Angeles Lakers|110|116|14|8|L 1|False|False|0|196211280LAL
+23|23|Thu, Nov 29, 1962||San Francisco Warriors|128|121|15|8|W 1|True|False|0|196211290SFW
+24|24|Sat, Dec 1, 1962||Los Angeles Lakers|97|110|15|9|L 1|False|False|0|196212010LAL
+25|25|Sun, Dec 2, 1962||San Francisco Warriors|122|116|16|9|W 1|True|False|0|196212020SFW
+26|26|Tue, Dec 4, 1962||Chicago Zephyrs|104|102|17|9|W 2|True|True|0|196212040STL
+27|27|Thu, Dec 6, 1962||Chicago Zephyrs|93|106|17|10|L 1|False|False|0|196212060CHZ
+28|28|Sat, Dec 8, 1962||San Francisco Warriors|145|129|18|10|W 1|True|True|0|196212080STL
+29|29|Sun, Dec 9, 1962||Detroit Pistons|119|123|18|11|L 1|False|True|0|196212090DET
+30|30|Wed, Dec 12, 1962||Boston Celtics|98|111|18|12|L 2|False|False|0|196212120BOS
+31|31|Sat, Dec 15, 1962||Detroit Pistons|112|94|19|12|W 1|True|False|0|196212150DET
+32|32|Sun, Dec 16, 1962||New York Knicks|115|108|20|12|W 2|True|True|0|196212160STL
+33|33|Tue, Dec 18, 1962||San Francisco Warriors|110|130|20|13|L 1|False|False|0|196212180SFW
+34|34|Wed, Dec 19, 1962||Los Angeles Lakers|106|135|20|14|L 2|False|False|0|196212190LAL
+35|35|Fri, Dec 21, 1962||Los Angeles Lakers|105|100|21|14|W 1|True|False|0|196212210LAL
+36|36|Tue, Dec 25, 1962||San Francisco Warriors|91|94|21|15|L 1|False|True|0|196212250SFW
+37|37|Wed, Dec 26, 1962||Los Angeles Lakers|106|104|22|15|W 1|True|True|0|196212260STL
+38|38|Sat, Dec 29, 1962||Boston Celtics|102|100|23|15|W 2|True|True|0|196212290STL
+39|39|Sun, Dec 30, 1962||Chicago Zephyrs|107|100|24|15|W 3|True|False|0|196212300CHZ
+40|40|Wed, Jan 2, 1963||Syracuse Nationals|95|120|24|16|L 1|False|False|0|196301020SYR
+41|41|Fri, Jan 4, 1963||Detroit Pistons|121|100|25|16|W 1|True|True|0|196301040DET
+42|42|Sat, Jan 5, 1963||Detroit Pistons|90|92|25|17|L 1|False|False|0|196301050DET
+43|43|Sun, Jan 6, 1963||San Francisco Warriors|114|103|26|17|W 1|True|True|0|196301060STL
+44|44|Tue, Jan 8, 1963||Los Angeles Lakers|96|99|26|18|L 1|False|True|0|196301080STL
+45|45|Wed, Jan 9, 1963||New York Knicks|110|95|27|18|W 1|True|True|0|196301090NYK
+46|46|Sat, Jan 12, 1963||Cincinnati Royals|115|109|28|18|W 2|True|True|0|196301120STL
+47|47|Sun, Jan 13, 1963||Cincinnati Royals|105|104|29|18|W 3|True|False|0|196301130CIN
+48|48|Sat, Jan 19, 1963||San Francisco Warriors|116|114|30|18|W 4|True|True|0|196301190STL
+49|49|Sun, Jan 20, 1963||San Francisco Warriors|116|115|31|18|W 5|True|True|0|196301200STL
+50|50|Tue, Jan 22, 1963||Syracuse Nationals|113|93|32|18|W 6|True|True|0|196301220STL
+51|51|Thu, Jan 24, 1963||Boston Celtics|109|111|32|19|L 1|False|True|0|196301240BOS
+52|52|Fri, Jan 25, 1963||Boston Celtics|98|113|32|20|L 2|False|False|0|196301250BOS
+53|53|Sun, Jan 27, 1963||Los Angeles Lakers|101|105|32|21|L 3|False|True|0|196301270STL
+54|54|Tue, Jan 29, 1963||Syracuse Nationals|123|105|33|21|W 1|True|True|0|196301290STL
+55|55|Thu, Jan 31, 1963||Syracuse Nationals|100|112|33|22|L 1|False|False|0|196301310SYR
+56|56|Fri, Feb 1, 1963||Chicago Zephyrs|119|111|34|22|W 1|True|False|0|196302010CHZ
+57|57|Sat, Feb 2, 1963||Los Angeles Lakers|97|103|34|23|L 1|False|True|0|196302020STL
+58|58|Tue, Feb 5, 1963||Detroit Pistons|120|105|35|23|W 1|True|True|0|196302050DET
+59|59|Fri, Feb 8, 1963||Cincinnati Royals|112|116|35|24|L 1|False|True|0|196302080STL
+60|60|Sun, Feb 10, 1963||Detroit Pistons|95|102|35|25|L 2|False|True|0|196302100STL
+61|61|Tue, Feb 12, 1963||Syracuse Nationals|128|100|36|25|W 1|True|True|0|196302120STL
+62|62|Wed, Feb 13, 1963||New York Knicks|103|102|37|25|W 2|True|False|0|196302130NYK
+63|63|Thu, Feb 14, 1963||New York Knicks|113|123|37|26|L 1|False|True|0|196302140NYK
+64|64|Fri, Feb 15, 1963||Cincinnati Royals|99|96|38|26|W 1|True|False|0|196302150CIN
+65|65|Sat, Feb 16, 1963||Boston Celtics|94|114|38|27|L 1|False|True|0|196302160STL
+66|66|Fri, Feb 22, 1963||Chicago Zephyrs|115|98|39|27|W 1|True|True|0|196302220STL
+67|67|Sun, Feb 24, 1963||San Francisco Warriors|127|106|40|27|W 2|True|True|0|196302240STL
+68|68|Tue, Feb 26, 1963||Cincinnati Royals|114|107|41|27|W 3|True|True|0|196302260STL
+69|69|Wed, Feb 27, 1963||Chicago Zephyrs|93|98|41|28|L 1|False|False|0|196302270CHZ
+70|70|Fri, Mar 1, 1963||Detroit Pistons|113|115|41|29|L 2|False|True|0|196303010DET
+71|71|Sun, Mar 3, 1963||Chicago Zephyrs|104|97|42|29|W 1|True|True|0|196303030STL
+72|72|Tue, Mar 5, 1963||Chicago Zephyrs|93|116|42|30|L 1|False|False|0|196303050CHZ
+73|73|Fri, Mar 8, 1963||New York Knicks|129|124|43|30|W 1|True|False|0|196303080NYK
+74|74|Sat, Mar 9, 1963||Los Angeles Lakers|117|101|44|30|W 2|True|True|0|196303090STL
+75|75|Sun, Mar 10, 1963||New York Knicks|132|120|45|30|W 3|True|True|0|196303100STL
+76|76|Mon, Mar 11, 1963||Los Angeles Lakers|96|109|45|31|L 1|False|False|0|196303110LAL
+77|77|Wed, Mar 13, 1963||Los Angeles Lakers|112|98|46|31|W 1|True|False|0|196303130LAL
+78|78|Thu, Mar 14, 1963||San Francisco Warriors|114|109|47|31|W 2|True|False|0|196303140SFW
+79|79|Fri, Mar 15, 1963||San Francisco Warriors|108|119|47|32|L 1|False|True|0|196303150SFW
+80|80|Sun, Mar 17, 1963||Detroit Pistons|119|105|48|32|W 1|True|True|0|196303170STL

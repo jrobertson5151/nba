@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Nov 4, 1988||Seattle SuperSonics|97|104|0|1|L 1|False|True|0|198811040UTA
+2|2|Wed, Nov 9, 1988||Sacramento Kings|105|81|1|1|W 1|True|True|0|198811090UTA
+3|3|Thu, Nov 10, 1988||Houston Rockets|99|106|1|2|L 1|False|False|0|198811100HOU
+4|4|Sat, Nov 12, 1988||San Antonio Spurs|105|96|2|2|W 1|True|False|0|198811120SAS
+5|5|Tue, Nov 15, 1988||Indiana Pacers|108|96|3|2|W 2|True|True|0|198811150UTA
+6|6|Thu, Nov 17, 1988||Portland Trail Blazers|123|99|4|2|W 3|True|True|0|198811170UTA
+7|7|Sat, Nov 19, 1988||Phoenix Suns|134|121|5|2|W 4|True|True|0|198811190UTA
+8|8|Mon, Nov 21, 1988||Los Angeles Clippers|117|98|6|2|W 5|True|True|0|198811210UTA
+9|9|Wed, Nov 23, 1988||Houston Rockets|111|108|7|2|W 6|True|True|0|198811230UTA
+10|10|Fri, Nov 25, 1988||San Antonio Spurs|115|95|8|2|W 7|True|True|0|198811250UTA
+11|11|Sat, Nov 26, 1988||Dallas Mavericks|93|113|8|3|L 1|False|False|0|198811260DAL
+12|12|Tue, Nov 29, 1988||Seattle SuperSonics|102|109|8|4|L 2|False|False|0|198811290SEA
+13|13|Wed, Nov 30, 1988||Chicago Bulls|107|93|9|4|W 1|True|True|0|198811300UTA
+14|14|Fri, Dec 2, 1988||Los Angeles Lakers|92|113|9|5|L 1|False|False|0|198812020LAL
+15|15|Sat, Dec 3, 1988||Sacramento Kings|107|73|10|5|W 1|True|False|0|198812030SAC
+16|16|Tue, Dec 6, 1988||Golden State Warriors|103|114|10|6|L 1|False|False|0|198812060GSW
+17|17|Wed, Dec 7, 1988||Washington Bullets|111|94|11|6|W 1|True|True|0|198812070UTA
+18|18|Fri, Dec 9, 1988||Dallas Mavericks|89|97|11|7|L 1|False|True|0|198812090UTA
+19|19|Sat, Dec 10, 1988||Los Angeles Clippers|110|102|12|7|W 1|True|False|0|198812100LAC
+20|20|Mon, Dec 12, 1988||Miami Heat|110|94|13|7|W 2|True|True|0|198812120UTA
+21|21|Wed, Dec 14, 1988||Boston Celtics|104|112|13|8|L 1|False|False|0|198812140BOS
+22|22|Thu, Dec 15, 1988||New York Knicks|116|117|13|9|L 2|False|False|0|198812150NYK
+23|23|Sat, Dec 17, 1988||Philadelphia 76ers|107|119|13|10|L 3|False|False|0|198812170PHI
+24|24|Tue, Dec 20, 1988||Cleveland Cavaliers|94|110|13|11|L 4|False|False|0|198812200CLE
+25|25|Wed, Dec 21, 1988||Washington Bullets|98|82|14|11|W 1|True|False|0|198812210WSB
+26|26|Fri, Dec 23, 1988||Miami Heat|80|101|14|12|L 1|False|False|0|198812230MIA
+27|27|Sun, Dec 25, 1988||Los Angeles Lakers|101|87|15|12|W 1|True|True|0|198812250UTA
+28|28|Wed, Dec 28, 1988||Sacramento Kings|96|80|16|12|W 2|True|True|0|198812280UTA
+29|29|Fri, Dec 30, 1988||Philadelphia 76ers|102|95|17|12|W 3|True|True|0|198812300UTA
+30|30|Tue, Jan 3, 1989||Houston Rockets|102|104|17|13|L 1|False|False|0|198901030HOU
+31|31|Fri, Jan 6, 1989||Chicago Bulls|106|92|18|13|W 1|True|False|0|198901060CHI
+32|32|Sat, Jan 7, 1989||Milwaukee Bucks|89|107|18|14|L 1|False|False|0|198901070MIL
+33|33|Mon, Jan 9, 1989||Charlotte Hornets|114|92|19|14|W 1|True|False|0|198901090CHH
+34|34|Tue, Jan 10, 1989||Miami Heat|92|88|20|14|W 2|True|False|0|198901100MIA
+35|35|Thu, Jan 12, 1989||San Antonio Spurs|115|91|21|14|W 3|True|True|0|198901120UTA
+36|36|Sat, Jan 14, 1989||Golden State Warriors|105|131|21|15|L 1|False|False|0|198901140GSW
+37|37|Tue, Jan 17, 1989||Portland Trail Blazers|111|110|22|15|W 1|True|False|0|198901170POR
+38|38|Fri, Jan 20, 1989||Milwaukee Bucks|98|96|23|15|W 2|True|True|0|198901200UTA
+39|39|Wed, Jan 25, 1989||San Antonio Spurs|107|103|24|15|W 3|True|False|0|198901250SAS
+40|40|Thu, Jan 26, 1989||Charlotte Hornets|88|89|24|16|L 1|False|True|0|198901260UTA
+41|41|Sat, Jan 28, 1989||New York Knicks|127|104|25|16|W 1|True|True|0|198901280UTA
+42|42|Tue, Jan 31, 1989||Dallas Mavericks|99|84|26|16|W 2|True|False|0|198901310DAL
+43|43|Wed, Feb 1, 1989||Atlanta Hawks|93|94|26|17|L 1|False|True|0|198902010UTA
+44|44|Fri, Feb 3, 1989||New Jersey Nets|129|101|27|17|W 1|True|True|0|198902030UTA
+45|45|Sat, Feb 4, 1989||Denver Nuggets|126|127|27|18|L 1|False|False|0|198902040DEN
+46|46|Mon, Feb 6, 1989||Phoenix Suns|87|104|27|19|L 2|False|False|0|198902060PHO
+47|47|Tue, Feb 7, 1989||Miami Heat|96|77|28|19|W 1|True|True|0|198902070UTA
+48|48|Thu, Feb 9, 1989||Dallas Mavericks|87|94|28|20|L 1|False|True|0|198902090UTA
+49|49|Tue, Feb 14, 1989||Denver Nuggets|119|105|29|20|W 1|True|True|0|198902140UTA
+50|50|Thu, Feb 16, 1989||Boston Celtics|129|114|30|20|W 2|True|True|0|198902160UTA
+51|51|Sat, Feb 18, 1989||San Antonio Spurs|107|93|31|20|W 3|True|True|0|198902180UTA
+52|52|Mon, Feb 20, 1989||Phoenix Suns|118|92|32|20|W 4|True|True|0|198902200UTA
+53|53|Wed, Feb 22, 1989||Los Angeles Lakers|105|79|33|20|W 5|True|True|0|198902220UTA
+54|54|Fri, Feb 24, 1989||Denver Nuggets|102|121|33|21|L 1|False|False|0|198902240DEN
+55|55|Sun, Feb 26, 1989||Indiana Pacers|89|128|33|22|L 2|False|False|0|198902260IND
+56|56|Mon, Feb 27, 1989||New Jersey Nets|109|96|34|22|W 1|True|False|0|198902270NJN
+57|57|Wed, Mar 1, 1989||Detroit Pistons|85|96|34|23|L 1|False|False|0|198903010DET
+58|58|Fri, Mar 3, 1989||Miami Heat|107|95|35|23|W 1|True|False|0|198903030MIA
+59|59|Sun, Mar 5, 1989||Atlanta Hawks|85|83|36|23|W 2|True|False|0|198903050ATL
+60|60|Wed, Mar 8, 1989||Houston Rockets|117|80|37|23|W 3|True|True|0|198903080UTA
+61|61|Fri, Mar 10, 1989||Golden State Warriors|126|112|38|23|W 4|True|True|0|198903100UTA
+62|62|Mon, Mar 13, 1989||Cleveland Cavaliers|98|83|39|23|W 5|True|True|0|198903130UTA
+63|63|Wed, Mar 15, 1989||Portland Trail Blazers|102|95|40|23|W 6|True|True|0|198903150UTA
+64|64|Fri, Mar 17, 1989||Miami Heat|118|96|41|23|W 7|True|True|0|198903170UTA
+65|65|Sat, Mar 18, 1989||San Antonio Spurs|98|114|41|24|L 1|False|False|0|198903180SAS
+66|66|Tue, Mar 21, 1989||Seattle SuperSonics|96|101|41|25|L 2|False|False|0|198903210SEA
+67|67|Fri, Mar 24, 1989||Houston Rockets|102|99|42|25|W 1|True|False|0|198903240HOU
+68|68|Sat, Mar 25, 1989||Denver Nuggets|112|90|43|25|W 2|True|True|0|198903250UTA
+69|69|Mon, Mar 27, 1989||Seattle SuperSonics|124|105|44|25|W 3|True|True|0|198903270UTA
+70|70|Wed, Mar 29, 1989||Detroit Pistons|104|108|44|26|L 1|False|True|2|198903290UTA
+71|71|Sat, Apr 1, 1989||Sacramento Kings|97|117|44|27|L 2|False|False|0|198904010SAC
+72|72|Tue, Apr 4, 1989||Dallas Mavericks|95|80|45|27|W 1|True|True|0|198904040UTA
+73|73|Wed, Apr 5, 1989||Phoenix Suns|104|114|45|28|L 1|False|False|0|198904050PHO
+74|74|Fri, Apr 7, 1989||Los Angeles Lakers|99|97|46|28|W 1|True|False|0|198904070LAL
+75|75|Sat, Apr 8, 1989||Denver Nuggets|106|110|46|29|L 1|False|False|0|198904080DEN
+76|76|Wed, Apr 12, 1989||Denver Nuggets|107|102|47|29|W 1|True|True|0|198904120UTA
+77|77|Fri, Apr 14, 1989||Houston Rockets|122|96|48|29|W 2|True|True|0|198904140UTA
+78|78|Sat, Apr 15, 1989||Portland Trail Blazers|99|95|49|29|W 3|True|False|0|198904150POR
+79|79|Mon, Apr 17, 1989||Los Angeles Clippers|108|102|50|29|W 4|True|False|0|198904170LAC
+80|80|Tue, Apr 18, 1989||Los Angeles Clippers|92|95|50|30|L 1|False|True|0|198904180UTA
+81|81|Fri, Apr 21, 1989||Dallas Mavericks|89|91|50|31|L 2|False|False|0|198904210DAL
+82|82|Sat, Apr 22, 1989||Golden State Warriors|111|95|51|31|W 1|True|True|0|198904220UTA

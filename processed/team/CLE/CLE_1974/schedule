@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Oct 18, 1974||Portland Trail Blazers|129|131|0|1|L 1|False|False|4|197410180POR
+2|2|Sat, Oct 19, 1974||Golden State Warriors|110|113|0|2|L 2|False|False|0|197410190GSW
+3|3|Sun, Oct 20, 1974||Seattle SuperSonics|93|100|0|3|L 3|False|False|0|197410200SEA
+4|4|Wed, Oct 23, 1974||Boston Celtics|108|107|1|3|W 1|True|False|0|197410230BOS
+5|5|Thu, Oct 24, 1974||Atlanta Hawks|116|97|2|3|W 2|True|False|0|197410240ATL
+6|6|Sat, Oct 26, 1974||New Orleans Jazz|90|88|3|3|W 3|True|False|0|197410260NOJ
+7|7|Tue, Oct 29, 1974||Boston Celtics|92|107|3|4|L 1|False|True|0|197410290CLE
+8|8|Thu, Oct 31, 1974||Detroit Pistons|118|101|4|4|W 1|True|True|0|197410310CLE
+9|9|Sun, Nov 3, 1974||Phoenix Suns|104|101|5|4|W 2|True|True|0|197411030CLE
+10|10|Wed, Nov 6, 1974||Washington Bullets|107|99|6|4|W 3|True|False|0|197411060WSB
+11|11|Tue, Nov 12, 1974||Buffalo Braves|94|112|6|5|L 1|False|False|0|197411120BUF
+12|12|Thu, Nov 14, 1974||New York Knicks|89|94|6|6|L 2|False|False|0|197411140NYK
+13|13|Sat, Nov 16, 1974||Milwaukee Bucks|92|89|7|6|W 1|True|False|0|197411160MIL
+14|14|Tue, Nov 19, 1974||Houston Rockets|85|94|7|7|L 1|False|False|0|197411190HOU
+15|15|Thu, Nov 21, 1974||Golden State Warriors|106|74|8|7|W 1|True|True|0|197411210CLE
+16|16|Sat, Nov 23, 1974||New Orleans Jazz|121|100|9|7|W 2|True|True|0|197411230CLE
+17|17|Sun, Nov 24, 1974||Kansas City-Omaha Kings|94|109|9|8|L 1|False|False|0|197411240KCO
+18|18|Tue, Nov 26, 1974||Seattle SuperSonics|102|94|10|8|W 1|True|True|0|197411260CLE
+19|19|Thu, Nov 28, 1974||Philadelphia 76ers|110|103|11|8|W 2|True|True|0|197411280CLE
+20|20|Tue, Dec 3, 1974||Houston Rockets|97|91|12|8|W 3|True|True|0|197412030CLE
+21|21|Thu, Dec 5, 1974||Kansas City-Omaha Kings|124|91|13|8|W 4|True|True|0|197412050CLE
+22|22|Fri, Dec 6, 1974||Detroit Pistons|91|117|13|9|L 1|False|False|0|197412060DET
+23|23|Sun, Dec 8, 1974||Washington Bullets|75|88|13|10|L 2|False|True|0|197412080CLE
+24|24|Wed, Dec 11, 1974||Seattle SuperSonics|97|95|14|10|W 1|True|False|0|197412110SEA
+25|25|Fri, Dec 13, 1974||Phoenix Suns|84|85|14|11|L 1|False|False|0|197412130PHO
+26|26|Tue, Dec 17, 1974||Los Angeles Lakers|119|106|15|11|W 1|True|False|0|197412170LAL
+27|27|Thu, Dec 19, 1974||Buffalo Braves|106|104|16|11|W 2|True|True|0|197412190CLE
+28|28|Sat, Dec 21, 1974||Chicago Bulls|74|87|16|12|L 1|False|True|0|197412210CLE
+29|29|Mon, Dec 23, 1974||New Orleans Jazz|95|79|17|12|W 1|True|True|0|197412230CLE
+30|30|Thu, Dec 26, 1974||Los Angeles Lakers|89|99|17|13|L 1|False|True|0|197412260CLE
+31|31|Sun, Dec 29, 1974||Atlanta Hawks|110|103|18|13|W 1|True|True|0|197412290CLE
+32|32|Mon, Dec 30, 1974||Washington Bullets|90|103|18|14|L 1|False|False|0|197412300WSB
+33|33|Fri, Jan 3, 1975||Houston Rockets|95|83|19|14|W 1|True|True|0|197501030CLE
+34|34|Sat, Jan 4, 1975||New York Knicks|102|103|19|15|L 1|False|False|0|197501040NYK
+35|35|Sun, Jan 5, 1975||Phoenix Suns|97|86|20|15|W 1|True|True|0|197501050CLE
+36|36|Tue, Jan 7, 1975||Atlanta Hawks|112|113|20|16|L 1|False|False|1|197501070ATL
+37|37|Fri, Jan 10, 1975||Buffalo Braves|100|104|20|17|L 2|False|False|0|197501100BUF
+38|38|Sat, Jan 11, 1975||Milwaukee Bucks|81|91|20|18|L 3|False|True|0|197501110CLE
+39|39|Thu, Jan 16, 1975||Portland Trail Blazers|89|81|21|18|W 1|True|True|0|197501160CLE
+40|40|Sat, Jan 18, 1975||Philadelphia 76ers|108|106|22|18|W 2|True|False|0|197501180PHI
+41|41|Sun, Jan 19, 1975||Detroit Pistons|98|100|22|19|L 1|False|False|0|197501190DET
+42|42|Tue, Jan 21, 1975||Washington Bullets|88|97|22|20|L 2|False|True|0|197501210CLE
+43|43|Thu, Jan 23, 1975||New York Knicks|89|100|22|21|L 3|False|True|0|197501230CLE
+44|44|Sat, Jan 25, 1975||Washington Bullets|92|94|22|22|L 4|False|False|0|197501250WSB
+45|45|Sun, Jan 26, 1975||Seattle SuperSonics|93|96|22|23|L 5|False|True|0|197501260CLE
+46|46|Tue, Jan 28, 1975||Chicago Bulls|97|125|22|24|L 6|False|False|0|197501280CHI
+47|47|Thu, Jan 30, 1975||Buffalo Braves|91|97|22|25|L 7|False|True|0|197501300CLE
+48|48|Fri, Jan 31, 1975||Boston Celtics|99|121|22|26|L 8|False|False|0|197501310BOS
+49|49|Sat, Feb 1, 1975||Atlanta Hawks|112|109|23|26|W 1|True|True|1|197502010CLE
+50|50|Sun, Feb 2, 1975||Detroit Pistons|116|96|24|26|W 2|True|True|0|197502020CLE
+51|51|Tue, Feb 4, 1975||Atlanta Hawks|97|111|24|27|L 1|False|False|0|197502040ATL
+52|52|Thu, Feb 6, 1975||Portland Trail Blazers|98|90|25|27|W 1|True|True|0|197502060CLE
+53|53|Sat, Feb 8, 1975||Kansas City-Omaha Kings|92|91|26|27|W 2|True|True|1|197502080CLE
+54|54|Tue, Feb 11, 1975||New Orleans Jazz|100|86|27|27|W 3|True|True|0|197502110CLE
+55|55|Wed, Feb 12, 1975||Philadelphia 76ers|105|102|28|27|W 4|True|False|0|197502120PHI
+56|56|Thu, Feb 13, 1975||Golden State Warriors|96|93|29|27|W 5|True|True|0|197502130CLE
+57|57|Fri, Feb 14, 1975||Milwaukee Bucks|105|112|29|28|L 1|False|False|0|197502140MIL
+58|58|Sun, Feb 16, 1975||Houston Rockets|100|95|30|28|W 1|True|True|0|197502160CLE
+59|59|Tue, Feb 18, 1975||Milwaukee Bucks|93|104|30|29|L 1|False|True|0|197502180CLE
+60|60|Thu, Feb 20, 1975||Washington Bullets|106|95|31|29|W 1|True|True|0|197502200CLE
+61|61|Sun, Feb 23, 1975||Atlanta Hawks|111|105|32|29|W 2|True|True|1|197502230CLE
+62|62|Tue, Feb 25, 1975||Houston Rockets|87|114|32|30|L 1|False|False|0|197502250HOU
+63|63|Wed, Feb 26, 1975||Phoenix Suns|96|108|32|31|L 2|False|False|0|197502260PHO
+64|64|Fri, Feb 28, 1975||Los Angeles Lakers|105|109|32|32|L 3|False|False|0|197502280LAL
+65|65|Sat, Mar 1, 1975||Golden State Warriors|95|110|32|33|L 4|False|False|0|197503010GSW
+66|66|Tue, Mar 4, 1975||Portland Trail Blazers|98|117|32|34|L 5|False|False|0|197503040POR
+67|67|Fri, Mar 7, 1975||Houston Rockets|86|93|32|35|L 6|False|False|0|197503070HOU
+68|68|Sun, Mar 9, 1975||New Orleans Jazz|86|90|32|36|L 7|False|False|0|197503090NOJ
+69|69|Tue, Mar 11, 1975||New Orleans Jazz|123|114|33|36|W 1|True|True|0|197503110CLE
+70|70|Thu, Mar 13, 1975||Los Angeles Lakers|104|85|34|36|W 2|True|True|0|197503130CLE
+71|71|Sat, Mar 15, 1975||Philadelphia 76ers|88|96|34|37|L 1|False|True|0|197503150CLE
+72|72|Sun, Mar 16, 1975||New Orleans Jazz|113|111|35|37|W 1|True|False|0|197503160NOJ
+73|73|Tue, Mar 18, 1975||Washington Bullets|112|98|36|37|W 2|True|True|0|197503180CLE
+74|74|Thu, Mar 20, 1975||Chicago Bulls|87|83|37|37|W 3|True|True|0|197503200CLE
+75|75|Sat, Mar 22, 1975||Washington Bullets|97|100|37|38|L 1|False|False|0|197503220WSB
+76|76|Sun, Mar 23, 1975||Houston Rockets|101|95|38|38|W 1|True|True|0|197503230CLE
+77|77|Tue, Mar 25, 1975||Boston Celtics|84|89|38|39|L 1|False|True|0|197503250CLE
+78|78|Thu, Mar 27, 1975||Chicago Bulls|86|83|39|39|W 1|True|False|0|197503270CHI
+79|79|Fri, Mar 28, 1975||Houston Rockets|105|112|39|40|L 1|False|False|0|197503280HOU
+80|80|Sat, Mar 29, 1975||Atlanta Hawks|97|103|39|41|L 2|False|False|0|197503290ATL
+81|81|Thu, Apr 3, 1975||New York Knicks|100|95|40|41|W 1|True|True|0|197504030CLE
+82|82|Sun, Apr 6, 1975||Kansas City-Omaha Kings|94|95|40|42|L 1|False|False|0|197504060KCO

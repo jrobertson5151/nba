@@ -1,0 +1,69 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Wed, Nov 1, 1950||Baltimore Bullets|71|81|0|1|L 1|False|False|0|195011010BLB
+2|2|Sat, Nov 4, 1950||Washington Capitols|91|85|1|1|W 1|True|False|0|195011040WSC
+3|3|Sun, Nov 5, 1950||Syracuse Nationals|87|90|1|2|L 1|False|False|0|195011050SYR
+4|4|Thu, Nov 9, 1950||Boston Celtics|71|76|1|3|L 2|False|False|0|195011090BOS
+5|5|Sun, Nov 12, 1950||Philadelphia Warriors|83|70|2|3|W 1|True|True|0|195011120MNL
+6|6|Wed, Nov 15, 1950||Syracuse Nationals|72|71|3|3|W 2|True|True|1|195011150MNL
+7|7|Thu, Nov 16, 1950||New York Knicks|69|71|3|4|L 1|False|False|0|195011160NYK
+8|8|Sat, Nov 18, 1950||Rochester Royals|86|77|4|4|W 1|True|False|2|195011180ROC
+9|9|Sun, Nov 19, 1950||Rochester Royals|90|77|5|4|W 2|True|True|0|195011190MNL
+10|10|Wed, Nov 22, 1950||Fort Wayne Pistons|18|19|5|5|L 1|False|True|0|195011220MNL
+11|11|Thu, Nov 23, 1950||Fort Wayne Pistons|63|73|5|6|L 2|False|False|0|195011230FTW
+12|12|Sun, Nov 26, 1950||Baltimore Bullets|85|71|6|6|W 1|True|True|0|195011260MNL
+13|13|Wed, Nov 29, 1950||Tri-Cities Blackhawks|85|66|7|6|W 2|True|True|0|195011290MNL
+14|14|Fri, Dec 1, 1950||Indianapolis Olympians|65|66|7|7|L 1|False|False|0|195012010INO
+15|15|Sun, Dec 3, 1950||Philadelphia Warriors|95|83|8|7|W 1|True|True|0|195012030MNL
+16|16|Wed, Dec 6, 1950||New York Knicks|84|62|9|7|W 2|True|True|0|195012060MNL
+17|17|Sat, Dec 9, 1950||Tri-Cities Blackhawks|88|79|10|7|W 3|True|False|0|195012090TRI
+18|18|Sun, Dec 10, 1950||Tri-Cities Blackhawks|114|101|11|7|W 4|True|True|0|195012100MNL
+19|19|Wed, Dec 13, 1950||Rochester Royals|72|82|11|8|L 1|False|True|0|195012130MNL
+20|20|Fri, Dec 15, 1950||Indianapolis Olympians|82|71|12|8|W 1|True|False|0|195012150INO
+21|21|Sat, Dec 16, 1950||Tri-Cities Blackhawks|86|71|13|8|W 2|True|False|0|195012160TRI
+22|22|Sun, Dec 17, 1950||Indianapolis Olympians|79|60|14|8|W 3|True|True|0|195012170MNL
+23|23|Tue, Dec 19, 1950||Philadelphia Warriors|67|71|14|9|L 1|False|False|0|195012190PHW
+24|24|Wed, Dec 20, 1950||Baltimore Bullets|84|91|14|10|L 2|False|False|0|195012200BLB
+25|25|Sat, Dec 23, 1950||Boston Celtics|81|87|14|11|L 3|False|False|0|195012230BOS
+26|26|Mon, Dec 25, 1950||Washington Capitols|93|79|15|11|W 1|True|True|0|195012250MNL
+27|27|Wed, Dec 27, 1950||Baltimore Bullets|81|63|16|11|W 2|True|True|0|195012270MNL
+28|28|Thu, Dec 28, 1950||Rochester Royals|67|75|16|12|L 1|False|False|0|195012280ROC
+29|29|Sun, Dec 31, 1950||Philadelphia Warriors|83|73|17|12|W 1|True|True|0|195012310MNL
+30|30|Mon, Jan 1, 1951||Fort Wayne Pistons|70|83|17|13|L 1|False|False|0|195101010FTW
+31|31|Wed, Jan 3, 1951||Fort Wayne Pistons|86|64|18|13|W 1|True|True|0|195101030MNL
+32|32|Thu, Jan 4, 1951||Syracuse Nationals|80|77|19|13|W 2|True|False|0|195101040SYR
+33|33|Fri, Jan 5, 1951||Boston Celtics|69|54|20|13|W 3|True|True|0|195101050MNL
+34|34|Sun, Jan 7, 1951||Rochester Royals|69|57|21|13|W 4|True|True|0|195101070MNL
+35|35|Wed, Jan 10, 1951||New York Knicks|70|65|22|13|W 5|True|True|0|195101100MNL
+36|36|Thu, Jan 11, 1951||Tri-Cities Blackhawks|113|109|23|13|W 6|True|False|0|195101110TRI
+37|37|Sun, Jan 14, 1951||Indianapolis Olympians|86|84|24|13|W 7|True|True|1|195101140MNL
+38|38|Tue, Jan 16, 1951||Indianapolis Olympians|68|82|24|14|L 1|False|False|0|195101160INO
+39|39|Thu, Jan 18, 1951||New York Knicks|78|95|24|15|L 2|False|False|0|195101180NYK
+40|40|Sat, Jan 20, 1951||Fort Wayne Pistons|89|70|25|15|W 1|True|True|0|195101200FTW
+41|41|Sun, Jan 21, 1951||Tri-Cities Blackhawks|89|82|26|15|W 2|True|True|0|195101210MNL
+42|42|Tue, Jan 23, 1951||Baltimore Bullets|89|79|27|15|W 3|True|True|0|195101230BLB
+43|43|Thu, Jan 25, 1951||Philadelphia Warriors|90|71|28|15|W 4|True|False|0|195101250PHW
+44|44|Sun, Jan 28, 1951||Indianapolis Olympians|101|75|29|15|W 5|True|True|0|195101280MNL
+45|45|Wed, Jan 31, 1951||Tri-Cities Blackhawks|106|78|30|15|W 6|True|True|0|195101310MNL
+46|46|Sat, Feb 3, 1951||Indianapolis Olympians|89|84|31|15|W 7|True|False|0|195102030INO
+47|47|Sun, Feb 4, 1951||Boston Celtics|98|84|32|15|W 8|True|True|0|195102040MNL
+48|48|Wed, Feb 7, 1951||Fort Wayne Pistons|86|96|32|16|L 1|False|False|0|195102070FTW
+49|49|Thu, Feb 8, 1951||Rochester Royals|69|58|33|16|W 1|True|True|0|195102080MNL
+50|50|Sun, Feb 11, 1951||Indianapolis Olympians|91|78|34|16|W 2|True|True|0|195102110MNL
+51|51|Wed, Feb 14, 1951||Baltimore Bullets|99|71|35|16|W 3|True|True|0|195102140MNL
+52|52|Fri, Feb 16, 1951||Indianapolis Olympians|76|71|36|16|W 4|True|False|0|195102160INO
+53|53|Sat, Feb 17, 1951||Rochester Royals|82|87|36|17|L 1|False|False|0|195102170ROC
+54|54|Sun, Feb 18, 1951||Syracuse Nationals|80|91|36|18|L 2|False|False|0|195102180SYR
+55|55|Wed, Feb 21, 1951||Syracuse Nationals|82|76|37|18|W 1|True|True|0|195102210MNL
+56|56|Sat, Feb 24, 1951||Fort Wayne Pistons|95|78|38|18|W 2|True|True|0|195102240MNL
+57|57|Sun, Feb 25, 1951||Indianapolis Olympians|73|75|38|19|L 1|False|True|0|195102250MNL
+58|58|Tue, Feb 27, 1951||Tri-Cities Blackhawks|83|77|39|19|W 1|True|True|0|195102270MNL
+59|59|Wed, Feb 28, 1951||Fort Wayne Pistons|73|77|39|20|L 1|False|False|0|195102280FTW
+60|60|Thu, Mar 1, 1951||Philadelphia Warriors|77|97|39|21|L 2|False|False|0|195103010PHW
+61|61|Sun, Mar 4, 1951||Boston Celtics|86|92|39|22|L 3|False|False|0|195103040BOS
+62|62|Tue, Mar 6, 1951||Rochester Royals|79|90|39|23|L 4|False|False|0|195103060ROC
+63|63|Thu, Mar 8, 1951||New York Knicks|94|97|39|24|L 5|False|False|1|195103080NYK
+64|64|Sat, Mar 10, 1951||Tri-Cities Blackhawks|99|88|40|24|W 1|True|False|0|195103100TRI
+65|65|Sun, Mar 11, 1951||Boston Celtics|98|96|41|24|W 2|True|True|2|195103110MNL
+66|66|Wed, Mar 14, 1951||Syracuse Nationals|100|76|42|24|W 3|True|True|0|195103140MNL
+67|67|Sat, Mar 17, 1951||Tri-Cities Blackhawks|92|91|43|24|W 4|True|False|1|195103170TRI
+68|68|Sun, Mar 18, 1951||New York Knicks|86|68|44|24|W 5|True|True|0|195103180MNL

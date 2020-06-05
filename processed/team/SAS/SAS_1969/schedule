@@ -1,0 +1,85 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Oct 17, 1969||New Orleans Buccaneers|117|109|1|0|W 1|True|True|0|196910170DLC
+2|2|Sat, Oct 18, 1969||Carolina Cougars|97|108|1|1|L 1|False|False|0|196910180CAR
+3|3|Sun, Oct 19, 1969||New York Nets|102|92|2|1|W 1|True|False|0|196910190NYA
+4|4|Tue, Oct 21, 1969||Denver Rockets|120|108|3|1|W 2|True|True|0|196910210DLC
+5|5|Fri, Oct 24, 1969||Pittsburgh Pipers|116|105|4|1|W 3|True|True|0|196910240DLC
+6|6|Sat, Oct 25, 1969||New Orleans Buccaneers|115|114|5|1|W 4|True|True|0|196910250DLC
+7|7|Sun, Oct 26, 1969||Washington Capitols|92|91|6|1|W 5|True|False|0|196910260WSA
+8|8|Tue, Oct 28, 1969||Pittsburgh Pipers|111|112|6|2|L 1|False|False|0|196910280PTP
+9|9|Wed, Oct 29, 1969||Kentucky Colonels|117|122|6|3|L 2|False|False|0|196910290KEN
+10|10|Fri, Oct 31, 1969||Los Angeles Stars|123|117|7|3|W 1|True|True|0|196910310DLC
+11|11|Sat, Nov 1, 1969||Washington Capitols|97|101|7|4|L 1|False|True|0|196911010DLC
+12|12|Fri, Nov 7, 1969||New Orleans Buccaneers|98|101|7|5|L 2|False|False|0|196911070NOB
+13|13|Sat, Nov 8, 1969||Pittsburgh Pipers|120|137|7|6|L 3|False|True|0|196911080DLC
+14|14|Tue, Nov 11, 1969||Los Angeles Stars|117|120|7|7|L 4|False|True|1|196911110DLC
+15|15|Wed, Nov 12, 1969||Washington Capitols|122|104|8|7|W 1|True|True|0|196911120DLC
+16|16|Fri, Nov 14, 1969||Los Angeles Stars|96|94|9|7|W 2|True|False|0|196911140LAS
+17|17|Sat, Nov 15, 1969||New Orleans Buccaneers|98|101|9|8|L 1|False|True|0|196911150DLC
+18|18|Sun, Nov 16, 1969||Denver Rockets|87|89|9|9|L 2|False|False|0|196911160DNR
+19|19|Fri, Nov 21, 1969||Denver Rockets|100|103|9|10|L 3|False|True|0|196911210DLC
+20|20|Sun, Nov 23, 1969||Washington Capitols|121|117|10|10|W 1|True|True|0|196911230DLC
+21|21|Mon, Nov 24, 1969||New Orleans Buccaneers|79|81|10|11|L 1|False|False|0|196911240NOB
+22|22|Fri, Nov 28, 1969||Denver Rockets|103|109|10|12|L 2|False|True|0|196911280DLC
+23|23|Tue, Dec 2, 1969||New York Nets|120|108|11|12|W 1|True|True|0|196912020DLC
+24|24|Wed, Dec 3, 1969||Kentucky Colonels|109|123|11|13|L 1|False|True|0|196912030DLC
+25|25|Thu, Dec 4, 1969||Indiana Pacers|112|103|12|13|W 1|True|True|0|196912040DLC
+26|26|Fri, Dec 5, 1969||Carolina Cougars|108|97|13|13|W 2|True|False|0|196912050CAR
+27|27|Sun, Dec 7, 1969||Washington Capitols|143|92|14|13|W 3|True|False|0|196912070WSA
+28|28|Tue, Dec 9, 1969||Carolina Cougars|117|122|14|14|L 1|False|True|0|196912090DLC
+29|29|Wed, Dec 10, 1969||New York Nets|122|115|15|14|W 1|True|False|0|196912100NYA
+30|30|Fri, Dec 12, 1969||Carolina Cougars|95|101|15|15|L 1|False|False|0|196912120CAR
+31|31|Sat, Dec 13, 1969||Indiana Pacers|106|101|16|15|W 1|True|False|0|196912130INA
+32|32|Sun, Dec 14, 1969||Miami Floridians|115|119|16|16|L 1|False|False|0|196912140MMF
+33|33|Tue, Dec 16, 1969||Indiana Pacers|104|108|16|17|L 2|False|True|0|196912160DLC
+34|34|Tue, Dec 23, 1969||Denver Rockets|96|102|16|18|L 3|False|False|0|196912230DNR
+35|35|Sat, Dec 27, 1969||Miami Floridians|152|125|17|18|W 1|True|True|0|196912270DLC
+36|36|Sun, Dec 28, 1969||Miami Floridians|136|134|18|18|W 2|True|False|1|196912280MMF
+37|37|Sat, Jan 3, 1970||Los Angeles Stars|139|137|19|18|W 3|True|True|2|197001030DLC
+38|38|Sun, Jan 4, 1970||Denver Rockets|85|122|19|19|L 1|False|False|0|197001040DNR
+39|39|Tue, Jan 6, 1970||Washington Capitols|138|120|20|19|W 1|True|True|0|197001060DLC
+40|40|Wed, Jan 7, 1970||Los Angeles Stars|114|112|21|19|W 2|True|False|0|197001070LAS
+41|41|Fri, Jan 9, 1970||Washington Capitols|124|125|21|20|L 1|False|True|0|197001090DLC
+42|42|Sat, Jan 10, 1970||Miami Floridians|138|114|22|20|W 1|True|True|0|197001100DLC
+43|43|Tue, Jan 13, 1970||Washington Capitols|121|122|22|21|L 1|False|False|0|197001130WSA
+44|44|Wed, Jan 14, 1970||Pittsburgh Pipers|130|116|23|21|W 1|True|True|0|197001140DLC
+45|45|Thu, Jan 15, 1970||Denver Rockets|123|126|23|22|L 1|False|False|0|197001150DNR
+46|46|Sun, Jan 18, 1970||Los Angeles Stars|124|137|23|23|L 2|False|False|0|197001180LAS
+47|47|Tue, Jan 20, 1970||Los Angeles Stars|141|119|24|23|W 1|True|True|0|197001200DLC
+48|48|Sun, Jan 25, 1970||Denver Rockets|118|127|24|24|L 1|False|False|0|197001250DNR
+49|49|Fri, Jan 30, 1970||Los Angeles Stars|127|121|25|24|W 1|True|True|0|197001300DLC
+50|50|Sat, Jan 31, 1970||New York Nets|108|113|25|25|L 1|False|True|0|197001310DLC
+51|51|Tue, Feb 3, 1970||Indiana Pacers|126|122|26|25|W 1|True|True|0|197002030DLC
+52|52|Fri, Feb 6, 1970||New Orleans Buccaneers|132|124|27|25|W 2|True|True|0|197002060DLC
+53|53|Tue, Feb 10, 1970||Miami Floridians|151|128|28|25|W 3|True|True|0|197002100DLC
+54|54|Sat, Feb 14, 1970||New York Nets|112|106|29|25|W 4|True|True|0|197002140DLC
+55|55|Tue, Feb 17, 1970||New Orleans Buccaneers|122|119|30|25|W 5|True|False|0|197002170NOB
+56|56|Fri, Feb 20, 1970||Kentucky Colonels|142|138|31|25|W 6|True|True|0|197002200DLC
+57|57|Tue, Feb 24, 1970||Washington Capitols|130|115|32|25|W 7|True|False|0|197002240WSA
+58|58|Wed, Feb 25, 1970||Los Angeles Stars|147|142|33|25|W 8|True|False|0|197002250LAS
+59|59|Fri, Feb 27, 1970||Carolina Cougars|103|110|33|26|L 1|False|True|0|197002270DLC
+60|60|Sat, Feb 28, 1970||Pittsburgh Pipers|128|123|34|26|W 1|True|False|0|197002280PTP
+61|61|Sun, Mar 1, 1970||New York Nets|111|128|34|27|L 1|False|False|0|197003010NYA
+62|62|Tue, Mar 3, 1970||Denver Rockets|142|130|35|27|W 1|True|True|0|197003030DLC
+63|63|Fri, Mar 6, 1970||Carolina Cougars|94|98|35|28|L 1|False|True|0|197003060DLC
+64|64|Sat, Mar 7, 1970||Kentucky Colonels|129|124|36|28|W 1|True|True|0|197003070DLC
+65|65|Sun, Mar 8, 1970||Indiana Pacers|114|131|36|29|L 1|False|False|0|197003080INA
+66|66|Tue, Mar 10, 1970||Denver Rockets|124|116|37|29|W 1|True|True|0|197003100DLC
+67|67|Fri, Mar 13, 1970||Washington Capitols|158|162|37|30|L 1|False|True|2|197003130DLC
+68|68|Sat, Mar 14, 1970||Los Angeles Stars|125|130|37|31|L 2|False|True|0|197003140DLC
+69|69|Sun, Mar 15, 1970||Kentucky Colonels|125|146|37|32|L 3|False|False|0|197003150KEN
+70|70|Mon, Mar 16, 1970||New Orleans Buccaneers|95|111|37|33|L 4|False|False|0|197003160NOB
+71|71|Fri, Mar 20, 1970||Washington Capitols|155|157|37|34|L 5|False|True|0|197003200DLC
+72|72|Sat, Mar 21, 1970||New Orleans Buccaneers|126|120|38|34|W 1|True|True|0|197003210DLC
+73|73|Sun, Mar 22, 1970||Miami Floridians|155|160|38|35|L 1|False|False|0|197003220MMF
+74|74|Mon, Mar 23, 1970||New Orleans Buccaneers|116|122|38|36|L 2|False|False|0|197003230NOB
+75|75|Tue, Mar 24, 1970||Pittsburgh Pipers|133|105|39|36|W 1|True|False|0|197003240PTP
+76|76|Sat, Mar 28, 1970||Denver Rockets|150|126|40|36|W 2|True|True|0|197003280DLC
+77|77|Tue, Mar 31, 1970||Indiana Pacers|145|119|41|36|W 3|True|True|0|197003310DLC
+78|78|Fri, Apr 3, 1970||Washington Capitols|149|144|42|36|W 4|True|True|0|197004030DLC
+79|79|Sun, Apr 5, 1970||Los Angeles Stars|131|127|43|36|W 5|True|False|0|197004050LAS
+80|80|Tue, Apr 7, 1970||Kentucky Colonels|112|118|43|37|L 1|False|True|0|197004070DLC
+81|81|Wed, Apr 8, 1970||Denver Rockets|113|152|43|38|L 2|False|False|0|197004080DNR
+82|82|Sat, Apr 11, 1970||New Orleans Buccaneers|115|111|44|38|W 1|True|True|0|197004110DLC
+83|83|Tue, Apr 14, 1970||Los Angeles Stars|129|113|45|38|W 2|True|True|0|197004140DLC
+84|84|Wed, Apr 15, 1970||New Orleans Buccaneers|127|145|45|39|L 1|False|False|0|197004150NOB

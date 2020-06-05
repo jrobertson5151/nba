@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Oct 31, 1997||Philadelphia 76ers|103|88|1|0|W 1|True|False|0|199710310PHI
+2|2|Sat, Nov 1, 1997||New Jersey Nets|109|113|1|1|L 1|False|True|1|199711010MIL
+3|3|Tue, Nov 4, 1997||Orlando Magic|110|76|2|1|W 1|True|True|0|199711040MIL
+4|4|Thu, Nov 6, 1997||Philadelphia 76ers|100|93|3|1|W 2|True|True|0|199711060MIL
+5|5|Sat, Nov 8, 1997||Boston Celtics|105|96|4|1|W 3|True|True|0|199711080MIL
+6|6|Wed, Nov 12, 1997||Phoenix Suns|95|103|4|2|L 1|False|False|0|199711120PHO
+7|7|Thu, Nov 13, 1997||Los Angeles Clippers|102|94|5|2|W 1|True|False|0|199711130LAC
+8|8|Sat, Nov 15, 1997||Vancouver Grizzlies|94|109|5|3|L 1|False|False|0|199711150VAN
+9|9|Sun, Nov 16, 1997||Seattle SuperSonics|99|119|5|4|L 2|False|False|0|199711160SEA
+10|10|Tue, Nov 18, 1997||Detroit Pistons|87|79|6|4|W 1|True|True|0|199711180MIL
+11|11|Thu, Nov 20, 1997||Indiana Pacers|83|109|6|5|L 1|False|True|0|199711200MIL
+12|12|Sat, Nov 22, 1997||Dallas Mavericks|83|62|7|5|W 1|True|False|0|199711220DAL
+13|13|Wed, Nov 26, 1997||Vancouver Grizzlies|101|82|8|5|W 2|True|True|0|199711260MIL
+14|14|Fri, Nov 28, 1997||Orlando Magic|90|94|8|6|L 1|False|False|0|199711280ORL
+15|15|Sat, Nov 29, 1997||Miami Heat|93|87|9|6|W 1|True|False|0|199711290MIA
+16|16|Tue, Dec 2, 1997||Phoenix Suns|86|90|9|7|L 1|False|True|0|199712020MIL
+17|17|Thu, Dec 4, 1997||Charlotte Hornets|102|92|10|7|W 1|True|True|0|199712040MIL
+18|18|Fri, Dec 5, 1997||Chicago Bulls|62|84|10|8|L 1|False|False|0|199712050CHI
+19|19|Sun, Dec 7, 1997||Seattle SuperSonics|97|91|11|8|W 1|True|True|0|199712070MIL
+20|20|Wed, Dec 10, 1997||Boston Celtics|91|96|11|9|L 1|False|False|0|199712100BOS
+21|21|Thu, Dec 11, 1997||Cleveland Cavaliers|77|79|11|10|L 2|False|True|0|199712110MIL
+22|22|Sat, Dec 13, 1997||Miami Heat|84|87|11|11|L 3|False|True|0|199712130MIL
+23|23|Wed, Dec 17, 1997||Charlotte Hornets|90|99|11|12|L 4|False|False|0|199712170CHH
+24|24|Fri, Dec 19, 1997||Toronto Raptors|91|92|11|13|L 5|False|False|0|199712190TOR
+25|25|Sat, Dec 20, 1997||New York Knicks|98|78|12|13|W 1|True|True|0|199712200MIL
+26|26|Mon, Dec 22, 1997||Washington Wizards|79|110|12|14|L 1|False|True|0|199712220MIL
+27|27|Fri, Dec 26, 1997||Atlanta Hawks|99|94|13|14|W 1|True|True|1|199712260MIL
+28|28|Sat, Dec 27, 1997||New Jersey Nets|104|112|13|15|L 1|False|False|2|199712270NJN
+29|29|Tue, Dec 30, 1997||Dallas Mavericks|105|98|14|15|W 1|True|True|1|199712300MIL
+30|30|Fri, Jan 2, 1998||Chicago Bulls|100|114|14|16|L 1|False|False|0|199801020CHI
+31|31|Sat, Jan 3, 1998||Boston Celtics|99|106|14|17|L 2|False|True|0|199801030MIL
+32|32|Mon, Jan 5, 1998||Portland Trail Blazers|98|92|15|17|W 1|True|False|0|199801050POR
+33|33|Wed, Jan 7, 1998||Los Angeles Lakers|102|114|15|18|L 1|False|False|0|199801070LAL
+34|34|Thu, Jan 8, 1998||Utah Jazz|109|116|15|19|L 2|False|False|0|199801080UTA
+35|35|Sat, Jan 10, 1998||Portland Trail Blazers|95|90|16|19|W 1|True|True|1|199801100MIL
+36|36|Mon, Jan 12, 1998||Los Angeles Clippers|110|95|17|19|W 2|True|True|0|199801120MIL
+37|37|Wed, Jan 14, 1998||Golden State Warriors|101|95|18|19|W 3|True|True|0|199801140MIL
+38|38|Fri, Jan 16, 1998||Chicago Bulls|86|96|18|20|L 1|False|True|0|199801160MIL
+39|39|Sun, Jan 18, 1998||San Antonio Spurs|92|98|18|21|L 2|False|True|1|199801180MIL
+40|40|Tue, Jan 20, 1998||Atlanta Hawks|93|103|18|22|L 3|False|False|0|199801200ATL
+41|41|Wed, Jan 21, 1998||Orlando Magic|91|84|19|22|W 1|True|False|0|199801210ORL
+42|42|Sat, Jan 24, 1998||Sacramento Kings|101|97|20|22|W 2|True|True|0|199801240MIL
+43|43|Tue, Jan 27, 1998||Detroit Pistons|83|81|21|22|W 3|True|True|0|199801270MIL
+44|44|Thu, Jan 29, 1998||New York Knicks|115|112|22|22|W 4|True|False|1|199801290NYK
+45|45|Sun, Feb 1, 1998||Minnesota Timberwolves|118|110|23|22|W 5|True|False|0|199802010MIN
+46|46|Tue, Feb 3, 1998||New York Knicks|82|78|24|22|W 6|True|True|0|199802030MIL
+47|47|Thu, Feb 5, 1998||Miami Heat|87|91|24|23|L 1|False|True|0|199802050MIL
+48|48|Tue, Feb 10, 1998||Atlanta Hawks|100|108|24|24|L 2|False|True|0|199802100MIL
+49|49|Wed, Feb 11, 1998||Detroit Pistons|83|95|24|25|L 3|False|False|0|199802110DET
+50|50|Sat, Feb 14, 1998||Cleveland Cavaliers|99|93|25|25|W 1|True|False|0|199802140CLE
+51|51|Mon, Feb 16, 1998||New Jersey Nets|92|103|25|26|L 1|False|False|0|199802160NJN
+52|52|Wed, Feb 18, 1998||Washington Wizards|108|98|26|26|W 1|True|False|0|199802180WAS
+53|53|Fri, Feb 20, 1998||Toronto Raptors|94|89|27|26|W 2|True|True|0|199802200MIL
+54|54|Sun, Feb 22, 1998||Cleveland Cavaliers|79|71|28|26|W 3|True|True|0|199802220MIL
+55|55|Tue, Feb 24, 1998||Los Angeles Lakers|81|98|28|27|L 1|False|True|0|199802240MIL
+56|56|Thu, Feb 26, 1998||New York Knicks|90|102|28|28|L 2|False|False|0|199802260NYK
+57|57|Wed, Mar 4, 1998||Philadelphia 76ers|80|87|28|29|L 3|False|False|0|199803040PHI
+58|58|Thu, Mar 5, 1998||Denver Nuggets|104|87|29|29|W 1|True|True|0|199803050MIL
+59|59|Sat, Mar 7, 1998||Utah Jazz|92|110|29|30|L 1|False|True|0|199803070MIL
+60|60|Tue, Mar 10, 1998||Washington Wizards|77|93|29|31|L 2|False|True|0|199803100MIL
+61|61|Wed, Mar 11, 1998||Cleveland Cavaliers|83|95|29|32|L 3|False|False|0|199803110CLE
+62|62|Fri, Mar 13, 1998||Indiana Pacers|76|96|29|33|L 4|False|False|0|199803130IND
+63|63|Sat, Mar 14, 1998||Philadelphia 76ers|89|93|29|34|L 5|False|True|0|199803140MIL
+64|64|Mon, Mar 16, 1998||San Antonio Spurs|85|96|29|35|L 6|False|False|0|199803160SAS
+65|65|Tue, Mar 17, 1998||Houston Rockets|91|96|29|36|L 7|False|False|0|199803170HOU
+66|66|Thu, Mar 19, 1998||Atlanta Hawks|81|84|29|37|L 8|False|False|0|199803190ATL
+67|67|Sun, Mar 22, 1998||Indiana Pacers|94|96|29|38|L 9|False|True|1|199803220MIL
+68|68|Tue, Mar 24, 1998||Houston Rockets|118|108|30|38|W 1|True|True|0|199803240MIL
+69|69|Thu, Mar 26, 1998||Charlotte Hornets|80|94|30|39|L 1|False|False|0|199803260CHH
+70|70|Fri, Mar 27, 1998||Miami Heat|77|102|30|40|L 2|False|False|0|199803270MIA
+71|71|Sun, Mar 29, 1998||Chicago Bulls|87|104|30|41|L 3|False|True|0|199803290MIL
+72|72|Tue, Mar 31, 1998||Golden State Warriors|94|89|31|41|W 1|True|False|1|199803310GSW
+73|73|Wed, Apr 1, 1998||Denver Nuggets|106|100|32|41|W 2|True|False|0|199804010DEN
+74|74|Fri, Apr 3, 1998||Sacramento Kings|87|86|33|41|W 3|True|False|0|199804030SAC
+75|75|Sun, Apr 5, 1998||Indiana Pacers|92|93|33|42|L 1|False|False|0|199804050IND
+76|76|Tue, Apr 7, 1998||Toronto Raptors|114|105|34|42|W 1|True|True|0|199804070MIL
+77|77|Wed, Apr 8, 1998||Toronto Raptors|107|100|35|42|W 2|True|False|0|199804080TOR
+78|78|Sat, Apr 11, 1998||New Jersey Nets|117|124|35|43|L 1|False|True|0|199804110MIL
+79|79|Tue, Apr 14, 1998||Charlotte Hornets|82|104|35|44|L 2|False|True|0|199804140MIL
+80|80|Wed, Apr 15, 1998||Boston Celtics|117|109|36|44|W 1|True|False|0|199804150BOS
+81|81|Fri, Apr 17, 1998||Detroit Pistons|102|108|36|45|L 1|False|False|0|199804170DET
+82|82|Sat, Apr 18, 1998||Minnesota Timberwolves|109|111|36|46|L 2|False|True|0|199804180MIL

@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Oct 31, 1986||Dallas Mavericks|77|103|0|1|L 1|False|False|0|198610310DAL
+2|2|Sat, Nov 1, 1986||Portland Trail Blazers|119|110|1|1|W 1|True|True|0|198611010UTA
+3|3|Wed, Nov 5, 1986||Cleveland Cavaliers|111|95|2|1|W 2|True|True|0|198611050UTA
+4|4|Thu, Nov 6, 1986||Denver Nuggets|121|135|2|2|L 1|False|False|0|198611060DEN
+5|5|Tue, Nov 11, 1986||Dallas Mavericks|104|103|3|2|W 1|True|True|0|198611110UTA
+6|6|Thu, Nov 13, 1986||Los Angeles Clippers|130|113|4|2|W 2|True|True|0|198611130UTA
+7|7|Sat, Nov 15, 1986||Denver Nuggets|111|103|5|2|W 3|True|True|0|198611150UTA
+8|8|Sun, Nov 16, 1986||Portland Trail Blazers|103|124|5|3|L 1|False|False|0|198611160POR
+9|9|Thu, Nov 20, 1986||Houston Rockets|90|104|5|4|L 2|False|False|0|198611200HOU
+10|10|Sat, Nov 22, 1986||New Jersey Nets|96|78|6|4|W 1|True|True|0|198611220UTA
+11|11|Tue, Nov 25, 1986||Golden State Warriors|106|111|6|5|L 1|False|False|0|198611250GSW
+12|12|Wed, Nov 26, 1986||Seattle SuperSonics|127|91|7|5|W 1|True|True|0|198611260UTA
+13|13|Fri, Nov 28, 1986||Atlanta Hawks|88|97|7|6|L 1|False|True|0|198611280UTA
+14|14|Sat, Nov 29, 1986||Dallas Mavericks|107|118|7|7|L 2|False|False|0|198611290DAL
+15|15|Wed, Dec 3, 1986||Chicago Bulls|99|94|8|7|W 1|True|True|0|198612030UTA
+16|16|Fri, Dec 5, 1986||New York Knicks|123|96|9|7|W 2|True|True|0|198612050UTA
+17|17|Sat, Dec 6, 1986||Sacramento Kings|114|111|10|7|W 3|True|False|0|198612060SAC
+18|18|Wed, Dec 10, 1986||Denver Nuggets|112|110|11|7|W 4|True|False|0|198612100DEN
+19|19|Thu, Dec 11, 1986||Dallas Mavericks|103|99|12|7|W 5|True|True|0|198612110UTA
+20|20|Sat, Dec 13, 1986||Los Angeles Clippers|115|100|13|7|W 6|True|True|0|198612130UTA
+21|21|Tue, Dec 16, 1986||Washington Bullets|109|106|14|7|W 7|True|False|0|198612160WSB
+22|22|Wed, Dec 17, 1986||Detroit Pistons|107|122|14|8|L 1|False|False|0|198612170DET
+23|23|Fri, Dec 19, 1986||Cleveland Cavaliers|134|128|15|8|W 1|True|False|2|198612190CLE
+24|24|Sat, Dec 20, 1986||Chicago Bulls|91|89|16|8|W 2|True|False|0|198612200CHI
+25|25|Mon, Dec 22, 1986||Philadelphia 76ers|114|111|17|8|W 3|True|False|0|198612220PHI
+26|26|Tue, Dec 23, 1986|7:40p|New Jersey Nets|96|119|17|9|L 1|False|False|0|198612230NJN
+27|27|Sat, Dec 27, 1986||Houston Rockets|103|96|18|9|W 1|True|True|0|198612270UTA
+28|28|Mon, Dec 29, 1986||San Antonio Spurs|109|101|19|9|W 2|True|True|0|198612290UTA
+29|29|Tue, Dec 30, 1986||San Antonio Spurs|109|115|19|10|L 1|False|False|0|198612300SAS
+30|30|Fri, Jan 2, 1987||Philadelphia 76ers|99|104|19|11|L 2|False|True|0|198701020UTA
+31|31|Sun, Jan 4, 1987||Los Angeles Lakers|113|121|19|12|L 3|False|False|0|198701040LAL
+32|32|Thu, Jan 8, 1987||Los Angeles Lakers|107|101|20|12|W 1|True|True|0|198701080UTA
+33|33|Sat, Jan 10, 1987||Indiana Pacers|105|96|21|12|W 2|True|True|0|198701100UTA
+34|34|Sun, Jan 11, 1987||Seattle SuperSonics|111|127|21|13|L 1|False|False|0|198701110SEA
+35|35|Tue, Jan 13, 1987||Portland Trail Blazers|113|121|21|14|L 2|False|False|0|198701130POR
+36|36|Thu, Jan 15, 1987||Phoenix Suns|107|123|21|15|L 3|False|False|0|198701150PHO
+37|37|Sat, Jan 17, 1987||San Antonio Spurs|91|102|21|16|L 4|False|False|0|198701170SAS
+38|38|Wed, Jan 21, 1987||Detroit Pistons|112|108|22|16|W 1|True|True|0|198701210UTA
+39|39|Fri, Jan 23, 1987||Golden State Warriors|123|100|23|16|W 2|True|True|0|198701230UTA
+40|40|Mon, Jan 26, 1987||Seattle SuperSonics|95|108|23|17|L 1|False|True|0|198701260UTA
+41|41|Tue, Jan 27, 1987||Houston Rockets|92|88|24|17|W 1|True|False|0|198701270HOU
+42|42|Thu, Jan 29, 1987||Portland Trail Blazers|120|114|25|17|W 2|True|True|0|198701290UTA
+43|43|Sat, Jan 31, 1987||Los Angeles Clippers|113|114|25|18|L 1|False|True|1|198701310UTA
+44|44|Sun, Feb 1, 1987||Sacramento Kings|121|113|26|18|W 1|True|False|0|198702010SAC
+45|45|Tue, Feb 3, 1987||Sacramento Kings|101|95|27|18|W 2|True|True|0|198702030UTA
+46|46|Thu, Feb 5, 1987||Los Angeles Clippers|126|103|28|18|W 3|True|False|0|198702050LAC
+47|47|Tue, Feb 10, 1987||Phoenix Suns|98|102|28|19|L 1|False|True|0|198702100UTA
+48|48|Fri, Feb 13, 1987||Phoenix Suns|98|105|28|20|L 2|False|False|0|198702130PHO
+49|49|Sat, Feb 14, 1987||San Antonio Spurs|108|95|29|20|W 1|True|True|0|198702140UTA
+50|50|Mon, Feb 16, 1987||Boston Celtics|109|89|30|20|W 2|True|True|0|198702160UTA
+51|51|Wed, Feb 18, 1987||Milwaukee Bucks|109|113|30|21|L 1|False|True|0|198702180UTA
+52|52|Fri, Feb 20, 1987||Washington Bullets|113|118|30|22|L 2|False|True|0|198702200UTA
+53|53|Sat, Feb 21, 1987||Houston Rockets|81|94|30|23|L 3|False|False|0|198702210HOU
+54|54|Tue, Feb 24, 1987||Seattle SuperSonics|133|103|31|23|W 1|True|True|0|198702240UTA
+55|55|Thu, Feb 26, 1987||Houston Rockets|84|85|31|24|L 1|False|True|0|198702260UTA
+56|56|Sat, Feb 28, 1987||Los Angeles Lakers|107|100|32|24|W 1|True|True|0|198702280UTA
+57|57|Tue, Mar 3, 1987||New York Knicks|86|99|32|25|L 1|False|False|0|198703030NYK
+58|58|Wed, Mar 4, 1987||Boston Celtics|105|123|32|26|L 2|False|False|0|198703040BOS
+59|59|Fri, Mar 6, 1987||Milwaukee Bucks|124|123|33|26|W 1|True|False|0|198703060MIL
+60|60|Sat, Mar 7, 1987||Atlanta Hawks|97|122|33|27|L 1|False|False|0|198703070ATL
+61|61|Mon, Mar 9, 1987||Indiana Pacers|102|107|33|28|L 2|False|False|0|198703090IND
+62|62|Wed, Mar 11, 1987||Denver Nuggets|116|122|33|29|L 3|False|False|0|198703110DEN
+63|63|Thu, Mar 12, 1987||Sacramento Kings|113|109|34|29|W 1|True|False|0|198703120SAC
+64|64|Sat, Mar 14, 1987||Sacramento Kings|123|116|35|29|W 2|True|True|0|198703140UTA
+65|65|Tue, Mar 17, 1987||Golden State Warriors|118|103|36|29|W 3|True|True|0|198703170UTA
+66|66|Wed, Mar 18, 1987||Los Angeles Lakers|97|111|36|30|L 1|False|False|0|198703180LAL
+67|67|Sat, Mar 21, 1987||Houston Rockets|125|108|37|30|W 1|True|True|0|198703210UTA
+68|68|Mon, Mar 23, 1987||Denver Nuggets|122|118|38|30|W 2|True|True|0|198703230UTA
+69|69|Wed, Mar 25, 1987||Los Angeles Clippers|101|111|38|31|L 1|False|False|0|198703250LAC
+70|70|Fri, Mar 27, 1987||San Antonio Spurs|144|133|39|31|W 1|True|True|0|198703270UTA
+71|71|Sat, Mar 28, 1987||Golden State Warriors|110|116|39|32|L 1|False|False|0|198703280GSW
+72|72|Tue, Mar 31, 1987||Phoenix Suns|110|95|40|32|W 1|True|True|0|198703310UTA
+73|73|Wed, Apr 1, 1987||San Antonio Spurs|107|104|41|32|W 2|True|False|0|198704010SAS
+74|74|Fri, Apr 3, 1987||Phoenix Suns|98|112|41|33|L 1|False|False|0|198704030PHO
+75|75|Sat, Apr 4, 1987||Dallas Mavericks|107|121|41|34|L 2|False|False|0|198704040DAL
+76|76|Mon, Apr 6, 1987||Sacramento Kings|104|110|41|35|L 3|False|True|0|198704060UTA
+77|77|Wed, Apr 8, 1987||Dallas Mavericks|103|90|42|35|W 1|True|True|0|198704080UTA
+78|78|Fri, Apr 10, 1987||Denver Nuggets|106|103|43|35|W 2|True|True|0|198704100UTA
+79|79|Sun, Apr 12, 1987||Golden State Warriors|109|107|44|35|W 3|True|False|0|198704120GSW
+80|80|Tue, Apr 14, 1987||Seattle SuperSonics|102|103|44|36|L 1|False|False|0|198704140SEA
+81|81|Thu, Apr 16, 1987||Los Angeles Lakers|97|110|44|37|L 2|False|True|0|198704160UTA
+82|82|Fri, Apr 17, 1987||Portland Trail Blazers|101|111|44|38|L 3|False|False|0|198704170POR

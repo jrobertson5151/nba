@@ -1,0 +1,85 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Oct 15, 1971||Utah Stars|106|116|0|1|L 1|False|False|0|197110150UTS
+2|2|Sat, Oct 16, 1971||The Floridians|82|84|0|2|L 2|False|True|0|197110160DLC
+3|3|Wed, Oct 20, 1971||Carolina Cougars|115|113|1|2|W 1|True|True|1|197110200DLC
+4|4|Thu, Oct 21, 1971||Virginia Squires|99|103|1|3|L 1|False|False|0|197110210VIR
+5|5|Fri, Oct 22, 1971||Virginia Squires|123|108|2|3|W 1|True|False|0|197110220VIR
+6|6|Sat, Oct 23, 1971||Indiana Pacers|105|93|3|3|W 2|True|False|0|197110230INA
+7|7|Tue, Oct 26, 1971||Utah Stars|116|131|3|4|L 1|False|True|0|197110260DLC
+8|8|Fri, Oct 29, 1971||Denver Rockets|111|119|3|5|L 2|False|False|1|197110290DNR
+9|9|Sun, Oct 31, 1971||Indiana Pacers|125|108|4|5|W 1|True|True|0|197110310DLC
+10|10|Wed, Nov 3, 1971||Virginia Squires|117|127|4|6|L 1|False|True|0|197111030DLC
+11|11|Fri, Nov 5, 1971||Pittsburgh Condors|96|98|4|7|L 2|False|True|0|197111050DLC
+12|12|Sat, Nov 6, 1971||Carolina Cougars|97|92|5|7|W 1|True|False|0|197111060CAR
+13|13|Tue, Nov 9, 1971||New York Nets|90|86|6|7|W 2|True|True|0|197111090DLC
+14|14|Wed, Nov 10, 1971||Kentucky Colonels|89|115|6|8|L 1|False|False|0|197111100KEN
+15|15|Fri, Nov 12, 1971||Memphis Pros|103|107|6|9|L 2|False|True|0|197111120DLC
+16|16|Sat, Nov 13, 1971||Denver Rockets|97|92|7|9|W 1|True|False|0|197111130DNR
+17|17|Sat, Nov 20, 1971||Utah Stars|99|103|7|10|L 1|False|False|0|197111200UTS
+18|18|Tue, Nov 23, 1971||Denver Rockets|104|101|8|10|W 1|True|True|0|197111230DLC
+19|19|Wed, Nov 24, 1971||Carolina Cougars|106|120|8|11|L 1|False|False|0|197111240CAR
+20|20|Fri, Nov 26, 1971||New York Nets|106|101|9|11|W 1|True|False|0|197111260NYA
+21|21|Sat, Nov 27, 1971||Virginia Squires|100|111|9|12|L 1|False|False|0|197111270VIR
+22|22|Sun, Nov 28, 1971||The Floridians|106|98|10|12|W 1|True|False|0|197111280FLO
+23|23|Tue, Nov 30, 1971||Denver Rockets|91|106|10|13|L 1|False|False|0|197111300DNR
+24|24|Wed, Dec 1, 1971||The Floridians|106|107|10|14|L 2|False|True|1|197112010DLC
+25|25|Fri, Dec 3, 1971||Kentucky Colonels|91|105|10|15|L 3|False|True|0|197112030DLC
+26|26|Tue, Dec 7, 1971||Virginia Squires|113|103|11|15|W 1|True|True|0|197112070DLC
+27|27|Wed, Dec 8, 1971||Utah Stars|97|116|11|16|L 1|False|False|0|197112080UTS
+28|28|Thu, Dec 9, 1971||Pittsburgh Condors|113|124|11|17|L 2|False|False|0|197112090PTC
+29|29|Sat, Dec 11, 1971||Memphis Pros|105|116|11|18|L 3|False|False|0|197112110MMP
+30|30|Tue, Dec 14, 1971||Indiana Pacers|98|107|11|19|L 4|False|True|0|197112140DLC
+31|31|Wed, Dec 15, 1971||Indiana Pacers|110|124|11|20|L 5|False|False|0|197112150INA
+32|32|Fri, Dec 17, 1971||New York Nets|83|90|11|21|L 6|False|False|0|197112170NYA
+33|33|Sat, Dec 18, 1971||Kentucky Colonels|84|94|11|22|L 7|False|False|0|197112180KEN
+34|34|Sun, Dec 19, 1971||Pittsburgh Condors|137|121|12|22|W 1|True|False|0|197112190PTC
+35|35|Tue, Dec 21, 1971||Utah Stars|96|106|12|23|L 1|False|True|0|197112210DLC
+36|36|Wed, Dec 22, 1971||Indiana Pacers|123|120|13|23|W 1|True|True|2|197112220DLC
+37|37|Mon, Dec 27, 1971||Pittsburgh Condors|97|92|14|23|W 2|True|True|0|197112270DLC
+38|38|Wed, Dec 29, 1971||Utah Stars|102|106|14|24|L 1|False|False|0|197112290UTS
+39|39|Thu, Dec 30, 1971||Memphis Pros|102|99|15|24|W 1|True|True|0|197112300DLC
+40|40|Fri, Dec 31, 1971||Utah Stars|103|115|15|25|L 1|False|True|0|197112310DLC
+41|41|Sun, Jan 2, 1972||Denver Rockets|84|103|15|26|L 2|False|False|0|197201020DNR
+42|42|Mon, Jan 3, 1972||Indiana Pacers|102|101|16|26|W 1|True|True|0|197201030DLC
+43|43|Thu, Jan 6, 1972||Memphis Pros|104|103|17|26|W 2|True|False|0|197201060MMP
+44|44|Fri, Jan 7, 1972||Indiana Pacers|104|101|18|26|W 3|True|False|0|197201070INA
+45|45|Sat, Jan 8, 1972||The Floridians|103|90|19|26|W 4|True|True|0|197201080DLC
+46|46|Sun, Jan 9, 1972||New York Nets|97|105|19|27|L 1|False|True|0|197201090DLC
+47|47|Tue, Jan 11, 1972||Memphis Pros|86|88|19|28|L 2|False|False|0|197201110MMP
+48|48|Wed, Jan 12, 1972||Denver Rockets|107|102|20|28|W 1|True|True|0|197201120DLC
+49|49|Fri, Jan 14, 1972||Kentucky Colonels|104|120|20|29|L 1|False|True|0|197201140DLC
+50|50|Sat, Jan 15, 1972||The Floridians|105|110|20|30|L 2|False|False|0|197201150FLO
+51|51|Tue, Jan 18, 1972||Memphis Pros|94|96|20|31|L 3|False|True|0|197201180DLC
+52|52|Wed, Jan 19, 1972||Denver Rockets|92|116|20|32|L 4|False|False|0|197201190DNR
+53|53|Fri, Jan 21, 1972||Utah Stars|129|116|21|32|W 1|True|False|0|197201210UTS
+54|54|Sat, Jan 22, 1972||Denver Rockets|94|93|22|32|W 2|True|True|0|197201220DLC
+55|55|Sun, Jan 23, 1972||Indiana Pacers|113|110|23|32|W 3|True|False|1|197201230INA
+56|56|Tue, Jan 25, 1972||Carolina Cougars|117|97|24|32|W 4|True|False|0|197201250CAR
+57|57|Thu, Jan 27, 1972||Denver Rockets|99|98|25|32|W 5|True|False|0|197201270DNR
+58|58|Tue, Feb 1, 1972||Memphis Pros|87|98|25|33|L 1|False|False|0|197202010MMP
+59|59|Wed, Feb 2, 1972||Carolina Cougars|101|110|25|34|L 2|False|True|0|197202020DLC
+60|60|Fri, Feb 4, 1972||Denver Rockets|118|102|26|34|W 1|True|True|0|197202040DLC
+61|61|Sun, Feb 6, 1972||Memphis Pros|107|84|27|34|W 2|True|True|0|197202060DLC
+62|62|Tue, Feb 8, 1972||Utah Stars|102|99|28|34|W 3|True|True|0|197202080DLC
+63|63|Sun, Feb 13, 1972||New York Nets|123|117|29|34|W 4|True|True|2|197202130DLC
+64|64|Tue, Feb 15, 1972||Virginia Squires|116|111|30|34|W 5|True|True|0|197202150DLC
+65|65|Sat, Feb 19, 1972||Indiana Pacers|115|102|31|34|W 6|True|True|0|197202190DLC
+66|66|Mon, Feb 21, 1972||New York Nets|95|104|31|35|L 1|False|False|0|197202210NYA
+67|67|Tue, Feb 22, 1972||Pittsburgh Condors|105|112|31|36|L 2|False|False|0|197202220PTC
+68|68|Fri, Feb 25, 1972||Kentucky Colonels|100|92|32|36|W 1|True|True|0|197202250DLC
+69|69|Sat, Feb 26, 1972||Indiana Pacers|113|115|32|37|L 1|False|True|1|197202260DLC
+70|70|Wed, Mar 1, 1972||Memphis Pros|125|86|33|37|W 1|True|True|0|197203010DLC
+71|71|Thu, Mar 2, 1972||Utah Stars|121|123|33|38|L 1|False|False|1|197203020UTS
+72|72|Sat, Mar 4, 1972||Kentucky Colonels|88|98|33|39|L 2|False|False|0|197203040KEN
+73|73|Sun, Mar 5, 1972||Indiana Pacers|99|110|33|40|L 3|False|False|0|197203050INA
+74|74|Tue, Mar 7, 1972||Pittsburgh Condors|143|108|34|40|W 1|True|True|0|197203070DLC
+75|75|Sat, Mar 11, 1972||Memphis Pros|95|91|35|40|W 2|True|True|0|197203110DLC
+76|76|Tue, Mar 14, 1972||Carolina Cougars|113|105|36|40|W 3|True|True|0|197203140DLC
+77|77|Fri, Mar 17, 1972||Denver Rockets|87|91|36|41|L 1|False|True|0|197203170DLC
+78|78|Sat, Mar 18, 1972||Utah Stars|117|110|37|41|W 1|True|True|0|197203180DLC
+79|79|Tue, Mar 21, 1972||The Floridians|107|90|38|41|W 2|True|False|0|197203210FLO
+80|80|Wed, Mar 22, 1972||Denver Rockets|105|96|39|41|W 3|True|True|0|197203220DLC
+81|81|Fri, Mar 24, 1972||Memphis Pros|107|88|40|41|W 4|True|True|0|197203240DLC
+82|82|Sat, Mar 25, 1972||Memphis Pros|118|99|41|41|W 5|True|False|0|197203250MMP
+83|83|Sun, Mar 26, 1972||Indiana Pacers|88|98|41|42|L 1|False|False|0|197203260INA
+84|84|Tue, Mar 28, 1972||Utah Stars|98|95|42|42|W 1|True|True|0|197203280DLC

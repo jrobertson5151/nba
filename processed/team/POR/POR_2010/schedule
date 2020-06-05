@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Tue, Oct 26, 2010|10:00p|Phoenix Suns|106|92|1|0|W 1|True|True|0|201010260POR
+2|2|Wed, Oct 27, 2010|10:30p|Los Angeles Clippers|98|88|2|0|W 2|True|False|0|201010270LAC
+3|3|Sat, Oct 30, 2010|7:30p|New York Knicks|100|95|3|0|W 3|True|False|0|201010300NYK
+4|4|Mon, Nov 1, 2010|8:00p|Chicago Bulls|98|110|3|1|L 1|False|False|0|201011010CHI
+5|5|Tue, Nov 2, 2010|8:00p|Milwaukee Bucks|90|76|4|1|W 1|True|False|0|201011020MIL
+6|6|Thu, Nov 4, 2010|10:30p|Oklahoma City Thunder|106|107|4|2|L 1|False|True|1|201011040POR
+7|7|Sat, Nov 6, 2010|10:00p|Toronto Raptors|97|84|5|2|W 1|True|True|0|201011060POR
+8|8|Sun, Nov 7, 2010|9:30p|Los Angeles Lakers|96|121|5|3|L 1|False|False|0|201011070LAL
+9|9|Tue, Nov 9, 2010|10:00p|Detroit Pistons|100|78|6|3|W 1|True|True|0|201011090POR
+10|10|Fri, Nov 12, 2010|9:30p|Oklahoma City Thunder|108|110|6|4|L 1|False|False|0|201011120OKC
+11|11|Sat, Nov 13, 2010|8:00p|New Orleans Hornets|87|107|6|5|L 2|False|False|0|201011130NOH
+12|12|Tue, Nov 16, 2010|8:00p|Memphis Grizzlies|100|99|7|5|W 1|True|False|0|201011160MEM
+13|13|Thu, Nov 18, 2010|10:30p|Denver Nuggets|86|83|8|5|W 2|True|True|0|201011180POR
+14|14|Sat, Nov 20, 2010|10:00p|Utah Jazz|94|103|8|6|L 1|False|True|0|201011200POR
+15|15|Fri, Nov 26, 2010|10:00p|New Orleans Hornets|78|97|8|7|L 2|False|True|0|201011260POR
+16|16|Sun, Nov 28, 2010|7:00p|New Jersey Nets|96|98|8|8|L 3|False|False|0|201011280NJN
+17|17|Tue, Nov 30, 2010|7:00p|Philadelphia 76ers|79|88|8|9|L 4|False|False|0|201011300PHI
+18|18|Wed, Dec 1, 2010|7:30p|Boston Celtics|95|99|8|10|L 5|False|False|0|201012010BOS
+19|19|Fri, Dec 3, 2010|7:00p|Washington Wizards|79|83|8|11|L 6|False|False|0|201012030WAS
+20|20|Sun, Dec 5, 2010|9:00p|Los Angeles Clippers|100|91|9|11|W 1|True|True|0|201012050POR
+21|21|Tue, Dec 7, 2010|10:00p|Phoenix Suns|106|99|10|11|W 2|True|True|0|201012070POR
+22|22|Thu, Dec 9, 2010|10:30p|Orlando Magic|97|83|11|11|W 3|True|True|0|201012090POR
+23|23|Fri, Dec 10, 2010|9:00p|Phoenix Suns|101|94|12|11|W 4|True|False|0|201012100PHO
+24|24|Sun, Dec 12, 2010|3:30p|San Antonio Spurs|78|95|12|12|L 1|False|False|0|201012120SAS
+25|25|Mon, Dec 13, 2010|8:00p|Memphis Grizzlies|73|86|12|13|L 2|False|False|0|201012130MEM
+26|26|Wed, Dec 15, 2010|9:30p|Dallas Mavericks|98|103|12|14|L 3|False|False|0|201012150DAL
+27|27|Fri, Dec 17, 2010|10:00p|Minnesota Timberwolves|107|102|13|14|W 1|True|True|0|201012170POR
+28|28|Sat, Dec 18, 2010|10:00p|Golden State Warriors|96|95|14|14|W 2|True|True|0|201012180POR
+29|29|Mon, Dec 20, 2010|10:00p|Milwaukee Bucks|106|80|15|14|W 3|True|True|0|201012200POR
+30|30|Sat, Dec 25, 2010|10:30p|Golden State Warriors|102|109|15|15|L 1|False|False|0|201012250GSW
+31|31|Mon, Dec 27, 2010|9:00p|Utah Jazz|96|91|16|15|W 1|True|False|0|201012270UTA
+32|32|Tue, Dec 28, 2010|9:00p|Denver Nuggets|77|95|16|16|L 1|False|False|0|201012280DEN
+33|33|Thu, Dec 30, 2010|10:00p|Utah Jazz|100|89|17|16|W 1|True|True|0|201012300POR
+34|34|Sun, Jan 2, 2011|9:00p|Houston Rockets|100|85|18|16|W 2|True|True|0|201101020POR
+35|35|Tue, Jan 4, 2011|8:30p|Dallas Mavericks|81|84|18|17|L 1|False|False|0|201101040DAL
+36|36|Wed, Jan 5, 2011|8:30p|Houston Rockets|103|100|19|17|W 1|True|False|0|201101050HOU
+37|37|Fri, Jan 7, 2011|8:00p|Minnesota Timberwolves|108|98|20|17|W 2|True|False|0|201101070MIN
+38|38|Sun, Jan 9, 2011|9:00p|Miami Heat|100|107|20|18|L 1|False|True|1|201101090POR
+39|39|Tue, Jan 11, 2011|10:00p|New York Knicks|86|100|20|19|L 2|False|True|0|201101110POR
+40|40|Fri, Jan 14, 2011|10:30p|Phoenix Suns|111|115|20|20|L 3|False|False|0|201101140PHO
+41|41|Sat, Jan 15, 2011|10:00p|New Jersey Nets|96|89|21|20|W 1|True|True|0|201101150POR
+42|42|Mon, Jan 17, 2011|10:00p|Minnesota Timberwolves|113|102|22|20|W 2|True|True|0|201101170POR
+43|43|Wed, Jan 19, 2011|10:00p|Sacramento Kings|94|90|23|20|W 3|True|False|1|201101190SAC
+44|44|Thu, Jan 20, 2011|10:30p|Los Angeles Clippers|108|93|24|20|W 4|True|True|0|201101200POR
+45|45|Sat, Jan 22, 2011|10:00p|Indiana Pacers|97|92|25|20|W 5|True|True|0|201101220POR
+46|46|Mon, Jan 24, 2011|10:00p|Sacramento Kings|81|96|25|21|L 1|False|True|0|201101240POR
+47|47|Thu, Jan 27, 2011|10:30p|Boston Celtics|78|88|25|22|L 2|False|True|0|201101270POR
+48|48|Tue, Feb 1, 2011|10:00p|San Antonio Spurs|99|86|26|22|W 1|True|True|0|201102010POR
+49|49|Wed, Feb 2, 2011|9:00p|Denver Nuggets|90|109|26|23|L 1|False|False|0|201102020DEN
+50|50|Fri, Feb 4, 2011|7:00p|Indiana Pacers|87|100|26|24|L 2|False|False|0|201102040IND
+51|51|Sat, Feb 5, 2011|7:30p|Cleveland Cavaliers|111|105|27|24|W 1|True|False|0|201102050CLE
+52|52|Mon, Feb 7, 2011|10:00p|Chicago Bulls|109|103|28|24|W 2|True|True|0|201102070POR
+53|53|Fri, Feb 11, 2011|7:00p|Toronto Raptors|102|96|29|24|W 3|True|False|0|201102110TOR
+54|54|Sun, Feb 13, 2011|6:00p|Detroit Pistons|105|100|30|24|W 4|True|False|0|201102130DET
+55|55|Mon, Feb 14, 2011|8:00p|Minnesota Timberwolves|95|81|31|24|W 5|True|False|0|201102140MIN
+56|56|Wed, Feb 16, 2011|10:00p|New Orleans Hornets|103|96|32|24|W 6|True|True|0|201102160POR
+57|57|Wed, Feb 23, 2011|10:30p|Los Angeles Lakers|101|106|32|25|L 1|False|True|1|201102230POR
+58|58|Fri, Feb 25, 2011|10:30p|Denver Nuggets|107|106|33|25|W 1|True|True|1|201102250POR
+59|59|Sun, Feb 27, 2011|10:30p|Atlanta Hawks|83|90|33|26|L 1|False|True|0|201102270POR
+60|60|Tue, Mar 1, 2011|10:00p|Houston Rockets|87|103|33|27|L 2|False|True|0|201103010POR
+61|61|Wed, Mar 2, 2011|10:00p|Sacramento Kings|107|102|34|27|W 1|True|False|0|201103020SAC
+62|62|Sat, Mar 5, 2011|10:00p|Charlotte Bobcats|93|69|35|27|W 2|True|True|0|201103050POR
+63|63|Mon, Mar 7, 2011|7:00p|Orlando Magic|89|85|36|27|W 3|True|False|0|201103070ORL
+64|64|Tue, Mar 8, 2011|7:30p|Miami Heat|105|96|37|27|W 4|True|False|0|201103080MIA
+65|65|Fri, Mar 11, 2011|7:00p|Charlotte Bobcats|92|97|37|28|L 1|False|False|0|201103110CHA
+66|66|Sat, Mar 12, 2011|7:00p|Atlanta Hawks|82|91|37|29|L 2|False|False|0|201103120ATL
+67|67|Tue, Mar 15, 2011|10:00p|Dallas Mavericks|104|101|38|29|W 1|True|True|0|201103150POR
+68|68|Thu, Mar 17, 2011|10:00p|Cleveland Cavaliers|111|70|39|29|W 2|True|True|0|201103170POR
+69|69|Sat, Mar 19, 2011|10:00p|Philadelphia 76ers|110|101|40|29|W 3|True|True|0|201103190POR
+70|70|Sun, Mar 20, 2011|9:30p|Los Angeles Lakers|80|84|40|30|L 1|False|False|0|201103200LAL
+71|71|Tue, Mar 22, 2011|10:00p|Washington Wizards|111|76|41|30|W 1|True|True|0|201103220POR
+72|72|Fri, Mar 25, 2011|10:00p|San Antonio Spurs|98|96|42|30|W 2|True|True|0|201103250POR
+73|73|Sun, Mar 27, 2011|8:00p|Oklahoma City Thunder|90|99|42|31|L 1|False|False|0|201103270OKC
+74|74|Mon, Mar 28, 2011|8:30p|San Antonio Spurs|100|92|43|31|W 1|True|False|0|201103280SAS
+75|75|Wed, Mar 30, 2011|8:00p|New Orleans Hornets|91|95|43|32|L 1|False|False|0|201103300NOH
+76|76|Fri, Apr 1, 2011|10:00p|Oklahoma City Thunder|98|91|44|32|W 1|True|True|0|201104010POR
+77|77|Sun, Apr 3, 2011|9:00p|Dallas Mavericks|104|96|45|32|W 2|True|True|0|201104030POR
+78|78|Tue, Apr 5, 2011|10:00p|Golden State Warriors|87|108|45|33|L 1|False|True|0|201104050POR
+79|79|Thu, Apr 7, 2011|10:30p|Utah Jazz|98|87|46|33|W 1|True|False|0|201104070UTA
+80|80|Fri, Apr 8, 2011|10:00p|Los Angeles Lakers|93|86|47|33|W 2|True|True|0|201104080POR
+81|81|Tue, Apr 12, 2011|10:00p|Memphis Grizzlies|102|89|48|33|W 3|True|True|0|201104120POR
+82|82|Wed, Apr 13, 2011|10:30p|Golden State Warriors|86|110|48|34|L 1|False|False|0|201104130GSW

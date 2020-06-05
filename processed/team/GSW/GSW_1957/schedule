@@ -1,0 +1,73 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Oct 25, 1957||Syracuse Nationals|85|103|0|1|L 1|False|False|0|195710250SYR
+2|2|Sat, Oct 26, 1957||Detroit Pistons|112|100|1|1|W 1|True|False|0|195710260DET
+3|3|Sat, Nov 2, 1957||Minneapolis Lakers|118|108|2|1|W 2|True|True|0|195711020PHW
+4|4|Sun, Nov 3, 1957||New York Knicks|105|123|2|2|L 1|False|False|0|195711030NYK
+5|5|Thu, Nov 7, 1957||New York Knicks|113|101|3|2|W 1|True|True|0|195711070PHW
+6|6|Fri, Nov 8, 1957||Minneapolis Lakers|119|108|4|2|W 2|True|True|0|195711080MNL
+7|7|Sat, Nov 9, 1957||St. Louis Hawks|100|105|4|3|L 1|False|False|0|195711090STL
+8|8|Sun, Nov 10, 1957||Cincinnati Royals|106|101|5|3|W 1|True|False|0|195711100CIN
+9|9|Thu, Nov 14, 1957||Syracuse Nationals|94|97|5|4|L 1|False|True|0|195711140PHW
+10|10|Sat, Nov 16, 1957||Boston Celtics|89|111|5|5|L 2|False|False|0|195711160BOS
+11|11|Sun, Nov 17, 1957||Detroit Pistons|91|95|5|6|L 3|False|True|0|195711170PHW
+12|12|Wed, Nov 20, 1957||Cincinnati Royals|89|99|5|7|L 4|False|True|0|195711200PHW
+13|13|Sun, Nov 24, 1957||Minneapolis Lakers|105|98|6|7|W 1|True|True|0|195711240PHW
+14|14|Wed, Nov 27, 1957||Syracuse Nationals|87|92|6|8|L 1|False|False|0|195711270SYR
+15|15|Thu, Nov 28, 1957||Syracuse Nationals|102|98|7|8|W 1|True|True|0|195711280PHW
+16|16|Sat, Nov 30, 1957||New York Knicks|111|83|8|8|W 2|True|True|0|195711300PHW
+17|17|Tue, Dec 3, 1957||Syracuse Nationals|96|119|8|9|L 1|False|True|0|195712030PHW
+18|18|Thu, Dec 5, 1957||St. Louis Hawks|124|109|9|9|W 1|True|True|0|195712050PHW
+19|19|Sat, Dec 7, 1957||Boston Celtics|106|112|9|10|L 1|False|True|0|195712070PHW
+20|20|Sun, Dec 8, 1957||Cincinnati Royals|88|99|9|11|L 2|False|False|0|195712080CIN
+21|21|Tue, Dec 10, 1957||Detroit Pistons|100|97|10|11|W 1|True|False|0|195712100DET
+22|22|Thu, Dec 12, 1957||Detroit Pistons|96|101|10|12|L 1|False|True|0|195712120PHW
+23|23|Sat, Dec 14, 1957||Boston Celtics|94|112|10|13|L 2|False|False|0|195712140BOS
+24|24|Wed, Dec 18, 1957||Minneapolis Lakers|102|108|10|14|L 3|False|False|0|195712180MNL
+25|25|Sun, Dec 22, 1957||New York Knicks|100|126|10|15|L 4|False|False|0|195712220NYK
+26|26|Wed, Dec 25, 1957||Boston Celtics|115|105|11|15|W 1|True|True|0|195712250PHW
+27|27|Fri, Dec 27, 1957||Boston Celtics|110|106|12|15|W 2|True|True|0|195712270BOS
+28|28|Sat, Dec 28, 1957||New York Knicks|122|115|13|15|W 3|True|True|0|195712280PHW
+29|29|Sun, Dec 29, 1957||Syracuse Nationals|97|105|13|16|L 1|False|False|0|195712290SYR
+30|30|Thu, Jan 2, 1958||St. Louis Hawks|95|93|14|16|W 1|True|True|0|195801020PHW
+31|31|Fri, Jan 3, 1958||Cincinnati Royals|94|106|14|17|L 1|False|False|0|195801030CIN
+32|32|Sat, Jan 4, 1958||Detroit Pistons|78|81|14|18|L 2|False|False|0|195801040DET
+33|33|Sun, Jan 5, 1958||Syracuse Nationals|96|111|14|19|L 3|False|True|0|195801050PHW
+34|34|Fri, Jan 10, 1958||St. Louis Hawks|124|93|15|19|W 1|True|True|0|195801100PHW
+35|35|Sun, Jan 12, 1958||New York Knicks|115|110|16|19|W 2|True|False|1|195801120NYK
+36|36|Tue, Jan 14, 1958||St. Louis Hawks|110|109|17|19|W 3|True|False|0|195801140STL
+37|37|Thu, Jan 16, 1958||Detroit Pistons|108|113|17|20|L 1|False|True|0|195801160PHW
+38|38|Fri, Jan 17, 1958||New York Knicks|117|116|18|20|W 1|True|True|0|195801170NYK
+39|39|Sat, Jan 18, 1958||Boston Celtics|116|104|19|20|W 2|True|True|0|195801180PHW
+40|40|Sun, Jan 19, 1958||Boston Celtics|113|114|19|21|L 1|False|False|0|195801190BOS
+41|41|Thu, Jan 23, 1958||Syracuse Nationals|88|101|19|22|L 2|False|True|0|195801230PHW
+42|42|Fri, Jan 24, 1958||Cincinnati Royals|102|92|20|22|W 1|True|False|0|195801240CIN
+43|43|Sun, Jan 26, 1958||St. Louis Hawks|125|112|21|22|W 2|True|False|0|195801260STL
+44|44|Mon, Jan 27, 1958||Detroit Pistons|93|115|21|23|L 1|False|False|0|195801270DET
+45|45|Tue, Jan 28, 1958||St. Louis Hawks|109|123|21|24|L 2|False|True|0|195801280PHW
+46|46|Thu, Jan 30, 1958||Boston Celtics|116|96|22|24|W 1|True|True|0|195801300PHW
+47|47|Fri, Jan 31, 1958||Boston Celtics|110|101|23|24|W 2|True|False|0|195801310BOS
+48|48|Sat, Feb 1, 1958||Detroit Pistons|106|86|24|24|W 3|True|True|0|195802010DET
+49|49|Sun, Feb 2, 1958||New York Knicks|131|120|25|24|W 4|True|True|0|195802020PHW
+50|50|Tue, Feb 4, 1958||Minneapolis Lakers|107|103|26|24|W 5|True|True|0|195802040MNL
+51|51|Wed, Feb 5, 1958||Minneapolis Lakers|112|102|27|24|W 6|True|False|0|195802050MNL
+52|52|Fri, Feb 7, 1958||Cincinnati Royals|100|103|27|25|L 1|False|True|0|195802070PHW
+53|53|Sun, Feb 9, 1958||St. Louis Hawks|105|98|28|25|W 1|True|True|0|195802090PHW
+54|54|Tue, Feb 11, 1958||Detroit Pistons|115|98|29|25|W 2|True|True|0|195802110PHW
+55|55|Thu, Feb 13, 1958||Syracuse Nationals|98|108|29|26|L 1|False|False|0|195802130SYR
+56|56|Sat, Feb 15, 1958||Boston Celtics|96|110|29|27|L 2|False|True|0|195802150PHW
+57|57|Sun, Feb 16, 1958||Minneapolis Lakers|99|106|29|28|L 3|False|False|0|195802160MNL
+58|58|Wed, Feb 19, 1958||Boston Celtics|123|103|30|28|W 1|True|True|0|195802190BOS
+59|59|Thu, Feb 20, 1958||Syracuse Nationals|110|97|31|28|W 2|True|True|0|195802200PHW
+60|60|Fri, Feb 21, 1958||New York Knicks|117|111|32|28|W 3|True|True|1|195802210PHW
+61|61|Sun, Feb 23, 1958||Boston Celtics|97|99|32|29|L 1|False|True|0|195802230BOS
+62|62|Mon, Feb 24, 1958||Minneapolis Lakers|110|95|33|29|W 1|True|True|0|195802240MNL
+63|63|Tue, Feb 25, 1958||New York Knicks|132|110|34|29|W 2|True|False|0|195802250NYK
+64|64|Wed, Feb 26, 1958||New York Knicks|96|112|34|30|L 1|False|True|0|195802260NYK
+65|65|Thu, Feb 27, 1958||Syracuse Nationals|97|91|35|30|W 1|True|True|0|195802270PHW
+66|66|Sat, Mar 1, 1958||Cincinnati Royals|88|101|35|31|L 1|False|True|0|195803010PHW
+67|67|Sun, Mar 2, 1958||Minneapolis Lakers|92|102|35|32|L 2|False|False|0|195803020MNL
+68|68|Tue, Mar 4, 1958||Cincinnati Royals|97|91|36|32|W 1|True|True|0|195803040CIN
+69|69|Thu, Mar 6, 1958||Cincinnati Royals|108|110|36|33|L 1|False|True|0|195803060PHW
+70|70|Sun, Mar 9, 1958||New York Knicks|81|123|36|34|L 2|False|False|0|195803090NYK
+71|71|Tue, Mar 11, 1958||St. Louis Hawks|106|101|37|34|W 1|True|False|0|195803110STL
+72|72|Wed, Mar 12, 1958||Syracuse Nationals|99|110|37|35|L 1|False|False|0|195803120SYR

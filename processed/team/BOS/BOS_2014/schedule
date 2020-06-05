@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Wed, Oct 29, 2014|7:30p|Brooklyn Nets|121|105|1|0|W 1|True|True|0|201410290BOS
+2|2|Sat, Nov 1, 2014|8:00p|Houston Rockets|90|104|1|1|L 1|False|False|0|201411010HOU
+3|3|Mon, Nov 3, 2014|8:30p|Dallas Mavericks|113|118|1|2|L 2|False|False|0|201411030DAL
+4|4|Wed, Nov 5, 2014|7:30p|Toronto Raptors|107|110|1|3|L 3|False|True|0|201411050BOS
+5|5|Fri, Nov 7, 2014|7:30p|Indiana Pacers|101|98|2|3|W 1|True|True|0|201411070BOS
+6|6|Sat, Nov 8, 2014|8:00p|Chicago Bulls|106|101|3|3|W 2|True|False|0|201411080CHI
+7|7|Wed, Nov 12, 2014|7:30p|Oklahoma City Thunder|94|109|3|4|L 1|False|True|0|201411120BOS
+8|8|Fri, Nov 14, 2014|7:30p|Cleveland Cavaliers|121|122|3|5|L 2|False|True|0|201411140BOS
+9|9|Mon, Nov 17, 2014|7:30p|Phoenix Suns|114|118|3|6|L 3|False|True|0|201411170BOS
+10|10|Wed, Nov 19, 2014|7:00p|Philadelphia 76ers|101|90|4|6|W 1|True|False|0|201411190PHI
+11|11|Fri, Nov 21, 2014|8:00p|Memphis Grizzlies|100|117|4|7|L 1|False|False|0|201411210MEM
+12|12|Sun, Nov 23, 2014|6:00p|Portland Trail Blazers|88|94|4|8|L 2|False|True|0|201411230BOS
+13|13|Fri, Nov 28, 2014|1:00p|Chicago Bulls|102|109|4|9|L 3|False|True|0|201411280BOS
+14|14|Sun, Nov 30, 2014|1:00p|San Antonio Spurs|89|111|4|10|L 4|False|True|0|201411300BOS
+15|15|Tue, Dec 2, 2014|7:30p|Atlanta Hawks|105|109|4|11|L 5|False|False|0|201412020ATL
+16|16|Wed, Dec 3, 2014|7:30p|Detroit Pistons|109|102|5|11|W 1|True|True|1|201412030BOS
+17|17|Fri, Dec 5, 2014|7:30p|Los Angeles Lakers|113|96|6|11|W 2|True|True|0|201412050BOS
+18|18|Sun, Dec 7, 2014|1:00p|Washington Wizards|101|93|7|11|W 3|True|True|0|201412070BOS
+19|19|Mon, Dec 8, 2014|7:00p|Washington Wizards|132|133|7|12|L 1|False|False|2|201412080WAS
+20|20|Wed, Dec 10, 2014|7:00p|Charlotte Hornets|87|96|7|13|L 2|False|False|0|201412100CHO
+21|21|Fri, Dec 12, 2014|7:30p|New York Knicks|95|101|7|14|L 3|False|True|0|201412120BOS
+22|22|Mon, Dec 15, 2014|7:00p|Philadelphia 76ers|105|87|8|14|W 1|True|False|0|201412150PHI
+23|23|Wed, Dec 17, 2014|7:30p|Orlando Magic|109|92|9|14|W 2|True|True|0|201412170BOS
+24|24|Fri, Dec 19, 2014|7:30p|Minnesota Timberwolves|114|98|10|14|W 3|True|True|0|201412190BOS
+25|25|Sun, Dec 21, 2014|6:00p|Miami Heat|84|100|10|15|L 1|False|False|0|201412210MIA
+26|26|Tue, Dec 23, 2014|7:00p|Orlando Magic|95|100|10|16|L 2|False|False|0|201412230ORL
+27|27|Fri, Dec 26, 2014|1:00p|Brooklyn Nets|107|109|10|17|L 3|False|True|0|201412260BOS
+28|28|Sat, Dec 27, 2014|7:00p|Washington Wizards|88|101|10|18|L 4|False|False|0|201412270WAS
+29|29|Wed, Dec 31, 2014|1:00p|Sacramento Kings|106|84|11|18|W 1|True|True|0|201412310BOS
+30|30|Fri, Jan 2, 2015|7:30p|Dallas Mavericks|101|119|11|19|L 1|False|True|0|201501020BOS
+31|31|Sat, Jan 3, 2015|8:00p|Chicago Bulls|104|109|11|20|L 2|False|False|1|201501030CHI
+32|32|Mon, Jan 5, 2015|7:30p|Charlotte Hornets|95|104|11|21|L 3|False|True|0|201501050BOS
+33|33|Wed, Jan 7, 2015|7:30p|Brooklyn Nets|89|81|12|21|W 1|True|False|0|201501070BRK
+34|34|Fri, Jan 9, 2015|7:00p|Indiana Pacers|103|107|12|22|L 1|False|False|1|201501090IND
+35|35|Sat, Jan 10, 2015|7:30p|Toronto Raptors|96|109|12|23|L 2|False|False|0|201501100TOR
+36|36|Mon, Jan 12, 2015|7:30p|New Orleans Pelicans|108|100|13|23|W 1|True|True|0|201501120BOS
+37|37|Wed, Jan 14, 2015|8:00p|Atlanta Hawks|91|105|13|24|L 1|False|True|0|201501140BOS
+38|38|Fri, Jan 16, 2015|7:30p|Chicago Bulls|103|119|13|25|L 2|False|True|0|201501160BOS
+39|39|Mon, Jan 19, 2015|3:30p|Los Angeles Clippers|93|102|13|26|L 3|False|False|0|201501190LAC
+40|40|Thu, Jan 22, 2015|10:00p|Portland Trail Blazers|90|89|14|26|W 1|True|False|0|201501220POR
+41|41|Fri, Jan 23, 2015|9:00p|Denver Nuggets|100|99|15|26|W 2|True|False|0|201501230DEN
+42|42|Sun, Jan 25, 2015|8:00p|Golden State Warriors|111|114|15|27|L 1|False|False|0|201501250GSW
+43|43|Mon, Jan 26, 2015|9:00p|Utah Jazz|99|90|16|27|W 1|True|False|0|201501260UTA
+44|44|Wed, Jan 28, 2015|8:00p|Minnesota Timberwolves|98|110|16|28|L 1|False|False|0|201501280MIN
+45|45|Fri, Jan 30, 2015|7:30p|Houston Rockets|87|93|16|29|L 2|False|True|0|201501300BOS
+46|46|Sun, Feb 1, 2015|1:00p|Miami Heat|75|83|16|30|L 3|False|True|0|201502010BOS
+47|47|Tue, Feb 3, 2015|7:30p|New York Knicks|108|97|17|30|W 1|True|False|0|201502030NYK
+48|48|Wed, Feb 4, 2015|7:30p|Denver Nuggets|104|100|18|30|W 2|True|True|0|201502040BOS
+49|49|Fri, Feb 6, 2015|7:30p|Philadelphia 76ers|107|96|19|30|W 3|True|True|0|201502060BOS
+50|50|Sat, Feb 7, 2015|8:30p|Milwaukee Bucks|93|96|19|31|L 1|False|False|0|201502070MIL
+51|51|Wed, Feb 11, 2015|7:30p|Atlanta Hawks|89|88|20|31|W 1|True|True|0|201502110BOS
+52|52|Fri, Feb 20, 2015|10:00p|Sacramento Kings|101|109|20|32|L 1|False|False|0|201502200SAC
+53|53|Sun, Feb 22, 2015|9:30p|Los Angeles Lakers|111|118|20|33|L 2|False|False|1|201502220LAL
+54|54|Mon, Feb 23, 2015|9:00p|Phoenix Suns|115|110|21|33|W 1|True|False|0|201502230PHO
+55|55|Wed, Feb 25, 2015|7:30p|New York Knicks|115|94|22|33|W 2|True|True|0|201502250BOS
+56|56|Fri, Feb 27, 2015|7:30p|Charlotte Hornets|106|98|23|33|W 3|True|True|0|201502270BOS
+57|57|Sun, Mar 1, 2015|6:00p|Golden State Warriors|101|106|23|34|L 1|False|True|0|201503010BOS
+58|58|Tue, Mar 3, 2015|7:00p|Cleveland Cavaliers|79|110|23|35|L 2|False|False|0|201503030CLE
+59|59|Wed, Mar 4, 2015|7:30p|Utah Jazz|85|84|24|35|W 1|True|True|0|201503040BOS
+60|60|Fri, Mar 6, 2015|8:00p|New Orleans Pelicans|104|98|25|35|W 2|True|False|0|201503060NOP
+61|61|Sun, Mar 8, 2015|6:00p|Orlando Magic|98|103|25|36|L 1|False|False|0|201503080ORL
+62|62|Mon, Mar 9, 2015|7:30p|Miami Heat|100|90|26|36|W 1|True|False|0|201503090MIA
+63|63|Wed, Mar 11, 2015|7:30p|Memphis Grizzlies|95|92|27|36|W 2|True|True|0|201503110BOS
+64|64|Fri, Mar 13, 2015|7:30p|Orlando Magic|95|88|28|36|W 3|True|True|0|201503130BOS
+65|65|Sat, Mar 14, 2015|7:00p|Indiana Pacers|93|89|29|36|W 4|True|False|0|201503140IND
+66|66|Mon, Mar 16, 2015|7:30p|Philadelphia 76ers|108|89|30|36|W 5|True|True|0|201503160BOS
+67|67|Wed, Mar 18, 2015|8:00p|Oklahoma City Thunder|118|122|30|37|L 1|False|False|0|201503180OKC
+68|68|Fri, Mar 20, 2015|8:30p|San Antonio Spurs|89|101|30|38|L 2|False|False|0|201503200SAS
+69|69|Sun, Mar 22, 2015|6:00p|Detroit Pistons|97|105|30|39|L 3|False|True|1|201503220BOS
+70|70|Mon, Mar 23, 2015|7:30p|Brooklyn Nets|110|91|31|39|W 1|True|False|0|201503230BRK
+71|71|Wed, Mar 25, 2015|7:30p|Miami Heat|86|93|31|40|L 1|False|True|0|201503250BOS
+72|72|Fri, Mar 27, 2015|7:30p|New York Knicks|96|92|32|40|W 1|True|False|0|201503270NYK
+73|73|Sun, Mar 29, 2015|6:00p|Los Angeles Clippers|106|119|32|41|L 1|False|True|0|201503290BOS
+74|74|Mon, Mar 30, 2015|7:00p|Charlotte Hornets|116|104|33|41|W 1|True|False|0|201503300CHO
+75|75|Wed, Apr 1, 2015|7:30p|Indiana Pacers|100|87|34|41|W 2|True|True|0|201504010BOS
+76|76|Fri, Apr 3, 2015|7:30p|Milwaukee Bucks|101|110|34|42|L 1|False|True|0|201504030BOS
+77|77|Sat, Apr 4, 2015|7:30p|Toronto Raptors|117|116|35|42|W 1|True|False|1|201504040TOR
+78|78|Wed, Apr 8, 2015|7:00p|Detroit Pistons|113|103|36|42|W 2|True|False|0|201504080DET
+79|79|Fri, Apr 10, 2015|7:30p|Cleveland Cavaliers|99|90|37|42|W 3|True|False|0|201504100CLE
+80|80|Sun, Apr 12, 2015|3:00p|Cleveland Cavaliers|117|78|38|42|W 4|True|True|0|201504120BOS
+81|81|Tue, Apr 14, 2015|7:30p|Toronto Raptors|95|93|39|42|W 5|True|True|0|201504140BOS
+82|82|Wed, Apr 15, 2015|8:00p|Milwaukee Bucks|105|100|40|42|W 6|True|False|0|201504150MIL

@@ -1,0 +1,69 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Thu, Nov 3, 1949||Sheboygan Red Skins|83|98|0|1|L 1|False|False|0|194911030SHE
+2|2|Sat, Nov 5, 1949||Chicago Stags|70|86|0|2|L 2|False|False|0|194911050CHS
+3|3|Sun, Nov 6, 1949||Waterloo Hawks|66|80|0|3|L 3|False|False|0|194911060WAT
+4|4|Thu, Nov 10, 1949||Minneapolis Lakers|84|98|0|4|L 4|False|True|0|194911100BOS
+5|5|Sat, Nov 12, 1949||Washington Capitols|76|68|1|4|W 1|True|False|0|194911120WSC
+6|6|Tue, Nov 15, 1949||Baltimore Bullets|76|81|1|5|L 1|False|True|0|194911150BOS
+7|7|Wed, Nov 16, 1949||Philadelphia Warriors|80|93|1|6|L 2|False|False|0|194911160PHW
+8|8|Thu, Nov 17, 1949||Indianapolis Olympians|90|68|2|6|W 1|True|True|0|194911170BOS
+9|9|Sat, Nov 19, 1949||Baltimore Bullets|91|82|3|6|W 2|True|False|0|194911190BLB
+10|10|Sun, Nov 20, 1949||Fort Wayne Pistons|89|99|3|7|L 1|False|False|0|194911200FTW
+11|11|Mon, Nov 21, 1949||Anderson Packers|99|85|4|7|W 1|True|False|0|194911210AND
+12|12|Tue, Nov 22, 1949||Tri-Cities Blackhawks|72|80|4|8|L 1|False|False|0|194911220TRI
+13|13|Thu, Nov 24, 1949||Fort Wayne Pistons|85|99|4|9|L 2|False|True|0|194911240BOS
+14|14|Sat, Nov 26, 1949||New York Knicks|84|96|4|10|L 3|False|False|0|194911260NYK
+15|15|Wed, Nov 30, 1949||Syracuse Nationals|71|87|4|11|L 4|False|True|0|194911300BOS
+16|16|Sat, Dec 3, 1949||Tri-Cities Blackhawks|82|87|4|12|L 5|False|False|0|194912030TRI
+17|17|Sun, Dec 4, 1949||St. Louis Bombers|76|85|4|13|L 6|False|False|0|194912040STB
+18|18|Tue, Dec 6, 1949||Indianapolis Olympians|82|93|4|14|L 7|False|False|0|194912060INO
+19|19|Thu, Dec 8, 1949||Philadelphia Warriors|91|87|5|14|W 1|True|True|0|194912080BOS
+20|20|Sat, Dec 10, 1949||Sheboygan Red Skins|83|78|6|14|W 2|True|True|0|194912100BOS
+21|21|Thu, Dec 15, 1949||St. Louis Bombers|83|81|7|14|W 3|True|True|0|194912150BOS
+22|22|Sun, Dec 18, 1949||Minneapolis Lakers|72|77|7|15|L 1|False|False|0|194912180MNL
+23|23|Thu, Dec 22, 1949||Minneapolis Lakers|87|69|8|15|W 1|True|True|0|194912220BOS
+24|24|Fri, Dec 23, 1949||Washington Capitols|73|86|8|16|L 1|False|False|0|194912230WSC
+25|25|Sun, Dec 25, 1949||Rochester Royals|79|88|8|17|L 2|False|False|0|194912250ROC
+26|26|Mon, Dec 26, 1949||Baltimore Bullets|82|57|9|17|W 1|True|True|0|194912260BLB
+27|27|Tue, Dec 27, 1949||New York Knicks|97|78|10|17|W 2|True|True|0|194912270BOS
+28|28|Fri, Dec 30, 1949||Fort Wayne Pistons|92|73|11|17|W 3|True|True|0|194912300BOS
+29|29|Sun, Jan 1, 1950||Fort Wayne Pistons|72|80|11|18|L 1|False|False|0|195001010FTW
+30|30|Wed, Jan 4, 1950||St. Louis Bombers|68|72|11|19|L 2|False|False|0|195001040STB
+31|31|Fri, Jan 6, 1950||Baltimore Bullets|74|53|12|19|W 1|True|True|0|195001060BOS
+32|32|Sun, Jan 8, 1950||Minneapolis Lakers|80|85|12|20|L 1|False|False|1|195001080MNL
+33|33|Tue, Jan 10, 1950||Denver Nuggets|97|84|13|20|W 1|True|False|0|195001100DNN
+34|34|Fri, Jan 13, 1950||Chicago Stags|76|77|13|21|L 1|False|True|0|195001130BOS
+35|35|Sat, Jan 14, 1950||New York Knicks|80|82|13|22|L 2|False|False|0|195001140NYK
+36|36|Tue, Jan 17, 1950||Minneapolis Lakers|79|105|13|23|L 3|False|True|0|195001170BOS
+37|37|Wed, Jan 18, 1950||Philadelphia Warriors|86|94|13|24|L 4|False|False|0|195001180PHW
+38|38|Thu, Jan 19, 1950||Philadelphia Warriors|86|63|14|24|W 1|True|True|0|195001190BOS
+39|39|Sun, Jan 22, 1950||St. Louis Bombers|47|71|14|25|L 1|False|False|0|195001220STB
+40|40|Thu, Jan 26, 1950||Fort Wayne Pistons|89|68|15|25|W 1|True|True|0|195001260BOS
+41|41|Sat, Jan 28, 1950||Rochester Royals|75|82|15|26|L 1|False|False|0|195001280ROC
+42|42|Tue, Jan 31, 1950||Rochester Royals|72|85|15|27|L 2|False|True|0|195001310BOS
+43|43|Wed, Feb 1, 1950||Chicago Stags|76|78|15|28|L 3|False|True|0|195002010BOS
+44|44|Fri, Feb 3, 1950||Anderson Packers|106|98|16|28|W 1|True|True|0|195002030BOS
+45|45|Sat, Feb 4, 1950||Waterloo Hawks|100|82|17|28|W 2|True|True|0|195002040BOS
+46|46|Sun, Feb 5, 1950||Chicago Stags|70|77|17|29|L 1|False|True|0|195002050BOS
+47|47|Tue, Feb 7, 1950||Chicago Stags|86|91|17|30|L 2|False|True|0|195002070BOS
+48|48|Fri, Feb 10, 1950||St. Louis Bombers|89|79|18|30|W 1|True|True|0|195002100BOS
+49|49|Sun, Feb 12, 1950||Minneapolis Lakers|70|88|18|31|L 1|False|False|0|195002120MNL
+50|50|Tue, Feb 14, 1950||Denver Nuggets|78|84|18|32|L 2|False|True|0|195002140BOS
+51|51|Wed, Feb 15, 1950||Fort Wayne Pistons|78|84|18|33|L 3|False|False|0|195002150FTW
+52|52|Fri, Feb 17, 1950||Rochester Royals|73|81|18|34|L 4|False|True|0|195002170BOS
+53|53|Sat, Feb 18, 1950||Rochester Royals|73|94|18|35|L 5|False|True|0|195002180BOS
+54|54|Thu, Feb 23, 1950||Philadelphia Warriors|82|77|19|35|W 1|True|True|0|195002230BOS
+55|55|Fri, Feb 24, 1950||Washington Capitols|89|74|20|35|W 2|True|True|0|195002240BOS
+56|56|Sat, Feb 25, 1950||Baltimore Bullets|82|66|21|35|W 3|True|False|0|195002250BLB
+57|57|Mon, Feb 27, 1950||Chicago Stags|77|79|21|36|L 1|False|True|0|195002270BOS
+58|58|Wed, Mar 1, 1950||Philadelphia Warriors|64|77|21|37|L 2|False|False|0|195003010PHW
+59|59|Thu, Mar 2, 1950||New York Knicks|72|81|21|38|L 3|False|True|0|195003020BOS
+60|60|Sat, Mar 4, 1950||Washington Capitols|75|95|21|39|L 4|False|False|0|195003040WSC
+61|61|Tue, Mar 7, 1950||Washington Capitols|75|64|22|39|W 1|True|True|0|195003070BOS
+62|62|Thu, Mar 9, 1950||Rochester Royals|59|78|22|40|L 1|False|False|0|195003090ROC
+63|63|Fri, Mar 10, 1950||Washington Capitols|66|76|22|41|L 2|False|True|0|195003100BOS
+64|64|Sat, Mar 11, 1950||Baltimore Bullets|75|79|22|42|L 3|False|False|0|195003110BLB
+65|65|Sun, Mar 12, 1950||Syracuse Nationals|72|96|22|43|L 4|False|False|0|195003120SYR
+66|66|Tue, Mar 14, 1950||St. Louis Bombers|76|86|22|44|L 5|False|True|0|195003140BOS
+67|67|Wed, Mar 15, 1950||New York Knicks|84|88|22|45|L 6|False|False|1|195003150NYK
+68|68|Fri, Mar 17, 1950||New York Knicks|96|98|22|46|L 7|False|True|2|195003170BOS

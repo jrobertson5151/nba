@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Fri, Oct 25, 1985||Portland Trail Blazers|123|128|0|1|L 1|False|False|1|198510250POR
+2|2|Tue, Oct 29, 1985||Denver Nuggets|127|142|0|2|L 2|False|True|0|198510290PHO
+3|3|Thu, Oct 31, 1985||Los Angeles Lakers|107|144|0|3|L 3|False|True|0|198510310PHO
+4|4|Fri, Nov 1, 1985||Utah Jazz|110|121|0|4|L 4|False|False|0|198511010UTA
+5|5|Wed, Nov 6, 1985||Atlanta Hawks|106|114|0|5|L 5|False|True|0|198511060PHO
+6|6|Fri, Nov 8, 1985||Boston Celtics|101|125|0|6|L 6|False|False|0|198511080BOS
+7|7|Sat, Nov 9, 1985||Indiana Pacers|105|127|0|7|L 7|False|False|0|198511090IND
+8|8|Tue, Nov 12, 1985||New York Knicks|93|103|0|8|L 8|False|False|0|198511120NYK
+9|9|Wed, Nov 13, 1985||Atlanta Hawks|101|108|0|9|L 9|False|False|0|198511130ATL
+10|10|Fri, Nov 15, 1985||Seattle SuperSonics|117|99|1|9|W 1|True|True|0|198511150PHO
+11|11|Sat, Nov 16, 1985||Golden State Warriors|105|118|1|10|L 1|False|False|0|198511160GSW
+12|12|Tue, Nov 19, 1985||Dallas Mavericks|119|123|1|11|L 2|False|False|0|198511190DAL
+13|13|Wed, Nov 20, 1985||San Antonio Spurs|121|100|2|11|W 1|True|True|0|198511200PHO
+14|14|Fri, Nov 22, 1985||New Jersey Nets|96|104|2|12|L 1|False|True|0|198511220PHO
+15|15|Sun, Nov 24, 1985||Milwaukee Bucks|138|140|2|13|L 2|False|True|1|198511240PHO
+16|16|Tue, Nov 26, 1985||Sacramento Kings|107|111|2|14|L 3|False|False|0|198511260SAC
+17|17|Wed, Nov 27, 1985||Portland Trail Blazers|93|110|2|15|L 4|False|True|0|198511270PHO
+18|18|Fri, Nov 29, 1985||Houston Rockets|126|110|3|15|W 1|True|True|0|198511290PHO
+19|19|Tue, Dec 3, 1985||Houston Rockets|112|118|3|16|L 1|False|False|0|198512030HOU
+20|20|Wed, Dec 4, 1985||Chicago Bulls|100|99|4|16|W 1|True|True|0|198512040PHO
+21|21|Fri, Dec 6, 1985||Utah Jazz|111|92|5|16|W 2|True|True|0|198512060PHO
+22|22|Wed, Dec 11, 1985||Golden State Warriors|123|113|6|16|W 3|True|False|0|198512110GSW
+23|23|Thu, Dec 12, 1985||Los Angeles Lakers|102|127|6|17|L 1|False|False|0|198512120LAL
+24|24|Sat, Dec 14, 1985||Los Angeles Clippers|114|92|7|17|W 1|True|False|0|198512140LAC
+25|25|Tue, Dec 17, 1985||Seattle SuperSonics|104|99|8|17|W 2|True|False|0|198512170SEA
+26|26|Thu, Dec 19, 1985||Sacramento Kings|107|106|9|17|W 3|True|True|0|198512190PHO
+27|27|Sat, Dec 21, 1985||Golden State Warriors|115|98|10|17|W 4|True|True|0|198512210PHO
+28|28|Thu, Dec 26, 1985||Dallas Mavericks|98|105|10|18|L 1|False|True|0|198512260PHO
+29|29|Sat, Dec 28, 1985||Philadelphia 76ers|98|100|10|19|L 2|False|True|0|198512280PHO
+30|30|Fri, Jan 3, 1986||Portland Trail Blazers|104|133|10|20|L 3|False|False|0|198601030POR
+31|31|Mon, Jan 6, 1986||Seattle SuperSonics|114|97|11|20|W 1|True|False|0|198601060SEA
+32|32|Wed, Jan 8, 1986||Washington Bullets|109|97|12|20|W 2|True|True|0|198601080PHO
+33|33|Fri, Jan 10, 1986||Dallas Mavericks|104|117|12|21|L 1|False|False|0|198601100DAL
+34|34|Sat, Jan 11, 1986||Indiana Pacers|128|99|13|21|W 1|True|True|0|198601110PHO
+35|35|Mon, Jan 13, 1986||San Antonio Spurs|121|98|14|21|W 2|True|True|0|198601130PHO
+36|36|Tue, Jan 14, 1986||Los Angeles Lakers|122|143|14|22|L 1|False|False|0|198601140LAL
+37|37|Fri, Jan 17, 1986||Seattle SuperSonics|103|100|15|22|W 1|True|True|0|198601170PHO
+38|38|Sat, Jan 18, 1986||Portland Trail Blazers|87|112|15|23|L 1|False|False|0|198601180POR
+39|39|Mon, Jan 20, 1986||Cleveland Cavaliers|93|108|15|24|L 2|False|False|0|198601200CLE
+40|40|Wed, Jan 22, 1986||Philadelphia 76ers|111|118|15|25|L 3|False|False|0|198601220PHI
+41|41|Thu, Jan 23, 1986||Washington Bullets|112|114|15|26|L 4|False|False|0|198601230WSB
+42|42|Sat, Jan 25, 1986||Chicago Bulls|114|133|15|27|L 5|False|False|0|198601250CHI
+43|43|Tue, Jan 28, 1986||Portland Trail Blazers|136|130|16|27|W 1|True|True|0|198601280PHO
+44|44|Wed, Jan 29, 1986||Los Angeles Clippers|118|108|17|27|W 2|True|False|0|198601290LAC
+45|45|Fri, Jan 31, 1986||New York Knicks|112|117|17|28|L 1|False|True|0|198601310PHO
+46|46|Sat, Feb 1, 1986||San Antonio Spurs|112|111|18|28|W 1|True|False|0|198602010SAS
+47|47|Tue, Feb 4, 1986||Golden State Warriors|127|118|19|28|W 2|True|True|0|198602040PHO
+48|48|Thu, Feb 6, 1986||Los Angeles Clippers|116|104|20|28|W 3|True|True|0|198602060PHO
+49|49|Tue, Feb 11, 1986||Los Angeles Clippers|112|120|20|29|L 1|False|False|0|198602110LAC
+50|50|Wed, Feb 12, 1986||Los Angeles Lakers|100|126|20|30|L 2|False|True|0|198602120PHO
+51|51|Fri, Feb 14, 1986||Denver Nuggets|112|95|21|30|W 1|True|True|0|198602140PHO
+52|52|Mon, Feb 17, 1986||Boston Celtics|108|101|22|30|W 2|True|True|0|198602170PHO
+53|53|Tue, Feb 18, 1986||San Antonio Spurs|114|120|22|31|L 1|False|False|0|198602180SAS
+54|54|Fri, Feb 21, 1986||Sacramento Kings|110|118|22|32|L 2|False|True|0|198602210PHO
+55|55|Sat, Feb 22, 1986||Utah Jazz|97|105|22|33|L 3|False|False|0|198602220UTA
+56|56|Tue, Feb 25, 1986||Denver Nuggets|99|112|22|34|L 4|False|False|0|198602250DEN
+57|57|Wed, Feb 26, 1986||Portland Trail Blazers|113|112|23|34|W 1|True|True|0|198602260PHO
+58|58|Fri, Feb 28, 1986||Los Angeles Lakers|103|115|23|35|L 1|False|False|0|198602280LAL
+59|59|Sat, Mar 1, 1986||Los Angeles Lakers|123|106|24|35|W 1|True|True|0|198603010PHO
+60|60|Mon, Mar 3, 1986||Dallas Mavericks|138|139|24|36|L 1|False|True|2|198603030PHO
+61|61|Wed, Mar 5, 1986||Cleveland Cavaliers|100|115|24|37|L 2|False|True|0|198603050PHO
+62|62|Fri, Mar 7, 1986||Utah Jazz|103|105|24|38|L 3|False|True|0|198603070PHO
+63|63|Sun, Mar 9, 1986|1:09p|New Jersey Nets|111|115|24|39|L 4|False|False|0|198603090NJN
+64|64|Mon, Mar 10, 1986||Detroit Pistons|120|109|25|39|W 1|True|False|0|198603100DET
+65|65|Wed, Mar 12, 1986||Milwaukee Bucks|127|126|26|39|W 2|True|False|1|198603120MIL
+66|66|Sun, Mar 16, 1986||Golden State Warriors|112|130|26|40|L 1|False|False|0|198603160GSW
+67|67|Tue, Mar 18, 1986||Houston Rockets|109|112|26|41|L 2|False|False|0|198603180HOU
+68|68|Wed, Mar 19, 1986||Sacramento Kings|108|104|27|41|W 1|True|True|0|198603190PHO
+69|69|Fri, Mar 21, 1986||Detroit Pistons|105|103|28|41|W 2|True|True|0|198603210PHO
+70|70|Sat, Mar 22, 1986||Utah Jazz|109|119|28|42|L 1|False|False|0|198603220UTA
+71|71|Wed, Mar 26, 1986||Seattle SuperSonics|120|107|29|42|W 1|True|True|0|198603260PHO
+72|72|Fri, Mar 28, 1986||Los Angeles Clippers|96|107|29|43|L 1|False|True|0|198603280PHO
+73|73|Sun, Mar 30, 1986||Seattle SuperSonics|89|103|29|44|L 2|False|False|0|198603300SEA
+74|74|Tue, Apr 1, 1986||Dallas Mavericks|98|128|29|45|L 3|False|False|0|198604010DAL
+75|75|Wed, Apr 2, 1986||Golden State Warriors|110|101|30|45|W 1|True|True|0|198604020PHO
+76|76|Fri, Apr 4, 1986||Houston Rockets|89|112|30|46|L 1|False|True|0|198604040PHO
+77|77|Sat, Apr 5, 1986||Sacramento Kings|100|119|30|47|L 2|False|False|0|198604050SAC
+78|78|Mon, Apr 7, 1986||Denver Nuggets|123|131|30|48|L 3|False|True|0|198604070PHO
+79|79|Wed, Apr 9, 1986||San Antonio Spurs|102|114|30|49|L 4|False|True|0|198604090PHO
+80|80|Thu, Apr 10, 1986||Denver Nuggets|113|115|30|50|L 5|False|False|0|198604100DEN
+81|81|Sat, Apr 12, 1986||Houston Rockets|110|92|31|50|W 1|True|False|0|198604120HOU
+82|82|Sun, Apr 13, 1986||Los Angeles Clippers|118|99|32|50|W 2|True|True|0|198604130PHO

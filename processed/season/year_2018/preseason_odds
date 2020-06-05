@@ -1,0 +1,31 @@
+|Team|Odds|W-L O/U|Result|franch_id
+0|Golden State Warriors|-168.0|62.5|57-25 (under)|GSW
+1|Boston Celtics|620.0|59.0|49-33 (under)|BOS
+2|Houston Rockets|1000.0|56.5|53-29 (under)|HOU
+3|Los Angeles Lakers|1800.0|48.5|37-45 (under)|LAL
+4|Toronto Raptors|1850.0|55.5|58-24 (over)|TOR
+5|Philadelphia 76ers|2000.0|53.5|51-31 (under)|PHI
+6|Oklahoma City Thunder|3800.0|48.5|49-33 (over)|OKC
+7|Milwaukee Bucks|10000.0|48.0|60-22 (over)|MIL
+8|New Orleans Pelicans|10000.0|45.5|33-49 (under)|NOH
+9|San Antonio Spurs|10000.0|43.5|48-34 (over)|SAS
+10|Utah Jazz|10000.0|49.5|50-32 (over)|UTA
+11|Washington Wizards|11000.0|45.5|32-50 (under)|WAS
+12|Indiana Pacers|12500.0|47.5|48-34 (over)|IND
+13|Denver Nuggets|20000.0|47.5|54-28 (over)|DEN
+14|Minnesota Timberwolves|25000.0|41.5|36-46 (under)|MIN
+15|Portland Trail Blazers|30000.0|42.0|53-29 (over)|POR
+16|Miami Heat|35000.0|43.0|39-43 (under)|MIA
+17|New York Knicks|35000.0|28.5|17-65 (under)|NYK
+18|Dallas Mavericks|35000.0|35.5|33-49 (under)|DAL
+19|Detroit Pistons|35000.0|38.5|41-41 (over)|DET
+21|Los Angeles Clippers|40000.0|37.0|48-34 (over)|LAC
+22|Chicago Bulls|50000.0|30.0|22-60 (under)|CHI
+23|Cleveland Cavaliers|50000.0|30.5|19-63 (under)|CLE
+24|Charlotte Hornets|50000.0|35.5|39-43 (over)|CHA
+25|Memphis Grizzlies|65000.0|34.5|33-49 (under)|MEM
+26|Orlando Magic|75000.0|31.0|42-40 (over)|ORL
+27|Phoenix Suns|75000.0|29.0|19-63 (under)|PHO
+28|Brooklyn Nets|125000.0|32.0|42-40 (over)|NJN
+29|Atlanta Hawks|150000.0|23.5|29-53 (over)|ATL
+30|Sacramento Kings|200000.0|26.0|39-43 (over)|SAC

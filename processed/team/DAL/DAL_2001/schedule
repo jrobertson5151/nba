@@ -1,0 +1,83 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Tue, Oct 30, 2001|8:30p|Detroit Pistons|94|87|1|0|W 1|True|True|0|200110300DAL
+2|2|Thu, Nov 1, 2001|7:00p|Philadelphia 76ers|99|92|2|0|W 2|True|False|0|200111010PHI
+3|3|Fri, Nov 2, 2001|7:00p|Toronto Raptors|92|109|2|1|L 1|False|False|0|200111020TOR
+4|4|Sun, Nov 4, 2001|3:00p|Memphis Grizzlies|94|85|3|1|W 1|True|False|0|200111040MEM
+5|5|Tue, Nov 6, 2001|8:30p|Charlotte Hornets|110|92|4|1|W 2|True|True|0|200111060DAL
+6|6|Thu, Nov 8, 2001|8:30p|Denver Nuggets|105|91|5|1|W 3|True|True|0|200111080DAL
+7|7|Sat, Nov 10, 2001|8:30p|Philadelphia 76ers|91|98|5|2|L 1|False|True|0|200111100DAL
+8|8|Wed, Nov 14, 2001|7:00p|Cleveland Cavaliers|107|94|6|2|W 1|True|False|0|200111140CLE
+9|9|Thu, Nov 15, 2001|7:30p|Detroit Pistons|89|115|6|3|L 1|False|False|0|200111150DET
+10|10|Sat, Nov 17, 2001|8:30p|Houston Rockets|87|124|6|4|L 2|False|False|0|200111170HOU
+11|11|Tue, Nov 20, 2001|8:30p|Seattle SuperSonics|97|105|6|5|L 3|False|True|0|200111200DAL
+12|12|Wed, Nov 21, 2001|7:00p|Charlotte Hornets|89|78|7|5|W 1|True|False|0|200111210CHH
+13|13|Fri, Nov 23, 2001|7:30p|Miami Heat|104|94|8|5|W 2|True|False|0|200111230MIA
+14|14|Sat, Nov 24, 2001|8:30p|Phoenix Suns|119|104|9|5|W 3|True|True|0|200111240DAL
+15|15|Tue, Nov 27, 2001|8:30p|Golden State Warriors|116|106|10|5|W 4|True|True|0|200111270DAL
+16|16|Thu, Nov 29, 2001|8:30p|Sacramento Kings|98|110|10|6|L 1|False|True|0|200111290DAL
+17|17|Sat, Dec 1, 2001|10:30p|Golden State Warriors|111|82|11|6|W 1|True|False|0|200112010GSW
+18|18|Sun, Dec 2, 2001|9:00p|Sacramento Kings|120|114|12|6|W 2|True|False|1|200112020SAC
+19|19|Wed, Dec 5, 2001|10:30p|Los Angeles Lakers|94|98|12|7|L 1|False|False|0|200112050LAL
+20|20|Sat, Dec 8, 2001|8:30p|Washington Wizards|95|102|12|8|L 2|False|True|0|200112080DAL
+21|21|Mon, Dec 10, 2001|9:00p|Utah Jazz|98|107|12|9|L 3|False|False|0|200112100UTA
+22|22|Tue, Dec 11, 2001|8:30p|Portland Trail Blazers|105|103|13|9|W 1|True|True|0|200112110DAL
+23|23|Thu, Dec 13, 2001|8:30p|Cleveland Cavaliers|102|82|14|9|W 2|True|True|0|200112130DAL
+24|24|Sat, Dec 15, 2001|8:30p|Minnesota Timberwolves|125|117|15|9|W 3|True|True|0|200112150DAL
+25|25|Tue, Dec 18, 2001|8:00p|Minnesota Timberwolves|107|103|16|9|W 4|True|False|0|200112180MIN
+26|26|Thu, Dec 20, 2001|8:30p|Milwaukee Bucks|113|101|17|9|W 5|True|True|0|200112200DAL
+27|27|Sat, Dec 22, 2001|8:30p|Orlando Magic|102|80|18|9|W 6|True|True|0|200112220DAL
+28|28|Wed, Dec 26, 2001|8:00p|San Antonio Spurs|126|123|19|9|W 7|True|False|1|200112260SAS
+29|29|Thu, Dec 27, 2001|8:30p|Chicago Bulls|89|74|20|9|W 8|True|True|0|200112270DAL
+30|30|Sat, Dec 29, 2001|8:30p|Atlanta Hawks|113|97|21|9|W 9|True|True|0|200112290DAL
+31|31|Wed, Jan 2, 2002|8:30p|Chicago Bulls|107|97|22|9|W 10|True|False|0|200201020CHI
+32|32|Thu, Jan 3, 2002|7:30p|New York Knicks|101|108|22|10|L 1|False|False|1|200201030NYK
+33|33|Sat, Jan 5, 2002|8:30p|San Antonio Spurs|103|105|22|11|L 2|False|True|0|200201050DAL
+34|34|Tue, Jan 8, 2002|8:30p|Denver Nuggets|95|94|23|11|W 1|True|True|0|200201080DAL
+35|35|Thu, Jan 10, 2002|9:00p|New York Knicks|111|89|24|11|W 2|True|True|0|200201100DAL
+36|36|Sat, Jan 12, 2002|8:30p|Indiana Pacers|111|102|25|11|W 3|True|True|0|200201120DAL
+37|37|Mon, Jan 14, 2002|7:30p|Orlando Magic|87|113|25|12|L 1|False|False|0|200201140ORL
+38|38|Tue, Jan 15, 2002|7:30p|Atlanta Hawks|116|107|26|12|W 1|True|False|0|200201150ATL
+39|39|Thu, Jan 17, 2002|8:00p|Memphis Grizzlies|108|97|27|12|W 2|True|False|0|200201170MEM
+40|40|Sat, Jan 19, 2002|9:00p|Utah Jazz|106|103|28|12|W 3|True|True|0|200201190DAL
+41|41|Mon, Jan 21, 2002|3:00p|New Jersey Nets|113|105|29|12|W 4|True|True|0|200201210DAL
+42|42|Tue, Jan 22, 2002|8:30p|Houston Rockets|113|107|30|12|W 5|True|False|0|200201220HOU
+43|43|Thu, Jan 24, 2002|9:00p|Denver Nuggets|104|97|31|12|W 6|True|False|0|200201240DEN
+44|44|Sat, Jan 26, 2002|10:30p|Los Angeles Clippers|133|112|32|12|W 7|True|False|0|200201260LAC
+45|45|Tue, Jan 29, 2002|8:00p|Los Angeles Clippers|100|117|32|13|L 1|False|True|0|200201290DAL
+46|46|Thu, Jan 31, 2002|9:00p|Houston Rockets|95|91|33|13|W 1|True|True|0|200201310DAL
+47|47|Sun, Feb 3, 2002|2:30p|Los Angeles Lakers|94|101|33|14|L 1|False|True|0|200202030DAL
+48|48|Tue, Feb 5, 2002|8:00p|Indiana Pacers|141|140|34|14|W 1|True|False|2|200202050IND
+49|49|Wed, Feb 6, 2002|7:30p|New Jersey Nets|112|100|35|14|W 2|True|False|0|200202060NJN
+50|50|Tue, Feb 12, 2002|10:00p|Seattle SuperSonics|112|106|36|14|W 3|True|False|0|200202120SEA
+51|51|Wed, Feb 13, 2002|10:00p|Portland Trail Blazers|103|114|36|15|L 1|False|False|0|200202130POR
+52|52|Sat, Feb 16, 2002|10:30p|Los Angeles Clippers|110|119|36|16|L 2|False|False|0|200202160LAC
+53|53|Sun, Feb 17, 2002|8:00p|Phoenix Suns|105|92|37|16|W 1|True|False|0|200202170PHO
+54|54|Tue, Feb 19, 2002|8:00p|Minnesota Timberwolves|100|117|37|17|L 1|False|True|0|200202190DAL
+55|55|Thu, Feb 21, 2002|8:30p|Boston Celtics|98|92|38|17|W 1|True|True|0|200202210DAL
+56|56|Sat, Feb 23, 2002|5:30p|Sacramento Kings|111|97|39|17|W 2|True|True|0|200202230DAL
+57|57|Tue, Feb 26, 2002|8:30p|Memphis Grizzlies|104|91|40|17|W 3|True|True|0|200202260DAL
+58|58|Sat, Mar 2, 2002|8:30p|Miami Heat|95|109|40|18|L 1|False|True|0|200203020DAL
+59|59|Sun, Mar 3, 2002|9:00p|Denver Nuggets|116|110|41|18|W 1|True|False|1|200203030DEN
+60|60|Tue, Mar 5, 2002|8:30p|Phoenix Suns|81|77|42|18|W 2|True|True|0|200203050DAL
+61|61|Thu, Mar 7, 2002|9:00p|Toronto Raptors|122|103|43|18|W 3|True|True|0|200203070DAL
+62|62|Sat, Mar 9, 2002|8:30p|Golden State Warriors|107|105|44|18|W 4|True|True|0|200203090DAL
+63|63|Mon, Mar 11, 2002|8:30p|Seattle SuperSonics|119|108|45|18|W 5|True|True|0|200203110DAL
+64|64|Thu, Mar 14, 2002|10:00p|Portland Trail Blazers|106|132|45|19|L 1|False|False|0|200203140POR
+65|65|Sat, Mar 16, 2002|10:30p|Golden State Warriors|117|100|46|19|W 1|True|False|0|200203160GSW
+66|66|Sun, Mar 17, 2002|9:30p|Los Angeles Lakers|103|105|46|20|L 1|False|False|0|200203170LAL
+67|67|Tue, Mar 19, 2002|8:30p|Los Angeles Lakers|114|98|47|20|W 1|True|True|0|200203190DAL
+68|68|Thu, Mar 21, 2002|8:30p|San Antonio Spurs|102|105|47|21|L 1|False|True|0|200203210DAL
+69|69|Sat, Mar 23, 2002|8:30p|Memphis Grizzlies|111|100|48|21|W 1|True|True|0|200203230DAL
+70|70|Tue, Mar 26, 2002|8:00p|Milwaukee Bucks|112|106|49|21|W 2|True|False|1|200203260MIL
+71|71|Thu, Mar 28, 2002|8:00p|Minnesota Timberwolves|111|113|49|22|L 1|False|False|0|200203280MIN
+72|72|Fri, Mar 29, 2002|7:30p|Boston Celtics|108|82|50|22|W 1|True|False|0|200203290BOS
+73|73|Sun, Mar 31, 2002|3:00p|Washington Wizards|110|103|51|22|W 2|True|False|0|200203310WAS
+74|74|Thu, Apr 4, 2002|9:00p|Los Angeles Clippers|115|90|52|22|W 3|True|True|0|200204040DAL
+75|75|Sat, Apr 6, 2002|5:30p|San Antonio Spurs|87|89|52|23|L 1|False|False|0|200204060SAS
+76|76|Mon, Apr 8, 2002|9:00p|Utah Jazz|105|96|53|23|W 1|True|False|0|200204080UTA
+77|77|Tue, Apr 9, 2002|8:30p|Portland Trail Blazers|108|96|54|23|W 2|True|True|0|200204090DAL
+78|78|Thu, Apr 11, 2002|8:30p|Houston Rockets|95|98|54|24|L 1|False|True|1|200204110DAL
+79|79|Sat, Apr 13, 2002|8:00p|Seattle SuperSonics|116|99|55|24|W 1|True|False|0|200204130SEA
+80|80|Sun, Apr 14, 2002|9:00p|Sacramento Kings|113|100|56|24|W 2|True|False|0|200204140SAC
+81|81|Tue, Apr 16, 2002|8:30p|Utah Jazz|96|87|57|24|W 3|True|True|0|200204160DAL
+82|82|Wed, Apr 17, 2002|10:00p|Phoenix Suns|76|89|57|25|L 1|False|False|0|200204170PHO

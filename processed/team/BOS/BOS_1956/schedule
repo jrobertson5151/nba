@@ -1,0 +1,73 @@
+G|G|Date|Start (ET)|Opponent|Tm|Opp|W|L|Streak|Win|Home|Overtimes|game_id
+1|1|Sat, Oct 27, 1956||New York Knicks|115|112|1|0|W 1|True|False|0|195610270NYK
+2|2|Sat, Nov 3, 1956||New York Knicks|107|113|1|1|L 1|False|True|0|195611030BOS
+3|3|Sat, Nov 10, 1956||Minneapolis Lakers|117|110|2|1|W 1|True|True|0|195611100BOS
+4|4|Sun, Nov 11, 1956||Syracuse Nationals|94|83|3|1|W 2|True|False|0|195611110SYR
+5|5|Wed, Nov 14, 1956||Minneapolis Lakers|97|113|3|2|L 1|False|True|0|195611140BOS
+6|6|Thu, Nov 15, 1956||Fort Wayne Pistons|95|98|3|3|L 2|False|False|0|195611150FTW
+7|7|Sat, Nov 17, 1956||Rochester Royals|108|86|4|3|W 1|True|True|0|195611170BOS
+8|8|Sun, Nov 18, 1956||Rochester Royals|101|87|5|3|W 2|True|False|0|195611180ROC
+9|9|Wed, Nov 21, 1956||Philadelphia Warriors|95|83|6|3|W 3|True|True|0|195611210BOS
+10|10|Thu, Nov 22, 1956||Philadelphia Warriors|101|78|7|3|W 4|True|False|0|195611220PHW
+11|11|Sat, Nov 24, 1956||Syracuse Nationals|114|99|8|3|W 5|True|True|0|195611240BOS
+12|12|Tue, Nov 27, 1956||St. Louis Hawks|102|90|9|3|W 6|True|False|0|195611270STL
+13|13|Wed, Nov 28, 1956||Minneapolis Lakers|105|93|10|3|W 7|True|True|0|195611280BOS
+14|14|Fri, Nov 30, 1956||Fort Wayne Pistons|104|102|11|3|W 8|True|True|0|195611300BOS
+15|15|Sat, Dec 1, 1956||Fort Wayne Pistons|108|93|12|3|W 9|True|True|0|195612010BOS
+16|16|Tue, Dec 4, 1956||St. Louis Hawks|108|107|13|3|W 10|True|True|0|195612040BOS
+17|17|Thu, Dec 6, 1956||Philadelphia Warriors|111|113|13|4|L 1|False|False|0|195612060PHW
+18|18|Fri, Dec 7, 1956||Minneapolis Lakers|121|114|14|4|W 1|True|True|0|195612070BOS
+19|19|Sun, Dec 9, 1956||Syracuse Nationals|110|116|14|5|L 1|False|False|0|195612090SYR
+20|20|Tue, Dec 11, 1956||Fort Wayne Pistons|113|97|15|5|W 1|True|True|0|195612110BOS
+21|21|Wed, Dec 12, 1956||Rochester Royals|93|103|15|6|L 1|False|True|0|195612120BOS
+22|22|Sat, Dec 15, 1956||St. Louis Hawks|102|99|16|6|W 1|True|True|0|195612150BOS
+23|23|Sun, Dec 16, 1956||Philadelphia Warriors|104|116|16|7|L 1|False|True|0|195612160BOS
+24|24|Tue, Dec 18, 1956||New York Knicks|99|110|16|8|L 2|False|False|0|195612180NYK
+25|25|Sat, Dec 22, 1956||St. Louis Hawks|95|93|17|8|W 1|True|True|0|195612220BOS
+26|26|Sun, Dec 23, 1956||Fort Wayne Pistons|87|95|17|9|L 1|False|False|0|195612230FTW
+27|27|Tue, Dec 25, 1956||Philadelphia Warriors|82|89|17|10|L 2|False|True|0|195612250BOS
+28|28|Wed, Dec 26, 1956||Philadelphia Warriors|120|97|18|10|W 1|True|True|0|195612260BOS
+29|29|Thu, Dec 27, 1956||Rochester Royals|97|92|19|10|W 2|True|True|0|195612270BOS
+30|30|Sun, Dec 30, 1956||Syracuse Nationals|105|92|20|10|W 3|True|True|0|195612300BOS
+31|31|Tue, Jan 1, 1957||Philadelphia Warriors|100|87|21|10|W 4|True|True|0|195701010BOS
+32|32|Fri, Jan 4, 1957||Syracuse Nationals|106|116|21|11|L 1|False|True|0|195701040BOS
+33|33|Sun, Jan 6, 1957||Fort Wayne Pistons|118|92|22|11|W 1|True|True|0|195701060BOS
+34|34|Tue, Jan 8, 1957||New York Knicks|102|113|22|12|L 1|False|False|0|195701080NYK
+35|35|Thu, Jan 10, 1957||Fort Wayne Pistons|98|81|23|12|W 1|True|False|0|195701100FTW
+36|36|Sat, Jan 12, 1957||St. Louis Hawks|98|100|23|13|L 1|False|False|0|195701120STL
+37|37|Sun, Jan 13, 1957||Minneapolis Lakers|87|104|23|14|L 2|False|False|0|195701130MNL
+38|38|Fri, Jan 18, 1957||St. Louis Hawks|126|117|24|14|W 1|True|True|0|195701180BOS
+39|39|Sat, Jan 19, 1957||Rochester Royals|97|83|25|14|W 2|True|False|0|195701190ROC
+40|40|Sun, Jan 20, 1957||New York Knicks|114|78|26|14|W 3|True|True|0|195701200BOS
+41|41|Wed, Jan 23, 1957||Syracuse Nationals|140|108|27|14|W 4|True|True|0|195701230BOS
+42|42|Fri, Jan 25, 1957||Minneapolis Lakers|115|106|28|14|W 5|True|True|0|195701250BOS
+43|43|Sun, Jan 27, 1957||Philadelphia Warriors|107|87|29|14|W 6|True|False|0|195701270PHW
+44|44|Mon, Jan 28, 1957||Philadelphia Warriors|105|95|30|14|W 7|True|True|0|195701280BOS
+45|45|Tue, Jan 29, 1957||Minneapolis Lakers|103|91|31|14|W 8|True|True|0|195701290BOS
+46|46|Wed, Jan 30, 1957||Syracuse Nationals|116|119|31|15|L 1|False|True|0|195701300BOS
+47|47|Thu, Jan 31, 1957||Syracuse Nationals|104|105|31|16|L 2|False|False|0|195701310SYR
+48|48|Sat, Feb 2, 1957||New York Knicks|114|111|32|16|W 1|True|False|0|195702020NYK
+49|49|Sun, Feb 3, 1957||New York Knicks|116|98|33|16|W 2|True|True|0|195702030BOS
+50|50|Tue, Feb 5, 1957||Syracuse Nationals|105|101|34|16|W 3|True|True|0|195702050BOS
+51|51|Wed, Feb 6, 1957||Fort Wayne Pistons|108|93|35|16|W 4|True|True|0|195702060BOS
+52|52|Fri, Feb 8, 1957||New York Knicks|90|92|35|17|L 1|False|True|0|195702080BOS
+53|53|Sat, Feb 9, 1957||Rochester Royals|102|103|35|18|L 2|False|False|0|195702090ROC
+54|54|Sun, Feb 10, 1957||Philadelphia Warriors|103|98|36|18|W 1|True|True|1|195702100BOS
+55|55|Wed, Feb 13, 1957||Minneapolis Lakers|114|115|36|19|L 1|False|False|0|195702130MNL
+56|56|Thu, Feb 14, 1957||Fort Wayne Pistons|106|112|36|20|L 2|False|False|0|195702140FTW
+57|57|Fri, Feb 15, 1957||St. Louis Hawks|123|116|37|20|W 1|True|False|2|195702150STL
+58|58|Sun, Feb 17, 1957||Syracuse Nationals|106|116|37|21|L 1|False|False|0|195702170SYR
+59|59|Tue, Feb 19, 1957||New York Knicks|112|110|38|21|W 1|True|False|0|195702190NYK
+60|60|Thu, Feb 21, 1957||St. Louis Hawks|125|112|39|21|W 2|True|True|0|195702210BOS
+61|61|Fri, Feb 22, 1957||Philadelphia Warriors|109|117|39|22|L 1|False|False|0|195702220PHW
+62|62|Sun, Feb 24, 1957||New York Knicks|97|85|40|22|W 1|True|True|0|195702240BOS
+63|63|Tue, Feb 26, 1957||Rochester Royals|92|77|41|22|W 2|True|True|0|195702260BOS
+64|64|Thu, Feb 28, 1957||New York Knicks|121|122|41|23|L 1|False|True|1|195702280BOS
+65|65|Fri, Mar 1, 1957||Philadelphia Warriors|90|80|42|23|W 1|True|True|0|195703010BOS
+66|66|Sat, Mar 2, 1957||Rochester Royals|87|96|42|24|L 1|False|False|0|195703020ROC
+67|67|Sun, Mar 3, 1957||Rochester Royals|111|102|43|24|W 1|True|True|0|195703030BOS
+68|68|Tue, Mar 5, 1957||St. Louis Hawks|102|104|43|25|L 1|False|False|0|195703050STL
+69|69|Thu, Mar 7, 1957||Minneapolis Lakers|104|109|43|26|L 2|False|False|0|195703070MNL
+70|70|Sat, Mar 9, 1957||Syracuse Nationals|102|104|43|27|L 3|False|False|0|195703090SYR
+71|71|Sun, Mar 10, 1957||Syracuse Nationals|92|94|43|28|L 4|False|True|0|195703100BOS
+72|72|Wed, Mar 13, 1957||New York Knicks|122|91|44|28|W 1|True|True|0|195703130BOS
