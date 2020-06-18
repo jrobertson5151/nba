@@ -64,9 +64,7 @@ for(t in table_names){
   players_with_t <-  t_files %>%
     str_split('/') %>%
     map_chr(~.[[6]])
-  big_df <- bind_rows(map(1:length(t_files), 
-                          ~read_csv(t_files[.]) %>% 
-                            mutate(player_id = players_with_t[.])))
-  
+  player_file_read <- function(i) { a <- read_csv(t_files[i]); a$player_id = players_with_t[i]; a}
+  big_df <- bind_rows(map(1:length(t_files), ~player_file_read(.)))
 }
 

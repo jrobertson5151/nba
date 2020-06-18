@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pathlib
 import ipdb
+import traceback
 
 data_loc= str(pathlib.Path(__file__).parent.parent.absolute())+ '/data/processed'
 
@@ -27,8 +28,20 @@ def player_list():
     pl = pd.read_csv(data_loc+'/player_list', sep='|')
     return pl
 
+def player_ids():
+    return list(player_list()['player_id'])
+
 def player_totals(player_id):
     return player_df(player_id, 'totals')
 
 def team_list():
     return pd.read_csv(data_loc+'/team_list', sep='|')
+
+def franch_ids():
+    return list(team_list()['franch_id'])
+
+def schedule(team, year):
+    loc = data_loc+'/team/' + team + '/' + team + '_' + str(year) + '/schedule' 
+    df = pd.read_csv(loc, sep = '|')
+    df = df.drop(columns=['G.1'])
+    return df

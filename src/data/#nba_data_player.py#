@@ -31,6 +31,7 @@ def get_player_df(soup, id_name, playoffs = False):
     #df = df[df['Season'].str.contains('-')]
     filter_empty_columns = [col for col in df if col.startswith('Unnamed')]
     df = df.drop(filter_empty_columns, axis=1)
+    df = df.astype({'Tm' : ''})
 #    if id_name != 'all_salaries' and 'Tm' in df.columns:
 #        df = df[df['Tm'] != 'TOT']
     return df

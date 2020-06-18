@@ -11,7 +11,7 @@ def fgft():
             fg = totals['FG'].sum()
             fta = totals['FTA'].sum()
             ft = totals['FT'].sum()
-            pn = player_name(pi)\
+            pn = player_name(pi)
             l.append((pi, pn, fg, fga, ft, fta))
         except:
             print('no data for ' + pi)
